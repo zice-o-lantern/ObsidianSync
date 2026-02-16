@@ -1,0 +1,83 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "4 - Indexes",
+      "guid": "ca731937-5583-4aed-a2e2-d7d059042bf6",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "3 - Tags",
+      "guid": "c671d794-ee15-4587-b173-e5161b8174c2",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "6 - Zettelkastem/Exhibitionist Priest",
+      "guid": "2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "7 - Attachments",
+      "guid": "711f578c-1ce7-4eaf-84ce-ed491bbcf65b",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": true,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": true,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": true,
+  "enablePresenceAvatars": true,
+  "enableLiveEmbeds": true,
+  "enablePreviewViewHooks": true,
+  "enableMetadataViewHooks": true,
+  "enableKanbanView": true,
+  "debugging": false,
+  "login": {
+    "provider": "github"
+  },
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}

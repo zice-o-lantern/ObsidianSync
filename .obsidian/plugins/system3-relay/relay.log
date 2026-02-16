@@ -1,0 +1,2475 @@
+[2026-02-16T12:26:24.772Z] [LOG] [Bl]: Saving settings to disk: {
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "4 - Indexes",
+      "guid": "ca731937-5583-4aed-a2e2-d7d059042bf6",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "3 - Tags",
+      "guid": "c671d794-ee15-4587-b173-e5161b8174c2",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": "[Circular]"
+    },
+    {
+      "path": "6 - Zettelkastem/Exhibitionist Priest",
+      "guid": "2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": "[Circular]"
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": true,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": true,
+  "enablePresenceAvatars": true,
+  "enableLiveEmbeds": true,
+  "enablePreviewViewHooks": true,
+  "enableMetadataViewHooks": true,
+  "enableKanbanView": true,
+  "debugging": true,
+  "login": {
+    "provider": "github"
+  }
+}
+    at at Bl.save (plugin:system3-relay:45:22638)
+[2026-02-16T12:26:33.756Z] [DEBUG] [postie]: send n f=>t(4,o=f)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:35.994Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:35.995Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6 (4 - Indexes): 0 attempts, (expires in 11m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2 (3 - Tags): 0 attempts, (expires in 11m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:b8b05911-92cb-4cb6-b1bb-ad2dc17758fe (/Characters/God;Mad/Éric.md): 0 attempts, (expires in 11m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:e25153df-1ae1-4bad-94b7-81842a3e0b27 (/Exhibitionist Priest.md): 0 attempts, (expires in 11m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:e150c282-00cf-46e2-9dbd-310a5bc814f2 (/Characters/God;Mad/Winnie.md): 0 attempts, (expires in 11m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:872e3e65-7570-4dbe-8a9e-741452cf7062 (/Characters/God;Mad/André.md): 0 attempts, (expires in 11m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:f8ac1fea-4f0d-4a50-be67-868842b9320c (/Characters/God;Mad/Cosmic Beings/Chark.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:7ef50ccf-0b00-4720-b2c0-4e6af379674c (/Characters/God;Mad/Cesare.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:7be7dfd9-cfb1-4eb2-9278-5cbd90231945 (/Characters/God;Mad/Cosmic Beings/Charles.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5 (6 - Zettelkastem/Exhibitionist Priest): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:52769595-9ca6-48bd-83ff-84fa4bcc0378 (/Characters/God;Mad/Cosmic Beings/Shaïkhklan.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:f9a413c2-17cd-4bc1-8d8c-63b2f9932d86 (/Characters/God;Mad/Cosmic Beings/Exhibitionist Priest.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:c44af194-5585-422b-afcf-cea71e2b38a1 (/Characters/God;Mad/Jacques.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:af139208-14d8-4228-a31b-c147951db0c3 (/Characters/God;Mad/Joseph.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:5d1d59ed-367e-432b-a3e8-c567a3797b3f (/Characters/God;Mad/Kris.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:682d7acf-9515-4569-bf6e-c38c705cbff5 (/Characters/God;Mad/Marie-Jil.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:f3251711-ad05-4df3-ad8d-fe61ab8268ae (/Characters/God;Mad/Lucas.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:a9f15d23-1aad-4b1c-975b-e4c866ce3392 (/Characters/God;Mad/Wolfg.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:523031f7-1cd0-44f0-ba7d-74ce5be9f3e6 (/Characters/God;Mad/Nick.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:doc:2514a6de-ce28-4e6a-9881-d926f54bdf99 (/Overview English.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:2a71f964-969b-4ed1-871f-09dfdf20e6f1 (/bedroom.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:eade031a-a1f2-4d20-b95c-1243adfd1761 (/beach.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:c6772ddf-67b8-4b16-85da-15b5145ba399 (/beginnings.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:doc:7105184d-7ed1-4fbd-8053-c6ea9387fdec (/Overview.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:33648f26-f2ef-4c69-8ff1-25ddf552185b (/big.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:34b3d465-e769-4d5e-81a8-4ede7365e377 (/boredom.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:511b437b-7984-4f40-bedd-964355c8d7a5 (/boring.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:a00c6fb2-b77b-4775-8fa2-8a190ffd762d (/boring 1.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:1c470dfc-49c6-4645-ab55-634697d0bd58 (/cat.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:512fcb11-765c-449a-82be-18179434a785 (/cabin.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:94b73af2-6206-4fd1-863a-d5435164432a (/character.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:7a40a3ce-1ae2-4e1a-b17a-93907c6a8134 (/confrontation.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:6d2b9eb7-bddf-4330-aeae-8c89747c9342 (/cosmic.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:bdd4a502-678d-4da8-8877-1a79479b3f5f (/coyote.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:60b8eaf6-cca6-4f9c-8b6e-d9af9844c861 (/edgy.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:823a55d9-3f58-4089-9caf-827e1d04de29 (/dismissive.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:254e1306-9247-4bdc-b886-da642613b372 (/exhibitionism.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:c08968d0-93c6-409a-a3a7-b1774865ce1a (/fantastic.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:a357e21d-1acd-4bf9-9e76-e284fd41bf94 (/february.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:519e569b-9171-4182-b346-8371106f3a44 (/fingering.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:0c5ed07b-f9b5-4c9d-a8d8-690531562191 (/horror.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:fbe87714-8f71-4939-9d03-cc3a0dcad352 (/hyena.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:3541e5dd-158b-42ed-847a-ef2f91574e01 (/incipit.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:e79f0bf8-6ca3-428c-a825-f118099a4ca4 (/lycaon.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:2f2a38be-57ad-496f-be12-34f2b0d24b0c (/mystery.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:4cd72461-aec7-42d9-956a-131d67b7d42b (/meeting.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:ba111f0b-4a22-476d-b667-634d6e799f69 (/new beginnings.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:617be59d-5e06-4ecb-be80-9495064cbe72 (/phone.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:d6fdc217-da11-4aca-9169-4d974cb33659 (/otherwordly.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:bdee5555-9dd6-4a82-b9d7-120f41939a75 (/protagonist.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:cf21aba7-7cad-463d-8988-bd18307c8667 (/psychological.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:8b712f3b-26d1-4518-a2bf-634401957e3e (/punishment.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:41d8a209-ce67-4f71-93d8-58f399755de7 (/septembre.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:7e0c1c81-33b7-42b5-ad5a-91c859d9389a (/sexual assault.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:abd4d0be-db3f-41da-8b5f-3972c765a15d (/shirt.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:349eeae6-11cc-48d5-82e8-056b175a10f1 (/shy.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:ce54332a-d97d-453d-a7d0-c89428eec1b4 (/threat.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:1644c2f7-1f59-4975-bcaf-ee60bbe28495 (/skeleton.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:89da69c3-9fe1-4276-9db3-a8d60b892321 (/threats.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:c45bc693-3222-44e4-9711-e6ffa972010c (/unaffected.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:5dc56d16-190c-42c1-9b36-4cb64b598fe1 (/uneasy.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:c98719ef-3e88-4ee9-9228-ce648c14e36c (/voyeurism.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2:doc:05da1299-69df-422d-b5ac-baf0de6453ec (/week.md): 0 attempts, (expires in 12m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:44.205Z] [LOG] [Bl]: Saving settings to disk: {
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "4 - Indexes",
+      "guid": "ca731937-5583-4aed-a2e2-d7d059042bf6",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "3 - Tags",
+      "guid": "c671d794-ee15-4587-b173-e5161b8174c2",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": "[Circular]"
+    },
+    {
+      "path": "6 - Zettelkastem/Exhibitionist Priest",
+      "guid": "2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": "[Circular]"
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": true,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": true,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": true,
+  "enablePresenceAvatars": true,
+  "enableLiveEmbeds": true,
+  "enablePreviewViewHooks": true,
+  "enableMetadataViewHooks": true,
+  "enableKanbanView": true,
+  "debugging": true,
+  "login": {
+    "provider": "github"
+  }
+}
+    at at Bl.save (plugin:system3-relay:45:22638)
+[2026-02-16T12:26:44.220Z] [DEBUG] [postie]: send n f=>t(4,o=f)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.192Z] [DEBUG] [Patcher]: Starting cleanup of monkeypatches {
+  "count": 2
+}
+    at at Co.cleanup (plugin:system3-relay:54:45285)
+[2026-02-16T12:26:55.193Z] [DEBUG] [Patcher]: Cleaned up monkeypatch {
+  "index": 1,
+  "total": 2
+}
+    at at eval (plugin:system3-relay:54:45385)
+[2026-02-16T12:26:55.193Z] [DEBUG] [Patcher]: Cleaned up monkeypatch {
+  "index": 2,
+  "total": 2
+}
+    at at eval (plugin:system3-relay:54:45385)
+[2026-02-16T12:26:55.193Z] [LOG] [Patcher]: Completed cleanup of monkeypatches {
+  "cleanedCount": 2
+}
+    at at Co.cleanup (plugin:system3-relay:54:45628)
+[2026-02-16T12:26:55.194Z] [DEBUG] [LiveTokenStore]: stopping
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:55.258Z] [LOG] [System 3][Relay]: No active enterprise tenant configured, using defaults
+    at at au.validateEndpointsOnStartup (plugin:system3-relay:130:7262)
+[2026-02-16T12:26:55.259Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/auth-refresh {
+  "method": "POST",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.259Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records/7cm9jf7qvjo05mx {
+  "method": "GET",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.260Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.260Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.260Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.260Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.260Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.260Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.260Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.263Z] [LOG] [[SharedFile](4 - Indexes)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:26:55.263Z] [DEBUG] [LiveTokenStore]: getting token 4 - Indexes
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:55.264Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6
+    at at kI (plugin:system3-relay:34:5323)
+[2026-02-16T12:26:55.264Z] [LOG] [[SharedFile](3 - Tags)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:26:55.264Z] [DEBUG] [LiveTokenStore]: getting token 3 - Tags
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:55.265Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2
+    at at kI (plugin:system3-relay:34:5323)
+[2026-02-16T12:26:55.265Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:26:55.265Z] [DEBUG] [LiveTokenStore]: getting token 6 - Zettelkastem/Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:55.265Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5
+    at at kI (plugin:system3-relay:34:5323)
+[2026-02-16T12:26:55.265Z] [DEBUG] [LiveViews][[Shared Folders]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:26:55.267Z] [DEBUG] [LiveTokenStore]: starting
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:55.268Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:55.268Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:55.271Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "onUnloadFile"
+  ],
+  "patchCount": 1
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-02-16T12:26:55.271Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "process"
+  ],
+  "patchCount": 2
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-02-16T12:26:55.271Z] [WARN] [System 3][Relay]: Webviewer plugin not found or not initialized
+    at at au.patchWebviewer (plugin:system3-relay:134:5271)
+[2026-02-16T12:26:55.272Z] [DEBUG] [Wl]: starting
+    at at Wl.resume (plugin:system3-relay:45:51588)
+[2026-02-16T12:26:55.281Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.281Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.281Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.281Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.281Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.281Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.281Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.281Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.282Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.282Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.282Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.282Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.282Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.282Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send Al ()=>{this.loginManager.loggedIn?this.login():this.logout()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send Yl ()=>{this.refresh("[Shared Folders]"),this.folderListeners.forEach((l,c)=>{this.sharedFolders.has(c)||(l(),this.folderListeners.delete(c))}),this.sharedFolders.forEach(l=>{this.folderListeners.has(l)||this.folderListeners.set(l,a(l))})}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send er ()=>{r(this.getGroupProgress(t))}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send er ()=>{r(this.getGroupProgress(t))}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.282Z] [DEBUG] [postie]: send er ()=>{r(this.getGroupProgress(t))}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.283Z] [DEBUG] [postie]: send bn ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.283Z] [DEBUG] [postie]: send bn ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.283Z] [DEBUG] [postie]: send er ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.283Z] [DEBUG] [postie]: send Yl ()=>{this.sharedFolders.forEach(s=>{Py([Vo.enableDocumentStatus],()=>{this.offDocumentListeners.get(s)||this.offDocumentListeners.set(s,s.fset.on(()=>{this.refresh()}))}),s.whenReady().then(()=>{this.refresh()}),this.unsubscribes.push(s.syncSettingsManager.subscribe(i=>{this.quickRefresh()})),this.unsubscribes.push(s.subscribe(this,()=>{this.quickRefresh()})),this.unsubscribes.push(s.syncStore.subscribe(i=>{this.quickRefresh()}))}),this.refresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.283Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.284Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.284Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.284Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.284Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.284Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.287Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:26:55.288Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.289Z] [LOG] [[SharedFile](4 - Indexes)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-02-16T12:26:55.289Z] [LOG] [[SyncFolder](/Characters)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-02-16T12:26:55.289Z] [LOG] [[SharedFile](4 - Indexes)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-02-16T12:26:55.289Z] [LOG] [[SyncFolder](/Characters/God;Mad)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-02-16T12:26:55.289Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.289Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.290Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.290Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.290Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.290Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.290Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.291Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.291Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.291Z] [LOG] [[SharedFile](4 - Indexes)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-02-16T12:26:55.291Z] [LOG] [[SyncFolder](/Characters/God;Mad/Cosmic Beings)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-02-16T12:26:55.291Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.291Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.291Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.291Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.292Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.292Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.293Z] [DEBUG] [[SharedFile](4 - Indexes)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:26:55.293Z] [DEBUG] [Bl]: updated matches disk, no change
+    at at Bl.update (plugin:system3-relay:45:22948)
+[2026-02-16T12:26:55.294Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:26:55.294Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.294Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.294Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.294Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.294Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.294Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.295Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.295Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.295Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.295Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.295Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.295Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.295Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.295Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.295Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.296Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.296Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.296Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.296Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.296Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.296Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.296Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.297Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.297Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.297Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.297Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.297Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.297Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.297Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.298Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.298Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.298Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.298Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.298Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.298Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.298Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.298Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.299Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.299Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.299Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.299Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.299Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.299Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.300Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.300Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.301Z] [DEBUG] [[SharedFile](3 - Tags)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:26:55.301Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:26:55.301Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: place hold new /Outline.canvas
+    at at eval (plugin:system3-relay:51:3799)
+[2026-02-16T12:26:55.301Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.302Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:26:55.302Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at at Jl.getCanvas (plugin:system3-relay:51:1969)
+[2026-02-16T12:26:55.303Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:26:55.303Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:26:55.303Z] [DEBUG] [LiveTokenStore]: getting token 6 - Zettelkastem/Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:55.303Z] [DEBUG] [LiveViews][[Shared Folders]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:26:55.303Z] [DEBUG] [LiveViews][[Shared Folders]]: Ready Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:26:55.303Z] [DEBUG] [LiveViews][[Shared Folders]]: Attached Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:26:55.303Z] [DEBUG] [LiveViews][[Shared Folders]]: loading plugins
+    at at Ac._refreshViews (plugin:system3-relay:80:36400)
+[2026-02-16T12:26:55.305Z] [DEBUG] [LiveViews][[Shared Folders]]: refresh completed in 40ms [LiveViews][[Shared Folders]]
+    at at Ac._refreshViews (plugin:system3-relay:80:36462)
+[2026-02-16T12:26:55.306Z] [WARN] [Shared Folders]: refreshQueue size: 5
+    at at Ac.refresh (plugin:system3-relay:80:36769)
+[2026-02-16T12:26:55.306Z] [DEBUG] [LiveViews][[Shared Folder Ready]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:26:55.306Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:26:55.306Z] [DEBUG] [LiveTokenStore]: getting token 6 - Zettelkastem/Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:55.306Z] [DEBUG] [LiveViews][[Shared Folder Ready]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:26:55.306Z] [DEBUG] [kc]: connecting canvas view to canvas 6 - Zettelkastem/Exhibitionist Priest/Outline.canvas /Outline.canvas
+    at at kc.install (plugin:system3-relay:76:5826)
+[2026-02-16T12:26:55.306Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "e",
+  "methods": [
+    "requestSave",
+    "applyHistory"
+  ],
+  "patchCount": 3
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-02-16T12:26:55.315Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.315Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.315Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.315Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.315Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.315Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.315Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:26:55.315Z] [DEBUG] [postie]: send Hl ()=>{this.log("type registry change"),this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.315Z] [DEBUG] [postie]: send Kl async()=>{await this.syncFileTree(this.syncStore)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.315Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:26:55.315Z] [DEBUG] [postie]: send Hl ()=>{this.log("type registry change"),this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.316Z] [DEBUG] [postie]: send Kl async()=>{await this.syncFileTree(this.syncStore)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.316Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:26:55.316Z] [DEBUG] [postie]: send Hl ()=>{this.log("type registry change"),this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.316Z] [DEBUG] [postie]: send Kl async()=>{await this.syncFileTree(this.syncStore)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.317Z] [DEBUG] [[SharedFile](3 - Tags)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:26:55.317Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:26:55.317Z] [DEBUG] [[SharedFile](4 - Indexes)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:26:55.326Z] [DEBUG] [Bl]: updated matches disk, no change
+    at at Bl.update (plugin:system3-relay:45:22948)
+[2026-02-16T12:26:55.340Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.340Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.340Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.340Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.340Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.340Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.341Z] [DEBUG] [Bl]: updated matches disk, no change
+    at at Bl.update (plugin:system3-relay:45:22948)
+[2026-02-16T12:26:55.356Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [/Outline.canvas] No Known Peers: Syncing file into ytext.
+    at at eval (plugin:system3-relay:51:4985)
+[2026-02-16T12:26:55.360Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [/Outline.canvas] Uploading file
+    at at eval (plugin:system3-relay:51:5169)
+[2026-02-16T12:26:55.361Z] [DEBUG] [postie]: send er ()=>{r(this.getGroupProgress(t))}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.361Z] [DEBUG] [postie]: send er ()=>{r(this.getGroupProgress(t))}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.361Z] [DEBUG] [postie]: send er ()=>{r(this.getGroupProgress(t))}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.361Z] [DEBUG] [postie]: send er ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.423Z] [DEBUG] [LiveViews][[Docset]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:26:55.423Z] [DEBUG] [postie]: send Md ()=>{this.refresh("[Docset]")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.423Z] [DEBUG] [postie]: send Md ()=>{this.refresh("[Docset]")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.423Z] [DEBUG] [postie]: send Md ()=>{this.refresh("[Docset]")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.423Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:26:55.423Z] [DEBUG] [LiveTokenStore]: getting token 6 - Zettelkastem/Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:55.423Z] [DEBUG] [LiveViews][[Docset]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:26:55.423Z] [DEBUG] [kc]: connecting canvas view to canvas 6 - Zettelkastem/Exhibitionist Priest/Outline.canvas /Outline.canvas
+    at at kc.install (plugin:system3-relay:76:5826)
+[2026-02-16T12:26:55.424Z] [WARN] [Patcher]: Methods [requestSave, applyHistory] already patched on e, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-02-16T12:26:55.424Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-02-16T12:26:55.458Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "RDsoi8oQbIad7kuIJdbRHuE8IGsWmK3HUU91Y2bH",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.561Z] [LOG] [Al]: Token Refreshed
+    at at eval (plugin:system3-relay:33:12965)
+[2026-02-16T12:26:55.561Z] [LOG] [Al]: JWT Info: {
+  "expiresAt": "3/2/2026, 1:26:56 PM",
+  "expiresIn": "15 days",
+  "userId": "7cm9jf7qvjo05mx",
+  "email": "[REDACTED]"
+}
+    at at eval (plugin:system3-relay:33:12993)
+[2026-02-16T12:26:55.591Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.591Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.591Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.605Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "RDsoi8oQbIad7kuIJdbRHuE8IGsWmK3HUU91Y2bH",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/ucf81o72xemxzl0?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:26:55.698Z] [DEBUG] [su]: Fetching latest release from: https://api.github.com/repos/No-Instructions/Relay/releases/latest
+    at at su.fetchLatestRelease (plugin:system3-relay:127:3862)
+[2026-02-16T12:26:55.859Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.859Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.859Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:55.917Z] [LOG] [n]: applying server flags {
+  "enableEditorTweens": false,
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}
+    at at n.applyServerFlags (plugin:system3-relay:23:2881)
+[2026-02-16T12:26:55.918Z] [LOG] [Bl]: Saving settings to disk: {
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "4 - Indexes",
+      "guid": "ca731937-5583-4aed-a2e2-d7d059042bf6",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "3 - Tags",
+      "guid": "c671d794-ee15-4587-b173-e5161b8174c2",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "6 - Zettelkastem/Exhibitionist Priest",
+      "guid": "2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": true,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": true,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": true,
+  "enablePresenceAvatars": true,
+  "enableLiveEmbeds": true,
+  "enablePreviewViewHooks": true,
+  "enableMetadataViewHooks": true,
+  "enableKanbanView": true,
+  "debugging": true,
+  "login": {
+    "provider": "github"
+  },
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}
+    at at Bl.save (plugin:system3-relay:45:22638)
+[2026-02-16T12:26:55.956Z] [DEBUG] [su]: Fetching https://raw.githubusercontent.com/No-Instructions/Relay/main/manifest.json
+    at at su.fetchRepoManifest (plugin:system3-relay:127:5915)
+[2026-02-16T12:26:55.970Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.033Z] [DEBUG] [[SharedFile](4 - Indexes)]: [Provider State] 4 - Indexes {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing e25153df-1ae1-4bad-94b7-81842a3e0b27 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Exhibitionist Priest.md)]: [Provider State] /Exhibitionist Priest.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing b8b05911-92cb-4cb6-b1bb-ad2dc17758fe from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Éric.md)]: [Provider State] /Characters/God;Mad/Éric.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing e150c282-00cf-46e2-9dbd-310a5bc814f2 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Winnie.md)]: [Provider State] /Characters/God;Mad/Winnie.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing a9f15d23-1aad-4b1c-975b-e4c866ce3392 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Wolfg.md)]: [Provider State] /Characters/God;Mad/Wolfg.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing 523031f7-1cd0-44f0-ba7d-74ce5be9f3e6 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Nick.md)]: [Provider State] /Characters/God;Mad/Nick.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing f3251711-ad05-4df3-ad8d-fe61ab8268ae from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Lucas.md)]: [Provider State] /Characters/God;Mad/Lucas.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing 682d7acf-9515-4569-bf6e-c38c705cbff5 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Marie-Jil.md)]: [Provider State] /Characters/God;Mad/Marie-Jil.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing 5d1d59ed-367e-432b-a3e8-c567a3797b3f from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Kris.md)]: [Provider State] /Characters/God;Mad/Kris.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing af139208-14d8-4228-a31b-c147951db0c3 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Joseph.md)]: [Provider State] /Characters/God;Mad/Joseph.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing c44af194-5585-422b-afcf-cea71e2b38a1 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Jacques.md)]: [Provider State] /Characters/God;Mad/Jacques.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing 52769595-9ca6-48bd-83ff-84fa4bcc0378 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Cosmic Beings/Shaïkhklan.md)]: [Provider State] /Characters/God;Mad/Cosmic Beings/Shaïkhklan.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing 7be7dfd9-cfb1-4eb2-9278-5cbd90231945 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Cosmic Beings/Charles.md)]: [Provider State] /Characters/God;Mad/Cosmic Beings/Charles.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing f9a413c2-17cd-4bc1-8d8c-63b2f9932d86 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Cosmic Beings/Exhibitionist Priest.md)]: [Provider State] /Characters/God;Mad/Cosmic Beings/Exhibitionist Priest.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing f8ac1fea-4f0d-4a50-be67-868842b9320c from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Cosmic Beings/Chark.md)]: [Provider State] /Characters/God;Mad/Cosmic Beings/Chark.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing 7ef50ccf-0b00-4720-b2c0-4e6af379674c from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.034Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/Cesare.md)]: [Provider State] /Characters/God;Mad/Cesare.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.034Z] [DEBUG] [LiveTokenStore]: removing 872e3e65-7570-4dbe-8a9e-741452cf7062 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/Characters/God;Mad/André.md)]: [Provider State] /Characters/God;Mad/André.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedFile](3 - Tags)]: [Provider State] 3 - Tags {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 05da1299-69df-422d-b5ac-baf0de6453ec from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/week.md)]: [Provider State] /week.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing c98719ef-3e88-4ee9-9228-ce648c14e36c from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/voyeurism.md)]: [Provider State] /voyeurism.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing c45bc693-3222-44e4-9711-e6ffa972010c from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/unaffected.md)]: [Provider State] /unaffected.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 5dc56d16-190c-42c1-9b36-4cb64b598fe1 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/uneasy.md)]: [Provider State] /uneasy.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 89da69c3-9fe1-4276-9db3-a8d60b892321 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/threats.md)]: [Provider State] /threats.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing ce54332a-d97d-453d-a7d0-c89428eec1b4 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/threat.md)]: [Provider State] /threat.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 1644c2f7-1f59-4975-bcaf-ee60bbe28495 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/skeleton.md)]: [Provider State] /skeleton.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 349eeae6-11cc-48d5-82e8-056b175a10f1 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/shy.md)]: [Provider State] /shy.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing abd4d0be-db3f-41da-8b5f-3972c765a15d from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/shirt.md)]: [Provider State] /shirt.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 7e0c1c81-33b7-42b5-ad5a-91c859d9389a from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/sexual assault.md)]: [Provider State] /sexual assault.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 41d8a209-ce67-4f71-93d8-58f399755de7 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/septembre.md)]: [Provider State] /septembre.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 8b712f3b-26d1-4518-a2bf-634401957e3e from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/punishment.md)]: [Provider State] /punishment.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing cf21aba7-7cad-463d-8988-bd18307c8667 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/psychological.md)]: [Provider State] /psychological.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing bdee5555-9dd6-4a82-b9d7-120f41939a75 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/protagonist.md)]: [Provider State] /protagonist.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 617be59d-5e06-4ecb-be80-9495064cbe72 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/phone.md)]: [Provider State] /phone.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing d6fdc217-da11-4aca-9169-4d974cb33659 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/otherwordly.md)]: [Provider State] /otherwordly.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 2f2a38be-57ad-496f-be12-34f2b0d24b0c from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/mystery.md)]: [Provider State] /mystery.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing ba111f0b-4a22-476d-b667-634d6e799f69 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/new beginnings.md)]: [Provider State] /new beginnings.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 4cd72461-aec7-42d9-956a-131d67b7d42b from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/meeting.md)]: [Provider State] /meeting.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing e79f0bf8-6ca3-428c-a825-f118099a4ca4 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/lycaon.md)]: [Provider State] /lycaon.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 3541e5dd-158b-42ed-847a-ef2f91574e01 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/incipit.md)]: [Provider State] /incipit.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 0c5ed07b-f9b5-4c9d-a8d8-690531562191 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/horror.md)]: [Provider State] /horror.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing fbe87714-8f71-4939-9d03-cc3a0dcad352 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/hyena.md)]: [Provider State] /hyena.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing ce5785cc-1db9-4688-8328-c04b1b31e3a2 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/god.md)]: [Provider State] /god.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing 917de4e0-a1bb-4f4b-bc34-711f79d00b6d from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/guilty pleasure.md)]: [Provider State] /guilty pleasure.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.035Z] [DEBUG] [LiveTokenStore]: removing a357e21d-1acd-4bf9-9e76-e284fd41bf94 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.035Z] [DEBUG] [[SharedDoc](/february.md)]: [Provider State] /february.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing cf0dab43-08e1-44fc-b1bd-e3739346e7d7 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/glasses.md)]: [Provider State] /glasses.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 519e569b-9171-4182-b346-8371106f3a44 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/fingering.md)]: [Provider State] /fingering.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing c08968d0-93c6-409a-a3a7-b1774865ce1a from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/fantastic.md)]: [Provider State] /fantastic.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 254e1306-9247-4bdc-b886-da642613b372 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/exhibitionism.md)]: [Provider State] /exhibitionism.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 60b8eaf6-cca6-4f9c-8b6e-d9af9844c861 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/edgy.md)]: [Provider State] /edgy.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing bdd4a502-678d-4da8-8877-1a79479b3f5f from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/coyote.md)]: [Provider State] /coyote.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 823a55d9-3f58-4089-9caf-827e1d04de29 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/dismissive.md)]: [Provider State] /dismissive.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 7a40a3ce-1ae2-4e1a-b17a-93907c6a8134 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/confrontation.md)]: [Provider State] /confrontation.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 6d2b9eb7-bddf-4330-aeae-8c89747c9342 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/cosmic.md)]: [Provider State] /cosmic.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 1c470dfc-49c6-4645-ab55-634697d0bd58 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/cat.md)]: [Provider State] /cat.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 94b73af2-6206-4fd1-863a-d5435164432a from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/character.md)]: [Provider State] /character.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing a00c6fb2-b77b-4775-8fa2-8a190ffd762d from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/boring 1.md)]: [Provider State] /boring 1.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 512fcb11-765c-449a-82be-18179434a785 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/cabin.md)]: [Provider State] /cabin.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 511b437b-7984-4f40-bedd-964355c8d7a5 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/boring.md)]: [Provider State] /boring.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing c6772ddf-67b8-4b16-85da-15b5145ba399 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/beginnings.md)]: [Provider State] /beginnings.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 33648f26-f2ef-4c69-8ff1-25ddf552185b from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/big.md)]: [Provider State] /big.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 34b3d465-e769-4d5e-81a8-4ede7365e377 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/boredom.md)]: [Provider State] /boredom.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing 2a71f964-969b-4ed1-871f-09dfdf20e6f1 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/bedroom.md)]: [Provider State] /bedroom.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [LiveTokenStore]: removing eade031a-a1f2-4d20-b95c-1243adfd1761 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedDoc](/beach.md)]: [Provider State] /beach.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.036Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.037Z] [DEBUG] [LiveTokenStore]: removing 7105184d-7ed1-4fbd-8053-c6ea9387fdec from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.037Z] [DEBUG] [[SharedDoc](/Overview.md)]: [Provider State] /Overview.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.037Z] [DEBUG] [LiveTokenStore]: removing 2514a6de-ce28-4e6a-9881-d926f54bdf99 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.037Z] [DEBUG] [[SharedDoc](/Overview English.md)]: [Provider State] /Overview English.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.037Z] [DEBUG] [LiveTokenStore]: removing b9b93fb9-91ee-43d7-9b6e-bfc09c836933 from refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.037Z] [DEBUG] [[Canvas](/Outline.canvas)]: [Provider State] /Outline.canvas {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at n.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.037Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.037Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.037Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.037Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.037Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.037Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.037Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.155Z] [DEBUG] [su]: repo manifest {
+  "id": "system3-relay",
+  "name": "Relay",
+  "version": "0.7.4",
+  "minAppVersion": "0.15.0",
+  "description": "Collaborate in real time with live cursors. Create multiplayer folders and manage user access.",
+  "author": "System 3",
+  "authorUrl": "https://system3.md",
+  "fundingUrl": "https://www.buymeacoffee.com/dtkav",
+  "isDesktopOnly": false
+}
+    at at su.fetchLatestTagFromChannel (plugin:system3-relay:127:4278)
+[2026-02-16T12:26:56.162Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.162Z] [WARN] [Shared Folders]: refreshQueue size: 3
+    at at Ac.refresh (plugin:system3-relay:80:36769)
+[2026-02-16T12:26:56.162Z] [DEBUG] [LiveViews][[Shared Folders]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:26:56.163Z] [DEBUG] [postie]: send Yl ()=>{this.refresh("[Shared Folders]"),this.folderListeners.forEach((l,c)=>{this.sharedFolders.has(c)||(l(),this.folderListeners.delete(c))}),this.sharedFolders.forEach(l=>{this.folderListeners.has(l)||this.folderListeners.set(l,a(l))})}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.163Z] [DEBUG] [postie]: send Yl ()=>{this.sharedFolders.forEach(s=>{Py([Vo.enableDocumentStatus],()=>{this.offDocumentListeners.get(s)||this.offDocumentListeners.set(s,s.fset.on(()=>{this.refresh()}))}),s.whenReady().then(()=>{this.refresh()}),this.unsubscribes.push(s.syncSettingsManager.subscribe(i=>{this.quickRefresh()})),this.unsubscribes.push(s.subscribe(this,()=>{this.quickRefresh()})),this.unsubscribes.push(s.syncStore.subscribe(i=>{this.quickRefresh()}))}),this.refresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.163Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.163Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.163Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.163Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:26:56.164Z] [DEBUG] [LiveTokenStore]: getting token 6 - Zettelkastem/Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:56.164Z] [DEBUG] [LiveViews][[Shared Folders]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:26:56.164Z] [DEBUG] [kc]: connecting canvas view to canvas 6 - Zettelkastem/Exhibitionist Priest/Outline.canvas /Outline.canvas
+    at at kc.install (plugin:system3-relay:76:5826)
+[2026-02-16T12:26:56.164Z] [WARN] [Patcher]: Methods [requestSave, applyHistory] already patched on e, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-02-16T12:26:56.164Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-02-16T12:26:56.502Z] [LOG] [[SharedFile](4 - Indexes)]: Token Refreshed: setting new provider url, wss://y-sweet.net/p/toDc4mWLpGi8hpDoEnw/doc/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-ca731937-5583-4aed-a2e2-d7d059042bf6?token=[REDACTED]
+    at at Jl.refreshProvider (plugin:system3-relay:34:10184)
+[2026-02-16T12:26:56.502Z] [DEBUG] [[SharedFile](4 - Indexes)]: [Provider State] 4 - Indexes {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.503Z] [DEBUG] [[SharedFile](4 - Indexes)]: [Provider State] 4 - Indexes {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.635Z] [DEBUG] [[SharedFile](4 - Indexes)]: [Provider State] 4 - Indexes {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.661Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.661Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.661Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.661Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.661Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.661Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.661Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:26:56.949Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: Token Refreshed: setting new provider url, wss://y-sweet.net/p/toDc4mWLpGi8hpDoEnw/doc/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5?token=[REDACTED]
+    at at Jl.refreshProvider (plugin:system3-relay:34:10184)
+[2026-02-16T12:26:56.949Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.950Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.950Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.950Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.950Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:56.950Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:57.009Z] [LOG] [[SharedFile](3 - Tags)]: Token Refreshed: setting new provider url, wss://y-sweet.net/p/toDc4mWLpGi8hpDoEnw/doc/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-c671d794-ee15-4587-b173-e5161b8174c2?token=[REDACTED]
+    at at Jl.refreshProvider (plugin:system3-relay:34:10184)
+[2026-02-16T12:26:57.009Z] [DEBUG] [[SharedFile](3 - Tags)]: [Provider State] 3 - Tags {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:57.009Z] [DEBUG] [[SharedFile](3 - Tags)]: [Provider State] 3 - Tags {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:57.028Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:57.127Z] [DEBUG] [[SharedFile](3 - Tags)]: [Provider State] 3 - Tags {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:26:57.269Z] [LOG] [[Canvas](/Outline.canvas)]: get provider token
+    at at n.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:26:57.269Z] [DEBUG] [LiveTokenStore]: getting token /Outline.canvas
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:26:57.269Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:canvas:b9b93fb9-91ee-43d7-9b6e-bfc09c836933
+    at at kI (plugin:system3-relay:34:5323)
+[2026-02-16T12:26:57.288Z] [DEBUG] [postie]: send bn ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.224Z] [DEBUG] [LiveTokenStore]: new expiry time is 1771246621655
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:27:00.224Z] [LOG] [[Canvas](/Outline.canvas)]: Token Refreshed: setting new provider url, wss://y-sweet.net/p/toDc4mWLpGi8hpDoEnw/doc/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-b9b93fb9-91ee-43d7-9b6e-bfc09c836933?token=[REDACTED]
+    at at n.refreshProvider (plugin:system3-relay:34:10184)
+[2026-02-16T12:27:00.224Z] [DEBUG] [LiveTokenStore]: Token refreshed for /Outline.canvas (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:canvas:b9b93fb9-91ee-43d7-9b6e-bfc09c836933)
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:27:00.224Z] [DEBUG] [[Canvas](/Outline.canvas)]: [Provider State] /Outline.canvas {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at n.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:00.224Z] [DEBUG] [[Canvas](/Outline.canvas)]: [Provider State] /Outline.canvas {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at n.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:00.611Z] [LOG] [System 3][Relay]: No active enterprise tenant configured, using defaults
+    at at au.validateEndpointsOnStartup (plugin:system3-relay:130:7262)
+[2026-02-16T12:27:00.611Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/auth-refresh {
+  "method": "POST",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.611Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records/7cm9jf7qvjo05mx {
+  "method": "GET",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.612Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.612Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.612Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.612Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.612Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.612Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.612Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.632Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.632Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.632Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.632Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.632Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.632Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.633Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.633Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.633Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.633Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.633Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.633Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.633Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.633Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.633Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.633Z] [DEBUG] [postie]: send Al ()=>{this.loginManager.loggedIn?this.login():this.logout()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.677Z] [LOG] [[SharedFile](4 - Indexes)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:27:00.678Z] [DEBUG] [LiveTokenStore]: getting token 4 - Indexes
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:27:00.678Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6
+    at at kI (plugin:system3-relay:34:5323)
+[2026-02-16T12:27:00.678Z] [LOG] [[SharedFile](3 - Tags)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:27:00.678Z] [DEBUG] [LiveTokenStore]: getting token 3 - Tags
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:27:00.678Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:c671d794-ee15-4587-b173-e5161b8174c2
+    at at kI (plugin:system3-relay:34:5323)
+[2026-02-16T12:27:00.679Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-02-16T12:27:00.679Z] [DEBUG] [LiveTokenStore]: getting token 6 - Zettelkastem/Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:27:00.679Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5
+    at at kI (plugin:system3-relay:34:5323)
+[2026-02-16T12:27:00.679Z] [DEBUG] [LiveViews][[Shared Folders]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:27:00.681Z] [DEBUG] [LiveTokenStore]: starting
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:27:00.681Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:27:00.681Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:canvas:b9b93fb9-91ee-43d7-9b6e-bfc09c836933 (/Outline.canvas): 0 attempts, (expires in 25m)
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-16T12:27:00.684Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "onUnloadFile"
+  ],
+  "patchCount": 1
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-02-16T12:27:00.684Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "process"
+  ],
+  "patchCount": 2
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-02-16T12:27:00.684Z] [WARN] [System 3][Relay]: Webviewer plugin not found or not initialized
+    at at au.patchWebviewer (plugin:system3-relay:134:5271)
+[2026-02-16T12:27:00.684Z] [DEBUG] [Wl]: starting
+    at at Wl.resume (plugin:system3-relay:45:51588)
+[2026-02-16T12:27:00.684Z] [DEBUG] [LiveViews][[Shared Folders]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:27:00.684Z] [DEBUG] [LiveViews][init]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:27:00.684Z] [DEBUG] [LiveViews][init]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:27:00.689Z] [DEBUG] [su]: Fetching latest release from: https://api.github.com/repos/No-Instructions/Relay/releases/latest
+    at at su.fetchLatestRelease (plugin:system3-relay:127:3862)
+[2026-02-16T12:27:00.695Z] [DEBUG] [su]: Fetching https://raw.githubusercontent.com/No-Instructions/Relay/main/manifest.json
+    at at su.fetchRepoManifest (plugin:system3-relay:127:5915)
+[2026-02-16T12:27:00.696Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [LiveViews][[Shared Folders]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send Yl ()=>{this.refresh("[Shared Folders]"),this.folderListeners.forEach((l,c)=>{this.sharedFolders.has(c)||(l(),this.folderListeners.delete(c))}),this.sharedFolders.forEach(l=>{this.folderListeners.has(l)||this.folderListeners.set(l,a(l))})}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send er ()=>{r(this.getGroupProgress(t))}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send er ()=>{r(this.getGroupProgress(t))}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.697Z] [DEBUG] [postie]: send er ()=>{r(this.getGroupProgress(t))}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.698Z] [DEBUG] [postie]: send bn ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.698Z] [DEBUG] [postie]: send bn ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.698Z] [DEBUG] [postie]: send er ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.699Z] [DEBUG] [postie]: send Yl ()=>{this.sharedFolders.forEach(s=>{Py([Vo.enableDocumentStatus],()=>{this.offDocumentListeners.get(s)||this.offDocumentListeners.set(s,s.fset.on(()=>{this.refresh()}))}),s.whenReady().then(()=>{this.refresh()}),this.unsubscribes.push(s.syncSettingsManager.subscribe(i=>{this.quickRefresh()})),this.unsubscribes.push(s.subscribe(this,()=>{this.quickRefresh()})),this.unsubscribes.push(s.syncStore.subscribe(i=>{this.quickRefresh()}))}),this.refresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.699Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.699Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.699Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.699Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.699Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.699Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.699Z] [DEBUG] [LiveViews][[Shared Folders]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:27:00.702Z] [DEBUG] [su]: repo manifest {
+  "id": "system3-relay",
+  "name": "Relay",
+  "version": "0.7.4",
+  "minAppVersion": "0.15.0",
+  "description": "Collaborate in real time with live cursors. Create multiplayer folders and manage user access.",
+  "author": "System 3",
+  "authorUrl": "https://system3.md",
+  "fundingUrl": "https://www.buymeacoffee.com/dtkav",
+  "isDesktopOnly": false
+}
+    at at su.fetchLatestTagFromChannel (plugin:system3-relay:127:4278)
+[2026-02-16T12:27:00.703Z] [LOG] [[SharedFile](3 - Tags)]: Token Refreshed: setting new provider url, wss://y-sweet.net/p/toDc4mWLpGi8hpDoEnw/doc/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-c671d794-ee15-4587-b173-e5161b8174c2?token=[REDACTED]
+    at at Jl.refreshProvider (plugin:system3-relay:34:10184)
+[2026-02-16T12:27:00.704Z] [DEBUG] [[SharedFile](3 - Tags)]: [Provider State] 3 - Tags {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:00.704Z] [DEBUG] [[SharedFile](3 - Tags)]: [Provider State] 3 - Tags {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:00.704Z] [LOG] [[SharedFile](4 - Indexes)]: Token Refreshed: setting new provider url, wss://y-sweet.net/p/toDc4mWLpGi8hpDoEnw/doc/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-ca731937-5583-4aed-a2e2-d7d059042bf6?token=[REDACTED]
+    at at Jl.refreshProvider (plugin:system3-relay:34:10184)
+[2026-02-16T12:27:00.704Z] [DEBUG] [[SharedFile](4 - Indexes)]: [Provider State] 4 - Indexes {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:00.704Z] [DEBUG] [[SharedFile](4 - Indexes)]: [Provider State] 4 - Indexes {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:00.705Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: Token Refreshed: setting new provider url, wss://y-sweet.net/p/toDc4mWLpGi8hpDoEnw/doc/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5?token=[REDACTED]
+    at at Jl.refreshProvider (plugin:system3-relay:34:10184)
+[2026-02-16T12:27:00.705Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:00.705Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:00.705Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:27:00.706Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.706Z] [LOG] [[SharedFile](4 - Indexes)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-02-16T12:27:00.706Z] [LOG] [[SyncFolder](/Characters)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-02-16T12:27:00.706Z] [LOG] [[SharedFile](4 - Indexes)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-02-16T12:27:00.706Z] [LOG] [[SyncFolder](/Characters/God;Mad)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-02-16T12:27:00.706Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.707Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.707Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.707Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.707Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.707Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.708Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.708Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.708Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.708Z] [LOG] [[SharedFile](4 - Indexes)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-02-16T12:27:00.708Z] [LOG] [[SyncFolder](/Characters/God;Mad/Cosmic Beings)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-02-16T12:27:00.708Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.708Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.709Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.709Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.709Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.709Z] [LOG] [[SharedFile](4 - Indexes)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.710Z] [DEBUG] [LiveViews][[Shared Folder Ready]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:27:00.710Z] [DEBUG] [LiveViews][[Shared Folder Ready]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:27:00.710Z] [DEBUG] [[SharedFile](4 - Indexes)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:27:00.712Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:27:00.712Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.712Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.712Z] [LOG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at at Jl.getCanvas (plugin:system3-relay:51:1969)
+[2026-02-16T12:27:00.713Z] [DEBUG] [LiveViews][[Shared Folder Ready]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:27:00.714Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:27:00.714Z] [DEBUG] [LiveViews][[Shared Folder Ready]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:27:00.714Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:27:00.714Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.714Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.714Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.715Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.715Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.715Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.715Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.715Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.716Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.716Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.716Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.716Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.716Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.717Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.717Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.717Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.717Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.717Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.717Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.718Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.718Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.718Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.718Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.718Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.719Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.719Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.719Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.719Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.720Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.720Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.720Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.720Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.720Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.721Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.721Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.721Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.721Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.722Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.722Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.722Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.722Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.722Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.723Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.723Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.723Z] [LOG] [[SharedFile](3 - Tags)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-02-16T12:27:00.723Z] [DEBUG] [LiveViews][[Shared Folder Ready]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:27:00.724Z] [DEBUG] [[SharedFile](3 - Tags)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:27:00.724Z] [DEBUG] [LiveViews][[Shared Folder Ready]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:27:00.728Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.728Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.728Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.729Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.729Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.729Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.729Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.729Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:27:00.729Z] [DEBUG] [postie]: send Hl ()=>{this.log("type registry change"),this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.729Z] [DEBUG] [postie]: send Kl async()=>{await this.syncFileTree(this.syncStore)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.729Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:27:00.729Z] [DEBUG] [postie]: send Hl ()=>{this.log("type registry change"),this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.729Z] [DEBUG] [postie]: send Kl async()=>{await this.syncFileTree(this.syncStore)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.729Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-02-16T12:27:00.729Z] [DEBUG] [postie]: send Hl ()=>{this.log("type registry change"),this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.729Z] [DEBUG] [postie]: send Kl async()=>{await this.syncFileTree(this.syncStore)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.730Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:27:00.730Z] [DEBUG] [[SharedFile](3 - Tags)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:27:00.730Z] [DEBUG] [[SharedFile](4 - Indexes)]: sync: noop
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15465)
+[2026-02-16T12:27:00.754Z] [DEBUG] [Bl]: updated matches disk, no change
+    at at Bl.update (plugin:system3-relay:45:22948)
+[2026-02-16T12:27:00.755Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.755Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.755Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.755Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.755Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.755Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.766Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "WSGEZYufyV3qgVUh2YMkE8DpHKzWWBHJUt04Ofan",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.779Z] [DEBUG] [Bl]: updated matches disk, no change
+    at at Bl.update (plugin:system3-relay:45:22948)
+[2026-02-16T12:27:00.780Z] [DEBUG] [[SharedFile](3 - Tags)]: [Provider State] 3 - Tags {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:00.799Z] [DEBUG] [Bl]: updated matches disk, no change
+    at at Bl.update (plugin:system3-relay:45:22948)
+[2026-02-16T12:27:00.809Z] [LOG] [Al]: Token Refreshed
+    at at eval (plugin:system3-relay:33:12965)
+[2026-02-16T12:27:00.809Z] [LOG] [Al]: JWT Info: {
+  "expiresAt": "3/2/2026, 1:27:02 PM",
+  "expiresIn": "15 days",
+  "userId": "7cm9jf7qvjo05mx",
+  "email": "[REDACTED]"
+}
+    at at eval (plugin:system3-relay:33:12993)
+[2026-02-16T12:27:00.833Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:134:6806)
+[2026-02-16T12:27:00.833Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:27:00.833Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:27:00.850Z] [DEBUG] [LiveViews][[Docset]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:27:00.850Z] [DEBUG] [postie]: send Md ()=>{this.refresh("[Docset]")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.850Z] [DEBUG] [postie]: send Md ()=>{this.refresh("[Docset]")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.850Z] [DEBUG] [postie]: send Md ()=>{this.refresh("[Docset]")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.850Z] [DEBUG] [LiveViews][[Docset]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:27:00.850Z] [DEBUG] [LiveViews][[Docset]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:27:00.850Z] [DEBUG] [LiveViews][[Docset]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:27:00.898Z] [DEBUG] [[SharedFile](4 - Indexes)]: [Provider State] 4 - Indexes {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:00.937Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "WSGEZYufyV3qgVUh2YMkE8DpHKzWWBHJUt04Ofan",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/ucf81o72xemxzl0?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.937Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "WSGEZYufyV3qgVUh2YMkE8DpHKzWWBHJUt04Ofan",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/ucf81o72xemxzl0?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-02-16T12:27:00.953Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.953Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:00.953Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.001Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:01.183Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.183Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.183Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.196Z] [LOG] [n]: applying server flags {
+  "enableEditorTweens": false,
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}
+    at at n.applyServerFlags (plugin:system3-relay:23:2881)
+[2026-02-16T12:27:01.197Z] [DEBUG] [Bl]: updated matches disk, no change
+    at at Bl.update (plugin:system3-relay:45:22948)
+[2026-02-16T12:27:01.247Z] [DEBUG] [[SharedFile](4 - Indexes)]: [Provider State] 4 - Indexes {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:01.247Z] [DEBUG] [[SharedFile](3 - Tags)]: [Provider State] 3 - Tags {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:01.247Z] [DEBUG] [[SharedFile](6 - Zettelkastem/Exhibitionist Priest)]: [Provider State] 6 - Zettelkastem/Exhibitionist Priest {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-02-16T12:27:01.247Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.247Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.248Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.248Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.248Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.248Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.248Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.372Z] [DEBUG] [LiveViews][[Shared Folders]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-02-16T12:27:01.372Z] [DEBUG] [postie]: send Yl ()=>{this.refresh("[Shared Folders]"),this.folderListeners.forEach((l,c)=>{this.sharedFolders.has(c)||(l(),this.folderListeners.delete(c))}),this.sharedFolders.forEach(l=>{this.folderListeners.has(l)||this.folderListeners.set(l,a(l))})}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.373Z] [DEBUG] [postie]: send Yl ()=>{this.sharedFolders.forEach(s=>{Py([Vo.enableDocumentStatus],()=>{this.offDocumentListeners.get(s)||this.offDocumentListeners.set(s,s.fset.on(()=>{this.refresh()}))}),s.whenReady().then(()=>{this.refresh()}),this.unsubscribes.push(s.syncSettingsManager.subscribe(i=>{this.quickRefresh()})),this.unsubscribes.push(s.subscribe(this,()=>{this.quickRefresh()})),this.unsubscribes.push(s.syncStore.subscribe(i=>{this.quickRefresh()}))}),this.refresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.373Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.373Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.373Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.373Z] [DEBUG] [LiveViews][[Shared Folders]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-02-16T12:27:01.620Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.620Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.620Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.620Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.620Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.620Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-16T12:27:01.620Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)

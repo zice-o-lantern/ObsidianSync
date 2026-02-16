@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"9b6f62045ccd3667","type":"file","file":"6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Menace à l'Appart'.md","x":-154,"y":4475,"width":400,"height":400},
+		{"id":"d96bee3f6e45fdb8","type":"file","file":"6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Dans le tramway.md","x":-148,"y":1040,"width":400,"height":400},
+		{"id":"3381fd92e0a68f26","type":"file","file":"7 - Attachments/interieur-d-un-tramway-qui-voyage-entre-blackpool-blackpool-et-fleetwood-lancashire-england-uk-ferry-e660mn.png","x":180,"y":973,"width":399,"height":267},
+		{"id":"e8cc5ca455cc1cce","type":"file","file":"6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Cours Barbant.md","x":-145,"y":1608,"width":400,"height":400},
+		{"id":"cc877e938d6c7b34","type":"file","file":"6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Wolfg rencontre.md","x":-148,"y":2200,"width":400,"height":400},
+		{"id":"7405425953a15a53","type":"file","file":"6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Déjeuner.md","x":-148,"y":2800,"width":400,"height":400},
+		{"id":"4e3267e6d2cf9f3b","type":"text","text":"André prend le tramway pour l'université","x":-73,"y":840,"width":250,"height":60,"color":"5"},
+		{"id":"3b76f6b777ab9642","type":"file","file":"6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Squelette sous le it.md","x":-148,"y":320,"width":400,"height":400},
+		{"id":"56bd5468fdb756e1","type":"file","file":"6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Kris rencontre.md","x":-148,"y":3360,"width":400,"height":400},
+		{"id":"6c36c4171e58b8df","type":"file","file":"6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Dîner ensemble.md","x":-148,"y":3960,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"feb4dfc76cd8714c","fromNode":"3b76f6b777ab9642","fromSide":"bottom","toNode":"d96bee3f6e45fdb8","toSide":"top"},
+		{"id":"5a0d32323ed59696","fromNode":"d96bee3f6e45fdb8","fromSide":"bottom","toNode":"e8cc5ca455cc1cce","toSide":"top"},
+		{"id":"601d746e0b21bcd5","fromNode":"e8cc5ca455cc1cce","fromSide":"bottom","toNode":"cc877e938d6c7b34","toSide":"top"},
+		{"id":"d4f9f37af3f8c1f7","fromNode":"cc877e938d6c7b34","fromSide":"bottom","toNode":"7405425953a15a53","toSide":"top"},
+		{"id":"4ca10adb4045bed0","fromNode":"7405425953a15a53","fromSide":"bottom","toNode":"56bd5468fdb756e1","toSide":"top"},
+		{"id":"169800bf48edc935","fromNode":"56bd5468fdb756e1","fromSide":"bottom","toNode":"6c36c4171e58b8df","toSide":"top"},
+		{"id":"5bc79440864f0bf8","fromNode":"6c36c4171e58b8df","fromSide":"bottom","toNode":"9b6f62045ccd3667","toSide":"top"}
+	]
+}

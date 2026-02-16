@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "8b71b7bde01b418f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d2a484e363a185a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a09eee9623b8b992",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
+                "viewState": {
+                  "x": 2797.5,
+                  "y": 430,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Outline of the story"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d81c412ae6aef3e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "718e5d4980c8af46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf0b3ee1b6bbdaef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "604df6b020e6e2cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5b65c48b8b786795",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d93ac4a9a188550f",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39311cd363b301ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "45686d5fcad8d88c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51809e62250bb511",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Zettelkastem/Exhibitionist Priest/Outline 1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Outline 1"
+            }
+          },
+          {
+            "id": "76628acf6045cfec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Zettelkastem/Exhibitionist Priest/Outline 1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Outline 1"
+            }
+          },
+          {
+            "id": "6c9b488feec06af2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c588a15a6a84825",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "906cd4b7ae08ec4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Zettelkastem/Exhibitionist Priest/Outline 1.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Outline 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "system3-relay:Relay": false
+    }
+  },
+  "active": "a09eee9623b8b992",
+  "lastOpenFiles": [
+    "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",
+    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
+    "3 - Tags/boring.md",
+    "3 - Tags/beginning.md",
+    "3 - Tags/big.md",
+    "4 - Indexes/Characters/God;Mad/Éric.md",
+    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 3.canvas",
+    "7 - Attachments/Features_Living-Alone.jpg",
+    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 2.canvas",
+    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story(1).canvas",
+    "3 - Tags/voyeurism.md",
+    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Cesare.md",
+    "6 - Zettelkastem/Exhibitionist Priest 1/Overview.md",
+    "6 - Zettelkastem/Exhibitionist Priest 1/Story's places.canvas",
+    "6 - Zettelkastem/Exhibitionist Priest 1/Outline of the story.canvas",
+    "6 - Zettelkastem/Exhibitionist Priest 1/Overview English.md",
+    "6 - Zettelkastem/Exhibitionist Priest 1",
+    "6 - Zettelkastem/Exhibitionist Priest/Overview.md",
+    "6 - Zettelkastem/Exhibitionist Priest/Overview English.md",
+    "4 - Indexes/Exhibitionist Priest.md",
+    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Owner.md",
+    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph.md",
+    "[[Joseph]].md",
+    "6 - Zettelkastem/Exhibitionist Priest Back Up/Overview English.md",
+    "6 - Zettelkastem/Exhibitionist Priest Back Up/Overview.md",
+    "6 - Zettelkastem/Exhibitionist Priest Back Up/Outline of the story.canvas",
+    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest",
+    "Untitled",
+    "6 - Zettelkastem/Outline.canvas",
+    "6 - Zettelkastem/world building.md",
+    "6 - Zettelkastem/Exhibitionist Priest Back Up",
+    "7 - Attachments/3d-question-mark-icon-or-ask-faq-answer-solution-isolated-on-transparent-background-file-png.png",
+    "7 - Attachments/Alcohol-Awareness-Month-Blog-1200x600-1-1024x512.webp"
+  ]
+}
