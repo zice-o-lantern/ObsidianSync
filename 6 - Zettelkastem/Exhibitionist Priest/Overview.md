@@ -36,5 +36,3 @@ Le lendemain, Joseph se rend au café, où Cesare l'attend. Il lui pose des ques
 S'en suit une période où Cesare et Joseph ne se voit plus, étant donné que Joseph ne fréquente plus l'église. Cependant Joseph ressent le manque de ces nouveaux sentiments découverts durant la nuit dans l'Église. Lors d'un jour de pluie, (cliché je sais), Joseph se rend chez Cesare, et accepte la proposition de devenir le partenaire de Cesare.
 
 Ansi ensemble, ils explorent leur déviance ensemble comme explorer la forêt ensemble.
-
-[Agoogaga](Joseph)
