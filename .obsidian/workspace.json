@@ -11,17 +11,24 @@
             "id": "a09eee9623b8b992",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
-                "viewState": {
-                  "x": 4370.895115889042,
-                  "y": 1161.960817579331,
-                  "zoom": -0.3333333333333334
+                "file": "6 - Zettelkastem/Exhibitionist Priest/murky waters/Overview English - Notes - Murkwater.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Outline of the story"
+              "icon": "lucide-file",
+              "title": "Overview English - Notes - Murkwater"
             }
           }
         ]
@@ -198,14 +205,65 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "a09eee9623b8b992",
+  "floating": {
+    "id": "fd052237980e4c84",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0f7224fc7b1b406d",
+        "type": "window",
+        "children": [
+          {
+            "id": "30dc3641ea12c8ce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "519d764b7ab51284",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "6 - Zettelkastem/Exhibitionist Priest/Overview English.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Overview English"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 848,
+        "y": 1540,
+        "width": 1301,
+        "height": 712,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bf0b3ee1b6bbdaef",
   "lastOpenFiles": [
-    "6 - Zettelkastem/Exhibitionist Priest/Overview.md",
     "6 - Zettelkastem/Exhibitionist Priest/Overview English.md",
+    "6 - Zettelkastem/Exhibitionist Priest/murky waters/Overview English - Notes - Murkwater.md",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
+    "6 - Zettelkastem/Exhibitionist Priest/Overview.md",
+    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph.md",
+    "6 - Zettelkastem/Exhibitionist Priest/murky waters",
     "4 - Indexes/Exhibitionist Priest.md",
     "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Cesare.md",
-    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph.md",
     "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",
     "3 - Tags/boring.md",
     "3 - Tags/beginning.md",
