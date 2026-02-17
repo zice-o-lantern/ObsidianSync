@@ -56,7 +56,7 @@
 		{"id":"8efef53957bbe5aa","type":"text","text":"This is the order of reading some scenes are not in chronological order","x":-2000,"y":-197,"width":250,"height":120,"color":"5"},
 		{"id":"c229ff5210cdffe6","type":"text","text":"[[Joseph]] follows [[Cesare]] home and takes pictures of [him](Cesare) naked by mistake","x":2084,"y":360,"width":250,"height":134,"color":"1"},
 		{"id":"30385a5052c1b3bb","type":"text","text":"[[Joseph]] and [[Cesare]] are neighbours from across the street","x":-2380,"y":405,"width":250,"height":123,"color":"2"},
-		{"id":"be987165b87d23bc","type":"text","text":"[He](Cesare) is friend with the [owner](Owner.md)","x":2185,"y":-43,"width":250,"height":60,"color":"2"},
+		{"id":"be987165b87d23bc","type":"text","text":"[He](Cesare) is friend with the [owner](Jeff.md)","x":2185,"y":-43,"width":250,"height":60,"color":"2"},
 		{"id":"6d50eb23a1c11814","type":"text","text":"[[Joseph]] couldn't follow [him](Cesare) at the time","x":2185,"y":70,"width":250,"height":60,"color":"2"},
 		{"id":"7b54e18c03503937","type":"file","file":"7 - Attachments/photographer-telephoto-lens.webp","x":2442,"y":170,"width":200,"height":133},
 		{"id":"6d409658ea9415c4","type":"file","file":"7 - Attachments/picture-taken-through-window.jpg","x":2435,"y":357,"width":214,"height":132},
