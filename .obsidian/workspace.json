@@ -4,31 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "5d2a484e363a185a",
+        "id": "b2d53c32ebbdd31b",
         "type": "tabs",
         "children": [
           {
-            "id": "a09eee9623b8b992",
+            "id": "52fc0cb56ae9f9e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Jeff.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "6 - Zettelkastem/Exhibitionist Priest/Duo Philosophies for character design.canvas",
+                "viewState": {
+                  "x": 715.0210828405372,
+                  "y": 1510.716353613283,
+                  "zoom": -2.6666666666666665
                 }
               },
-              "icon": "lucide-file",
-              "title": "Jeff"
+              "icon": "lucide-layout-dashboard",
+              "title": "Duo Philosophies for character design"
+            }
+          },
+          {
+            "id": "241e2e2d425ba5d8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "7 - Attachments/Exhibitionist Priest/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "shutterstock_97268789 - lamb looking at camera - web size-1277x884"
+            }
+          },
+          {
+            "id": "859a5f3b09e01d87",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "7 - Attachments/Exhibitionist Priest/Coyote.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Coyote"
             }
           }
         ]
@@ -205,110 +222,37 @@
       "system3-relay:Relay": false
     }
   },
-  "floating": {
-    "id": "fd052237980e4c84",
-    "type": "floating",
-    "children": [
-      {
-        "id": "336bcb7100129ff6",
-        "type": "window",
-        "children": [
-          {
-            "id": "e9fbde930399220d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "82e508952b0ed2c4",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
-                    "viewState": {
-                      "x": -1240.3040045174826,
-                      "y": -1024.0728274497603,
-                      "zoom": -1.3333333333333328
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Outline of the story"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1129,
-        "y": 1564,
-        "width": 1337,
-        "height": 784,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "2cfb836b44b6b352",
-        "type": "window",
-        "children": [
-          {
-            "id": "4de1b6a0ae51b2e0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6d952c17001b805b",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
-                    "viewState": {
-                      "x": -1562.9316945479802,
-                      "y": 669.68561361165,
-                      "zoom": 1
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Outline of the story"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 885,
-        "y": 1574,
-        "width": 1452,
-        "height": 776,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6d952c17001b805b",
+  "active": "52fc0cb56ae9f9e8",
   "lastOpenFiles": [
-    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Jeff.md",
+    "Pasted image 20260217204753.png",
+    "4 - Indexes/Exhibitionist Priest.md",
+    "6 - Zettelkastem/Exhibitionist Priest/Duo Philosophies for character design.canvas",
+    "7 - Attachments/Exhibitionist Priest/Pasted image 20260217204123.png",
+    "7 - Attachments/Exhibitionist Priest/Pasted image 20260217204502.png",
+    "README.md",
+    "7 - Attachments/Exhibitionist Priest/81Hj1wcXL-L.png",
+    "7 - Attachments/Exhibitionist Priest/finbpjpirbespgfpul19.jpg",
+    "7 - Attachments/Exhibitionist Priest/lamb-lying-in-meadow.jpg",
+    "7 - Attachments/Exhibitionist Priest/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg",
+    "7 - Attachments/Exhibitionist Priest/Coyote.webp",
+    "7 - Attachments/Exhibitionist Priest/shutterstock_97268789 - lamb looking at camera - web size-1277x884 1.jpg",
+    "7 - Attachments/Exhibitionist Priest/lamb-lying-in-meadow 1.jpg",
+    "7 - Attachments/Exhibitionist Priest/coyote-canis-latrans-xl.jpg",
+    "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",
+    "6 - Zettelkastem/Exhibitionist Priest/Overview English.md",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
-    "Owner.md",
+    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph.md",
+    "7 - Attachments/Exhibitionist Priest",
+    "6 - Zettelkastem/Exhibitionist Priest/murky waters/Overview English - Notes - Murkwater.md",
     "6 - Zettelkastem/Exhibitionist Priest/Glossary for Outline.md",
+    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Jeff.md",
+    "Owner.md",
+    "7 - Attachments/Icons",
+    "6 - Zettelkastem/Exhibitionist Priest/Overview.md",
     "4 - Indexes/Places",
     "4 - Indexes/Places/Café.md",
     "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Cesare.md",
-    "7 - Attachments/Photos ref/large.Screenshot(2046).png.6e78175cc0853714f45ff00d3855aa86.png",
-    "7 - Attachments/Photos ref/MMarshallStudios12-2023-Morn112_9981(146).jpg.9b886d8721adf7207c67e682f46ae874.jpg",
-    "7 - Attachments/Photos ref/tumblr_op1899J5yv1uvf7quo1_1280.jpg.95049edfa47c5af5903f03d74bcb1714.jpg",
-    "7 - Attachments/Photos ref/IMG_0430.gif",
-    "7 - Attachments/Photos ref/large.Screenshot(2277).png.fa880ee7e6691a4bc4c320a111353a8e.webp",
-    "7 - Attachments/Photos ref/IMG_0428.jpg",
-    "7 - Attachments/Photos ref/IMG_0420.webp",
-    "7 - Attachments/Photos ref/IMG_0417.webp",
-    "7 - Attachments/Photos ref/IMG_0414.webp",
-    "7 - Attachments/Photos ref/IMG_0410.webp",
-    "6 - Zettelkastem/Exhibitionist Priest/Overview English.md",
-    "6 - Zettelkastem/Exhibitionist Priest/murky waters/Overview English - Notes - Murkwater.md",
-    "6 - Zettelkastem/Exhibitionist Priest/Overview.md",
-    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph.md",
     "6 - Zettelkastem/Exhibitionist Priest/murky waters",
-    "4 - Indexes/Exhibitionist Priest.md",
-    "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",
     "3 - Tags/boring.md",
     "3 - Tags/beginning.md",
     "3 - Tags/big.md",

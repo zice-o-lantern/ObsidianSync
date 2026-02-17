@@ -634,3 +634,18 @@ community:
 - obsidian-style-settings
 - obsidian-plugin-todo
 */
+
+/* remove the background of all embeds */
+.canvas-node .canvas-node-container:has(> .media-embed) {
+    border: none;
+    background-color: transparent;
+}
+
+/* Hide the shadow unless the embed is selected */
+.canvas-node:not(.is-focused) .canvas-node-container:has(> .media-embed) {
+    box-shadow: none;
+}
+/* Remove the background tint */
+.canvas-node .canvas-node-container:has(> .media-embed) .canvas-node-content {
+    background-color: transparent !important;
+}

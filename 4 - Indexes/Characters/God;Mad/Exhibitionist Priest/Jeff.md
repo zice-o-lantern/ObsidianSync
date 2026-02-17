@@ -1,4 +1,4 @@
-*==tags==*: [[Cesare]](friend)
+*==tags==*: [[Cesare]](friend), [[Café]](owns it)
 
 
 ---

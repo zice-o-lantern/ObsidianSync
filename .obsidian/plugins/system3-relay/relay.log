@@ -2473,3 +2473,104 @@ Queue size: 0
     at at yt.deliver (plugin:system3-relay:20:36478)
 [2026-02-16T12:27:01.620Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
     at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-17T16:30:46.500Z] [LOG] [Bl]: Saving settings to disk: {
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "4 - Indexes",
+      "guid": "ca731937-5583-4aed-a2e2-d7d059042bf6",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "3 - Tags",
+      "guid": "c671d794-ee15-4587-b173-e5161b8174c2",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "6 - Zettelkastem/Exhibitionist Priest",
+      "guid": "2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "7 - Attachments",
+      "guid": "711f578c-1ce7-4eaf-84ce-ed491bbcf65b",
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": true,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": true,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": true,
+  "enablePresenceAvatars": true,
+  "enableLiveEmbeds": true,
+  "enablePreviewViewHooks": true,
+  "enableMetadataViewHooks": true,
+  "enableKanbanView": true,
+  "debugging": true,
+  "login": {
+    "provider": "github"
+  },
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}
+    at at Bl.save (plugin:system3-relay:45:22638)
+[2026-02-17T16:31:01.103Z] [DEBUG] [postie]: send n f=>t(4,o=f)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-02-17T16:31:15.415Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-02-17T16:31:15.415Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:ca731937-5583-4aed-a2e2-d7d059042bf6:doc:4d911ffd-ebbd-473d-ad1a-bb2969d6a44b (/Characters/God;Mad/Exhibitionist Priest/Jeff.md): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:doc:36516697-c3eb-48cb-8fae-66fdd58bf217 (/Glossary for Outline.md): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:doc:2514a6de-ce28-4e6a-9881-d926f54bdf99 (/Overview English.md): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:doc:f27247bf-5d50-46a0-9fc1-e359c93eeb92 (/Overview.md): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:doc:9c915db8-f2eb-4b3c-90f1-0183f1dbafa5 (/murky waters/Overview English - Notes - Murkwater.md): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:canvas:db530ef9-5f4c-485f-bd0e-0058cc76f49b (/Outline of the story.canvas): 0 attempts, (expires in 21m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:2d53ddf7-634c-4c31-b2ef-69ac02b6a8c5:canvas:dfba4479-e352-4ad3-a583-2802b165d685 (/Story's places.canvas): 0 attempts, (expires in 23m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
