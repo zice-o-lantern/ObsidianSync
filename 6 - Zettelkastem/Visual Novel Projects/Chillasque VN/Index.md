@@ -15,7 +15,7 @@ longform:
   sceneTemplate: 5 - Template/Base Template.md
   ignoredFiles: []
 ---
-4 personnages : [[Wolfg]], [[Kris]], [[Winnie]], [[Nick]] à dater
+4 personnages : [[Wolfg]], [[Kris]], [[Winnie]], [[4 - Indexes/Characters/God;Mad/Nick]] à dater
 
 événements en commun pour économiser les lieux
 ça se passe dans un uni

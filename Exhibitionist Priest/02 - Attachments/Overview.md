@@ -1,5 +1,5 @@
 Fiche personnages préliminaires
-tags: [[Joseph]], [[Cesare]]
+tags: [[4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph]], [[4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Cesare]]
 
 ## Description du plot : 
 

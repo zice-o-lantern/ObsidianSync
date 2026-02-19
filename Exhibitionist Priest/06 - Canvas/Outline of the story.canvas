@@ -2,11 +2,11 @@
 	"nodes":[
 		{"id":"82c4e7d23d41835c","type":"group","x":-2400,"y":-1040,"width":10760,"height":3760,"color":"1","label":"Part 1"},
 		{"id":"db014035e5aca2c4","type":"group","x":2880,"y":-620,"width":1577,"height":2980,"color":"4","label":"Confessions"},
-		{"id":"33e7f319f57c436f","type":"group","x":885,"y":-380,"width":1830,"height":2305,"color":"2","label":"Investigation"},
 		{"id":"7ffa45cb9f24e52c","type":"group","x":4680,"y":-620,"width":1480,"height":2230,"color":"#89db6b","label":"Café"},
-		{"id":"3a9f1e489076f17a","type":"group","x":6340,"y":-520,"width":1430,"height":2230,"color":"6","label":"Apologies"},
 		{"id":"9e39875d4f64fae0","type":"group","x":-1060,"y":-380,"width":1660,"height":1888,"color":"#86c0fe","label":"Boredom"},
 		{"id":"9bda331c8bbebff9","type":"group","x":-2380,"y":220,"width":1150,"height":640,"color":"#95dacd","label":"Incipit"},
+		{"id":"33e7f319f57c436f","type":"group","x":885,"y":-380,"width":1830,"height":2305,"color":"2","label":"Investigation"},
+		{"id":"3a9f1e489076f17a","type":"group","x":6340,"y":-520,"width":1430,"height":2230,"color":"6","label":"Apologies"},
 		{"id":"08a3df7b382eaf0d","type":"text","text":"","x":2820,"y":-820,"width":50,"height":50},
 		{"id":"3f7b1f3592ad760a","text":"[[Joseph]] wanders in the town and end up in the church\n","type":"text","x":-692,"y":850,"width":251,"height":99,"color":"1"},
 		{"id":"fa1d5e620464e886","text":"[[Joseph]] finds the camera here","type":"text","x":-880,"y":95,"width":163,"height":104,"color":"2"},
