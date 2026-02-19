@@ -4,22 +4,98 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d53c32ebbdd31b",
-        "type": "tabs",
+        "id": "893e51ca846b8e0b",
+        "type": "split",
         "children": [
           {
-            "id": "52fc0cb56ae9f9e8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "6 - Zettelkastem/Exhibitionist Priest/Attachments/lamb-lying-in-meadow.jpg"
+            "id": "9c959b84b07573c8",
+            "type": "split",
+            "children": [
+              {
+                "id": "b2d53c32ebbdd31b",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "52fc0cb56ae9f9e8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "Exhibitionist Priest/05 - Tasks/Remaining Tasks.md",
+                        "kanbanViewState": {
+                          "kanban-plugin": "board",
+                          "list-collapse": [
+                            false,
+                            false,
+                            false,
+                            false
+                          ]
+                        }
+                      },
+                      "icon": "lucide-trello",
+                      "title": "Remaining Tasks"
+                    }
+                  }
+                ]
               },
-              "icon": "lucide-image",
-              "title": "lamb-lying-in-meadow"
-            }
+              {
+                "id": "e07a33c83825ac3f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "a09017427658e4ea",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Exhibitionist Priest/05 - Tasks/Determine when to fire the checkov's gun.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Determine when to fire the checkov's gun"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "5db600b71e6faf5f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f4cd58d24a0fbae",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                    "viewState": {
+                      "x": 6713.740858531204,
+                      "y": 2270.2082640640447,
+                      "zoom": -1
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Outline of the story"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -78,8 +154,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -102,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Zettelkastem/Exhibitionist Priest/Outline 1.canvas",
+                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Outline 1"
+              "title": "Backlinks for Outline of the story"
             }
           },
           {
@@ -164,16 +240,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Zettelkastem/Exhibitionist Priest/Outline 1.canvas",
+                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Outline 1"
+              "title": "Outline of Outline of the story"
+            }
+          },
+          {
+            "id": "56c5ce737be5ae8c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,50 +280,21 @@
       "system3-relay:Relay": false
     }
   },
-  "floating": {
-    "id": "8966a4620c6f862c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "50e584e717a723c9",
-        "type": "window",
-        "children": [
-          {
-            "id": "5be36bc983f1d541",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a7fa427cd42da4f6",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
-                    "viewState": {
-                      "x": 1825.5938386023972,
-                      "y": 895.0418871586039,
-                      "zoom": -2.666666666666666
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Outline of the story"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 957,
-        "y": 1550,
-        "width": 1202,
-        "height": 668,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "52fc0cb56ae9f9e8",
+  "active": "4f4cd58d24a0fbae",
   "lastOpenFiles": [
+    "Exhibitionist Priest/05 - Tasks/Remaining Tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Determine when to fire the checkov's gun.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/05 - Tasks/Is the collective hallucination plot point pertinent to the story.md",
+    "Exhibitionist Priest/05 - Tasks/Develop how they met.md",
+    "Exhibitionist Priest/05 - Tasks/Should Joseph be the one spying on Cesare in the incipit.md",
+    "Exhibitionist Priest/05 - Tasks/Should the photo J take be a mistake or on purpose.md",
+    "5 - Template/Kanban Card Template.md",
+    "Exhibitionist Priest/05 - Tasks/Should Joseph have a female friend.md",
+    "Exhibitionist Priest/02 - Attachments/VN Sprites/1534317655.hiddenwall_koshiro.png",
+    "Untitled.md",
+    "6 - Zettelkastem/Daily notes/2026-02-19.md",
+    "6 - Zettelkastem/Daily notes",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Attachments/lamb-lying-in-meadow.jpg",
     "6 - Zettelkastem/Exhibitionist Priest/Character Design.canvas",
@@ -255,7 +313,6 @@
     "6 - Zettelkastem/Exhibitionist Priest/Attachments/81Hj1wcXL-L.png",
     "6 - Zettelkastem/Exhibitionist Priest/Attachments/finbpjpirbespgfpul19.jpg",
     "6 - Zettelkastem/Exhibitionist Priest/Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg",
-    "6 - Zettelkastem/Exhibitionist Priest/Attachments/Coyote.webp",
     "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",
     "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph.md",
     "7 - Attachments/Exhibitionist Priest",
@@ -274,20 +331,12 @@
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 3.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 2.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story(1).canvas",
-    "3 - Tags/voyeurism.md",
-    "6 - Zettelkastem/Exhibitionist Priest 1/Overview.md",
     "6 - Zettelkastem/Exhibitionist Priest 1/Story's places.canvas",
     "6 - Zettelkastem/Exhibitionist Priest 1/Outline of the story.canvas",
-    "6 - Zettelkastem/Exhibitionist Priest 1/Overview English.md",
     "6 - Zettelkastem/Exhibitionist Priest 1",
-    "[[Joseph]].md",
-    "6 - Zettelkastem/Exhibitionist Priest Back Up/Overview English.md",
-    "6 - Zettelkastem/Exhibitionist Priest Back Up/Overview.md",
     "6 - Zettelkastem/Exhibitionist Priest Back Up/Outline of the story.canvas",
     "4 - Indexes/Characters/God;Mad/Exhibitionist Priest",
     "Untitled",
-    "6 - Zettelkastem/Outline.canvas",
-    "6 - Zettelkastem/world building.md",
     "6 - Zettelkastem/Exhibitionist Priest Back Up"
   ]
 }

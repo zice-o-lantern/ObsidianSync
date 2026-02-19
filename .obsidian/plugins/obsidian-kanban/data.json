@@ -1,0 +1,6 @@
+{
+  "show-checkboxes": true,
+  "new-line-trigger": "shift-enter",
+  "new-card-insertion-method": "prepend",
+  "new-note-template": "5 - Template/Kanban Card Template.md"
+}
