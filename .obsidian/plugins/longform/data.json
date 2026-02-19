@@ -6,6 +6,43 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-02-19T06:30:17.875Z",
+      "total": 0,
+      "drafts": {
+        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Rails Putrides": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Nuit éclatante": 0,
+            "Cabine Téléphonique": 0,
+            "Folie tout seul": 0,
+            "Je lui saute à la gorge": 0,
+            "Forest": 0,
+            "La Plage aux Merveilles": 0,
+            "Je ne t'oublierai pas": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-02-18T08:11:35.299Z",
       "total": 0,
       "drafts": {
