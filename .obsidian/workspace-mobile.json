@@ -11,22 +11,27 @@
             "id": "9d7e7854ddbf1908",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Exhibitionist Priest/05 - Tasks/Remaining Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                "viewState": {
+                  "x": -1656.7119768632474,
+                  "y": 552.5091183932641,
+                  "zoom": -1.5591865676109666
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Remaining Tasks"
+              "icon": "lucide-layout-dashboard",
+              "title": "Outline of the story"
+            }
+          },
+          {
+            "id": "b8bce3be75eedea8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -171,7 +176,7 @@
         }
       },
       {
-        "id": "79af98ac77f336da",
+        "id": "76e240b31ccccfdd",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -198,42 +203,47 @@
   },
   "active": "9d7e7854ddbf1908",
   "lastOpenFiles": [
-    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/05 - Tasks/Remaining Tasks.md",
+    "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
+    "5 - Template/Kanban Card Template.md",
+    "6 - Zettelkastem/Daily notes/2026-02-19.md",
+    "6 - Zettelkastem/Daily notes",
+    "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023118.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023126.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023100.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022450.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022723.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022707.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022713.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022658.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022409.png",
+    "Exhibitionist Priest/02 - Attachments/83f9872575139b676e9640543df39631.jpg",
+    "Exhibitionist Priest/07 - Rough Notes/Character names.md",
     "Exhibitionist Priest/05 - Tasks/Pinned",
-    "Exhibitionist Priest/05 - Tasks/Current/Develop how they met.md",
-    "Exhibitionist Priest/05 - Tasks/Archived/What should Cesare strive for.md",
     "Exhibitionist Priest/05 - Tasks/Current",
     "Exhibitionist Priest/05 - Tasks/Archived",
-    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph be the one spying on Cesare in the incipit.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
-    "Exhibitionist Priest/07 - Rough Notes/Character names.md",
-    "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191346.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191400.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191333.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 192044.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 192134.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 192025.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 192112.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 192009.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191954.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191941.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/Untitled.md",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
+    "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
     "Exhibitionist Priest/07 - Rough Notes",
+    "Exhibitionist Priest/07 q Rough notes",
+    "Exhibitionist Priest/05 - Tasks/Current/Develop how they met.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
+    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
+    "Exhibitionist Priest/01 - Zettelkasten/murky waters/Untitled.md",
+    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph be the one spying on Cesare in the incipit.md",
+    "Exhibitionist Priest/05 - Tasks/Archived/What should Cesare strive for.md",
+    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
-    "Exhibitionist Priest/04 - Tags",
-    "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
     "Exhibitionist Priest/03 - Index/Exhibitionist Priest.md",
+    "Exhibitionist Priest/04 - Tags",
     "2 - Source Materials/Books/Hygiène de l'Assassin, Amélie Nothomb (1992).md",
     "2 - Source Materials/Books",
-    "2 - Source Materials",
     "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Jeff.md",
     "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Cesare.md",
     "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph.md",
@@ -241,11 +251,6 @@
     "4 - Indexes/Characters/God;Mad/Cosmic Beings/Shaïkhklan.md",
     "4 - Indexes/Characters/God;Mad/Cosmic Beings/Chark.md",
     "4 - Indexes/Characters/God;Mad/Marie-Jil.md",
-    "4 - Indexes/Characters/God;Mad/Éric.md",
-    "4 - Indexes/Characters/God;Mad/Wolfg.md",
-    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest",
-    "4 - Indexes/Characters/God;Mad/Nick.md",
-    "4 - Indexes/Characters/God;Mad/Winnie.md",
     "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Outline Chillasque.canvas"
   ]
 }
