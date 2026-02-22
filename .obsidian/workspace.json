@@ -4,92 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "893e51ca846b8e0b",
+        "id": "838b78c83a391470",
         "type": "split",
         "children": [
           {
-            "id": "9c959b84b07573c8",
-            "type": "split",
-            "children": [
-              {
-                "id": "b2d53c32ebbdd31b",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "52fc0cb56ae9f9e8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "kanban",
-                      "state": {
-                        "file": "Exhibitionist Priest/05 - Tasks/Remaining Tasks.md",
-                        "kanbanViewState": {
-                          "kanban-plugin": "board",
-                          "list-collapse": [
-                            false,
-                            false,
-                            false,
-                            false
-                          ]
-                        }
-                      },
-                      "icon": "lucide-trello",
-                      "title": "Remaining Tasks"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "e07a33c83825ac3f",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "a09017427658e4ea",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Exhibitionist Priest/05 - Tasks/Determine when to fire the checkov's gun.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "Determine when to fire the checkov's gun"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "5db600b71e6faf5f",
+            "id": "b2d53c32ebbdd31b",
             "type": "tabs",
             "children": [
               {
-                "id": "4f4cd58d24a0fbae",
+                "id": "52fc0cb56ae9f9e8",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-                    "viewState": {
-                      "x": 6713.740858531204,
-                      "y": 2270.2082640640447,
-                      "zoom": -1
+                    "file": "Exhibitionist Priest/07 - Rough Notes/Character names.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
                     }
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Outline of the story"
+                  "icon": "lucide-file",
+                  "title": "Character names"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9417f52adacdd87d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7338b49670f397dc",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Exhibitionist Priest/05 - Tasks/Remaining Tasks.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Remaining Tasks"
                 }
               }
             ]
@@ -280,63 +251,62 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "4f4cd58d24a0fbae",
+  "active": "7338b49670f397dc",
   "lastOpenFiles": [
+    "Exhibitionist Priest/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg",
+    "Exhibitionist Priest/07 - Rough Notes/Character names.md",
     "Exhibitionist Priest/05 - Tasks/Remaining Tasks.md",
-    "Exhibitionist Priest/05 - Tasks/Determine when to fire the checkov's gun.md",
+    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
+    "Exhibitionist Priest/02 - Attachments/yin-yang.png",
+    "Exhibitionist Priest/02 - Attachments/smell-nagabe.png",
+    "Exhibitionist Priest/02 - Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg",
+    "Exhibitionist Priest/02 - Attachments/Scarbrow-Dymond-Lake-Ecolodge-Jianguo-Xie-1k.jpg",
+    "Exhibitionist Priest/02 - Attachments/Polar_Bear_-_Alaska_(cropped).jpg",
+    "Exhibitionist Priest/02 - Attachments/photo_2026-02-17_11-49-41.jpg",
+    "Exhibitionist Priest/01 - Zettelkasten/Overview.md",
+    "Exhibitionist Priest/02 - Attachments/nice-black-timbewolf.webp",
+    "Exhibitionist Priest/02 - Attachments/lamb-lying-in-meadow.jpg",
+    "Exhibitionist Priest/02 - Attachments/Kolmården_Wolf.jpg",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph be the one spying on Cesare in the incipit.md",
+    "Exhibitionist Priest/03 - Index/Characters/Joseph.md",
+    "Exhibitionist Priest/01 - Zettelkasten/murky waters/Overview English - Notes - Murkwater.md",
+    "Exhibitionist Priest/01 - Zettelkasten/murky waters/Untitled.md",
+    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
+    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
+    "Exhibitionist Priest/04 - Tags",
+    "Exhibitionist Priest/05 - Tasks/Determine when to fire the checkov's gun.md",
     "Exhibitionist Priest/05 - Tasks/Is the collective hallucination plot point pertinent to the story.md",
     "Exhibitionist Priest/05 - Tasks/Develop how they met.md",
     "Exhibitionist Priest/05 - Tasks/Should Joseph be the one spying on Cesare in the incipit.md",
     "Exhibitionist Priest/05 - Tasks/Should the photo J take be a mistake or on purpose.md",
     "5 - Template/Kanban Card Template.md",
     "Exhibitionist Priest/05 - Tasks/Should Joseph have a female friend.md",
-    "Exhibitionist Priest/02 - Attachments/VN Sprites/1534317655.hiddenwall_koshiro.png",
     "Untitled.md",
     "6 - Zettelkastem/Daily notes/2026-02-19.md",
     "6 - Zettelkastem/Daily notes",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
-    "6 - Zettelkastem/Exhibitionist Priest/Attachments/lamb-lying-in-meadow.jpg",
     "6 - Zettelkastem/Exhibitionist Priest/Character Design.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Remaining Tasks.md",
     "6 - Zettelkastem/Exhibitionist Priest/Glossary for Outline.md",
-    "6 - Zettelkastem/Exhibitionist Priest/Attachments/Icons/question-mark.png",
     "6 - Zettelkastem/Exhibitionist Priest/murky waters/Overview English - Notes - Murkwater.md",
     "6 - Zettelkastem/Exhibitionist Priest/Overview English.md",
-    "6 - Zettelkastem/Exhibitionist Priest/Attachments/49d79ffc0a69539df42e8714e7bd31e6.jpg",
-    "6 - Zettelkastem/Exhibitionist Priest/Attachments/yin-yang.png",
-    "6 - Zettelkastem/Exhibitionist Priest/Attachments/eat-nagabe.png",
-    "6 - Zettelkastem/Exhibitionist Priest/Attachments/smell-nagabe.png",
     "6 - Zettelkastem/Exhibitionist Priest/Attachments",
     "4 - Indexes/Exhibitionist Priest.md",
     "README.md",
-    "6 - Zettelkastem/Exhibitionist Priest/Attachments/81Hj1wcXL-L.png",
-    "6 - Zettelkastem/Exhibitionist Priest/Attachments/finbpjpirbespgfpul19.jpg",
-    "6 - Zettelkastem/Exhibitionist Priest/Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg",
     "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",
-    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph.md",
     "7 - Attachments/Exhibitionist Priest",
-    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Jeff.md",
-    "Owner.md",
     "6 - Zettelkastem/Exhibitionist Priest/Attachments/Icons",
-    "6 - Zettelkastem/Exhibitionist Priest/Overview.md",
     "4 - Indexes/Places",
-    "4 - Indexes/Places/Café.md",
-    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Cesare.md",
     "6 - Zettelkastem/Exhibitionist Priest/murky waters",
-    "3 - Tags/boring.md",
-    "3 - Tags/beginning.md",
-    "3 - Tags/big.md",
-    "4 - Indexes/Characters/God;Mad/Éric.md",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 3.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 2.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story(1).canvas",
     "6 - Zettelkastem/Exhibitionist Priest 1/Story's places.canvas",
     "6 - Zettelkastem/Exhibitionist Priest 1/Outline of the story.canvas",
     "6 - Zettelkastem/Exhibitionist Priest 1",
-    "6 - Zettelkastem/Exhibitionist Priest Back Up/Outline of the story.canvas",
     "4 - Indexes/Characters/God;Mad/Exhibitionist Priest",
-    "Untitled",
-    "6 - Zettelkastem/Exhibitionist Priest Back Up"
+    "Untitled"
   ]
 }
