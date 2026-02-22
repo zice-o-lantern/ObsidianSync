@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## TO DO
 
+- [ ] Develop Joesph in grandma's house
 - [ ] Develop Story Places
 - [ ] [[Develop how they met]]
 
