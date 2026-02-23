@@ -15,9 +15,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -1656.7119768632474,
-                  "y": 552.5091183932641,
-                  "zoom": -1.5591865676109666
+                  "x": -357.5346425670364,
+                  "y": 476.3345545120683,
+                  "zoom": -1.6867046748113548
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,13 +25,47 @@
             }
           },
           {
-            "id": "b8bce3be75eedea8",
+            "id": "8c016fd0ac2988f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Writing tasks"
+            }
+          },
+          {
+            "id": "84572541ee467497",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Writing tasks"
             }
           }
         ]
@@ -135,7 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+            "file": "Exhibitionist Priest/07 - Rough Notes/Titles ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,13 +237,16 @@
   },
   "active": "9d7e7854ddbf1908",
   "lastOpenFiles": [
-    "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/07 - Rough Notes/Character names.md",
+    "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
+    "Exhibitionist Priest/07 - Rough Notes/Titles ideas.md",
     "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
     "5 - Template/Kanban Card Template.md",
     "6 - Zettelkastem/Daily notes/2026-02-19.md",
     "6 - Zettelkastem/Daily notes",
-    "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023118.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023126.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023100.png",
@@ -220,7 +257,6 @@
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022658.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022409.png",
     "Exhibitionist Priest/02 - Attachments/83f9872575139b676e9640543df39631.jpg",
-    "Exhibitionist Priest/07 - Rough Notes/Character names.md",
     "Exhibitionist Priest/05 - Tasks/Pinned",
     "Exhibitionist Priest/05 - Tasks/Current",
     "Exhibitionist Priest/05 - Tasks/Archived",
@@ -229,16 +265,15 @@
     "Exhibitionist Priest/07 q Rough notes",
     "Exhibitionist Priest/05 - Tasks/Current/Develop how they met.md",
     "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/Untitled.md",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Untitled.md",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should Joseph be the one spying on Cesare in the incipit.md",
     "Exhibitionist Priest/05 - Tasks/Archived/What should Cesare strive for.md",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/03 - Index/Exhibitionist Priest.md",
     "Exhibitionist Priest/04 - Tags",

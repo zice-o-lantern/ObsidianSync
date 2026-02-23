@@ -1,0 +1,4 @@
+- *Exhibition priest*. I kinda like the idea it sounds cool but maybe a bit too cheesy and blunt
+- *Guilty pleasures*. It’s a good title but it lacks some spzaz.
+- *The Guilty pleasures of Cesare Rothden* (temporary last name), maybe better stills lacks some spzaz
+- *The Misery of Cesare Rothden*. Maybe a bit too edgy 
