@@ -15,8 +15,8 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -357.5346425670364,
-                  "y": 476.3345545120683,
+                  "x": -949.8684544497514,
+                  "y": 117.9296755830348,
                   "zoom": -1.6867046748113548
                 }
               },
@@ -28,47 +28,21 @@
             "id": "8c016fd0ac2988f7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                "viewState": {
+                  "x": -380.0838450581514,
+                  "y": 839.723688758198,
+                  "zoom": -2.5206926939866436
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Writing tasks"
-            }
-          },
-          {
-            "id": "84572541ee467497",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Writing tasks"
+              "icon": "lucide-layout-dashboard",
+              "title": "Outline of the story"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,14 +209,17 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "9d7e7854ddbf1908",
+  "active": "8c016fd0ac2988f7",
   "lastOpenFiles": [
+    "Exhibitionist Priest/05 - Tasks/Should Joseph have a female friend.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/03 - Index/Characters/Emma.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
     "Exhibitionist Priest/07 - Rough Notes/Character names.md",
     "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
     "Exhibitionist Priest/07 - Rough Notes/Titles ideas.md",
     "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
     "5 - Template/Kanban Card Template.md",
     "6 - Zettelkastem/Daily notes/2026-02-19.md",
@@ -283,9 +260,6 @@
     "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Cesare.md",
     "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph.md",
     "4 - Indexes/Characters/God;Mad/Cosmic Beings/Charles.md",
-    "4 - Indexes/Characters/God;Mad/Cosmic Beings/Shaïkhklan.md",
-    "4 - Indexes/Characters/God;Mad/Cosmic Beings/Chark.md",
-    "4 - Indexes/Characters/God;Mad/Marie-Jil.md",
     "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Outline Chillasque.canvas"
   ]
 }
