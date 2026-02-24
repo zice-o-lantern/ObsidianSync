@@ -186,9 +186,9 @@
 		{"id":"92abead0792e9271","type":"text","text":":3 changed it","x":-2205,"y":-139,"width":250,"height":101,"color":"6"},
 		{"text":"also moke doesnt like stories duh....","type":"text","id":"25f65b73efeef5c3","x":-1780,"y":-640,"width":250,"height":60,"color":"#89106f"},
 		{"id":"14a8cac856640b34","type":"text","text":"The camera belonged to his uncle","x":-526,"y":311,"width":250,"height":60,"color":"2"},
+		{"id":"17b14bb10e19b282","type":"text","text":"when did he tell you taht lol","x":-1780,"y":-499,"width":250,"height":60,"color":"6"},
 		{"type":"text","text":"I see I see, I was thinking of maybe firing even later like Lucas finds and develops the pellicule of the remains of the camera and realise that the relationship that he investigates, where he thought cesare was the one grooming and abusing him, was in fact mutual","id":"98e43937c9928581","x":6331,"y":2140,"width":373,"height":228,"color":"6"},
-		{"id":"042eb4c85c09adbc","text":"yay!","type":"text","x":-2186,"y":10,"width":250,"height":60,"color":"#86095e"},
-		{"id":"17b14bb10e19b282","type":"text","text":"when did he tell you taht lol","x":-1780,"y":-499,"width":250,"height":60,"color":"6"}
+		{"id":"042eb4c85c09adbc","text":"yay!","type":"text","x":-2186,"y":10,"width":250,"height":60,"color":"#86095e"}
 	],
 	"edges":[
 		{"id":"1ffdc3019b1cbeef","fromNode":"a9eeaddc2d383660","fromSide":"top","toNode":"530944dc300e07bd","toSide":"bottom"},

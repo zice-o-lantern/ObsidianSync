@@ -13,16 +13,15 @@ kanban-plugin: board
 ## DOING
 
 - [ ] Develop Cesare backstory
+- [ ] [[Should the photo J take be a mistake or on purpose]]
 - [ ] [[Is the collective hallucination plot point pertinent to the story]]
 
 
 ## PEER REVIEW
 
 - [ ] Develop Joesph in grandma's house
-- [ ] [[Determine when to fire the checkov's gun]]
-- [ ] [[Should the photo J take be a mistake or on purpose]]
-- [ ] see if murk is ok with emma
 - [ ] see if murk is ok with cesare and isaac meeting meeting
+- [ ] [[Determine when to fire the checkov's gun]]
 
 
 ## DONE
@@ -37,7 +36,6 @@ kanban-plugin: board
 
 ## PINNED FOR LATER
 
-- [ ] [[Is the collective hallucination plot point pertinent to the story]]
 - [ ] [[Should Joseph be the one spying on Cesare in the incipit]]
 
 

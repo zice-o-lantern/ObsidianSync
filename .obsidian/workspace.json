@@ -10,18 +10,19 @@
           {
             "id": "40c5bee39fd90cb8",
             "type": "split",
+            "dimension": 33.90804597701149,
             "children": [
               {
                 "id": "b2d53c32ebbdd31b",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "52fc0cb56ae9f9e8",
+                    "id": "f7c12143b10971f4",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Exhibitionist Priest/07 - Rough Notes/Character names.md",
+                        "file": "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
                         "mode": "source",
                         "source": false,
                         "backlinks": true,
@@ -36,10 +37,35 @@
                         }
                       },
                       "icon": "lucide-file",
-                      "title": "Character names"
+                      "title": "Determine when to fire the checkov's gun"
+                    }
+                  },
+                  {
+                    "id": "dde91ff0ac90498e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Should the photo J take be a mistake or on purpose"
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "7d4a40353230eceb",
@@ -51,10 +77,11 @@
                     "state": {
                       "type": "kanban",
                       "state": {
-                        "file": "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
+                        "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
                         "kanbanViewState": {
                           "kanban-plugin": "board",
                           "list-collapse": [
+                            false,
                             false,
                             false,
                             false,
@@ -63,7 +90,7 @@
                         }
                       },
                       "icon": "lucide-trello",
-                      "title": "Art Tasks"
+                      "title": "Writing tasks"
                     }
                   }
                 ]
@@ -74,44 +101,47 @@
           {
             "id": "dd118b66b071fad2",
             "type": "tabs",
-            "dimension": 63.29022988505747,
+            "dimension": 66.0919540229885,
             "children": [
               {
                 "id": "b24cc7a8e95e75fa",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "canvas",
                   "state": {
                     "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                     "viewState": {
-                      "x": -44.91467028468091,
-                      "y": 2228.1931645060977,
-                      "zoom": -1.0459495858604948
+                      "x": -2721.9923166441527,
+                      "y": 548.7187244018753,
+                      "zoom": 0.33333333333333365
                     }
                   },
+                  "pinned": true,
                   "icon": "lucide-layout-dashboard",
                   "title": "Outline of the story"
                 }
               },
               {
-                "id": "f7c12143b10971f4",
+                "id": "391fe35b135b8632",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "canvas",
                   "state": {
-                    "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                    "file": "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
                     "viewState": {
-                      "x": -1736.5926365101168,
-                      "y": 30.04128061344369,
-                      "zoom": -2.0459495858604946
+                      "x": 259.1687602412876,
+                      "y": 4124.439774518737,
+                      "zoom": 1.1102230246251565e-16
                     }
                   },
+                  "pinned": true,
                   "icon": "lucide-layout-dashboard",
-                  "title": "Outline of the story"
+                  "title": "Character Design"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -299,10 +329,23 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "f579f1dc1db03305",
+  "active": "b24cc7a8e95e75fa",
   "lastOpenFiles": [
+    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260224042740.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260224042712.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260224042700.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260224042202.png",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022433.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022450.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022707.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022713.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023126.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023100.png",
     "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
     "Exhibitionist Priest/07 - Rough Notes/Character names.md",
     "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
@@ -311,21 +354,9 @@
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/03 - Index/Places/Café.md",
     "Exhibitionist Priest/05 - Tasks/Archived/Develop how they met.md",
-    "Exhibitionist Priest/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg",
     "Exhibitionist Priest/05 - Tasks/Remaining Tasks.md",
-    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
-    "Exhibitionist Priest/02 - Attachments/yin-yang.png",
-    "Exhibitionist Priest/02 - Attachments/smell-nagabe.png",
-    "Exhibitionist Priest/02 - Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg",
-    "Exhibitionist Priest/02 - Attachments/Scarbrow-Dymond-Lake-Ecolodge-Jianguo-Xie-1k.jpg",
-    "Exhibitionist Priest/02 - Attachments/Polar_Bear_-_Alaska_(cropped).jpg",
-    "Exhibitionist Priest/02 - Attachments/photo_2026-02-17_11-49-41.jpg",
     "Exhibitionist Priest/01 - Zettelkasten/Overview.md",
-    "Exhibitionist Priest/02 - Attachments/nice-black-timbewolf.webp",
-    "Exhibitionist Priest/02 - Attachments/lamb-lying-in-meadow.jpg",
-    "Exhibitionist Priest/02 - Attachments/Kolmården_Wolf.jpg",
-    "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph be the one spying on Cesare in the incipit.md",
+    "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit 1.md",
     "Exhibitionist Priest/03 - Index/Characters/Joseph.md",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/Overview English - Notes - Murkwater.md",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/Untitled.md",
@@ -338,7 +369,6 @@
     "Exhibitionist Priest/05 - Tasks/Should Joseph be the one spying on Cesare in the incipit.md",
     "Exhibitionist Priest/05 - Tasks/Should the photo J take be a mistake or on purpose.md",
     "5 - Template/Kanban Card Template.md",
-    "Exhibitionist Priest/05 - Tasks/Should Joseph have a female friend.md",
     "6 - Zettelkastem/Daily notes",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Character Design.canvas",
