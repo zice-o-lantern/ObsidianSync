@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] sprites moodboard
-- [ ] Town moodboard
 - [ ] Ui concepts
 - [ ] Lucas concepts
 - [ ] Silver fox! Cesare more concepts
@@ -15,6 +13,8 @@ kanban-plugin: board
 
 ## DOING
 
+- [ ] Town moodboard
+- [ ] sprites moodboard
 
 
 ## PEER REVIEW
