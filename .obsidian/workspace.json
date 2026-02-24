@@ -8,16 +8,45 @@
         "type": "split",
         "children": [
           {
-            "id": "dc956f65eb789b2d",
+            "id": "40c5bee39fd90cb8",
             "type": "split",
-            "dimension": 36.70977011494253,
             "children": [
               {
-                "id": "9417f52adacdd87d",
+                "id": "b2d53c32ebbdd31b",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "e59ec20a7324b51a",
+                    "id": "52fc0cb56ae9f9e8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Exhibitionist Priest/07 - Rough Notes/Character names.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Character names"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "7d4a40353230eceb",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f579f1dc1db03305",
                     "type": "leaf",
                     "state": {
                       "type": "kanban",
@@ -35,36 +64,6 @@
                       },
                       "icon": "lucide-trello",
                       "title": "Art Tasks"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "a114667da330ad4c",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "4a5a71e9be96f738",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "Determine when to fire the checkov's gun"
                     }
                   }
                 ]
@@ -93,8 +92,26 @@
                   "icon": "lucide-layout-dashboard",
                   "title": "Outline of the story"
                 }
+              },
+              {
+                "id": "f7c12143b10971f4",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                    "viewState": {
+                      "x": -1736.5926365101168,
+                      "y": 30.04128061344369,
+                      "zoom": -2.0459495858604946
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Outline of the story"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -282,26 +299,19 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "b24cc7a8e95e75fa",
+  "active": "f579f1dc1db03305",
   "lastOpenFiles": [
-    "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph be the one spying on Cesare in the incipit.md",
-    "Exhibitionist Priest/03 - Index/Characters/Emma.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph have a female friend.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
-    "Exhibitionist Priest/07 - Rough Notes/Titles ideas.md",
-    "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
-    "1 - Rough Notes/Truc pour tester obisidian lol.md",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters",
-    "Exhibitionist Priest/01 - Zettelkasten",
-    "Exhibitionist Priest/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg",
+    "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
     "Exhibitionist Priest/07 - Rough Notes/Character names.md",
+    "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
+    "Exhibitionist Priest/05 - Tasks/Archived/Should Joseph have a female friend.md",
+    "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph have a female friend.md",
+    "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
+    "Exhibitionist Priest/03 - Index/Places/Café.md",
+    "Exhibitionist Priest/05 - Tasks/Archived/Develop how they met.md",
+    "Exhibitionist Priest/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg",
     "Exhibitionist Priest/05 - Tasks/Remaining Tasks.md",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/02 - Attachments/yin-yang.png",
@@ -314,6 +324,8 @@
     "Exhibitionist Priest/02 - Attachments/nice-black-timbewolf.webp",
     "Exhibitionist Priest/02 - Attachments/lamb-lying-in-meadow.jpg",
     "Exhibitionist Priest/02 - Attachments/Kolmården_Wolf.jpg",
+    "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph be the one spying on Cesare in the incipit.md",
     "Exhibitionist Priest/03 - Index/Characters/Joseph.md",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/Overview English - Notes - Murkwater.md",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/Untitled.md",

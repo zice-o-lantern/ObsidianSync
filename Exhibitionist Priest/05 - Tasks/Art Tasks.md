@@ -14,7 +14,6 @@ kanban-plugin: board
 ## DOING
 
 - [ ] Town moodboard
-- [ ] sprites moodboard
 
 
 ## PEER REVIEW
@@ -23,6 +22,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [x] sprites moodboard
 
 
 

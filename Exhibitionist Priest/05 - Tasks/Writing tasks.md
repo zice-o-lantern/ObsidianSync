@@ -12,8 +12,8 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] [[Develop how they met]]
-- [ ] Find a new name for Joseph
+- [ ] Develop Cesare backstory
+- [ ] [[Is the collective hallucination plot point pertinent to the story]]
 
 
 ## PEER REVIEW
@@ -28,8 +28,11 @@ kanban-plugin: board
 ## DONE
 
 - [x] [[Should Joseph have a female friend]]
+- [x] Find a new name for Joseph
 - [x] What Cesare should strive for
 - [x] Add moodboard to character desgin
+- [x] see if murk is ok with emma
+- [x] [[Develop how they met]]
 
 
 ## PINNED FOR LATER
