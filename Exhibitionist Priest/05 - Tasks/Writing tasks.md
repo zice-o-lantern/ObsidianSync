@@ -15,10 +15,9 @@ kanban-plugin: board
 
 ## PEER REVIEW
 
-- [ ] Develop Joesph in grandma's house
-- [ ] Develop Cesare backstory
+- [ ] [[Develop Joesph in grandma's house]] @{2026-02-24}
 - [ ] [[see if murk is ok with cesare and isaac meeting]]
-- [ ] Develop Cesare backstory
+- [ ] [[Develop Cesare backstory]]
 - [ ] [[Determine when to fire the checkov's gun]]
 - [ ] [[Should the photo I take be a mistake or on purpose]]
 - [ ] [[Is the collective hallucination plot point pertinent to the story]]
@@ -43,6 +42,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"inline-metadata-position":"body","metadata-keys":[{"metadataKey":"cards-cover","label":"Cover","shouldHideLabel":false,"containsMarkdown":true},{"metadataKey":"author","label":"Author","shouldHideLabel":false,"containsMarkdown":true},{"metadataKey":"assigned","label":"","shouldHideLabel":false,"containsMarkdown":false}]}
 ```
 %%

@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "created": "datetime",
+    "due-date": "date",
+    "cards-cover": "text",
+    "author": "multitext",
+    "assigned": "multitext"
+  }
+}

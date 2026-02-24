@@ -1,5 +1,4 @@
 ---
-cards-cover: '"![[bafkreia7ot76wk3nuvzjevzr4iykwhzxaysbwwbtti44vb2rbp4fn2dcvm.jpg]]"'
 tags:
 ---
 <span style="color:rgb(232, 17, 93)">is this meant to be a fake out for the audience? Like, it's framed like it's cesare stalking joseph but it's actually Joseph taking pictures of Cesare? - murkwater</span>

@@ -1,5 +1,5 @@
 ---
-created: "{{YYYY-MM-DD}:null}"
+created: 2026-02-23T15:37:00
 author:
 cards-cover:
 ---

@@ -1,8 +1,16 @@
 ---
-created: "{{YYYY-MM-DD}:null}"
-author:
-cards-cover:
+created: 2026-02-21T15:01:00
+author: Shinkkabae
 ---
+<span style="color:rgb(232, 17, 93)">So, in notation #6 ([[Overview English - Notes - Murkwater]]), I propose that you save the initial photo of Cesare naked as a smoking gun for later, I think this would be a more optimal time for Joseph's oldest photo of the naked Cesare to appear, that would better confirm for Cesare and the audience that Joseph's desires are genuinely and not performative or "fake" for Cesare's sake. You would essentially prove to Cesare that Joseph is a "real one" as far as perverts go. -Murkwater</span>
+
+<span style="color:rgb(232, 17, 93)">I think that this might work better if the coffee spill/drop is an accident, and Joseph <i>cant help</i> but to take a picture of Cesare's exposed genitalia when he gets down to clean it up, potentially even surprising himself at his embrace of depravity - murkie</span>
+
+<span style="color:rgb(232, 17, 93)">in the case where Cesare catches Joseph taking pictures of him directly again, it is the perfect chance for him to feel vindicated and motivated to check the entirety of Joseph's gallery, leading to the discovery of Joseph being the one at the beginning of the novel to take a picture, but also to confirm to the audience and Cesare that Joseph is serious about his desires, what he sees in Cesare, so on and not chasing a folly-lust. - Murkwater</span>
+
+<span style="color:rgb(76, 58, 166)">I see I see, I was thinking of maybe firing even later like Lucas finds and develops the pellicule of the remains of the camera and realise that the relationship that he investigates, where he thought cesare was the one grooming and abusing him, was in fact mutual</span>
+<span style="color:rgb(232, 17, 93)"><br>I do enjoy saving it for even later to sooth some of Cesare's/Joseph's dynamic doubts, especially since it makes sense that Cesare would worry about this given both chartacter's pasts.</span>
+
 <span style="color:rgb(76, 58, 166)">Im still trying to determine on that</span>
 
 <span style="color:rgb(232, 17, 93)"> I think on purpose fits the narrative better than by mistake. I think if anything, Isaac should lie about it being a mistake at most. </span>

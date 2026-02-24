@@ -1,7 +1,12 @@
 ---
-created: "{{YYYY-MM-DD}:null}"
+created: 2026-02-24T15:33:00
 author:
-cards-cover:
+  - Shinkkabae
+  - Murkwater
+cards-cover: "![[route-asphaltee-dans-ville-paysage-rural-au-coucher-du-soleil_169016-19774.avif]]"
+assigned:
+  - Shinkkabae
+  - Murkwater
 ---
 <span style="color:rgb(76, 58, 166)">I did this to make the scene more interesting but is pertinent. Maybe it should be another thing</span>
 
