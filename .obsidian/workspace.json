@@ -10,7 +10,7 @@
           {
             "id": "40c5bee39fd90cb8",
             "type": "split",
-            "dimension": 33.90804597701149,
+            "dimension": 40.37356321839081,
             "children": [
               {
                 "id": "b2d53c32ebbdd31b",
@@ -74,6 +74,7 @@
                   {
                     "id": "f579f1dc1db03305",
                     "type": "leaf",
+                    "pinned": true,
                     "state": {
                       "type": "kanban",
                       "state": {
@@ -89,6 +90,7 @@
                           ]
                         }
                       },
+                      "pinned": true,
                       "icon": "lucide-trello",
                       "title": "Writing tasks"
                     }
@@ -101,7 +103,7 @@
           {
             "id": "dd118b66b071fad2",
             "type": "tabs",
-            "dimension": 66.0919540229885,
+            "dimension": 59.62643678160919,
             "children": [
               {
                 "id": "b24cc7a8e95e75fa",
@@ -112,9 +114,9 @@
                   "state": {
                     "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                     "viewState": {
-                      "x": 1064.8714307133168,
-                      "y": -1042.703929502756,
-                      "zoom": -2.666666666666666
+                      "x": -38.863020738258115,
+                      "y": -1751.708758309155,
+                      "zoom": -1.6666666666666656
                     }
                   },
                   "pinned": true,
@@ -131,9 +133,9 @@
                   "state": {
                     "file": "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
                     "viewState": {
-                      "x": 259.1687602412876,
-                      "y": 4124.439774518737,
-                      "zoom": 1.1102230246251565e-16
+                      "x": -382.11483598750715,
+                      "y": 4108.964587916045,
+                      "zoom": -1.3333333333333333
                     }
                   },
                   "pinned": true,
@@ -329,12 +331,18 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "f579f1dc1db03305",
+  "active": "b24cc7a8e95e75fa",
   "lastOpenFiles": [
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/05 - Tasks/Current/Should the photo I take be a mistake or on purpose.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Should the photo I take be a mistake or on purpose.md",
+    "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Cesare entering in the booth with Isaac.md",
+    "Exhibitionist Priest/05 - Tasks/Archived/Untitled.md",
+    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
+    "Pasted image 20260224135618.png",
+    "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
     "Exhibitionist Priest/01 - Zettelkastem/Glossary for Outline.md",
     "Exhibitionist Priest/01 - Zettelkastem/Overview English.md",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191504.png",
@@ -346,12 +354,10 @@
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191220.png",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191208.png",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191129.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191149.png",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters",
     "Exhibitionist Priest/01 - Zettelkasten",
-    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
     "Exhibitionist Priest/07 - Rough Notes/Character names.md",
     "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
@@ -370,9 +376,6 @@
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
     "Exhibitionist Priest/04 - Tags",
     "Exhibitionist Priest/05 - Tasks/Determine when to fire the checkov's gun.md",
-    "Exhibitionist Priest/05 - Tasks/Is the collective hallucination plot point pertinent to the story.md",
-    "Exhibitionist Priest/05 - Tasks/Develop how they met.md",
-    "Exhibitionist Priest/05 - Tasks/Should Joseph be the one spying on Cesare in the incipit.md",
     "6 - Zettelkastem/Daily notes",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Character Design.canvas",

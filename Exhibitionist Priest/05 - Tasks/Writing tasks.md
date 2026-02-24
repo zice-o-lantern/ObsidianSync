@@ -6,22 +6,22 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] Develop Cesare backstory
 - [ ] Develop Story Places
 
 
 ## DOING
 
-- [ ] [[Should the photo I take be a mistake or on purpose]]
-- [ ] [[Is the collective hallucination plot point pertinent to the story]]
 
 
 ## PEER REVIEW
 
 - [ ] Develop Joesph in grandma's house
 - [ ] Develop Cesare backstory
-- [ ] see if murk is ok with cesare and isaac meeting meeting
+- [ ] [[see if murk is ok with cesare and isaac meeting]]
+- [ ] Develop Cesare backstory
 - [ ] [[Determine when to fire the checkov's gun]]
+- [ ] [[Should the photo I take be a mistake or on purpose]]
+- [ ] [[Is the collective hallucination plot point pertinent to the story]]
 
 
 ## DONE
