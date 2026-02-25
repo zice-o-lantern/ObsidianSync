@@ -15,5 +15,9 @@ This can also help soothe any tension Isaac might have in not accepting the prop
 
 Also i thought the camera shattering when they were fighting  could be good symbolism to signify the turn of the page in Isaac's life. Like he won't be able to exert his urges with a tool or with a distance anymore. If he'll want to explore those urges, he'll have to either stop, or really put it into work.</span>
 
+<span style="color:rgb(232, 17, 93)"> I do like this, it removes the safe shield that Isaac has created through use of a camera (a metaphorical and physical tool of providing distance from the subject). I think we break the camera, but not entirely, and leave the memory card intact. Then we can have the camera as a tool for use later, of course implicitly. If we _shatter_ the camera we cant use it, but if we just _break_ it it gives us a tool if we want to expose these photos to other characters later in the story :3 I think this plotpoint is good to work with and move to done now though!</span>
+
+<span style="color:rgb(76, 58, 166)">Okay i agree with you! It will be just broken!</span>
+
 
 

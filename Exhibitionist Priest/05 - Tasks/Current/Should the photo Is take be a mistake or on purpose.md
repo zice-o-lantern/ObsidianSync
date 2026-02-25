@@ -17,3 +17,6 @@ author: Shinkkabae
 
 <span style="color:rgb(76, 58, 166)">I see more being on purpose and pretending to be a mistake because i thought it was hot that you know, we give a chance to Cesare and Isaac to go their own separate ways (maybe you noticed but there is multiple times where Isaac can back out like when C gives him back the camera or when he apologises, C tries not to keep him and less arguably when C drove I to his home instead of his own) (urgh i hate the yaoi writing lol) but all of those recent events awaken feelings in him that he can't forget anymore. So he spends his week only thinking about that. At the end he cracks and goes to Cesare for admitting what he's been feeling. But when he opens the doors, he freaks out and pretends to have come here to apologise for the digging he did on Cesare!</span>
 
+<span style="color:rgb(232, 17, 93)">I think this is a good turn of events for a strong characterization if we give Isaac ways to lie as you have. It even lets him lie to himself a little bit if we'd like to play with that over the narrative week the two spend apart/thinking about it all. I approve of this for our first version of part 1</span>
+
+<span style="color:rgb(76, 58, 166)">Ok thanks!</span>
