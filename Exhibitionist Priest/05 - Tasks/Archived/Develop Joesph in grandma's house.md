@@ -1,6 +1,10 @@
 ---
 author: Shinkkabae
 created: 2026-02-24
+cards-cover: "![[f063c10e674a351c50a76c6b4f454496.jpg]]"
+assigned:
+  - Shinkkabae
+  - Murkwater
 ---
 <span style="color:rgb(232, 17, 93)">I will definitely need to see more of how the story unfolds before us before commenting on how to go about the development of the grooming. I think it's important we solidify and explore the later end parts of Cesare and Joseph's dynamic to get a feel for how to best approach this. - murkwater</span>
        

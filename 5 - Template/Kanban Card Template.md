@@ -1,5 +1,9 @@
 ---
-created: "{{YYYY-MM-DD}:null}"
 author:
+created:
+due-date:
+kanban-plugin:
 cards-cover:
+priority:
+assigned:
 ---

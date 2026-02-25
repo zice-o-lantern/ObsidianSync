@@ -15,6 +15,8 @@ kanban-plugin: board
 
 ## PEER REVIEW
 
+- [ ] [[Develop Joesph in grandma's house]] @{2026-02-24}
+- [ ] [[see if murk is ok with cesare and isaac meeting]]
 - [ ] [[Develop Cesare backstory]]
 - [ ] [[Determine when to fire the checkov's gun]]
 - [ ] [[Should the photo I take be a mistake or on purpose]]
