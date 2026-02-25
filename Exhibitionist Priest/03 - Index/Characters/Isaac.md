@@ -1,9 +1,14 @@
-tags: [[Exhibitionist Priest]]
-
-Race : still don't know   
-Gender : Male
-Profession : Lawyer
-Age : 27 y
+---
+full-name: Isaac Monteloth
+age: 27
+profession: Lawyer
+aliases:
+  - Izzy
+species: unassigned
+relatives:
+  - "[[Cesare|Cesare (main interest love)]]"
+tags:
+---
 
 Description :
 

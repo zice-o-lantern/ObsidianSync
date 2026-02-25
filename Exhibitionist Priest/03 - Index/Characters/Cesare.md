@@ -1,3 +1,8 @@
+---
+aliases:
+  - Cesare (main interest love)
+---
+
 Race : Maned Fox
 
 Genre : Mâle

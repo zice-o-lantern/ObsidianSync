@@ -17,30 +17,6 @@
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "dde91ff0ac90498e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "Is the collective hallucination plot point pertinent to the story"
-                    }
-                  },
-                  {
                     "id": "57af6ce7728439ed",
                     "type": "leaf",
                     "state": {
@@ -52,8 +28,7 @@
                       "title": "f063c10e674a351c50a76c6b4f454496"
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "7d4a40353230eceb",
@@ -102,9 +77,9 @@
                   "state": {
                     "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                     "viewState": {
-                      "x": 1699.292383851615,
-                      "y": 928.9079046344716,
-                      "zoom": -1.6666666666666663
+                      "x": 1610.4829098389998,
+                      "y": 794.9372189981268,
+                      "zoom": -3.333333333333333
                     }
                   },
                   "pinned": true,
@@ -130,8 +105,33 @@
                   "icon": "lucide-layout-dashboard",
                   "title": "Character Design"
                 }
+              },
+              {
+                "id": "d371bc54030fe6ab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Isaac"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -319,15 +319,23 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "57af6ce7728439ed",
+  "active": "d371bc54030fe6ab",
   "lastOpenFiles": [
+    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
+    "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
+    "Cesare]] (friend).md",
+    "7 - Attachments/f063c10e674a351c50a76c6b4f454496.jpg",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
+    "Exhibitionist Priest/03 - Index/Characters/Joseph.md",
+    "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
+    "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Untitled.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Develop Cesare backstory.md",
     "Exhibitionist Priest/02 - Attachments/Screenshot 2026-02-24 154025.png",
-    "7 - Attachments/f063c10e674a351c50a76c6b4f454496.jpg",
     "7 - Attachments/route-asphaltee-dans-ville-paysage-rural-au-coucher-du-soleil_169016-19774.avif",
-    "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
     "5 - Template/Kanban Card Template.md",
     "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
     "Exhibitionist Priest/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
@@ -356,12 +364,6 @@
     "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
     "Exhibitionist Priest/07 - Rough Notes/Character names.md",
     "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
-    "Exhibitionist Priest/05 - Tasks/Archived/Should Joseph have a female friend.md",
-    "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
-    "Exhibitionist Priest/03 - Index/Places/Café.md",
-    "Exhibitionist Priest/05 - Tasks/Archived/Develop how they met.md",
-    "Exhibitionist Priest/05 - Tasks/Remaining Tasks.md",
-    "Exhibitionist Priest/01 - Zettelkasten/Overview.md",
     "Exhibitionist Priest/04 - Tags",
     "6 - Zettelkastem/Daily notes",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
@@ -374,7 +376,6 @@
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 3.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 2.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story(1).canvas",
-    "6 - Zettelkastem/Exhibitionist Priest 1/Story's places.canvas",
-    "6 - Zettelkastem/Exhibitionist Priest 1/Outline of the story.canvas"
+    "6 - Zettelkastem/Exhibitionist Priest 1/Story's places.canvas"
   ]
 }
