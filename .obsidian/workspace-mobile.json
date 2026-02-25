@@ -8,37 +8,70 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d7e7854ddbf1908",
+            "id": "8c016fd0ac2988f7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -949.8684544497514,
-                  "y": 117.9296755830348,
-                  "zoom": -1.6867046748113548
+                  "x": 247.59827203016107,
+                  "y": 1756.869554097811,
+                  "zoom": -1.4837282246120624
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Outline of the story"
             }
           },
           {
-            "id": "8c016fd0ac2988f7",
+            "id": "9580cc5f665e6ab7",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-                "viewState": {
-                  "x": -380.0838450581514,
-                  "y": 839.723688758198,
-                  "zoom": -2.5206926939866436
+                "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Outline of the story"
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Writing tasks"
+            }
+          },
+          {
+            "id": "c5184c30f5df1121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Determine when to fire the checkov's gun"
             }
           }
         ],
@@ -143,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Exhibitionist Priest/07 - Rough Notes/Titles ideas.md",
+            "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -209,57 +242,57 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "8c016fd0ac2988f7",
+  "active": "9580cc5f665e6ab7",
   "lastOpenFiles": [
-    "Exhibitionist Priest/05 - Tasks/Should Joseph have a female friend.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Should the photo I take be a mistake or on purpose.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Develop Cesare backstory.md",
+    "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
+    "Exhibitionist Priest/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Cesare entering in the booth with Isaac.md",
+    "Exhibitionist Priest/05 - Tasks/Archived/Develop Joesph in grandma's house.md",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260224135618.png",
+    "Exhibitionist Priest/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
+    "Exhibitionist Priest/02 - Attachments/Screenshot 2026-02-24 154025.png",
+    "Untitled.md",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023126.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023118.png",
+    "Exhibitionist Priest/02 - Attachments/83f9872575139b676e9640543df39631.jpg",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022658.png",
+    "Exhibitionist Priest/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022707.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022713.png",
+    "Exhibitionist Priest/05 - Tasks/Should Joseph have a female friend.md",
     "Exhibitionist Priest/03 - Index/Characters/Emma.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
     "Exhibitionist Priest/07 - Rough Notes/Character names.md",
     "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
     "Exhibitionist Priest/07 - Rough Notes/Titles ideas.md",
-    "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
     "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
     "5 - Template/Kanban Card Template.md",
     "6 - Zettelkastem/Daily notes/2026-02-19.md",
     "6 - Zettelkastem/Daily notes",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023118.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023126.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023100.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022450.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022723.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022707.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022713.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022658.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022409.png",
-    "Exhibitionist Priest/02 - Attachments/83f9872575139b676e9640543df39631.jpg",
     "Exhibitionist Priest/05 - Tasks/Pinned",
     "Exhibitionist Priest/05 - Tasks/Current",
     "Exhibitionist Priest/05 - Tasks/Archived",
-    "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
     "Exhibitionist Priest/07 - Rough Notes",
     "Exhibitionist Priest/07 q Rough notes",
     "Exhibitionist Priest/05 - Tasks/Current/Develop how they met.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/Untitled.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should Joseph be the one spying on Cesare in the incipit.md",
-    "Exhibitionist Priest/05 - Tasks/Archived/What should Cesare strive for.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
-    "Exhibitionist Priest/03 - Index/Exhibitionist Priest.md",
     "Exhibitionist Priest/04 - Tags",
-    "2 - Source Materials/Books/Hygiène de l'Assassin, Amélie Nothomb (1992).md",
     "2 - Source Materials/Books",
-    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Jeff.md",
-    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Cesare.md",
-    "4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Joseph.md",
-    "4 - Indexes/Characters/God;Mad/Cosmic Beings/Charles.md",
     "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Outline Chillasque.canvas"
   ]
 }
