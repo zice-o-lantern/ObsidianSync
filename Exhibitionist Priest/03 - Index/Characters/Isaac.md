@@ -1,9 +1,11 @@
 ---
 full-name: Isaac Monteloth
 age: 27
+gender: male
 profession: Lawyer
 aliases:
   - Izzy
+  - Isaac (main interest love)
 species: unassigned
 relatives:
   - "[[Cesare|Cesare (main interest love)]]"

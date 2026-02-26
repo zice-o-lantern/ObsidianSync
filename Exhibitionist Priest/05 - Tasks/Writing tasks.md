@@ -10,11 +10,11 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] Develop Story Places
 
 
 ## PEER REVIEW
 
+- [ ] Develop Story Places
 - [ ] [[Develop Cesare backstory]]
 
 

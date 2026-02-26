@@ -22,30 +22,6 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Exhibitionist Priest/03 - Index/Characters/Simone.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "Simone"
-                    }
-                  },
-                  {
-                    "id": "4af416625db9d23c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
                         "file": "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
                         "mode": "source",
                         "source": false,
@@ -64,8 +40,7 @@
                       "title": "Isaac"
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "7d4a40353230eceb",
@@ -93,6 +68,30 @@
                       "pinned": true,
                       "icon": "lucide-trello",
                       "title": "Writing tasks"
+                    }
+                  },
+                  {
+                    "id": "133014d9da97e18b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Cesare"
                     }
                   }
                 ]
@@ -144,30 +143,26 @@
                 }
               },
               {
-                "id": "d371bc54030fe6ab",
+                "id": "146f12d440614578",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "Exhibitionist Priest/03 - Index/Characters/Simone.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
+                    "file": "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
+                    "viewState": {
+                      "x": 1386.293796959097,
+                      "y": 1238.5410095384066,
+                      "zoom": -1.666666666666666
                     }
                   },
-                  "icon": "lucide-file",
-                  "title": "Simone"
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Story's locations"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -202,7 +197,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"author\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -355,16 +350,29 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "4af416625db9d23c",
+  "active": "146f12d440614578",
   "lastOpenFiles": [
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
+    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/03 - Index/Characters/Simone.md",
+    "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
+    "Exhibitionist Priest/03 - Index/Places/Café.md",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105449.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105438.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105339.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105314.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022433.png",
+    "Exhibitionist Priest/02 - Attachments/goat.jpg",
+    "Exhibitionist Priest/02 - Attachments/finbpjpirbespgfpul19.jpg",
+    "Exhibitionist Priest/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg",
+    "Exhibitionist Priest/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg",
+    "Exhibitionist Priest/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG",
+    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Current/Develop Cesare backstory.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Cesare]] (friend).md",
-    "7 - Attachments/f063c10e674a351c50a76c6b4f454496.jpg",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
     "Exhibitionist Priest/03 - Index/Characters/Joseph.md",
     "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
@@ -372,29 +380,16 @@
     "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/Untitled.md",
     "Develop Cesare backstory.md",
-    "Exhibitionist Priest/02 - Attachments/Screenshot 2026-02-24 154025.png",
-    "7 - Attachments/route-asphaltee-dans-ville-paysage-rural-au-coucher-du-soleil_169016-19774.avif",
     "5 - Template/Kanban Card Template.md",
     "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
-    "Exhibitionist Priest/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
     "Exhibitionist Priest/05 - Tasks/Archived/Develop Joesph in grandma's house.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should the photo I take be a mistake or on purpose.md",
-    "7 - Attachments/picture-taken-through-window.jpg",
-    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "test.md",
     "6 - Zettelkastem/Daily notes/2026-02-24.md",
     "Exhibitionist Priest/05 - Tasks/Archived/Untitled.md",
     "6 - Zettelkastem/Daily notes/2026-02-24 1.md",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260224135618.png",
     "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph have a female friend.md",
     "Exhibitionist Priest/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Cesare entering in the booth with Isaac.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Glossary for Outline.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Overview English.md",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191504.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191448.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191413.png",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes/Screenshot 2026-02-20 191400.png",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters",
@@ -407,10 +402,9 @@
     "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",
     "7 - Attachments/Exhibitionist Priest",
     "6 - Zettelkastem/Exhibitionist Priest/Attachments/Icons",
-    "4 - Indexes/Places",
+    "Exhibitionist Priest/03 - Index/Places/Places",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 3.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 2.canvas",
-    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story(1).canvas",
-    "6 - Zettelkastem/Exhibitionist Priest 1/Story's places.canvas"
+    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story(1).canvas"
   ]
 }

@@ -1,6 +1,13 @@
 ---
+full-name: Cesare
+age: 32
+gender: male
+profession: pastor
 aliases:
   - Cesare (main interest love)
+  - Cesare (friend)
+relatives:
+  - "[[Isaac|Isaac (main interest love)]]"
 ---
 
 Race : Maned Fox
