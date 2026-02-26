@@ -54,17 +54,24 @@
             "id": "da456073f10e109f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
-                "viewState": {
-                  "x": 234.77392595899914,
-                  "y": 292.76570337862654,
-                  "zoom": -1.2043986986084079
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Exhib Priest /Incipit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Story's locations"
+              "icon": "lucide-file",
+              "title": "Incipit"
             }
           }
         ],
@@ -157,7 +164,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "right": {
     "id": "01b7da18d89e3590",
@@ -235,8 +242,14 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "b90f92fe88a279ee",
+  "active": "da456073f10e109f",
   "lastOpenFiles": [
+    "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
+    "Exhibitionist Priest/01 - Zettelkastem/Exhib Priest /Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Exhib Priest /Index.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Exhib Priest ",
+    "Exhibitionist Priest/01 - Zettelkastem/Script",
+    "Exhibitionist Priest/03 - Index/Places/Places",
     "Exhibitionist Priest/02 - Attachments/IMG_0536.jpg",
     "7 - Attachments/IMG_0535.jpg",
     "Exhibitionist Priest/05 - Tasks/Current/Should the photo Is take be a mistake or on purpose.md",
@@ -253,7 +266,6 @@
     "Exhibitionist Priest/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
     "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
     "Exhibitionist Priest/05 - Tasks/Current/Develop Cesare backstory.md",
-    "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
     "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
     "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
     "Exhibitionist Priest/05 - Tasks/Current/Cesare entering in the booth with Isaac.md",
@@ -262,7 +274,6 @@
     "Exhibitionist Priest/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
     "Exhibitionist Priest/02 - Attachments/Screenshot 2026-02-24 154025.png",
     "Untitled.md",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222023126.png",
     "Exhibitionist Priest/05 - Tasks/Should Joseph have a female friend.md",
     "Exhibitionist Priest/03 - Index/Characters/Emma.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
@@ -280,12 +291,7 @@
     "Exhibitionist Priest/05 - Tasks/Current/Develop how they met.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Untitled.md",
     "Exhibitionist Priest/02 - Attachments/Attachments for Murkwater's notes",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions",
-    "Exhibitionist Priest/04 - Tags",
-    "2 - Source Materials/Books",
     "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Outline Chillasque.canvas"
   ]
 }
