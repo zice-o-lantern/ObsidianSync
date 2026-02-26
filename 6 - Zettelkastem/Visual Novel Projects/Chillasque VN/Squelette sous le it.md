@@ -1,4 +1,4 @@
-*==tags==*:[[Chark]], [[André]], [[skeleton]],[[protagonist]], [[edgy]], [[cosmic]], [[phone]], [[uneasy]], [[bedroom]], [[incipit]], [[fantastic]], [[psychological]], [[horror]], [[february]], [[new beginnings]]
+*==tags==*:[[Chark]], [[André]], [[skeleton]],[[protagonist]], [[edgy]], [[cosmic]], [[phone]], [[uneasy]], [[bedroom]], [[3 - Tags/incipit]], [[fantastic]], [[psychological]], [[horror]], [[february]], [[new beginnings]]
 
 ---
 La tête collée au sol, je le vois. L’alarme retentit dans la chambre. Je reste couché. Je sais qu’il est caché sous le lit. Il ne bouge pas. En tout cas je ne l’ai pas vu faire ; c’est mieux ainsi…  

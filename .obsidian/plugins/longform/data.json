@@ -1,18 +1,18 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Exhib Priest /Index.md",
+  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Script/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-02-26T01:01:41.698Z",
-      "total": 31,
+      "total": 29,
       "drafts": {
         "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
+          "total": 3,
           "scenes": {
-            "Squelette sous le it": 0,
+            "Squelette sous le it": 3,
             "Cours Barbant": 0,
             "Kris rencontre": 0,
             "Wolfg rencontre": 0,
@@ -48,6 +48,12 @@
           "total": 31,
           "scenes": {
             "Incipit": 31
+          }
+        },
+        "Exhibitionist Priest/01 - Zettelkastem/Script/Index.md": {
+          "total": 26,
+          "scenes": {
+            "Incipit": 26
           }
         }
       }
