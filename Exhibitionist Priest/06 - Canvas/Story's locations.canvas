@@ -1,6 +1,20 @@
 {
 	"nodes":[
-		{"id":"ccaad0297f79f078","x":-549,"y":357,"width":250,"height":60,"type":"text","text":"Joseph’s house "}
+		{"text":"[[Isaac]]'s House[[Joseph]]'s House","id":"6dd98f89a7c57ce5","type":"text","x":-257,"y":183,"width":250,"height":60,"color":"5"},
+		{"id":"31a4021ca27e464c","type":"text","text":"[[Cesare]]’s house","x":580,"y":183,"width":250,"height":60,"color":"5"},
+		{"type":"file","id":"bc0d67cf012f8aac","file":"Exhibitionist Priest/02 - Attachments/IMG_0530.jpg","x":-432,"y":-217,"width":300,"height":400},
+		{"file":"Exhibitionist Priest/02 - Attachments/IMG_0534.jpg","id":"6fe122925b09a4dd","type":"file","x":-132,"y":-217,"width":320,"height":400},
+		{"id":"2f5c1e626138a048","file":"Exhibitionist Priest/02 - Attachments/IMG_0535.jpg","type":"file","x":447,"y":-217,"width":267,"height":400},
+		{"type":"file","id":"dcb66dee7e515f08","file":"Exhibitionist Priest/02 - Attachments/IMG_0536.jpg","x":714,"y":-217,"width":267,"height":400},
+		{"text":"Blue tones","id":"775a8a4f6b3abc82","type":"text","x":-97,"y":357,"width":250,"height":60,"color":"2"},
+		{"text":"Then grandma’s","id":"f05475f8a6f648eb","type":"text","x":-432,"y":357,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Neighbors ","id":"0d5e0190d4504cf8","x":240,"y":243,"width":123,"height":57,"color":"2"},
+		{"type":"text","text":"Brown tones","id":"ee3102c39a96cdc0","x":680,"y":357,"width":250,"height":60,"color":"2"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"55f13308ff06b8e9","fromNode":"6dd98f89a7c57ce5","fromSide":"bottom","toNode":"775a8a4f6b3abc82","toSide":"top"},
+		{"id":"87c6b8f00f857ab8","fromNode":"6dd98f89a7c57ce5","fromSide":"bottom","toNode":"f05475f8a6f648eb","toSide":"top"},
+		{"id":"8db50fb04f89213b","fromNode":"6dd98f89a7c57ce5","fromSide":"right","toNode":"31a4021ca27e464c","toSide":"left"},
+		{"id":"e797b0766e941fd4","fromNode":"31a4021ca27e464c","fromSide":"bottom","toNode":"ee3102c39a96cdc0","toSide":"top"}
+	]
 }
