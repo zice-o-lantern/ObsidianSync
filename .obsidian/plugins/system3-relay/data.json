@@ -6,14 +6,14 @@
     {
       "path": "Exhibitionist Priest",
       "guid": "0f8c49e0-c43c-441b-9b17-5f23457faa85",
-      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
       "sync": {
         "images": true,
         "audio": true,
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      }
+      },
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c"
     }
   ],
   "endpoints": {},
@@ -40,5 +40,8 @@
   "enableDocumentServer": true,
   "enableMicrosoftLogin": true,
   "enableGitHubLogin": true,
-  "enableOIDCLogin": true
+  "enableOIDCLogin": true,
+  "login": {
+    "provider": "github"
+  }
 }
