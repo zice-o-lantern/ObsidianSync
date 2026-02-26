@@ -6,10 +6,14 @@ kanban-plugin: board
 
 ## TO DO
 
+- [ ] Finish [[Lucas]] sheet
+- [ ] Finish [[Simone]] sheet
+- [ ] Finish [[Cesare]] sheet
 
 
 ## DOING
 
+- [ ] write [[Exhibitionist Priest/01 - Zettelkastem/Script/Incipit|Incipit]]
 
 
 ## PEER REVIEW
@@ -19,6 +23,18 @@ kanban-plugin: board
 
 
 ## DONE
+
+
+
+## PINNED FOR LATER
+
+- [ ] [[Is the collective hallucination plot point pertinent to the story]]
+- [ ] [[Should Joseph be the one spying on Cesare in the incipit]]
+
+
+***
+
+## Archive
 
 - [x] [[Determine when to fire the checkov's gun]]
 - [x] [[Should the photo Is take be a mistake or on purpose]]
@@ -30,15 +46,6 @@ kanban-plugin: board
 - [x] Add moodboard to character desgin
 - [x] see if murk is ok with emma
 - [x] [[Develop how they met]]
-
-
-## PINNED FOR LATER
-
-- [ ] [[Is the collective hallucination plot point pertinent to the story]]
-- [ ] [[Should Joseph be the one spying on Cesare in the incipit]]
-
-
-
 
 %% kanban:settings
 ```
