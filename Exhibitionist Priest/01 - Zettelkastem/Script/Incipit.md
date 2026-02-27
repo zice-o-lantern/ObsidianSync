@@ -3,7 +3,7 @@ created: 2026-02-26T13:50:00
 longform:
 due-date: 2026-02-28
 ---
- La nuit tombée, j’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants ! Tes cernes tombantes témoignant de toute tes douceurs et douleurs. Ton visage triste recelant un côté inquiétant et pervers, et surtout à quel point tu rends encore mieux à travers les verres de jumelles. 
+ La nuit tombée, j’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants ! Tes cernes tombantes témoignant de toute tes douceurs et douleurs. Ton visage triste recelant un côté inquiétant et pervers, et surtout à quel point tu rends encore mieux à travers ces verres de jumelles. 
 
 Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. Je m'en mords la lèvre, même, mon seigneur, j'en halète. Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! Que dis-je, je le dévore. Puis tu t'arrêtes pensif. J'en profite pour reprendre mon souffle. J'ajuste les stores et je remets les jumelles au nez. Toujours à penser. Que c'est mignon.
 
