@@ -9,6 +9,8 @@
     "author": "multitext",
     "assigned": "multitext",
     "age": "number",
-    "relatives": "multitext"
+    "relatives": "multitext",
+    "location": "multitext",
+    "characters": "multitext"
   }
 }

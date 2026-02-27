@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -943.7981736498942,
-                  "y": 1525.6752516497263,
-                  "zoom": -1.4837282246120624
+                  "x": -1268.7727179094582,
+                  "y": 723.6153861934108,
+                  "zoom": -2.396291675904259
                 }
               },
               "pinned": true,
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit.md",
+                "file": "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,11 +71,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Incipit"
+              "title": "Cesare"
+            }
+          },
+          {
+            "id": "f52d5da16891ec65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/Grandma.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grandma"
+            }
+          },
+          {
+            "id": "c4420ef650e9b217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Isaac"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +224,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit.md",
+            "file": "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,10 +290,19 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "da456073f10e109f",
+  "active": "c4420ef650e9b217",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Script/Grandma.md",
+    "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
+    "Exhibitionist Priest/03 - Index/Exhibitionist Priest.md",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
+    "Exhibitionist Priest/03 - Index/Characters/Lucas.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit English.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit.md",
+    "Exhibitionist Priest/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg",
+    "Exhibitionist Priest/04 - Tags",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Part 1",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Index.md",
@@ -262,8 +319,6 @@
     "Exhibitionist Priest/02 - Attachments/IMG_0532.jpg",
     "Exhibitionist Priest/02 - Attachments/IMG_0530.jpg",
     "Exhibitionist Priest/03 - Index/Characters/Simone.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
     "Exhibitionist Priest/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
     "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
@@ -274,7 +329,6 @@
     "Exhibitionist Priest/05 - Tasks/Archived/Develop Joesph in grandma's house.md",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260224135618.png",
     "Exhibitionist Priest/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
-    "Exhibitionist Priest/02 - Attachments/Screenshot 2026-02-24 154025.png",
     "Untitled.md",
     "Exhibitionist Priest/05 - Tasks/Should Joseph have a female friend.md",
     "Exhibitionist Priest/03 - Index/Characters/Emma.md",
@@ -282,17 +336,11 @@
     "Exhibitionist Priest/07 - Rough Notes/Character names.md",
     "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
     "Exhibitionist Priest/07 - Rough Notes/Titles ideas.md",
-    "5 - Template/Kanban Card Template.md",
-    "6 - Zettelkastem/Daily notes/2026-02-19.md",
     "6 - Zettelkastem/Daily notes",
     "Exhibitionist Priest/05 - Tasks/Pinned",
     "Exhibitionist Priest/05 - Tasks/Current",
     "Exhibitionist Priest/05 - Tasks/Archived",
     "Exhibitionist Priest/07 - Rough Notes",
-    "Exhibitionist Priest/07 q Rough notes",
-    "Exhibitionist Priest/05 - Tasks/Current/Develop how they met.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Should the photo J take be a mistake or on purpose.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
     "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Outline Chillasque.canvas"
   ]
 }

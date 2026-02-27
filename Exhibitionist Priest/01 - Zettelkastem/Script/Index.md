@@ -5,5 +5,7 @@ longform:
   sceneFolder: /
   scenes:
     - Incipit
+    - Incipit English
+    - Grandma
   ignoredFiles: []
 ---

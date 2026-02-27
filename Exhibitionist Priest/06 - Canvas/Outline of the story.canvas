@@ -1,17 +1,15 @@
 {
 	"nodes":[
 		{"id":"82c4e7d23d41835c","type":"group","x":-2400,"y":-1040,"width":10760,"height":3760,"color":"1","label":"Part 1"},
-		{"id":"db014035e5aca2c4","type":"group","x":2880,"y":-620,"width":1280,"height":2980,"color":"4","label":"Confessions"},
 		{"id":"9e39875d4f64fae0","type":"group","x":-1060,"y":-380,"width":1660,"height":2188,"color":"#86c0fe","label":"Boredom"},
 		{"id":"33e7f319f57c436f","type":"group","x":880,"y":-380,"width":1483,"height":2305,"color":"2","label":"Investigation"},
+		{"id":"9bda331c8bbebff9","type":"group","x":-2380,"y":220,"width":1150,"height":640,"color":"#95dacd","label":"Incipit"},
+		{"id":"db014035e5aca2c4","type":"group","x":2880,"y":-620,"width":1280,"height":2980,"color":"4","label":"Confessions"},
 		{"id":"7ffa45cb9f24e52c","type":"group","x":4360,"y":-620,"width":1480,"height":2230,"color":"#89db6b","label":"Café"},
 		{"id":"3a9f1e489076f17a","type":"group","x":6340,"y":-520,"width":1430,"height":2290,"color":"6","label":"Apologies"},
-		{"id":"00c87d436e6b0059","type":"group","x":-1735,"y":-2412,"width":3335,"height":633,"color":"4","label":"Cesare's backstory"},
-		{"id":"9bda331c8bbebff9","type":"group","x":-2380,"y":220,"width":1150,"height":640,"color":"#95dacd","label":"Incipit"},
-		{"id":"1d3fd7ea7d648062","text":"is this meant to be a fake out for the audience? Like, it's framed like it's cesare stalking joseph but it's actually Joseph taking pictures of Cesare? - murkwater","type":"text","x":-1586,"y":607,"width":336,"height":133,"color":"#7e106a"},
-		{"id":"dd05f8371face44b","type":"file","file":"Exhibitionist Priest/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md","x":166,"y":1860,"width":400,"height":148,"color":"#631841"},
-		{"id":"bef167a936ba57fc","type":"file","file":"Exhibitionist Priest/05 - Tasks/Archived/Develop Joesph in grandma's house.md","x":-1040,"y":-115,"width":390,"height":75,"color":"6"},
 		{"id":"08a3df7b382eaf0d","type":"text","text":"","x":2820,"y":-820,"width":50,"height":50},
+		{"id":"00c87d436e6b0059","type":"group","x":-1735,"y":-2412,"width":3335,"height":633,"color":"4","label":"Cesare's backstory"},
+		{"id":"1d3fd7ea7d648062","text":"is this meant to be a fake out for the audience? Like, it's framed like it's cesare stalking joseph but it's actually Joseph taking pictures of Cesare? - murkwater","type":"text","x":-1586,"y":607,"width":336,"height":133,"color":"#7e106a"},
 		{"id":"3f7b1f3592ad760a","text":"Tomorrow morning, [[Joseph]] wanders in the town with no purpose","type":"text","x":-68,"y":1049,"width":251,"height":99,"color":"1"},
 		{"text":"[[Lucas]] visits him multiple times trying to cheer him up but with no avail","id":"fe3c79aa90827ac7","type":"text","x":6880,"y":77,"width":250,"height":123,"color":"1"},
 		{"text":"[[Joseph]] pretends his excuse to come is to apologise for that he did ","type":"text","id":"56db61f39b681861","x":6860,"y":472,"width":250,"height":125,"color":"2"},
@@ -173,7 +171,9 @@
 		{"id":"bfc7a2323bc527e8","type":"text","text":"He has more and more trouble containing his voyeuristic and exhibitionist and urges and acts on them","x":-17,"y":-1940,"width":295,"height":141,"color":"2"},
 		{"id":"96c49b28692ab1fd","type":"text","text":"He got caught masturbating on a late night jogger","x":460,"y":-2139,"width":277,"height":84,"color":"3"},
 		{"id":"1a853734bbf4f496","type":"text","text":"Thanks to his family, he was able to get out of it without a criminal case","x":820,"y":-2144,"width":289,"height":93,"color":"3"},
-		{"id":"5bd7c650571aa5ef","type":"text","text":"He hears about Isaac's coming because of they are neighbors and starts developing an obsession with him","x":1220,"y":-2160,"width":360,"height":127,"color":"3"}
+		{"id":"5bd7c650571aa5ef","type":"text","text":"He hears about Isaac's coming because of they are neighbors and starts developing an obsession with him","x":1220,"y":-2160,"width":360,"height":127,"color":"3"},
+		{"id":"dd05f8371face44b","type":"file","file":"Exhibitionist Priest/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md","x":166,"y":1860,"width":400,"height":148,"color":"#631841"},
+		{"id":"bef167a936ba57fc","type":"file","file":"Exhibitionist Priest/05 - Tasks/Archived/Develop Joesph in grandma's house.md","x":-1040,"y":-115,"width":390,"height":75,"color":"6"}
 	],
 	"edges":[
 		{"id":"1ffdc3019b1cbeef","fromNode":"a9eeaddc2d383660","fromSide":"top","toNode":"530944dc300e07bd","toSide":"bottom"},

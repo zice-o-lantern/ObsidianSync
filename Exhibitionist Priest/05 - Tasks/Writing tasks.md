@@ -8,16 +8,18 @@ kanban-plugin: board
 
 - [ ] Finish [[Lucas]] sheet
 - [ ] Finish [[Simone]] sheet
-- [ ] Finish [[Cesare]] sheet
 
 
 ## DOING
 
-- [ ] write [[Exhibitionist Priest/01 - Zettelkastem/Script/Incipit|Incipit]]
+- [ ] Write [[Grandma]]
+- [ ] Finish [[Cesare]] sheet
+- [ ] Définir projet ([[Exhibitionist Priest/03 - Index/Exhibitionist Priest|Exhibitionist Priest]])
 
 
 ## PEER REVIEW
 
+- [ ] write [[Exhibitionist Priest/01 - Zettelkastem/Script/Incipit|Incipit]]
 - [ ] Develop Story Places
 - [ ] [[Develop Cesare backstory]]
 

@@ -6,6 +6,7 @@ profession: Lawyer
 aliases:
   - Izzy
   - Isaac (main interest love)
+  - Isaac (protagonist)
 species: unassigned
 relatives:
   - "[[Cesare|Cesare (main interest love)]]"
