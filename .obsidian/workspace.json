@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Incipit"
             }
-          },
-          {
-            "id": "6ccfe3f4efd5f8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Isaac"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "39311cd363b301ea",
@@ -241,12 +217,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "6ccfe3f4efd5f8bd",
+  "active": "57af6ce7728439ed",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit English.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit.md",
+    "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Part 1",
-    "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
