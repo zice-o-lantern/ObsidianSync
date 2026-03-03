@@ -7,6 +7,8 @@ aliases:
   - Izzy
   - Isaac (main interest love)
   - Isaac (protagonist)
+  - ISAAC
+  - Isaac Monteloth
 species: unassigned
 relatives:
   - "[[Cesare|Cesare (main interest love)]]"

@@ -6,11 +6,12 @@ profession: pastor
 aliases:
   - Cesare (main interest love)
   - Cesare (friend)
+  - CESARE
+  - Cesare Montsignor
 relatives:
   - "[[Isaac|Isaac (main interest love)]]"
 ---
-Traits:
-- Charitable
+ritable
 - Smooth talker
 - Kind
 - Charming

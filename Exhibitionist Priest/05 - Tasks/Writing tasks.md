@@ -19,7 +19,7 @@ kanban-plugin: board
 
 ## PEER REVIEW
 
-- [ ] write [[Exhibitionist Priest/01 - Zettelkastem/Script/Incipit|Incipit]]
+- [ ] write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit|Incipit]]
 - [ ] Develop Story Places
 - [ ] [[Develop Cesare backstory]]
 

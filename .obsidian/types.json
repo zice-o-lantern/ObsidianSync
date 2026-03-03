@@ -11,6 +11,7 @@
     "age": "number",
     "relatives": "multitext",
     "location": "multitext",
-    "characters": "multitext"
+    "characters": "multitext",
+    "done": "checkbox"
   }
 }
