@@ -1,8 +1,5 @@
 ---
 created: 2026-02-28T17:37:00
-characters:
-  - "[[Isaac]]"
-done:
 ---
 Hier, j’ai enfin déballé tous les cartons de mon ancienne appartement. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait absolument que je les déballe car je n’arrêtais pas de trébucher sur ces fichus cartons. Ça fait un mois qu’ils sont là. J’aurais pu demander à [[Lucas]] mais Il est au travail aujourd’hui.
 
@@ -14,7 +11,7 @@ D'ailleurs Grand-mère est morte. Je ne sais plus quand. Sûrement il y a quelqu
 Bref suite à leur décès, leur maison resta vacante.
 Je repose la photo dans un soupir. Ai-je vraiment fait le bon choix de venir m'installer ici ? Je croyais que j'étais heureux à mon cabinet d'avocat. J'avais juste commencé. Tout se passait bien. Alors pourquoi, à l'instant où mes parents m'ont proposé d'emménager ici, j'ai accepté sans broncher et démissionné sur le champ. Je dois être fou. Il n'y aucun cabinet d'avocat dans cette ville. Il n'y aucun travail pour moi. Je vais devoir vivre sur mes économies.
 
-J'ouvre l'un des tiroirs au hasard par curiosité et je suis pris de court par une attaque surprise de poussière. Je n'aurais pas dû l'ouvrir aussi rapidement. Je tousse. La poussière s'infiltre dans ma gorge. J'ai besoin d'air. Je me précipite vers la fenêtre. Je percute le buffet sur le chemin. Des objets tombent. Pas le temps. J'atteins la fenêtre. Je l’ouvre d’un seul coup, commençant à m’étouffer dans cette asphyxiante demeure. La bon air de la campagne rentre et je respire enfin.
+J'ouvre l'un des tiroirs au hasard par curiosité et je suis pris de court par une attaque surprise de poussière. Je n'aurais pas dû l'ouvrir aussi rapidement. Je tousse. La poussière s'infiltre dans ma gorge. J'ai besoin d'air. Je me précipite vers la fenêtre. Je l’ouvre d’un seul coup, commençant à m’étouffer dans cette asphyxiante demeure. La bon air de la campagne rentre et je respire enfin.
 Le jardin est en piteuse état mais sauvable. Les vases brisés jonchent l’allée principale, le lière commençant à les enlacer. Je grimace. Quelqu’un pourrait se blesser dessus. J’aperçois la maison voisine, en face de de la rue. Elle a toujours les rideaux fermés donc difficile de savoir ce qu’il s’y passe. Pas que ça m’importe tant que ça…
 
-Un bruit de quelque chose se fracassant contre le sol et se briser me sort de ma torpeur et je me retourne. Je sonde la salle à la recherche du son et ne trouve que le bazar que j'ai fait tomber sur le chemin de la fenêtre. De la porcelaine brisée repose à côté. Je devrais nettoyer ça. Je me tire les paupières sous l'effet de l'exaspération et je me traîne vers le tas d'objets. En m’accroupissant, je pose mon regard sur la sacoche plutôt en bon état comparée au reste des livres sur lesquels elle repose. Je la saisis et en sors un appareil photo. Il a l'air d'être intact malgré la chute. Je le manipule, le regardant de tous les angles et ça a l'air d'être une caméra dernier cri. Je l'allume. Aucune photo. Bizarre. J'aurais cru que je trouverai des infos sur son propriétaire dans les photos. Mamie n'était pas vraiment une photographe. Du moins je ne l'ai jamais vu utilisé un appareil-photo. Je fouille la sacoche. Parmi les objectifs, un papier froissé se mélange entre tous.
+En me retournant, je remarque un vieux carton positionné tout en haut du vieux buffet posé contre le mur au fond du salon.

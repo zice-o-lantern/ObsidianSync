@@ -11,8 +11,9 @@ aliases:
 relatives:
   - "[[Isaac|Isaac (main interest love)]]"
 ---
-ritable
+Traits
 - Smooth talker
+- Charitable
 - Kind
 - Charming
 - Has a good heart

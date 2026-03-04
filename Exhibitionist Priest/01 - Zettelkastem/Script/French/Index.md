@@ -1,7 +1,7 @@
 ---
 longform:
   format: scenes
-  title: "Exhib Priest "
+  title: Exhib Priest French
   workflow: Default Workflow
   sceneFolder: /
   scenes:

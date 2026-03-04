@@ -12,7 +12,8 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] Write [[Grandma]]
+- [ ] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe|Cafe]]
+- [ ] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/Grandma]]
 - [ ] Finish [[Cesare]] sheet
 - [ ] Définir projet ([[Exhibitionist Priest/03 - Index/Exhibitionist Priest|Exhibitionist Priest]])
 

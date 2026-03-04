@@ -11,9 +11,50 @@
             "id": "57af6ce7728439ed",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Writing tasks"
+            }
+          },
+          {
+            "id": "09adbcf73bdeed29",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                "viewState": {
+                  "x": -150.17835987417288,
+                  "y": -138.2448710250043,
+                  "zoom": -0.5090162519608958
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Outline of the story"
+            }
+          },
+          {
+            "id": "5951a1d54955dbae",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Grandma.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +69,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cesare"
+              "title": "Grandma"
             }
           },
           {
-            "id": "9eb34c18f050878f",
+            "id": "9af15e7d4bb07bfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Cafe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,8 +96,7 @@
               "title": "Cafe"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,26 +282,38 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "9eb34c18f050878f",
+  "active": "57af6ce7728439ed",
   "lastOpenFiles": [
-    "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
-    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Cafe.md",
+    "Untitled.base",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Overview English - Notes - Murkwater.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Cafe.md",
+    "Untitled.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/Index.md",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Incipit English - Murkwater edits 1.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/Incipit English - Murkwater edits 1 1.md",
+    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Incipit English.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/Index.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current",
+    "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/01 - Zettelkastem/Glossary for Outline.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit English.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Overview English.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Incipit English.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Incipit English - Murkwater edits 1.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Part 1",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
     "Exhibitionist Priest/03 - Index/Characters/Simone.md",
     "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
@@ -277,23 +329,10 @@
     "Exhibitionist Priest/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg",
     "Exhibitionist Priest/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
-    "Exhibitionist Priest/05 - Tasks/Current/Develop Cesare backstory.md",
-    "Cesare]] (friend).md",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
-    "Exhibitionist Priest/03 - Index/Characters/Joseph.md",
     "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
-    "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Untitled.md",
-    "Develop Cesare backstory.md",
-    "5 - Template/Kanban Card Template.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters",
-    "Exhibitionist Priest/01 - Zettelkasten",
-    "Exhibitionist Priest/04 - Tags",
-    "6 - Zettelkastem/Daily notes",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Character Design.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",

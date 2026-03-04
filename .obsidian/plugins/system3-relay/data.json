@@ -13,7 +13,8 @@
         "pdfs": true,
         "otherTypes": false
       },
-      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c"
+      "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "connect": true
     }
   ],
   "endpoints": {},
