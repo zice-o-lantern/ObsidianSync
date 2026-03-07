@@ -5,6 +5,7 @@ characters:
   - "[[Isaac]]"
   - "[[Lucas]]"
   - "[[Jeff|Owner]]"
+done:
 ---
 [[Cesare|CESARE]]
 Sais-tu pourquoi, qu'on s'est donné rendez vous ici ?
@@ -40,10 +41,10 @@ Ah oui ça... Merci de me l'avoir prêté. Je comptais te le rendre après notre
 Il se penche vers moi et me murmure
 
 [[Cesare|CESARE]]
-Tu perds pas ton temps toi. J'ai pu prendre des magnifiques photos avec, grâce à toi. 
+Tu perds pas ton temps. J'ai pu prendre des magnifiques photos avec, grâce à toi. 
 
 Il se remet en place, ricanant doucement.
-mes griffes s'enfoncent dans la table et je réprime les frissons qui me parcourent. [[Cesare]] qui jusqu'hier, était le parfait curé charmant et charitable, me fout les jetons. Un côté inédit de sa personne laisse s'entrevoir, une misérable pathétique facette qui remue mes tripes au plus profond de lui. J'ai beau sondé ses yeux, je peine à discerner sa bonté de sa perfidie.
+Mes griffes s'enfoncent dans la table et je réprime les frissons qui me parcourent. [[Cesare]] qui jusqu'hier, était le parfait curé charmant et charitable, me fout les jetons. Un côté inédit de sa personne laisse s'entrevoir, une misérable pathétique facette qui remue mes tripes au plus profond de lui. J'ai beau sondé ses yeux, je peine à discerner sa bonté de sa perfidie.
 La voix tremblante, je bredouille quelques mots.
 
 [[Isaac|ISAAC]]
@@ -77,13 +78,18 @@ Il me secoue la main et je rends la pareille mollement. À quoi rime ça ?
 [[Cesare|CESARE]]
 Crois-tu en Dieu ?
 
-Je déglutis. Hein. Qu'est-ce qu'il a dit. Je cligne des yeux. Ça picote. Je crois que je les ai retenus bien trop longtemps.
+Je m'étouffe sur mon café. Hein. Qu'est-ce qu'il a dit. Je cligne des yeux. Ça picote. Je crois que je les ai retenus trop longtemps.
 
 [[Isaac|ISAAC]]
 ... C'est-à-dire ? Je crois que j'ai mal compris la question.
 
 [[Cesare|CESARE]]
-C'est bel et bien ce que tu as entendu. Crois-tu en Dieu ? Penses-tu qu'il n'est de dieu que Dieu ?
+C'est bel et bien ce que tu as entendu. Crois-tu en Dieu ?
+
+Cesare marque un temps avant de reprendre la parole
+
+[[Cesare|CESARE]]
+Ou plutôt si je devais mieux formuler, penses-tu qu'il y ait vraiment un dieu ? Et si oui, penses-tu qu'il n'est de dieu que Dieu ?
 
 C'est sûrement un test. Un test pour tester ma foi. Il y a un piège. Ou alors il n'y en a pas ?
 
@@ -109,10 +115,10 @@ Pas vraiment. Jusqu'à récemment, je n'ai jamais vraiment été croyant après 
 [[Isaac|ISAAC]]
 Eh bien oui, comme le dit la Bible "Dieu a créé la Terre en sept jou-
 
-Cesare bourre sa main dans sa main devant ma bouche.
+Cesare bourre sa main devant ma bouche. Il me regarde avec un air solennel presque énervé et murmure agressivement.
 
 [[Cesare|CESARE]]
-Je me fiche de ce que dit la Bible ou quelconque livre écrit par je ne sais qui il y a des milliers d'année. Moi ce que je veux, c'est toi !
+Je me fiche de ce que dit la Bible ou quelconque livre écrit par je ne sais qui il y a des milliers d'année ou de quelconques illuminés. Moi ce que je veux, c'est toi !
 
 Je déglutis
 
@@ -124,8 +130,45 @@ Il se rétracte et retourne à se croiser les bras.
 [[Cesare|CESARE]]
 Bref admettons qu'il soit omnipotent. Ça veut dire que tout ce qu'il y a sur Terre d'une façon ou d'une autre proviendrait de lui, pas vrai ?
 
-J’acquiesce mais j’ai du mal à avaler.
+Je porte mon café à mes lèvres. J’acquiesce mais j’ai du mal à avaler.
 
 [[Isaac|ISAAC]]
 Je suppose...
 
+[[Cesare|CESARE]]
+Parfait. Nous sommes à la même page alors.
+
+[[Isaac|ISAAC]]
+Je ne vois vraiment pas où tu veux venir. J'ai rejoint ton Église. Tu ne penses pas que je croyais déjà en tout cela ?
+
+[[Cesare|CESARE]]
+Je me répète, aujourd'hui, les croyances, ça ne m'intéresse pas. Soyons sur la même longueur d'onde, veux-tu ?
+
+[[Isaac|ISAAC]]
+Ou-oui, Cesare. C'est juste que je me demande... Omnipotent à quel point ?
+
+[[Cesare|CESARE]]
+Eh bien omnipotent, c'est omnipotent, pardi ! Autant omnipotent qu'omniscient ! Qui est tout-puissant, qui sait tout !
+
+[[Isaac|ISAAC]]
+Vraiment, tout... tout ?
+
+[[Cesare|CESARE]]
+Oui tout tout !
+
+[[Isaac|ISAAC]]
+J'ai du mal à l’appréhender... N'a-t-t-il... pas créé la Terre et puis c'est tout ? Comment pourrait-il être à l'origine, avoir le contrôle et la puissance de tout même de nos jours ? Ce n'est pas Dieu qui m'a donné la vie, c'est ma mère.
+
+[[Cesare|CESARE]]
+Ce n'est pas incongru comme raisonnement mais tu n'as pas tout saisi, Isaac. Avant, toi il y'avait ta mère qui a aussi une mère qui avait aussi une mère et ainsi de suite. Et si on remonte la chaîne, sur qui on tombe ?
+
+[[Isaac|ISAAC]]
+... les premiers humains sur Terre ?
+
+[[Cesare|CESARE]]
+Et d'où viennent les premiers humains sur Terre ? Il a aussi fallu qu'ils soient de sexes différents, étant donné que notre mode de procréation est sexué.
+
+Je me gratte le menton. Les possibilités sont vertigineuses.
+
+[[Cesare|CESARE]]
+La bible donne une réponse facile et rapide
