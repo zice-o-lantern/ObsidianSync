@@ -7,7 +7,7 @@ Does the cat in its box really want us to reveal what’s inside? That's what's 
 
 I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest fur exposed. I bite my lip, my lord, I even pant. Then you take off your pants in one go, exhausted from the long day you've had. I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I saying, I devour it. Then you stop, lost in thought. I take the opportunity to catch my breath. I adjust the lens and fix my glasses back on my nose. Still thinking. How cute.
 
-After that comes the climax of the wait, hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. You slip your hands into your boxers. I breathe through my teeth. I wipe my mouth. Drool drips from my hand. My heart is beating fast, my rib cage can no longer contain it<span style="color:rgb(232, 17, 93)">;</span> dancing, ricocheting off my ribs and leaping into my throat. I swallow.
+After that comes the climax of the wait, hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. You slip your hands into your boxers. I breathe through my teeth. I wipe my mouth. Drool drips from my hand. My heart is beating fast, my rib cage can no longer contain it; dancing, ricocheting off my ribs and leaping into my throat. I swallow.
 I have to concentrate, I can't miss this moment. His boxers come down. My breath catches.
 
 

@@ -96,7 +96,8 @@
               "title": "Cafe"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,8 +160,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -282,19 +282,26 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "57af6ce7728439ed",
+  "active": "9af15e7d4bb07bfe",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/Incipit.md",
+    "8 - MarkDown Websites/Steve Huston - Part 1_Master Analysis and Demos.md",
+    "7 - Attachments/spirited-away-in-real-life-v0-hyv65jzzj0j81.jpg",
+    "8 - MarkDown Websites/Steve Huston - Part 1.md",
+    "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
+    "1 - Rough Notes/Truc pour tester obisidian lol.md",
+    "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
+    "Untitled.base",
+    "Untitled.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Grandma.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Cafe.md",
-    "Untitled.base",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Grandma.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/Overview English - Notes - Murkwater.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Cafe.md",
-    "Untitled.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/Incipit English - Murkwater edits 1.md",
@@ -307,17 +314,11 @@
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/01 - Zettelkastem/Glossary for Outline.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit English.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Overview English.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Part 1",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
-    "Exhibitionist Priest/03 - Index/Characters/Simone.md",
-    "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
-    "Exhibitionist Priest/03 - Index/Places/Café.md",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105449.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105438.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105339.png",
@@ -327,7 +328,6 @@
     "Exhibitionist Priest/02 - Attachments/finbpjpirbespgfpul19.jpg",
     "Exhibitionist Priest/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg",
     "Exhibitionist Priest/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg",
-    "Exhibitionist Priest/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
     "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
