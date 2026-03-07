@@ -6,6 +6,7 @@ profession: Café Owner
 aliases:
   - Owner
   - Jeff (friend)
+  - JEFF
 species: unassigned
 relatives:
   - "[[Cesare|Cesare (friend)]]"

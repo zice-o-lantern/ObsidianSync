@@ -171,4 +171,53 @@ Et d'où viennent les premiers humains sur Terre ? Il a aussi fallu qu'ils soien
 Je me gratte le menton. Les possibilités sont vertigineuses.
 
 [[Cesare|CESARE]]
-La bible donne une réponse facile et rapide
+La bible donne une réponse facile et rapide : Dieu a créé Adam et Ève. Dans ce cas, Adam et Ève sont en quelque sorte les enfants de Dieu. Puis eux aussi ont eu des enfants et etc. Mais même en occultant l’explication de la Bible et qu’Adam et Ève ne soient jamais apparus de nulle part, cela veut juste dire qu’eux aussi ont eu des parents d’une manière ou d’une autre. Et ces parents aussi…
+Après cela on peut remonter la chaîne autant qu’on veut jusqu’à l’infiniment petit et l’infiniment grand. Mais à la fin, qu’est-ce qu’on pourrait trouver ?
+
+[[Isaac|ISAAC]]
+… Dieu ? Est-ce que Dieu serait l’entité sans parents…
+
+[[Cesare|CESARE]]
+Plus ou moins. L’entité à l’origine de toute création.
+Admettons qu’il y’ait qu’une seule entité tel quel. Plusieurs entités similaires ne feraient que compliquer la chose et poseraient la question de leur origine aussi.
+
+[[Isaac|ISAAC]]
+Je suppose…
+
+[[Cesare|CESARE]]
+Cela ne nécessiterait pas une quantité d’énergie astronomique pour pouvoir commencer la chaîne ?
+
+[[Isaac|ISAAC]]
+Et si cette entité avait créé cette chaîne par erreur ? Par hasard ? Ça ne ferait pas de lui quelqu’un d’omnipotent…
+
+[[Cesare|CESARE]]
+Alors ça nous laisse deux possibilités : Soit Dieu est omnipotent soit nous sommes une erreur ou un miracle. 
+
+Mon café est vide. Ma gorge est sèche. 
+
+[[Cesare|CESARE]]
+Jeff ! Redonnez un café à ce cher jeune homme.
+
+[[Jeff|JEFF]]
+Pas de problème.
+
+Elle arrête d’astiquer son verre qu’elle a en main depuis un certain bon bout de temps et se saisit de ma tasse et retourne à la machine à café 
+
+[[Isaac|ISAAC]]
+Ce n’est pas la peine [[Cesare]].
+
+[[Cesare|CESARE]]
+Ne t’inquiète pas, c’est moi qui paie. 
+Bref je t’avoue, que de toutes les possibilités, je préfère la voie du Dieu omnipotent, tu ne penses pas ? Si on veut que notre vie ait un peu de sens, il faut qu’il soit omnipotent.
+
+[[Isaac|ISAAC]]
+J’imagine.
+
+Je soupire. Ma patience arrive à son terme. Il me fait du chantage et après il me fait de la théologie.
+Jeff revient avec ma tasse de café et repart sans mot astiquer un autre verre cette fois-ci.
+
+[[Isaac|ISAAC]]
+Bref, c’est bien qu’il soit omnipotent et tout mais ça veut pas dire qu’il sait tout.
+
+[[Cesare|CESARE]]
+Avec ce genre de pouvoir tu penses qu’il s’arrêterait juste à la création ? Mais non s’il nous épiait 

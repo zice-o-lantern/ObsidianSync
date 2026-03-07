@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/Grandma.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,16 +95,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grandma"
+              "title": "Cafe"
             }
           },
           {
-            "id": "c4420ef650e9b217",
+            "id": "bc94de5e301a6928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
+                "file": "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,11 +119,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Isaac"
+              "title": "Jeff"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +224,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
+            "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -290,10 +290,12 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "c4420ef650e9b217",
+  "active": "f52d5da16891ec65",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Script/Grandma.md",
+    "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/Grandma.md",
     "Exhibitionist Priest/03 - Index/Exhibitionist Priest.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
@@ -334,8 +336,6 @@
     "Exhibitionist Priest/03 - Index/Characters/Emma.md",
     "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
     "Exhibitionist Priest/07 - Rough Notes/Character names.md",
-    "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
-    "Exhibitionist Priest/07 - Rough Notes/Titles ideas.md",
     "6 - Zettelkastem/Daily notes",
     "Exhibitionist Priest/05 - Tasks/Pinned",
     "Exhibitionist Priest/05 - Tasks/Current",
