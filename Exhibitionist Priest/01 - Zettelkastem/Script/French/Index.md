@@ -8,5 +8,7 @@ longform:
     - Incipit
     - Grandma
     - Cafe
+    - Poker night
+    - Lucas’Call
   ignoredFiles: []
 ---

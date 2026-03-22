@@ -8,12 +8,12 @@ characters:
 done:
 ---
 [[Cesare|CESARE]]
-Sais-tu pourquoi, qu'on s'est donné rendez vous ici ?
+Sais-tu pourquoi qu'on s'est donné rendez vous ici ?
 
 [[Isaac|ISAAC]]
 Non pas vraiment.
 
-Je serre le poing et je regarde discrètement aux alentours. Les autres clients semblent s'occuper de leurs affaires. La patronne nettoie lentement la verrerie tout en nous dévisageant. Je respire un bon coup.
+Je grince des dents et je regarde discrètement aux alentours. Les autres clients semblent s'occuper de leurs affaires. La patronne nettoie lentement la verrerie tout en nous dévisageant. Je respire un bon coup.
 
 [[Cesare|CESARE]]
 Hmm tu en es sûr ?
@@ -44,11 +44,10 @@ Il se penche vers moi et me murmure
 Tu perds pas ton temps. J'ai pu prendre des magnifiques photos avec, grâce à toi. 
 
 Il se remet en place, ricanant doucement.
-Mes griffes s'enfoncent dans la table et je réprime les frissons qui me parcourent. [[Cesare]] qui jusqu'hier, était le parfait curé charmant et charitable, me fout les jetons. Un côté inédit de sa personne laisse s'entrevoir, une misérable pathétique facette qui remue mes tripes au plus profond de lui. J'ai beau sondé ses yeux, je peine à discerner sa bonté de sa perfidie.
-La voix tremblante, je bredouille quelques mots.
+Mes griffes s'enfoncent dans la table et je réprime les frissons qui me parcourent. [[Cesare]] qui jusqu'hier, était le parfait curé charmant et charitable, me fout les jetons. Un côté inédit de sa personne laisse s'entrevoir, une misérable pathétique facette qui remue mes tripes au plus profond. J'ai beau sondé ses yeux, je peine à discerner sa bonté de sa perfidie.
 
 [[Isaac|ISAAC]]
-Qu-Que veux-tu ?
+Tu veux quoi ?
 
 [[Cesare|CESARE]]
 Oh tu vas vraiment vite en besogne, tu le sais ? Un peu de patience, mon fils. Indulge-moi le temps de quelques questions.
@@ -220,4 +219,24 @@ Jeff revient avec ma tasse de café et repart sans mot astiquer un autre verre c
 Bref, c’est bien qu’il soit omnipotent et tout mais ça veut pas dire qu’il sait tout.
 
 [[Cesare|CESARE]]
-Avec ce genre de pouvoir tu penses qu’il s’arrêterait juste à la création ? Mais non s’il nous épiait 
+Avec ce genre de pouvoir tu penses qu’il s’arrêterait juste à la création ? Mais non s’il nous épiait Bref, c’est bien qu’il soit omnipotent et tout mais ça veut pas dire qu’il sait tout.
+
+[[Cesare|CESARE]]
+Avec ce genre de pouvoir tu penses qu’il s’arrêterait juste à la création ? Mais en même temps, s’il nous épiait tout le temps, ce serait pervers n’est pas ? Ce ne serait pas un dieu qu’on aimerait avoir
+
+Je retiens un ricanement
+
+[[Cesare|CESARE]]
+Mais il y’a une autre alternative. Et si à la création de tout, il avait déjà tout prévu ? Et si tout était déjà écrit à l’avance ? Comme ça pas besoin d’épier qui que ce soit !
+
+Je bois lentement mon café. En effet ce serait plus pratique. 
+Argh le café est toujours amère n’importe la quantité de sucre que je verse.
+
+[[Cesare|CESARE]]
+Ce qui amène à ma dernière et suivante question : Crois-tu en la destinée ?
+
+[[Isaac|ISAAC]]
+En la destinée…
+
+[[Cesare|CESARE]]
+Oui. En la fatalité que toutes nos vies, celles de tes proches comme les tiennes ont déjà été déterminées à l’avance ?

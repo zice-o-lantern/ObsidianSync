@@ -12,6 +12,7 @@
     "relatives": "multitext",
     "location": "multitext",
     "characters": "multitext",
-    "done": "checkbox"
+    "done": "checkbox",
+    "order": "number"
   }
 }

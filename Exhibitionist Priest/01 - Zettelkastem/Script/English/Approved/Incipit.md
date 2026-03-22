@@ -1,7 +1,9 @@
 ---
 created: 2026-02-26T13:50:00
 longform:
+order: 0
 due-date: 2026-02-28
+done: true
 ---
 Does the cat in its box really want us to reveal what’s inside? That's what's bothering me-- puzzling me, as I'm slumped in the closet. You open the door. 11:40 p.m. I adore everything about you: your piercing yet warm, intoxicating eyes! Your dark circles revealing all your tenderness and tendencies. Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
 
