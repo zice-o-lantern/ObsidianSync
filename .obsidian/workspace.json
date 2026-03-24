@@ -10,6 +10,26 @@
           {
             "id": "57af6ce7728439ed",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                "viewState": {
+                  "x": -177.28568430834338,
+                  "y": -120.46669527264928,
+                  "zoom": -1.333333333333333
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Outline of the story"
+            }
+          },
+          {
+            "id": "0aa843b4a6cf9ef9",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -25,36 +45,44 @@
                   ]
                 }
               },
+              "pinned": true,
               "icon": "lucide-trello",
               "title": "Writing tasks"
             }
           },
           {
-            "id": "09adbcf73bdeed29",
+            "id": "44bd69392dbf2d1c",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-                "viewState": {
-                  "x": -150.17835987417288,
-                  "y": -138.2448710250043,
-                  "zoom": -0.5090162519608958
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Lucas’ Call.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
               "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Outline of the story"
+              "icon": "lucide-file",
+              "title": "Lucas’ Call"
             }
           },
           {
-            "id": "5951a1d54955dbae",
+            "id": "949fd0497c712229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Grandma.md",
+                "file": "Exhibitionist Priest/03 - Index/Characters/Nick.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,16 +97,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grandma"
+              "title": "Nick"
             }
           },
           {
-            "id": "2c935634562f896f",
+            "id": "3e3a7b804a801d50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,11 +121,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cafe"
+              "title": "Grandma English - Murkwater edits 1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,37 +310,37 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "bf0b3ee1b6bbdaef",
+  "active": "44bd69392dbf2d1c",
   "lastOpenFiles": [
+    "Exhibitionist Priest/03 - Index/Characters/Nick.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Poker night.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
+    "Exhibitionist Priest/03 - Index/Characters/Lucas.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/Incipit.md",
+    "Exhibitionist Priest/03 - Index/Places/Café.md",
+    "Joseph.md",
+    "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
+    "Cesa]re.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/Grandma.md",
     "Cafe.md",
     "1 - Rough Notes/le message de TADC.md",
     "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
     "8 - MarkDown Websites/Steve Huston - Part 2.md",
     "8 - MarkDown Websites/Steve Huston - Part 2_Master Analysis and Demos.md",
     "8 - MarkDown Websites/Steve Huston - Part 1_Master Analysis and Demos.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Lucas’Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Grandma.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Cafe.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Poker night.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
     "7 - Attachments/spirited-away-in-real-life-v0-hyv65jzzj0j81.jpg",
     "8 - MarkDown Websites/Steve Huston - Part 1.md",
     "1 - Rough Notes/Truc pour tester obisidian lol.md",
     "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
     "Untitled.base",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Overview English - Notes - Murkwater.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Cafe.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Index.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Index.md",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Incipit English - Murkwater edits 1.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/Incipit English - Murkwater edits 1 1.md",
-    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English",

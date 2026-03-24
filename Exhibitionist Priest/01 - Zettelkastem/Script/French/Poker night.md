@@ -10,7 +10,7 @@ En effet, carré d’as, Simone emporte le pot encore cette fois-ci
 [[Lucas]], tu n’as plus aucun jeton et tu te permets encore de jouer de manière irrationnelle ?
 
 [[Lucas|LUCAS]]
-Oui c’est pas si amusant que ça si je dois tout le temps réfléchir à toutes mes actions.
+Oui c’est pas marrant que ça si je dois tout le temps réfléchir à toutes mes actions.
 
 [[Simone|SIMONE]]
 Oui mais là ça va plus loin que de s’amuser. Tu te rends compte de ce que ça veut dire pour toi ? Tu n’as plus de jetons pour jouer. Tu sais ce que ça veut dire ?
@@ -18,7 +18,7 @@ Oui mais là ça va plus loin que de s’amuser. Tu te rends compte de ce que ç
 [[Nick|NICK]]
 Hmmm le petit toutou est encerclé. Que va-t-il bien pourvoir faire ?
 
-[[Nick]] se penche vers [[Lucas]] avec un sourire sournois qui ferait regretter mes choix de vie s’il m’était adressé. [[Lucas]] alors soupire et jette son bonnet dans le pot.
+[[Nick]] se penche vers [[Lucas]] avec un sourire sournois qui ferait regretter mes choix de vie.  [[Lucas]] alors soupire et jette son bonnet dans le pot.
 
 [[Lucas|LUCAS]]
 Oui je sais.

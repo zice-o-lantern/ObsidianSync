@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Typewriter",
+  "cssTheme": "MagicUser",
   "theme": "obsidian",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
-  "accentColor": "#e89568"
+  "accentColor": "#efa06b",
+  "showRibbon": true
 }

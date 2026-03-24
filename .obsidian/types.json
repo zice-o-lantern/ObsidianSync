@@ -13,6 +13,9 @@
     "location": "multitext",
     "characters": "multitext",
     "done": "checkbox",
-    "order": "number"
+    "order": "number",
+    "reviewed": "checkbox",
+    "completion": "number",
+    "completion (%)": "number"
   }
 }

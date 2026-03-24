@@ -9,9 +9,10 @@ aliases:
   - Isaac (protagonist)
   - ISAAC
   - Isaac Monteloth
-species: unassigned
+species: crow(?)
 relatives:
   - "[[Cesare|Cesare (main interest love)]]"
+  - "[[Lucas|Lucas (friend)]]"
 tags:
 ---
 Traits:
