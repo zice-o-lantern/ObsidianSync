@@ -51,77 +51,20 @@
             }
           },
           {
-            "id": "44bd69392dbf2d1c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Lucas’ Call.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Lucas’ Call"
-            }
-          },
-          {
             "id": "949fd0497c712229",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Exhibitionist Priest/03 - Index/Characters/Nick.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                "viewState": {
+                  "x": -847.4097601982411,
+                  "y": 1846.1707487798114,
+                  "zoom": -1
                 }
               },
-              "icon": "lucide-file",
-              "title": "Nick"
-            }
-          },
-          {
-            "id": "3e3a7b804a801d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Grandma English - Murkwater edits 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "Outline of the story"
             }
           }
         ],
@@ -270,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                "file": "1 - Rough Notes/raccourcis houdini.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Outline of the story"
+              "title": "Outline of raccourcis houdini"
             }
           },
           {
@@ -288,14 +231,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "c9a74765f421b46d",
+            "type": "leaf",
+            "state": {
+              "type": "highlights-sidebar",
+              "state": {},
+              "icon": "highlighter",
+              "title": "Highlights"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,39 +259,52 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "44bd69392dbf2d1c",
+  "active": "949fd0497c712229",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "1 - Rough Notes/raccourcis houdini.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
+    "7 - Attachments/Pasted image 20260327112807.png",
+    "7 - Attachments/Pasted image 20260327112750.png",
+    "7 - Attachments/Pasted image 20260327112738.png",
+    "7 - Attachments/Pasted image 20260327112521.png",
+    "7 - Attachments/Pasted image 20260327112130.png",
+    "7 - Attachments/Pasted image 20260327112111.png",
+    "7 - Attachments/Pasted image 20260327112038.png",
+    "7 - Attachments/Pasted image 20260327111934.png",
+    "7 - Attachments/Pasted image 20260327111927.png",
+    "7 - Attachments/Pasted image 20260327111448.png",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/01 - Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/01 - Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/unkown - Poker night.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/unknown - Cafe.md",
     "Exhibitionist Priest/03 - Index/Characters/Nick.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Poker night.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/02 - Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/unknown - Cafe.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/01 - Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
+    "Exhibitionist Priest/01 - Zettelkastem/murky waters/Lucas’ Call English - Murkwater edits 1.md",
     "Exhibitionist Priest/03 - Index/Characters/Lucas.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Lucas’ Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/Incipit.md",
     "Exhibitionist Priest/03 - Index/Places/Café.md",
     "Joseph.md",
     "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
     "Cesa]re.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/Grandma.md",
-    "Cafe.md",
-    "1 - Rough Notes/le message de TADC.md",
-    "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
-    "8 - MarkDown Websites/Steve Huston - Part 2.md",
-    "8 - MarkDown Websites/Steve Huston - Part 2_Master Analysis and Demos.md",
-    "8 - MarkDown Websites/Steve Huston - Part 1_Master Analysis and Demos.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Cafe.md",
-    "7 - Attachments/spirited-away-in-real-life-v0-hyv65jzzj0j81.jpg",
-    "8 - MarkDown Websites/Steve Huston - Part 1.md",
-    "1 - Rough Notes/Truc pour tester obisidian lol.md",
-    "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
     "Untitled.base",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current",
@@ -348,20 +313,8 @@
     "Exhibitionist Priest/01 - Zettelkastem/Script/French",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Part 1",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105449.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105438.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105339.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260226105314.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260222022433.png",
-    "Exhibitionist Priest/02 - Attachments/goat.jpg",
-    "Exhibitionist Priest/02 - Attachments/finbpjpirbespgfpul19.jpg",
-    "Exhibitionist Priest/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg",
-    "Exhibitionist Priest/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions/Attachments for Murkwater's notes",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters/murky waters - telegram transcriptions",
-    "Exhibitionist Priest/01 - Zettelkasten/murky waters",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Character Design.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",

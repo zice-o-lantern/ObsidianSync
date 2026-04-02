@@ -16,7 +16,7 @@ Oui c’est pas marrant que ça si je dois tout le temps réfléchir à toutes m
 Oui mais là ça va plus loin que de s’amuser. Tu te rends compte de ce que ça veut dire pour toi ? Tu n’as plus de jetons pour jouer. Tu sais ce que ça veut dire ?
 
 [[Nick|NICK]]
-Hmmm le petit toutou est encerclé. Que va-t-il bien pourvoir faire ?
+Hmmm le petit toutou est cerné. Qu'est-ce qu'il va faire hein ?
 
 [[Nick]] se penche vers [[Lucas]] avec un sourire sournois qui ferait regretter mes choix de vie.  [[Lucas]] alors soupire et jette son bonnet dans le pot.
 

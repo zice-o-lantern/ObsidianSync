@@ -1,0 +1,36 @@
+{
+  "version": "2.0",
+  "lastModified": 1774354720432,
+  "highlights": {
+    "highlight-1627823432-394": {
+      "text": "apartment",
+      "position": 394,
+      "created": 1774353296022,
+      "updated": 1774353296022,
+      "backgroundColor": "#ffeb3b",
+      "comments": [
+        {
+          "id": "comment-1774353296022-jzcvesn6x",
+          "content": "not really what i like",
+          "created": 1774353296022,
+          "updated": 1774353296022
+        }
+      ]
+    },
+    "highlight-1850618658-335": {
+      "text": "ds",
+      "position": 335,
+      "created": 1774354560762,
+      "updated": 1774354720432,
+      "backgroundColor": "#ffeb3b",
+      "comments": [
+        {
+          "id": "comment-1774354720432-wflctbbd5",
+          "content": "lol hi still trying out",
+          "created": 1774354720432,
+          "updated": 1774354720432
+        }
+      ]
+    }
+  }
+}

@@ -1,8 +1,10 @@
 {
-  "cssTheme": "MagicUser",
-  "theme": "obsidian",
+  "cssTheme": "Typewriter",
+  "theme": "moonstone",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
   "accentColor": "#efa06b",
-  "showRibbon": true
+  "showRibbon": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": []
 }

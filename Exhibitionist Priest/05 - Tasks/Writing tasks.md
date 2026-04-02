@@ -19,20 +19,20 @@ kanban-plugin: board
 
 - [ ] Write Lucas Call
 - [ ] Write Poker night
-- [ ] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe|Cafe]] (not needed for first update)
+- [ ] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/unknown - Cafe|unknown - Cafe]] (not needed for first update)
 
 
 ## PEER REVIEW
 
 - [ ] Devlelop [[Story's locations.canvas|Story Locations]]
 - [ ] Définir projet ([[Exhibitionist Priest/03 - Index/Exhibitionist Priest|Exhibitionist Priest]])
-- [ ] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/Grandma|Grandma]]
+- [ ] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/01 - Grandma|01 - Grandma]]
 
 
 ## DONE
 
 - [x] Finish [[Cesare]] sheet
-- [x] write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit|Incipit]]
+- [x] write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/00 - Incipit|00 - Incipit]]
 - [x] [[Develop Cesare backstory]]
 - [x] [[Should Joseph be the one spying on Cesare in the incipit]]
 

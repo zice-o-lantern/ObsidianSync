@@ -1,0 +1,130 @@
+---
+created: 2026-02-28T17:37:00
+done: true
+order: 1
+characters:
+  - "[[Isaac]]"
+reviewed: true
+---
+# Grandma
+==Note==[^1][^40]
+
+Today, I finally unpacked the last box from my old apartment]. ==~~Not that there were that many too begin with~~ <span style="color:rgb(176, 114, 218)">It wasn't even that much...like, three boxes, maybe?</span>==[^15][^46][^47]. I collapse into the armchair and sigh, my back aching. I really ~~had~~<span style="color:rgb(232, 17, 93)">needed</span> to unpack ~~them because~~<span style="color:rgb(232, 17, 93)">,</span> I kept tripping over those darn boxes. They’ve been sitting there for a month. I could have asked [[Lucas]], but he’s at work today.
+
+I always dread this phase of my life: moving. Having to take apart your living space and put it back together isn’t exactly exciting. You have to carry all these heavy things that wreck your back. All that just to end up in an unfamiliar, unwelcoming place. ==~~Plus, it puts all your current activities and projects on hold. If I had any~~  <span style="color:rgb(232, 17, 93)">Plus, it puts your whole life on hold. Not that I had much going on to begin with</span>==[^2][^3][^4][^5].
+
+Since I’m done, I’m taking one last look around the house to make sure everything’s in order. 
+People are often overwhelmed when they move. They’re sad, happy, anxious, relieved, unsettled, or even ==~~euphoric~~ <span style="color:rgb(232, 17, 93)">ecstasy</span>==[^6][^7]. It’s normal, after all. It’s to be expected. It’s a fresh start. It doesn’t do anything for me. I feel neither hot nor cold. Just the musty smell. ==It’s as if I were walking through a Styrofoam castle. ~~Numb~~<span style="color:rgb(232, 17, 93)">Dead</span> to the touch and devoid of any warmth==[^8][^9][^10][^11][^12][^13][^14][^16][^17]. I do my best to feel something—anything, whether excitement or sorrow—but nothing comes. I wander through the house of a stranger—my own, now. I descend the shabby stairs, shuddering with every step, afraid of falling. Once downstairs, I wander thoughtfully, making my rounds, ~~and~~ <span style="color:rgb(232, 17, 93)">until</span> I inadvertently stop in front of the dresser, my hand reaching for a photo resting on it. A photo of my ~~grandmother and me~~ <span style="color:rgb(232, 17, 93)">me and my grandmother</span>, taken by my ==uncle==^[S: test of footnote]^[S: Hi I don't know about that lol].
+
+Grandma is dead, by the way. I don’t remember when <span style="color:rgb(232, 17, 93)">it happened</span>. Probably a few months ago now. I think she died from a fall. To be honest, I never really liked her. When I was little and she was full of energy, she was harsh and strict with me<span style="color:rgb(232, 17, 93)">—</span>but as she got older, she became senile. Senile—I start peeing in the kitchen pots because it’s faster. My grandfather wasn’t any better but at least he was still in his right mind. Unfortunately, he died shortly before Grandma of a heart attack. They were both in their nineties. ==~~I believe~~<span style="color:rgb(232, 17, 93)"> I think</span>==[^18][^19][^20].  
+Anyway, following their deaths, their house stood empty.
+I put the photo back down with a sigh. Did I really make the right choice coming to live here? ~~I thought~~ I was happy at my law firm. I had just started. Everything was going well. So why, the moment my parents offered for me to move here, did I accept without a second thought and quit on the spot? I must be crazy. ==There aren’t any law firms in this town==[^21][^22][^23].   There’s no work for me. I’m going to have to live off my savings.
+
+I open one of the drawers at random out of curiosity and ~~am~~<span style="color:rgb(232, 17, 93)">I'm</span> caught off guard by a sudden cloud of dust. I shouldn’t have opened it so quickly. I cough. The dust seeps into my throat. I need air. I rush toward the window. I bump into the sideboard on the way. Objects fall. No time. I reach the window. I throw it open, starting to choke in this suffocating house. The fresh country air rushes in and I finally breathe.
+The garden is in a sorry state but <span style="color:rgb(232, 17, 93)">it's </span>salvageable. Broken vases litter the main path, ivy beginning to entwine around them. I grimace. Someone could get hurt on them. I spot the neighboring house across the street. Its curtains are always drawn. There’s only one window upstairs without a curtain but it’s hard to see inside without getting closer, so it’s hard to know what’s going on there. Not that I’m all that interested, anyway.
+
+The sound of something crashing to the floor and shattering snaps me out of my daze and I turn around. I scan the room for the source of the sound and find only the mess I’d knocked over on my way to the window. Broken porcelain lies nearby. I should clean that up. I rub my eyes in exasperation and drag myself over to the pile of objects. As I crouch down, my gaze falls on the bag, which is in pretty good shape compared to the rest of the books it’s resting on. I grab it and pull out a camera. It looks intact despite the fall. I handle it, examining it from every angle<span style="color:rgb(232, 17, 93)">--</span>~~, and~~ — it looks like a state-of-the-art camera. I turn it on. No photos. Strange. I would have thought I’d find some information about its owner in the photos. Grandma wasn’t really a photographer. At least I never saw her use a camera. I rummage through the bag. Among the lenses, a crumpled piece of paper is mixed in with everything else. A shopping list. “Buy milk for Marie.” My uncle’s wife. I see. The camera must belong to him. ==It’s a really good camera~~. E~~<span style="color:rgb(232, 17, 93)"></span>, <span style="color:rgb(232, 17, 93)">e</span>specially for a hobbyist==[^25][^26][^27].   My uncle must love taking pictures. After all, he took tons of them of me. I’m sure he has an album full of photos of me in every situation.
+
+Curiosity gets the better of me. What if I used the camera to see what’s inside the neighbor’s house? ==Ever since day one, all those <span style="color:rgb(232, 17, 93)">darn</span> curtains have been stressing me out<span style="color:rgb(232, 17, 93)">--</span> — and I’ve never seen the neighbor’s face==[^28][^29][^30][^31][^32]. Isn’t that suspicious in and of itself? Plus, I have a camera right here. Why not take a quick peek inside to make sure <span style="color:rgb(232, 17, 93)">there's</span> nothing weird ~~is~~ going on?
+
+So I stand at the window, hold<span style="color:rgb(232, 17, 93)">ing</span> the viewfinder up to my eyes, and zoom in as much as possible on<span style="color:rgb(232, 17, 93)">to </span>the window. Unfortunately, the reflections on the window prevent any real attempt to peek inside. However, I persist and stay there for a while, trying to find the right angle to avoid the reflections. A bird lands on ~~the~~ <span style="color:rgb(232, 17, 93)">my</span> windowsill. A white-throated sparrow, I think. ==Then, after a few seconds, I manage to catch a glimpse of <span style="color:rgb(232, 17, 93)">something-- a woman in the room.</span>~~the room inside and also a female figure.~~==[^24][^33]  At that moment, my brain begs me to lower the camera<span style="color:rgb(232, 17, 93)">--</span> yet my hands stay put, fixed on the person. She’s wearing a blouse. She’s on the phone, gesturing wildly, exasperated. Obviously, it’s impossible to hear their conversation. But it ~~wouldn’t be~~<span style="color:rgb(232, 17, 93)">doesn't look</span> pleasant to listen to anyway.
+Nevertheless, the woman turns around abruptly and looks in my direction. Panicked, I jerk the lens toward the forest and ==startle the ~~whiting~~ <span style="color:rgb(232, 17, 93)">sparrow</span>==[^34] in the process, causing it to crash into the camera. I fall flat on my butt from the impact. Dazed, I come to my senses and see the bird flying off into the distance, leaving me a few feathers as a parting gift. I struggle to my feet, ==brushing the dust and bits of feathers off my shirt and pants==[^35]. In my fall, I dropped the camera. It’s lying in the dust now. I hope it’s okay. I examine the camera and, thankfully, it has no visible damage. I turn it on to check if it’s working properly when I notice a recent photo in the gallery. Where did that one come from? No time for that. I need to check if the woman is still there. I zoom back in on the window. She’s not there anymore. Did she see me?
+I stay hidden behind the window for a while, afraid she might show up at my door. I’m worried she suspects the worst. It’s not like I gave her a reason not to be suspicious of me. But despite the time that’s passed, she doesn’t seem to be coming. Good.
+The mysterious photo in the gallery comes back to mind. I open it. The photo shows a ~~whiting~~ <span style="color:rgb(232, 17, 93)">bird</span> with blurry feathers in ~~the~~ <span style="color:rgb(232, 17, 93)">all</span> four corners of the frame ~~in the foreground~~ against a blue sky, with the forest in the background. I must have taken the photo in a panic.
+
+I think it’s actually pretty good. The series of circumstances that came together for this photo... It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo. ==~~When I think about the ramifications it implies… It’s all mind-boggling. And~~==[^36][^37][^38][^39] When Uncle used to take these photos at all hours of the day, it looked like fun. It’s as if my uncle were bequeathing it to me. As if it’s my destiny to take photos. Maybe it was my destiny to take a photo here one day. I think I’ll keep the camera. I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. Maybe it could become my new passion? Who knows. 
+==I strap the bag around my waist and put the camera inside, a fresh roll of film<span style="color:rgb(232, 17, 93)">—</span>ready for all kinds of experiments==[^41][^42][^43][^44][^45].
+
+[^1]: M: <span style="color:rgb(232, 17, 93)">(I'm making this note halfway through editing the body, I mostly wanted to say I've removed some commas for the sake of english reading flow, I think we discussed this with the prior piece I worked on for you before though.)</span>
+
+[^2]: M: (Alternative turn of phrase here: "Plus, it puts your whole life on hold. Not that I had much going on to begin with.". We should go over the essence of the phrase in your original language.)
+
+[^3]: S: To be fair it didn't have that much meaning i think, i think your sentence transcribes well in english. tbh nobody proofread the french text so i don't know if im just wrong or it's a translation error
+
+[^4]: M: Got you, lets get a third opinion on the last sentence here, I dont want to supercede your writing if you dislike the way I phrased things
+
+[^5]: S: no it's alright i think your option flows better than the original sentence
+
+[^6]: M: Did you mean excited? Euphoric is a bit more physical in english contexts, even over the top of ecstasy, which is why it was used in the contexts of something like the show Euphoria in reference to drug use. Totally okay if you meant it this way, just needed to give context for the english understanding of the word
+
+[^7]: S: ok we'll go for ecstasy then
+
+[^8]: M: Leaving a note here to see the original intent of the tactile element here. I wouldnt say styrofoam normally evokes a numb feeling in my mind!
+
+[^9]: S: yeah maybe it's a translation issue or just my weird sensory system but having numb fingers for me is like not feeling anything but the nothing is replaced cold (as devoid of warmth) tingling sensation who is very bothering to me. Styrofoam is also like that for me : when you rub it, you get this unpleasing tingling sensation coupled with the absence of warmth of the material
+
+[^10]: M: In a weird way "fuzzy" can evoke what you're talking about here, making the edit now.
+
+[^11]: S: i don't really now about that, i wanted to convey a sense of apathy as well and fuzzy doesn't convey that at least for me. That's also what the styrofoam castle metaphor is for: a numbing all white environment devoid of any colors
+
+[^12]: M: Fuzzy in english is a complicated word. When translated over to other languages it often denotes something is soft, or has fur, but contextually it can represent a lack of feeling. Like pins and needles, if you're familiar with that term. Numb to the touch is more like...touching fiberglass. It's hard to describe but we can explore more terms overall that can better help express the sensation because I understand now what you're going for.
+
+[^13]: S: yay do you have other words instead of fuzzy? if we don't find any we'll just put fuzzy)
+
+[^14]:  M: I will do someresearch for you! We'll tap back on this
+
+[^15]: S: I changed the sentence here because there's now a similar sentence at the bottom
+
+[^16]: S: ok!
+
+[^17]: M: Via DMs, discussed dead to the touch, the preferred option
+
+[^18]: M: Possible turn of phrase: "I think." instead of I believe. If this is meant to express uncertainty of even their ages
+
+[^19]: S: yeah what i wanted
+
+[^20]: M: Perfect :3
+
+[^21]: M: Is this a thing in france??? Americans are famously litigious so i literally cannot fathom a town without a lawyer haha. Unless you're like in the middle of nowhere.
+
+[^22]: S: yes it's a thing, I checked the town of reference for the story and there are not any law firms despite its size of around 3k inhabitants
+
+[^23]: M: That's so interesting! thank you for sharing :3 I hate how much my country loves to sue people
+
+[^24]: M: We should explore different phrasing here: "I manage to catch a glimpse of a woman inside the room." or "I manage to catch a glimpse of something-- a woman in the room."
+
+[^25]: M: Perhaps instead of a period we could do a comma here: "It's a really good camera, especially for a hobbyist."
+
+[^26]: S: I guess it's a taste thing. People told me i tend to put too much periods in my texts)
+
+[^27]: M: I figured as much! I think it probably flows better in french too since you have more rules to control pacing within your punctuation styles, whereas in English it grinds a sentence to a halt.
+
+[^28]: M: A chance for emphasis. The character doesnt seem to curse, but it would be cute to see "darn" show up again here: "Ever since day one, all those darn curtains have been stressing me out-- and I've never even seen the neighbor's face
+
+[^29]: S: hmmmm im fond of the idea i just wonder how i could transcribe it in french
+
+[^30]: M: Damn I wish I could help you in french too haha
+
+[^31]: S: it's alright i found an equivalent
+
+[^32]: M: hell yeah
+
+[^33]: S: yeah i think even in french some bad formulated sentences that don't render well in english either. After all, it was just the first draft eheheheh you can put the sentence you like here there's not any literature meaning behind this sentence
+
+[^34]: M: whiting is a type of fish in english hehehe
+
+[^35]: M: Here is when I realized the bird was in Isaac's windowsill and not the neighbor's windowsill. Made some adjustments to prior text
+
+[^36]: S: maybe it's this part i find cheesy
+
+[^37]: M: I think you can remove the last sentence thats highlighted, I actually did almost edit that but stopped before I thought of anything else)
+
+[^38]: S: lol i'll remove it thanks
+
+[^39]: M: i didnt see you say that lol np, ill also make an edit without our notes of this document for u shortly :3
+
+[^40]: S: sure i understand very well
+
+[^41]: M: I like that I didnt need to edit much down here, you nailed it as far as the ending paragraphs go
+
+[^42]: S: you think so? it's a bit cheesy i find
+
+[^43]: M: I do think so, atleast for now, we can tweak the specifics later but it really finishes off the scene well
+
+[^44]: S: yay, it's also a tongue in cheek foreshadowing the following events
+
+[^45]: M: It also highlights Isaac's struggle with finding new meaning in his life, it is a good encompassing paragraph, underlining his uncertainty and where he is lying his hopes in the future
+
+[^46]: M: Which line is it similar to? I would like to see :3
+
+[^47]: Plus, it puts your whole life on hold. Not that I had much going on to begin with

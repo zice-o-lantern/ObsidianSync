@@ -5,10 +5,10 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Incipit
-    - Grandma
-    - Cafe
-    - Poker night
-    - Lucas’ Call
+    - 00 - Incipit
+    - 01 - Grandma
+    - unknown - Cafe
+    - unkown - Poker night
+    - 02 - Lucas’ Call
   ignoredFiles: []
 ---
