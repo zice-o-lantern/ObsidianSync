@@ -2,16 +2,15 @@
 created: 2026-02-28T17:37:00
 characters:
   - "[[Isaac]]"
-  - "[[Lucas]]"
+  - "[[Luke]]"
 order: 1
 done: true
 ---
-Aujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait absolument que je les déballe car je n’arrêtais pas de trébucher sur ces fichus cartons. Ça fait un mois qu’ils sont là. J’aurais pu demander à [[Lucas]] mais Il est au travail aujourd’hui.
+Aujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait absolument que je les déballe car je n’arrêtais pas de trébucher sur ces fichus cartons. Ça fait un mois qu’ils sont là. J’aurais pu demander à [[Luke]] mais Il est au travail aujourd’hui.
 
 Je redoute toujours cette phase de ma vie, le déménagement. Devoir défaire son lieu de vie et le refaire, c'est pas très excitant. Il faut transporter pleins de choses lourds qui ruinent ton dos. Tout ça pour finir dans un lieu non-familier et pas accueillant. Puis ça met en pause toutes les activités et projets en cours. Si j'en avais.
 
-Vu que j'ai terminé , je fais un dernier tour dans la maison hiafine vérifier qutout est en ordreié.
-Les gens sonsouvent bouleversésge quand ils déménagent. Ils sont tristes, heureux, tracassés, soulagés, chamboulés, ou alors euphoriques. C'est normal après tout. C'est à prévoir. C'est un nouveau départ. Moi ça me fait rien. Ni chaud, ni froid. Plus l'odeur de renfermé. C'est comme si je marchais dans un château de polystyrène. Engourdi au toucher et dénué de toute chaleur. Je fais de mon mieux pour ressentir quelque chose que ce soit de l'excitation ou du chagrin mais rien ne vient. Je me promène chez la maison d'un inconnu, la mienne, désormais. Je descends les miteux escaliers en frémissant à chaque pas, de peur de tomber. Une fois en bas, je déambule pensif, faisant ma ronde et je me pose par inadvertance devant la commode et ma main se saisit d'une photo reposant sur celle-ci. Une photo de ma grand-mère et moi, prise par mon oncle.
+Vu que j'ai terminé , je fais un dernier tour dans la maison afin de vérifier que tout est en ordre. Les gens sont souvent bouleversés quand ils déménagent. Ils sont tristes, heureux, tracassés, soulagés, chamboulés, ou alors euphoriques. C'est normal après tout. C'est à prévoir. C'est un nouveau départ. Moi ça me fait rien. Ni chaud, ni froid. Plus l'odeur de renfermé. C'est comme si je marchais dans un château de polystyrène. Engourdi au toucher et dénué de toute chaleur. Je fais de mon mieux pour ressentir quelque chose que ce soit de l'excitation ou du chagrin mais rien ne vient. Je me promène chez la maison d'un inconnu, la mienne, désormais. Je descends les miteux escaliers en frémissant à chaque pas, de peur de tomber. Une fois en bas, je déambule pensif, faisant ma ronde et je me pose par inadvertance devant la commode et ma main se saisit d'une photo reposant sur celle-ci. Une photo de ma grand-mère et moi, prise par mon oncle.
 
 D'ailleurs Grand-mère est morte. Je ne sais plus quand. Sûrement il y a quelque mois de cela maintenant. Je crois qu'elle est morte d'une chute. Pour être honnête je ne l'ai jamais vraiment apprécié. Quand j'étais petit et qu'elle avait pleine d'énergie, elle était dure et sévère avec moi mais plus âgé, elle devenait sénile. Sénile, je me mets à pisser dans les casseroles de la cuisine parce que c'est plus rapide. Mon grand-père n'était pas mieux mais au moins il avait toute sa tête. Malheureusement, il est mort peu avant Grand-Mère, d'une crise cardiaque. Ils avaient tous les deux dans les quatre-vingt-dix ans. Je crois.
 Bref suite à leur décès, leur maison resta vacante.
@@ -30,6 +29,6 @@ Je reste planqué un temps derrière la fenêtre, de peur qu'elle débarque deva
 La photo mystérieuse dans la galerie me revient à l'esprit. Je l'ouvre. La photo représente une photo d'un merlan avec des plumes flous au quatre coins du cadre au premier plan sur un ciel bleu avec en fond la forêt. J'ai dû prendre la photo dans la panique.
 
 Je la trouve plutôt pas mal. Le concours de circonstances rassemblées pour cette photo... C'est un peu poétique en soit. Toutes les conditions et les conséquences qui m'ont amené à ce point, à cette photo. Quand je pense au ramifications que ça implique... Tout ça, c'est vertigineux. Puis quand Tonton prenait ces photos à toutes heures de la journée, ça avait l’air amusant. C’est comme si mon oncle me le léguait. Peut-être bien c’est ma destinée de prendre des photos. Peut-être bien que c'était ma destinée de prendre une photo un jour ici. Je crois que je vais garder la caméra. Je n'ai pas grand chose à faire donc je suppose que ça ferait pas de mal de quelque photos au quatre coins de la ville. Peut-être que c'est pourrait devenir ma nouvelle passion ? Qui sait.
-J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pelliculeraîche — prête pour toute sortes d’expérimentations. 
+J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche prête pour toute sortes d’expérimentations. 
 
-À ce moment-là, mon téléphone sonne alors je le sors. C’est [[Lucas]]. Je décroche.
+À ce moment-là, mon téléphone sonne alors je le sors. C’est [[Luke]]. Je décroche.

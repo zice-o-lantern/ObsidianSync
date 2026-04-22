@@ -3,9 +3,9 @@ aliases:
   - LUCAS
   - Lucas (friend)
 relatives:
-  - "[[Isaac|Isaac (friend)]]"
+  - "[[Isaac|Isaac (friend, step brother)]]"
 ---
 - wants to enjoy life at its fullest
 - likes helping people especially his friend
 - he's good living
-- work s 
+- work at a bank

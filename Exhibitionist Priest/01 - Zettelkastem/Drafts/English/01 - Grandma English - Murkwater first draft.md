@@ -9,7 +9,7 @@ reviewed: true
 # Grandma
 ==Note==[^1][^40]
 
-Today, I finally unpacked the last box from my old apartment]. ==~~Not that there were that many too begin with~~ <span style="color:rgb(176, 114, 218)">It wasn't even that much...like, three boxes, maybe?</span>==[^15][^46][^47]. I collapse into the armchair and sigh, my back aching. I really ~~had~~<span style="color:rgb(232, 17, 93)">needed</span> to unpack ~~them because~~<span style="color:rgb(232, 17, 93)">,</span> I kept tripping over those darn boxes. They’ve been sitting there for a month. I could have asked [[Lucas]], but he’s at work today.
+Today, I finally unpacked the last box from my old apartment]. ==~~Not that there were that many too begin with~~ <span style="color:rgb(176, 114, 218)">It wasn't even that much...like, three boxes, maybe?</span>==[^15][^46][^47]. I collapse into the armchair and sigh, my back aching. I really ~~had~~<span style="color:rgb(232, 17, 93)">needed</span> to unpack ~~them because~~<span style="color:rgb(232, 17, 93)">,</span> I kept tripping over those darn boxes. They’ve been sitting there for a month. I could have asked [[Luke]], but he’s at work today.
 
 I always dread this phase of my life: moving. Having to take apart your living space and put it back together isn’t exactly exciting. You have to carry all these heavy things that wreck your back. All that just to end up in an unfamiliar, unwelcoming place. ==~~Plus, it puts all your current activities and projects on hold. If I had any~~  <span style="color:rgb(232, 17, 93)">Plus, it puts your whole life on hold. Not that I had much going on to begin with</span>==[^2][^3][^4][^5].
 

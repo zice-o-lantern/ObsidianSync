@@ -16,4 +16,4 @@ I have to concentrate, I can't miss this moment. His boxers come down. My breath
 We're dancing a waltz. Unbeknownst to you. Isn't that what makes what we have so beautiful? With no one watching, in this forbidden moment, you dance— and I enjoy it. I revel in the thrill that at any moment~~,~~ I could get caught. Be seen. In this moment, I am just a blind observer. An observer who perceives with his thirst, his desire. An observer with complete impunity. An observer who does not exist. An observer from another world. An observer who is both blind and clairvoyant, that is what I am! Until... I am observed.
 
 Look at me, God or Schrödinger-- who knows! To You, so obsessed with the idea of opening the box without touching it. I have finally discovered how to do it.
-I have finally discovered how to look into the box without compromising the divine state of the cat.
+The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices.

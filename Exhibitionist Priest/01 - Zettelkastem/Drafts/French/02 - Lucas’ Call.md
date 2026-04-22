@@ -184,12 +184,20 @@ Seulement nous quatre.
 Je souffle de soulagement.
 
 [[Isaac|ISAAC]]
-Dans combien de temps alors ?
+~~Dans combien de temps alors ?~~ <span style="color:rgb(126, 114, 218)">Quelle heure ?</span>
 
 [[Luke|LUCAS]]
-Dans deux heures. J’arrive dans trente minutes !
+~~Dans deux heures. J’arrive dans trente minutes !~~ <span style="color:rgb(126, 114, 218)">À vingt heures !</span>
+
+<span style="color:rgb(126, 114, 218)">Je lève ma montre. Il est dix-huit heures passée</span>
 
 [[Isaac|ISAAC]]
-Deux heures… Lucas tu sais bien ce n’est pas assez de temps pour organiser tout ça. Et si [[Simone]] et [[Nick]] ne sont pas disponibles ? Et puis la maison sera dégueu-
+<span style="color:rgb(126, 114, 218)">C'est dans deux heures</span>...
+
+[[Luke|LUCAS]]
+<span style="color:rgb(126, 114, 218)">Ah merde j'avais pas réalisé ! Faut que je me dépêche !!! J'arrive dans trente minutes !</span>
+
+[[Isaac|ISAAC]]
+~~Deux heures…~~ Lucas tu sais bien ce n’est pas assez de temps pour organiser tout ça. Et si [[Simone]] et [[Nick]] ne sont pas disponibles ? Et puis la maison sera dégueu-
 
 Il a raccroché 

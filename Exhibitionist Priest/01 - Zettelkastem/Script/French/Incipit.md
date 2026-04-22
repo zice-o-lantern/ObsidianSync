@@ -18,4 +18,4 @@ je dois me concentrer, je peux pas rater ce moment. Son caleçon se baisse. Mon 
 
 Nous menons une valse. À ton insu. N'est-ce pas ce qui fait la beauté de ce que nous avons ? En absence de tout regard, tu danses et moi je me rince, en ce instant, interdit. Je me délecte de ce trépidement qu’à tout moment, je pourrais me faire attraper. Me faire voir. En cet instant, je ne suis qu’un observateur aveugle. Un observateur qui constate sa soif, son désir. Un observateur en toute impunité. Un observateur qui n’existe pas, d’un autre monde. Un observateur à la fois aveugle et clairvoyant, voilà ce que je suis ! Jusqu’à ce que… l’on m’observe.
 Regardez-moi, Dieu ou alors Schrödinger, que sais-je ! À Toi, si obsédé à l’idée d’ouvrir la boite sans la toucher. J’ai enfin découvert comment faire.
-Le Chat ne doit pas être observé. Il est heureux là où il se trouve, dans ses plaisirs et ses travers
+Le Chat ne doit pas être observé. Il est heureux là où il se trouve, dans son plaisir et ses travers

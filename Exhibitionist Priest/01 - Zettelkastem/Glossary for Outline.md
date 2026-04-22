@@ -9,4 +9,4 @@ Red = Main event
 Green = tag
 Orange = Additional information/Consequence
 Yellow = [[4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Cesare]] parallel actions
-Blue = [[Lucas]] parallel actions
+Blue = [[Luke]] parallel actions

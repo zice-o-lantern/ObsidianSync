@@ -1,1 +1,4 @@
-- Cesare passionately kissing J in front of Lucas and expose his genitals
+O- Cesare passionately kissing J in front of Lucas and maybe expose his genitals
+- Lucas discovers the photos of Cesare on J’s camera 
+- <span style="color:rgb(232, 17, 93)"> Lucas sandwiched by Cesare and Isaac </span>
+- cesare and isaac taking a hike together in the woods and stumbling into those public toilets you often see in the rest areas on the highway. isaac would suck c's dick in front of the urinals. c would cum on the isaac's face. unfortunately at the same time, simone and luke would also stumble into those toilets. horny thing that can happen is that cesare wiped hastily isaac's face and he shakes hands with luke and luke looks at him knowingly, smiling 

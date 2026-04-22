@@ -12,7 +12,7 @@ aliases:
 species: crow(?)
 relatives:
   - "[[Cesare|Cesare (main interest love)]]"
-  - "[[Lucas| Lucas (Main love interest/friend)]]"
+  - "[[Luke| Lucas (Main love interest/friend)]]"
 tags:
 ---
 Traits:

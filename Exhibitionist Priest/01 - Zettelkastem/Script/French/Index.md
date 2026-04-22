@@ -10,5 +10,6 @@ longform:
     - unknown - Cafe
     - unkown - Poker night
     - 02 - Lucas’ Call
+    - 03 - The before party
   ignoredFiles: []
 ---

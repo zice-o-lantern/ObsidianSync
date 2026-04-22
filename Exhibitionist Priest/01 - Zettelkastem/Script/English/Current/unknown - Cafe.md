@@ -3,7 +3,7 @@ created: 2026-03-03T01:32:00
 characters:
   - "[[Cesare]]"
   - "[[Isaac]]"
-  - "[[Lucas]]"
+  - "[[Luke]]"
   - "[[Jeff|Owner]]"
 done:
 ---

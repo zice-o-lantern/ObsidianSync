@@ -1,6 +1,6 @@
 Finalement il est arrivé au bout de dix minutes au lieu de trente minutes. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Ah oui en effet c’est un peu… poussiéreux 
 
 Je croise les bras.
@@ -10,7 +10,7 @@ Je te l’avais dit.
 
 Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Tu ranges où tes balais ?
 
 Je me tire la peau des arcades
@@ -18,7 +18,7 @@ Je me tire la peau des arcades
 [[Isaac|ISAAC]]
 Au fond, en dessous des escaliers.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Merci !
 
 [[Isaac|ISAAC]]
@@ -26,7 +26,7 @@ Y’a pas de quoi…
 
 Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
 
 Je regarde de haut en bas Lucas. Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
@@ -34,27 +34,27 @@ Je regarde de haut en bas Lucas. Il porte encore son costard quoi que sa cravate
 [[Isaac|ISAAC]]
 Tu viens directement du travail ?
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 … oui ?
 
 [[Isaac|ISAAC]]
 Pourquoi t’es tout sale comme ça ? 
 
-[[Lucas]] se gratte la tête.
+[[Luke]] se gratte la tête.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 J’ai peut-être pris un ou deux raccourcis…
 
 [[Isaac|ISAAC]]
 Vraiment ?
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Et je suis peut-être tombé sur le chemin.
 
 [[Isaac|ISAAC]]
 Plus que tombé, là, t’as fait un marathon.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Oui bah on est pressé donc faut qu’on se mette au travail.
 
 Lucas va pour se retourner et entrer dans le placard et attraper la pellette quand je lui attrape le bras
@@ -62,7 +62,7 @@ Lucas va pour se retourner et entrer dans le placard et attraper la pellette qua
 [[Isaac|ISAAC]]
 Mais tu vas pas nettoyer la maison comme ça ?
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Bah si je crois, c’est pour ça que je suis là.
 
 Je lui fauche le balais des mains.
@@ -70,12 +70,12 @@ Je lui fauche le balais des mains.
 [[Isaac|ISAAC]]
 Mais t’es plus sale que la maison !
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Arrête d’exagérer… je pue pas quand même. 
 
 Il sens son aisselle.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Ça va.
 
 Je saisis sa chemise et la renifle.
@@ -83,19 +83,19 @@ Je saisis sa chemise et la renifle.
 [[Isaac|ISAAC]]
 Tu empestes la sueur !
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 C’est peut être vrai. Et alors ?
 
 [[Isaac|ISAAC]]
 Et alors que tu vas prendre une douche, voilà tout.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 J’ai pas d’habits de rechange !
 
 [[Isaac|ISAAC]]
 Mais t’allais pas faire une soirée dans cette tenue quand même !
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 … si ?
 
 [[Isaac|ISAAC]]
@@ -107,7 +107,7 @@ Je lui traine par le bras à travers la maison dans la salle de bain.
 Je t’en supplie, prends une douche.
 Tu peux prendre mes vêtements dans ma chambre. T’en trouveras sûrement qui t’iront. Je vais nettoyer pendant que tu te douches.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Mais-
 
 Je lui claque la porte au nez avant qu’il puisse en placer une.

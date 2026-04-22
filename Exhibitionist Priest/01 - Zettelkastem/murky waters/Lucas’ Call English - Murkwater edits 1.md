@@ -2,13 +2,13 @@
 created: 2026-03-13T22:32:00
 characters:
   - "[[Isaac]]"
-  - "[[Lucas]]"
+  - "[[Luke]]"
 done:
 completion (%): 75
 ---
-Just then, my phone rings, so I pull it out. It’s [[Lucas]]. I answer.
+Just then, my phone rings, so I pull it out. It’s [[Luke]]. I answer.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Hello? Hello, hello!
 
 [[Isaac|ISAAC]]
@@ -19,7 +19,7 @@ Hello? Hello, hello!
 <span style="color:rgb(176, 114, 218)">I mean i was thinking of fnaf phone guy also</span></span></i>
 
   
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Oh, finally, there you are!
 I missed you, you know?[^2][^3]
 
@@ -30,7 +30,7 @@ I look at my watch.
 You called me during your lunch break...[^1]
   
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Oh, I’m just teasing you, hehe.<i class="muc"> 
 <span style="color:rgb(232, 17, 93)">Should we do more like... **He laughs** type thing or do you prefer typing it out? okay formatting text doesnt work in these things, thats meant to be italicized. </span>
 </i>
@@ -42,7 +42,7 @@ Is everything going well with the move?
 More or less.
 I just finished.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Well, finally! You’ve been dragging your feet on this for ages!
 
   
@@ -50,7 +50,7 @@ Well, finally! You’ve been dragging your feet on this for ages!
 [[Isaac|ISAAC]]
 It was only a month.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 And all that for what, three boxes?
 
 [[Isaac|ISAAC]]
@@ -58,13 +58,13 @@ Four.
 
   
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Still! Are you really sure you like the house? I’d understand if you didn’t.
 
 [[Isaac|ISAAC]]
 …why?
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 It’s so old, there’s so much work to do on it. And all those things—it must be bittersweet. Until recently, it belonged to… 
 
 <span style="color:rgb(232, 17, 93)">He trails off.</span>
@@ -72,21 +72,21 @@ It’s so old, there’s so much work to do on it. And all those things—it mus
 [[Isaac|ISAAC]]
 Yeah…
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you ~~don’t~~ want to stay there?
 
 [[Isaac|ISAAC]]
 More than sure. It’s my house, so I have to stay there. I’ve taken advantage of your hospitality enough. I don’t want to bother you any longer.
   
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 You’d never bother me, [[Isaac]]! If a friend needs help, I help them—especially you. Stop worrying about it!
 
-[[Lucas]]’s outlook is truly admirable, but naive and simple-minded. I wish he’d understand that other people wouldn’t be as generous as he is. Besides, all <span style="color:rgb(232, 17, 93)">of </span>this is just politeness. He’d never ~~dare~~ tell me I’m bothering him. <i class="muc"><span style="color:rgb(232, 17, 93)">The usage of the term dare here in english makes it sound like a threat LOL</span> </i>
+[[Luke]]’s outlook is truly admirable, but naive and simple-minded. I wish he’d understand that other people wouldn’t be as generous as he is. Besides, all <span style="color:rgb(232, 17, 93)">of </span>this is just politeness. He’d never ~~dare~~ tell me I’m bothering him. <i class="muc"><span style="color:rgb(232, 17, 93)">The usage of the term dare here in english makes it sound like a threat LOL</span> </i>
 
 [[Isaac|ISAAC]]
 Easier said than done.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Try harder then, heh. By the way, did you manage to sort out the stain issue?
 
 [[Isaac|ISAAC]]
@@ -102,21 +102,21 @@ It was right here, in this house, 20 years ago, that it happened for the first t
 
   
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 I’m sure it’ll go away.
 
 Yeah, sort of. The more days go by, the less it’ll bother me, ~~and~~<span style="color:rgb(232, 17, 93)">until</span> eventually I won’t even notice the stains anymore. They’ll become a part of me.
 
   
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 And if it does<span style="color:rgb(232, 17, 93)">n't</span> go away, we’ll find a solution together, okay?
 
 [[Isaac|ISAAC]]
 Okay…
 I guess you’ll be done with ~~the~~ work soon, then?
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Yep, that’s right!
 
 [[Isaac|ISAAC]]

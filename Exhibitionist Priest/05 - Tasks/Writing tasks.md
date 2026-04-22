@@ -11,7 +11,7 @@ kanban-plugin: board
 - [ ] Write Cesare and Joseph Outing
 - [ ] Write Cesare and Church introduction
 - [ ] Write Isaac roaming in town and Emma leading him to Church
-- [ ] Finish [[Lucas]] sheet
+- [ ] Finish [[Luke]] sheet
 - [ ] Finish [[Simone]] sheet
 
 
