@@ -223,7 +223,7 @@ Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour s
 [[Martine|MARTINE]]
 En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée même d’un autre genre* !
 
-S’il fallait déterminer un moyen d’établir la validité de ce qu’ils déballent tout au long de leur émission, il suffirait de débarquer dans les locaux et les regarder débiter. Ça convaincrait même 
+S’il fallait déterminer un moyen d’établir la validité de ce qu’ils déballent tout au long de leur émission, il suffirait de débarquer dans les locaux et les regarder débiter. Ç’en dégoûterait même les plus illuminés 
 
 [[Martin|MARTIN]]
 
