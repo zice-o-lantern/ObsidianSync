@@ -180,7 +180,7 @@ Et si je te disais oui ?
 Il dit un sourire au coin de ses lèvres. Je roule des yeux, un petit rire m’échappe.
 
 [[Isaac|ISAAC]]
-Bon [e uke]], va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café.
+Bon [[Luke]], va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café.
 
 [[Luke|LUCAS]]
 Vraiment ???
@@ -188,7 +188,7 @@ Vraiment ???
 [[Isaac|ISAAC]]
 Oui vraiment. Allez, ouste va chercher.
 
-Il détalé dans les escaliers, encore, comme un petit toutou.
+Il détale dans les escaliers, encore, comme un petit toutou.
 Ainsi, je m’attèle à faire blanchir le parquet. Cependant, me mettre à quatre pattes et me plier en deux pour atteindre la poussière en dessous de ces vieux meubles qui n’ont pas été déplacé en quarante ans s’avère, sans surprise, ennuyeux et fastidieux. Alors, je me dis, peut-être qu’un fond sonore m’aiderait à passer le temps.
 
 Alors je me lève et allume la vieille radio. Un bruit de statiques s’échappe de la radio pour finalement laisser placer à une voix masculine.
