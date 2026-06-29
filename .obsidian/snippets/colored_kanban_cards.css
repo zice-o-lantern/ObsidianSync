@@ -1,0 +1,35 @@
+.kanban-plugin__item-wrapper:has(a.tag[href="#important" i]) {
+  border: 2px solid #D18E5F;
+  border-radius: 6px;
+}
+
+.kanban-plugin__item-wrapper:has(a.tag[href="#important" i]) .kanban-plugin__item-title-wrapper {
+  background-color: #382519;
+}
+
+.kanban-plugin__item-wrapper:has(a.tag[href="#UI" i]) {
+  border: 2px solid #68b708;
+  border-radius: 6px;
+}
+
+.kanban-plugin__item-wrapper:has(a.tag[href="#UI" i]) .kanban-plugin__item-title-wrapper {
+  background-color: #ccf3c0;
+}
+
+.kanban-plugin__item-wrapper:has(a.tag[href="#character" i]) {
+  border: 2px solid #a53d3d;
+  border-radius: 6px;
+}
+
+.kanban-plugin__item-wrapper:has(a.tag[href="#character" i]) .kanban-plugin__item-title-wrapper {
+  background-color: #edc6c6;
+}
+
+.kanban-plugin__item-wrapper:has(a.tag[href="#illustration" i]) {
+  border: 2px solid #3d4ea5;
+  border-radius: 6px;
+}
+
+.kanban-plugin__item-wrapper:has(a.tag[href="#illustration" i]) .kanban-plugin__item-title-wrapper {
+  background-color: #c9c6ed;
+}

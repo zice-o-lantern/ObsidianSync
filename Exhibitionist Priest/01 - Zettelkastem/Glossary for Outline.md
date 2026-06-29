@@ -8,5 +8,5 @@ This is the order of reading some scenes are not in chronological order
 Red = Main event
 Green = tag
 Orange = Additional information/Consequence
-Yellow = [[4 - Indexes/Characters/God;Mad/Exhibitionist Priest/Cesare]] parallel actions
+Yellow = [[Cesare]] parallel actions
 Blue = [[Lucas]] parallel actions

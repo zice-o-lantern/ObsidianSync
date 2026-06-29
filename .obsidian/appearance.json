@@ -1,7 +1,13 @@
 {
   "cssTheme": "Typewriter",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
-  "accentColor": "#e89568"
+  "accentColor": "#efa06b",
+  "showRibbon": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "colored_kanban_lanes",
+    "colored_kanban_cards"
+  ]
 }

@@ -23,5 +23,6 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "colored-text:color-text"
-  ]
+  ],
+  "showInlineTitle": false
 }
