@@ -6,7 +6,7 @@ Ah oui en effet c’est un peu… poussiéreux
 Je croise les bras.
 
 [[Isaac|ISAAC]]
-Je te l’avais dit.
+Vraiment ?
 
 Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
 
@@ -68,7 +68,7 @@ Bah si je crois, c’est pour ça que je suis là.
 Je lui fauche le balais des mains.
 
 [[Isaac|ISAAC]]
-Mais t’es plus que sale que là.
+Mais t’es plus que sale, là.
 
 [[Luke|LUCAS]]
 Arrête d’exagérer… je pue pas quand même. 
@@ -78,13 +78,13 @@ Il sent son aisselle.
 [[Luke|LUCAS]]
 Ça va.
 
-Je saisis sa chemise et la renifle.
+Je fauche sa chemise et la renifle.
 
 [[Isaac|ISAAC]]
 Tu empestes la sueur !
 
 [[Luke|LUCAS]]
-C’est peut être vrai. Et alors ?
+C’est peut-être vrai. Et alors ?
 
 [[Isaac|ISAAC]]
 Et alors que tu vas prendre une douche, voilà tout.
@@ -93,11 +93,102 @@ Et alors que tu vas prendre une douche, voilà tout.
 J’ai pas d’habits de rechange !
 
 [[Isaac|ISAAC]]
-Mais t’allais pas faire une soirée dans cette tenue quand même !
+Mais t’allais pas faire une soirée comme ça quand même !
 
 [[Luke|LUCAS]]
 … si ?
 
+Mes sourcils se baissent et se creusent tels les sillons d’un champs de rizières.
+
+[[Isaac|ISAAC]]
+Oh que tu m’énerves !
+
+Je lui traine par le bras à travers la maison dans la salle de bain.
+
+[[Isaac|ISAAC]]
+Je t’en supplie, prends une douche.
+Tu peux prendre des vêtements dans ma chambre s’il y’en a pas dans la chambre d’amis. T’en trouveras sûrement qui t’iront. Je vais nettoyer pendant que tu te douches.
+
+[[Luke|LUCAS]]
+Mais-
+
+Je lui claque la porte au nez avant qu’il puisse en placer une.
+
+Je m’appuie sur la porte, dos au mur, reprenant mon souffle. Après quelques temps j’entends l’eau de la douche couler donc je saisis le signal et m’en vais attraper le balai qui gît au sol et je commence à dépoussiérer, le temps qu’il revienne.
+
+Quand je le vois, se plier en quatre comme ça, juste pour moi, ça m’énerve. Ce n’est pas la première fois. Ce ne sera pas la dernière. Ça a toujours été comme ça avec lui. Toujours à débouler, sans rien demander. Je ne veux pas de son aide. Je ne suis pas son enfant sur lequel il doit veiller.
+Je pensais que ça allait s’arrêter après nos études. Il est pas venu avec moi pour l’université. Il a réussi à en trouver une assez proche pour pouvoir faire le trajet en voiture.  Moi j’ai préféré déménager dans un logement étudiant miteux. Et même là, il venait me voir et m’apporter des choses. J’ai dû éclaircir plusieurs fois à mes camarades et colocataires, que non c’est pas mon frère et c’est encore moins mon père, alors qu’on ne se ressemble pas vraiment. À chaque fois je refusais ses offres, mais étant donné ma situation, je me retrouvais à accepter. En fait, je dois l’admettre, il a beau m’énerver, j’aime bien qu’il prenne soin de moi. Avec lui, je n’ai jamais à me soucier de manquer de quoi que ce soit. Mon souhait, une réalité. Puis quand il me prend dans ses bras, je sens que je peux enfin respirer. La chaleur de son corps me submerge. Le poids du monde se lève. 
+Mais du coin de ma tête, je peine à apprécier tout ce qu’il fait. Je sais que je ne peux rendre tout ce qu’il me fait. Quand il m’enlace je force mes bras autour de sa taille en retour. Ils resteraient ballants sinon. Je sais que je devrais faire plus. J’en suis incapable. Je ne pourrais jamais retourner sa bonté et son affection. Puis s’il creusait plus loin…
+
+La porte de la salle de bain claque et [[Luke]] marche d’un pas lourd vers les escaliers. Il les monte avec un fracas
+
+[[Isaac|ISAAC]]
+Fais attention aux escaliers, tu pourrais te blesser !
+
+[[Luke|LUCAS]]
+T’inquiète, j’ai pas 90 ans.
+
+Je grince des dents et retourne au ménage.
+
+Au bout de quelques minutes, [[Luke]] finit par descendre les escaliers portant juste un t-shirt and un caleçon. Je soupire
+
+[[Isaac|ISAAC]]
+T’as pas pu trouver mieux ?
+
+[[Luke|LUCAS]]
+Quoi ?
+
+[[Isaac|ISAAC]]
+T’as pas de pantalons.
+
+[[Luke]] regarde ses jambes nus feignant l'étonnement.
+
+[[Luke|LUCAS]]
+Ah oui c’est vrai. Mais je me sens mieux comme ça.
+
+Il dit, le sourire aux lèvres. Mes yeux ne lâchent pas ses jambes. 
+
+[[Isaac|ISAAC]]
+Mets-en un. La maison est sale et tu devrais pas laisser ta… peau toucher la poussière comme ça. 
+
+[[Luke|LUCAS]]
+Sûrement mais je trouve rien.
+
+[[Isaac|ISAAC]]
+C’est que tu n’as pas assez cherché. Normalement y a des joggings que tu peux mettre. Tu as regardé dans ma chambre, dans le tiroir en bas de l’armoire ?
+
+[[Luke]] lève les yeux au ciel et se dandine sur ses jambes.
+
+[[Luke|LUCAS]]
+Je crois !
+
+Mensonges.
+
+[[Isaac|ISAAC]]
+T’as sûrement dû mal cherché 
+
+[[Luke|LUCAS]]
+Roooooh, t’as si peu confiance en moi ? 
+Je glousse, dissimulant les picotements qui me montent aux mains.
+
+[[Isaac|ISAAC]]
+Et si je te disais oui ?
+
+[[Luke|LUCAS]]
+Ça me blesserait terriblement…
+
+Il dit un sourire au coin de ses lèvres. Je roule des yeux, un petit rire m’échappe.
+
+[[Isaac|ISAAC]]
+Bon [[Luke]], va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café.
+
+[[Luke|LUCAS]]
+Vraiment ???
+
+[[Isaac|ISAAC]]
+Oui vraiment. Allez, ouste va chercher.
+
+Il détalé dans les escaliers, encore, comme un petit toutou.
 Ainsi, je m’attèle à faire blanchir le parquet. Cependant, me mettre à quatre pattes et me plier en deux pour atteindre la poussière en dessous de ces vieux meubles qui n’ont pas été déplacé en quarante ans s’avère, sans surprise, ennuyeux et fastidieux. Alors, je me dis, peut-être qu’un fond sonore m’aiderait à passer le temps.
 
 Alors je me lève et allume la vieille radio. Un bruit de statiques s’échappe de la radio pour finalement laisser placer à une voix masculine.
@@ -108,16 +199,17 @@ Alors je me lève et allume la vieille radio. Un bruit de statiques s’échappe
 ???
 Merci beaucoup Martin de m’avoir écouté. Je me sens un peu moins seul. Passez une bonne fin de soirée aussi.
 
-[[Martin|MARTIN]]
-Eh bien c’est la fin de ce témoignage de notre chère auditrice, Véronique.
+[[Martin|MARTIN]] 
+Eh bien c’est la fin de ce témoignage de notre chère auditrice, Véronique. Martine, qu’est ce que t’en as pensé ? 
 
-Martine, qu’est ce que t’en as pensé ?
+[[Martine|MARTINE]] 
+C’était très intriguant ! Jamais je n'avais entendu parler de cette histoire de "doppelganger" ? Fascinant que tu puisses retrouver son sosie comme ça, dans la nature. 
+
+[[Martin|MARTIN]] 
+Oh fais attention à toi. Ne t'approche pas trop ! Après tout, il ne peut pas y avoir deux soi à la fois dans ce monde. Et il pourrait choisir de faire le choix pour toi.
 
 [[Martine|MARTINE]]
-C’était très intriguant ! Jamais je n'avais entendu parler de cette histoire de "doppelganger" ? Fascinant que tu puisses retrouver son sosie comme ça. 
-
-[[Martin|MARTIN]]
-Attention à ne pas trop s'approcher cependant ! 
+Terrifiant... Elle a vraiment vu un doppelganger ou juste un quelqu'un qui le lui ressemblait
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
