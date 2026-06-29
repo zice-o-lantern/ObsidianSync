@@ -221,12 +221,11 @@ Aaaargh ! C’est frustrant. Je voudrais tellement en savoir plus.
 Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour sur votre vie ou toute rencontre étrange, hors de notre réalité, hors de toute notion préconçue. Même de l’au-delà !
 
 [[Martine|MARTINE]]
-En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée* !
+En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée même d’un autre genre* !
 
-S’il fallait déterminer un moyen d’établir la validité de ce qu’ils déballent tout au long de leur émission, il suffirait seulement de débarquer dans les locaux et les débiter.
+S’il fallait déterminer un moyen d’établir la validité de ce qu’ils déballent tout au long de leur émission, il suffirait de débarquer dans les locaux et les regarder débiter. Ça convaincrait même 
 
 [[Martin|MARTIN]]
-
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
