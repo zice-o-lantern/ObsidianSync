@@ -209,7 +209,14 @@ C’était très intriguant ! Jamais je n'avais entendu parler de cette histoire
 Oh fais attention à toi. Ne t'approche pas trop ! Après tout, il ne peut pas y avoir deux soi à la fois dans ce monde. Et il pourrait choisir de faire le choix pour toi.
 
 [[Martine|MARTINE]]
-Terrifiant... Elle a vraiment vu un doppelganger ou juste un quelqu'un qui le lui ressemblait
+Terrifiant... Elle a vraiment vu un doppelganger ou juste un quelqu'un qui le lui ressemblait par coïncidence ?
+
+[[Martin|MARTIN]]
+Eh bien on ne le saura jamais à moins que Véronique nous rappelle avec de nouvelles informations ou mises à jour sur la situation !
+
+[[Martine|MARTINE]]
+Aaaargh ! C’est frustrant.
+
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
