@@ -209,14 +209,23 @@ C’était très intriguant ! Jamais je n'avais entendu parler de cette histoire
 Oh fais attention à toi. Ne t'approche pas trop ! Après tout, il ne peut pas y avoir deux soi à la fois dans ce monde. Et il pourrait choisir de faire le choix pour toi.
 
 [[Martine|MARTINE]]
-Terrifiant... Elle a vraiment vu un doppelganger ou juste un quelqu'un qui le lui ressemblait par coïncidence ?
+Terrifiant... Elle a vraiment vu un doppelgänger ou juste quelqu'un qui le lui ressemblait par coïncidence ?
 
 [[Martin|MARTIN]]
-Eh bien on ne le saura jamais à moins que Véronique nous rappelle avec de nouvelles informations ou mises à jour sur la situation !
+Eh bien on ne le saura jamais… à moins que Véronique nous rappelle avec de nouvelles informations ou mises à jour sur la situation ! 
 
 [[Martine|MARTINE]]
 Aaaargh ! C’est frustrant. Je voudrais tellement en savoir plus.
 
+[[Martin|MARTIN]]
+Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour sur votre vie ou toute rencontre étrange, hors de notre réalité, hors de toute notion préconçue. Même de l’au-delà !
+
+[[Martine|MARTINE]]
+En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée* !
+
+S’il fallait déterminer un moyen d’établir la validité de ce qu’ils débitent tout au long de leur émission, il suffirait seulement de débarquer dans les locaux
+
+[[Martin|MARTIN]]
 
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
