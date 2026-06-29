@@ -1,0 +1,30 @@
+---
+created: 2026-03-13T23:49:00
+---
+[[Luke|LUCAS]]
+Merde j’ai encore perdu, urgh !
+
+En effet, carré d’as, Simone emporte le pot encore cette fois-ci
+
+[[Simone|SIMONE]]
+[[Luke]], tu n’as plus aucun jeton et tu te permets encore de jouer de manière irrationnelle ?
+
+[[Luke|LUCAS]]
+Oui c’est pas marrant que ça si je dois tout le temps réfléchir à toutes mes actions.
+
+[[Simone|SIMONE]]
+Oui mais là ça va plus loin que de s’amuser. Tu te rends compte de ce que ça veut dire ? Tu n’as plus de jetons pour jouer. Tu sais ce que ça veut dire ?
+
+[[Nick|NICK]]
+Hmmm le petit toutou est cerné. Qu'est-ce qu'il va faire hein ?
+
+[[Nick]] se penche vers [[Luke]] avec un sourire sournois qui ferait regretter mes choix de vie.  [[Luke]] alors soupire et jette son bonnet dans le pot.
+
+[[Luke|LUCAS]]
+Oui je sais.
+
+[[Nick|NICK]]
+Mais on a même pas commencé le tour.
+
+[[Luke|LUCAS]]
+Et alors ? J’aurais dû le faire de toute façon 
