@@ -165,7 +165,7 @@ Je crois !
 Mensonges.
 
 [[Isaac|ISAAC]]
-T’as sûrement dû mal cherché 
+T’as sûrement mal cherché 
 
 [[Luke|LUCAS]]
 Roooooh, t’as si peu confiance en moi ? 
@@ -197,7 +197,7 @@ Alors je me lève et allume la vieille radio. Un bruit de statiques s’échappe
 …………- et merci pour votre témoignage passionnant ! J’espère que vous trouverez une solution à votre situation et je vous souhaite de passer une bonne fin de soirée !
 
 ???
-Merci beaucoup Martin de m’avoir écouté. Je me sens un peu moins seul. Passez une bonne fin de soirée aussi.
+Merci beaucoup Martin de m’avoir écouté… Je me sens un peu moins seul. Passez une bonne fin de soirée aussi.
 
 [[Martin|MARTIN]] 
 Eh bien c’est la fin de ce témoignage de notre chère auditrice, Véronique. Martine, qu’est ce que t’en as pensé ? 
@@ -215,7 +215,8 @@ Terrifiant... Elle a vraiment vu un doppelganger ou juste un quelqu'un qui le lu
 Eh bien on ne le saura jamais à moins que Véronique nous rappelle avec de nouvelles informations ou mises à jour sur la situation !
 
 [[Martine|MARTINE]]
-Aaaargh ! C’est frustrant.
+Aaaargh ! C’est frustrant. Je voudrais tellement en savoir plus.
+
 
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
