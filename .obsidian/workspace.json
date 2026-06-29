@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -177.28568430834338,
-                  "y": -120.46669527264928,
-                  "zoom": -1.333333333333333
+                  "x": -1972.416506612933,
+                  "y": -1895.2003360645565,
+                  "zoom": -2.3333333333333326
                 }
               },
               "pinned": true,
@@ -46,17 +46,17 @@
                 }
               },
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "kanban"
+              "icon": "lucide-trello",
+              "title": "Writing tasks"
             }
           },
           {
-            "id": "3dc826388997c50b",
+            "id": "ef185ae1d6709316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/00 - Incipit.md",
+                "file": "Exhibitionist Priest/03 - Index/Characters/Luke.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,16 +71,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00 - Incipit"
+              "title": "Luke"
             }
           },
           {
-            "id": "60980ba9fad2fc5f",
+            "id": "f926407760fb927e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
+                "file": "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,11 +95,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plot points ideas"
+              "title": "façon de projeter texture depuis une camera mais de façon permanente"
+            }
+          },
+          {
+            "id": "c82debe2a01719ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "03 - The before party"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,8 +182,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -244,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/raccourcis houdini.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/02 - Lucas’ Call.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of raccourcis houdini"
+              "title": "Outline of 02 - Lucas’ Call"
             }
           },
           {
@@ -259,8 +283,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -274,11 +298,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 386.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,46 +319,49 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "60980ba9fad2fc5f",
+  "active": "c82debe2a01719ed",
   "lastOpenFiles": [
-    "Exhibitionist Priest/07 - Rough Notes/Character names.md",
-    "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
-    "Exhibitionist Priest/07 - Rough Notes/Untitled.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/00 - Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Renpy Export/01 - Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Renpy Export/00 - Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/01 - Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/01 - Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Renpy Export",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/00 - Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/03 - The before party - First Draft 1.md",
-    "1 - Rough Notes/raccourcis houdini.md",
-    "1 - Rough Notes/Truc pour tester obisidian lol.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/unknown - Cafe.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
-    "Exhibitionist Priest/03 - Index/Characters/Luke.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/02 - Lucas’ Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-    "8 - MarkDown Websites/Steve Huston - Part 1_Master Analysis and Demos.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Incipit.md",
-    "8 - MarkDown Websites/Steve Huston - Part 1.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/04 - why did you quit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+    "Exhibitionist Priest.zip",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md",
+    "1 - Rough Notes/step autoRig.md",
+    "Exhibitionist Priest/03 - Index/Characters/Martine.md",
+    "Exhibitionist Priest/03 - Index/Characters/Martin.md",
+    "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
+    "Exhibitionist Priest/05 - Tasks/Visual Tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/01 - Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/undefined.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/00 - Incipit.md",
+    "2026-05-27.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/Evangelique/Index.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/Evangelique",
+    "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md",
+    "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md",
+    "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011224.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011200.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011151.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011135.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011012.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516010751.png",
+    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516010601.png",
+    "7 - Attachments/windows-jalousie-homme-jumelles-portrait-spy-spy-agrandir-la-curiosite-curieusement-la-tension-de-la-chenille-voyeur-voyeurisme-telescope-l-elargissement-de-l-optique-h3ymmg.jpg",
+    "Exhibitionist Priest/01 - Zettelkastem/Renpy Export",
     "7 - Attachments/Pasted image 20260327112807.png",
     "7 - Attachments/Pasted image 20260327112750.png",
-    "7 - Attachments/Pasted image 20260327112738.png",
-    "7 - Attachments/Pasted image 20260327112521.png",
-    "7 - Attachments/Pasted image 20260327112130.png",
-    "7 - Attachments/Pasted image 20260327112111.png",
-    "7 - Attachments/Pasted image 20260327112038.png",
-    "7 - Attachments/Pasted image 20260327111934.png",
-    "7 - Attachments/Pasted image 20260327111927.png",
-    "7 - Attachments/Pasted image 20260327111448.png",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts",
@@ -341,10 +369,7 @@
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
-    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Character Design.canvas",

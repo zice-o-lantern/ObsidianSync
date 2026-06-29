@@ -2,11 +2,11 @@
 created: 2026-02-28T17:37:00
 characters:
   - "[[Isaac]]"
-  - "[[Luke]]"
+  - "[[Lucas]]"
 order: 1
 done: true
 ---
-Aujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait absolument que je les déballe car je n’arrêtais pas de trébucher sur ces fichus cartons. Ça fait un mois qu’ils sont là. J’aurais pu demander à [[Luke]] mais Il est au travail aujourd’hui.
+Aujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait absolument que je les déballe car je n’arrêtais pas de trébucher sur ces fichus cartons. Ça fait un mois qu’ils sont là. J’aurais pu demander à [[Lucas]] mais Il est au travail aujourd’hui.
 
 Je redoute toujours cette phase de ma vie, le déménagement. Devoir défaire son lieu de vie et le refaire, c'est pas très excitant. Il faut transporter pleins de choses lourds qui ruinent ton dos. Tout ça pour finir dans un lieu non-familier et pas accueillant. Puis ça met en pause toutes les activités et projets en cours. Si j'en avais.
 
@@ -31,4 +31,4 @@ La photo mystérieuse dans la galerie me revient à l'esprit. Je l'ouvre. La pho
 Je la trouve plutôt pas mal. Le concours de circonstances rassemblées pour cette photo... C'est un peu poétique en soit. Toutes les conditions et les conséquences qui m'ont amené à ce point, à cette photo. Quand je pense au ramifications que ça implique... Tout ça, c'est vertigineux. Puis quand Tonton prenait ces photos à toutes heures de la journée, ça avait l’air amusant. C’est comme si mon oncle me le léguait. Peut-être bien c’est ma destinée de prendre des photos. Peut-être bien que c'était ma destinée de prendre une photo un jour ici. Je crois que je vais garder la caméra. Je n'ai pas grand chose à faire donc je suppose que ça ferait pas de mal de quelque photos au quatre coins de la ville. Peut-être que c'est pourrait devenir ma nouvelle passion ? Qui sait.
 J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche prête pour toute sortes d’expérimentations. 
 
-À ce moment-là, mon téléphone sonne alors je le sors. C’est [[Luke]]. Je décroche.
+À ce moment-là, mon téléphone sonne alors je le sors. C’est [[Lucas]]. Je décroche.

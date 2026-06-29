@@ -6,39 +6,42 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] Write before poker night scene
-- [ ] Write church hot scene
-- [ ] Write Cesare and Joseph Outing
-- [ ] Write Cesare and Church introduction
-- [ ] Write Isaac roaming in town and Emma leading him to Church
-- [ ] Finish [[Luke]] sheet
+- [ ] Write before poker night scene #firstBuild
+- [ ] Write after party scene #firstBuild
+- [ ] Write Isaac roaming in town and Simone leading him to Church #firstBuild
+- [ ] Write Cesare and Church introduction #firstBuild
+- [ ] Write Cesare and Joseph Outing #secondBuild
+- [ ] Write church hot scene #firstBuild #maybe?
 - [ ] Finish [[Simone]] sheet
 
 
 ## DOING
 
-- [ ] Write Lucas Call
+- [ ] Write why did you quit
 - [ ] Write Poker night
 - [ ] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/unknown - Cafe|unknown - Cafe]] (not needed for first update)
 
 
 ## PEER REVIEW
 
+- [ ] Write Lucas Call
 - [ ] Devlelop [[Story's locations.canvas|Story Locations]]
-- [ ] Définir projet ([[Exhibitionist Priest/03 - Index/Exhibitionist Priest|Exhibitionist Priest]])
-- [ ] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/01 - Grandma|01 - Grandma]]
 
 
 ## DONE
 
+- [x] Write Lucas Call
+- [x] Finish [[Luke]] sheet
 - [x] Finish [[Cesare]] sheet
 - [x] write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/00 - Incipit|00 - Incipit]]
 - [x] [[Develop Cesare backstory]]
 - [x] [[Should Joseph be the one spying on Cesare in the incipit]]
+- [x] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/01 - Grandma|01 - Grandma]]
 
 
 ## PINNED FOR LATER
 
+- [ ] Définir projet ([[Exhibitionist Priest/03 - Index/Exhibitionist Priest|Exhibitionist Priest]])
 - [ ] [[Is the collective hallucination plot point pertinent to the story]]
 
 

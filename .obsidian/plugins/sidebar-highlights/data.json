@@ -776,15 +776,14 @@
         "startOffset": 521,
         "endOffset": 535,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 7,
+        "footnoteCount": 6,
         "footnoteContents": [
           "M: Should we do more like... **He laughs** type thing or do you prefer typing it out? okay formatting text doesnt work in these things, thats meant to be italicized.",
           "S: Hmm the thing is as it's destined to be a visual novel, every action verbs used to describe how someone talks can break the flow like the *He laughs* will have to be put into a different dialogue bubble than \"Oh I'm just teasing you\" and i think it's easier to put it inside the dialogue directly than to create another bubble solely to describe an action. I sometimes break this rule for a meaningful action but when an onomatopoeia can be used instead, i don't bother",
           "M: My biggest concern is that it sort of breaks the established flow within the text itself by swapping betwen onomatopoeia, partially because within english writing rules this is one of those things where we are taught young to \"pick one\" and be consistent with, as far as the flow of creative writing. We can just roll with it how it is, but as for a localization thing, it's something to consider/put a pin in for now and see how it feels in implementation. I was imagining the text bubble for these scene being \"Oh, I'm just teasing you.\" _He laughs_ as one continuous thought and not two separate bubbles.",
-          "S: Yeah but on the other hand, i think it breaks the flow to make a new bubble just to say he's laughing",
-          "M: You misunderstand what I'm saying, it wouldn't be two bubbles but 1!",
-          "S: I don't see how that would work in a vn environment",
-          "M: This is me coming back to add a note for context, we moved this to telegram, I think we wanted to try some different ways of doing this when we're further into the process, I see what you mean now when you say its different in VN spaces the way it's usually paced."
+          "Yeah but on the other hand, i think it breaks the flow to make a new bubble just to say he's laughing",
+          "You misunderstand what I'm saying, it wouldn't be two bubbles but 1!",
+          "I don't see how that would work in a vn environment"
         ],
         "createdAt": 1774521551779,
         "isNativeComment": false,
@@ -795,8 +794,8 @@
         "text": "He’d never ~~dare~~ tell me I’m bothering him",
         "tags": [],
         "line": 81,
-        "startOffset": 2061,
-        "endOffset": 2110,
+        "startOffset": 2056,
+        "endOffset": 2105,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
@@ -812,8 +811,8 @@
         "text": "This house is weird. It’s messing with me. I know it. Things are never where they’re supposed to be. I can never find anything. Or <span style=\"color:rgb(232, 17, 93)\">when </span>I find them, <span style=\"color:rgb(232, 17, 93)\">they're</span>~~but~~ on the other side of the house. In the morning I wake up with stains on the sheets. Colorless. <span style=\"color:rgb(232, 17, 93)\">Water, maybe?</span>~~Water? Maybe.~~ The smell is unbearable. It smells like mold. I had Lucas smell it so he could tell me what it was. He told me it smelled like nothing",
         "tags": [],
         "line": 92,
-        "startOffset": 2285,
-        "endOffset": 2845,
+        "startOffset": 2280,
+        "endOffset": 2840,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
@@ -821,112 +820,6 @@
           "S: sure thanks!"
         ],
         "createdAt": 1774363262387,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "58fldbxt1",
-        "text": "I’m about to hang up.",
-        "tags": [],
-        "line": 123,
-        "startOffset": 4156,
-        "endOffset": 4181,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 3,
-        "footnoteContents": [
-          "M: Alternative turn of phrase \"I'm gonna hang up now.\"/\"I'm going to hang up now...\" (depending on how you want Isaac's conversation flow to feel, flippant versus formal.), more common english way to say this. Unless this is meant to be an action line, then you can ignore this note.",
-          "S: Yeah this is meant to be an action line ahah. The translator added a line between i see and well be safe. Usually I don't make this mistake ahah",
-          "M: Good to know! I'll keep a pin in this because we could possibly add \" when I hear his voice come through the receiver again.\", unnecessary and purely stylistic I think. I want to see how it feels when it plays though, as that is a different experience than flat reading."
-        ],
-        "createdAt": 1774521782414,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "m0lwidw3l",
-        "text": "When?",
-        "tags": [],
-        "line": 129,
-        "startOffset": 4392,
-        "endOffset": 4401,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "short pause inserted before Isaac says when, maybe a time for extra hesitancy? can remove :3"
-        ],
-        "createdAt": 1774521782640,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "r5kjle7qm",
-        "text": "over<span style=\"color:rgb(126, 114, 218)\">night</span>",
-        "tags": [],
-        "line": 133,
-        "startOffset": 4549,
-        "endOffset": 4608,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "S: Miswrote here"
-        ],
-        "createdAt": 1775466422903,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "yhg5r1uxo",
-        "text": "~~and when you’re working on a Saturday, you want to take your mind off things in the evening!~~ <span style=\"color:rgb(126, 114, 218)\">Even if you have to work, Saturdays are for partying!</span>",
-        "tags": [],
-        "line": 141,
-        "startOffset": 4802,
-        "endOffset": 5002,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 5,
-        "footnoteContents": [
-          "Is this lucas saying he himself worked on a saturday and wants to take things off his mine, or is this him saying Isaac should wanna take his mind off things on this saturday?",
-          "S: This is him saying Lucas should relax with a party",
-          "M: But who's saturday is he talking about, there's a different way to phrase this in english dependent on if Lucas is talking about his work week vs if lucas is talking about Isaac's workweek (or is this a phrase in french that doesnt translate to english in general?)",
-          "S: I meant in general like wen you workday is on saturday, you'd want to relax in the evening. He's not talking about his or Isaac's workweek. But his work week does include Saturday (and not working on Monday)",
-          "M: I think this might just be a confusing phrase to translate over to english, is it kinda like \"Everybody likes to relax/party/kick it on the weekend\"? I think the specificity is what throws me lol, people don't really get that specific unless it's like meant to be."
-        ],
-        "createdAt": 1775478179938,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "4btwn4h5r",
-        "text": "My place?",
-        "tags": [],
-        "line": 171,
-        "startOffset": 5672,
-        "endOffset": 5685,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 4,
-        "footnoteContents": [
-          "Is Lucas meant to be lying here? He offered Isaac to sleep at his place earlier in the scene and I want to know if that was intentional :3",
-          "S: Nah in the french text, he was being vague and i corrected it as you can see earlier. The translator translated by your place because it's more logical in a sense",
-          "S: But I did write the above sentence in a vague way to make isaac believe he's gonna sleep at lucas'",
-          "M: I think the changes made are acceptable for now, I'm not sure how else I would word it to get the intended feeling across"
-        ],
-        "createdAt": 1775478176731,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "oedi35i0a",
-        "text": "He’s hung up",
-        "tags": [],
-        "line": 225,
-        "startOffset": 7185,
-        "endOffset": 7201,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 2,
-        "footnoteContents": [
-          "I'm not sure if youre intending an abrupt end but I like it! It's fun and sets up the following scene well :3 It works on a meta narrative level wherein it emphasizes the abrupt impromptu style of the party.",
-          "S: I meant it to be abrupt lol. It shows that [[Lucas]] is very attentionate about Isaac but often doesn't really listen to him either"
-        ],
-        "createdAt": 1775478176244,
         "isNativeComment": false,
         "type": "highlight"
       }
@@ -1415,7 +1308,7 @@
         "type": "highlight"
       },
       {
-        "id": "fiumju8dp",
+        "id": "a0t7qt6gh",
         "text": "[~~[Lucas]] is on the floor, groaning in pain over his arms, trying to get up~~ <span style=\"color:rgb(126, 114, 218)\">[[Luke]] is on the floor, groaning in pain, trying to lift himself up</span>.",
         "tags": [],
         "line": 144,
@@ -1426,12 +1319,12 @@
         "footnoteContents": [
           "M: I think I would just structure this a little different for english, depending on the meaning: \"Lucas is on the floor, groaning in pain, trying to life himself up.\" if he's meant to be like fallen forward and sorta onto his face/using his arms to get up. If he's meant to have hurt his arm I might say: \"Lucas is on the floor, holding his arms and groaning. He looks like he's trying to get up.\""
         ],
-        "createdAt": 1776205477954,
+        "createdAt": 1782507279255,
         "isNativeComment": false,
         "type": "highlight"
       },
       {
-        "id": "cfkn2yckv",
+        "id": "2xu2i6skg",
         "text": "Oh my god, [[Luke]]~~,~~<span style=\"color:rgb(126, 114, 218)\">!</span> are you okay???",
         "tags": [],
         "line": 147,
@@ -1443,7 +1336,7 @@
           "M: Alt punctuation: \"Oh my god, Lucas! Are you okay???\", I quite like the triple punctuation :3 so I'd like for us to keep it throughout",
           "S: I trust you that it sounds better in english!"
         ],
-        "createdAt": 1776205478196,
+        "createdAt": 1782507279497,
         "isNativeComment": false,
         "type": "highlight"
       },

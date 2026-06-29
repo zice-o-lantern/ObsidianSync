@@ -6,5 +6,8 @@
   "accentColor": "#efa06b",
   "showRibbon": true,
   "nativeMenus": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "colored_kanban_lanes",
+    "colored_kanban_cards"
+  ]
 }

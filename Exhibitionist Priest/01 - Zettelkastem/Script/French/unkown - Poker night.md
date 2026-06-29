@@ -13,7 +13,7 @@ En effet, carré d’as, Simone emporte le pot encore cette fois-ci
 Oui c’est pas marrant que ça si je dois tout le temps réfléchir à toutes mes actions.
 
 [[Simone|SIMONE]]
-Oui mais là ça va plus loin que de s’amuser. Tu te rends compte de ce que ça veut dire pour toi ? Tu n’as plus de jetons pour jouer. Tu sais ce que ça veut dire ?
+Oui mais là ça va plus loin que de s’amuser. Tu te rends compte de ce que ça veut dire ? Tu n’as plus de jetons pour jouer. Tu sais ce que ça veut dire ?
 
 [[Nick|NICK]]
 Hmmm le petit toutou est cerné. Qu'est-ce qu'il va faire hein ?

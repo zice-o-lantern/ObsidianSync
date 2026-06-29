@@ -3,8 +3,8 @@ created: 2026-03-13T22:32:00
 characters:
   - "[[Isaac]]"
   - "[[Luke]]"
-done:
-completion (%): 75
+done: true
+completion (%): 100
 ---
 Just then, my phone rings, so I pull it out. It’s [[Lucas]]. I answer.
 
