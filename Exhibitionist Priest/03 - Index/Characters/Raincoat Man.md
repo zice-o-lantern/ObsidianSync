@@ -4,11 +4,7 @@ age: 0
 gender: Unknown
 profession: Lawyer
 aliases:
-  - Izzy
-  - Isaac (main interest love)
-  - Isaac (protagonist)
-  - ISAAC
-  - Isaac Monteloth
+  - L’imperméable
 species: crow(?)
 relatives:
   - "[[Cesare|Cesare (main interest love)]]"
