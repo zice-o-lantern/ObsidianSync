@@ -7,7 +7,7 @@
 		{"id":"a7d4a1d8ca705bd4","type":"text","text":"They don’t want to give their name ","x":560,"y":617,"width":250,"height":60,"color":"2"},
 		{"id":"2446da5576f5c740","type":"text","text":"They are calling from a phone booth under the rain as a refuge","x":-245,"y":601,"width":285,"height":92,"color":"2"},
 		{"id":"78376fbede61ff50","x":-129,"y":834,"width":295,"height":106,"color":"1","type":"text","text":"They claim the [[Raincoat Man]] only wears a raincoat and nothing else."},
-		{"id":"c867407dc43bfcaa","x":431,"y":841,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c867407dc43bfcaa","x":431,"y":841,"width":250,"height":60,"type":"text","text":"Th"}
 	],
 	"edges":[
 		{"id":"3cef858429c8a4f6","fromNode":"2e9694f1a027be79","fromSide":"bottom","toNode":"4035bbc585b89238","toSide":"top"},
