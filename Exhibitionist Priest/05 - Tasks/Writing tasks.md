@@ -6,9 +6,9 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] Write before poker night scene #firstBuild
-- [ ] Write after party scene #firstBuild
-- [ ] Write Isaac roaming in town and Simone leading him to Church #firstBuild
+- [ ] Write before poker night scene 1k #firstBuild @{2026-05-31}
+- [ ] Write after party scene #firstBuild @{2026-06-06}
+- [ ] Write Isaac roaming in town and Simone leading him to Church 2k #firstBuild @{2026-06-06}
 - [ ] Write Cesare and Church introduction #firstBuild
 - [ ] Write Cesare and Joseph Outing #secondBuild
 - [ ] Write church hot scene #firstBuild #maybe?
@@ -17,14 +17,12 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] Write why did you quit
-- [ ] Write Poker night
-- [ ] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/unknown - Cafe|unknown - Cafe]] (not needed for first update)
+- [ ] Write why did you quit 1,5k @{2026-05-31}
+- [ ] Write Poker night 1k @{2026-05-31}
 
 
 ## PEER REVIEW
 
-- [ ] Write Lucas Call
 - [ ] Devlelop [[Story's locations.canvas|Story Locations]]
 
 
@@ -41,6 +39,7 @@ kanban-plugin: board
 
 ## PINNED FOR LATER
 
+- [ ] Write [[Exhibitionist Priest/01 - Zettelkastem/Script/French/unknown - Cafe|unknown - Cafe]] (not needed for first update)
 - [ ] Définir projet ([[Exhibitionist Priest/03 - Index/Exhibitionist Priest|Exhibitionist Priest]])
 - [ ] [[Is the collective hallucination plot point pertinent to the story]]
 
