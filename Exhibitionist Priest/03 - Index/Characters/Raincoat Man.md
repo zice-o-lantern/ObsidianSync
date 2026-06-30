@@ -1,7 +1,7 @@
 ---
 full-name: Raincoat Man?
 age: 0
-gender: male
+gender: Unknown
 profession: Lawyer
 aliases:
   - Izzy
