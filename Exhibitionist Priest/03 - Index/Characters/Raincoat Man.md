@@ -5,17 +5,15 @@ gender: Unknown
 profession: Lawyer
 aliases:
   - L’imperméable
-species: crow(?)
+species: Unknown
 relatives:
   - "[[Cesare|Cesare (main interest love)]]"
   - "[[Luke| Lucas (Main love interest/friend)]]"
 tags:
 ---
 Traits:
-- depressed 
-- has no aim in life for now 
-- a shit digger 
-- often brooding has a bitch resting face 
-- intimidating 
-- bad with words
-- is a mirror/baby version of Cesare
+- Amorphous entity
+- Comparable to tulpa
+- wears a full black suit can be either spandex or latex
+- Wears a raincoat with a hood on top of
+- 
