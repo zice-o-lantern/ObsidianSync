@@ -239,8 +239,7 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
-      "system3-relay:Relay": false,
-      "app-launcher:Launch App": false
+      "system3-relay:Relay": false
     }
   },
   "active": "da456073f10e109f",
