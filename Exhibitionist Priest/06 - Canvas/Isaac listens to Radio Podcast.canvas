@@ -1,17 +1,21 @@
 {
 	"nodes":[
-		{"id":"2e9694f1a027be79","x":-120,"y":-120,"width":250,"height":60,"color":"1","type":"text","text":"[[Isaac]] turns on the radio"},
-		{"id":"4035bbc585b89238","x":140,"y":87,"width":300,"height":113,"color":"1","type":"text","text":"It broadcasts a show with [[Martin]] and [[Martine]], the two hosts being paranormal investigators"},
-		{"id":"7e98aae02433ce84","x":-138,"y":320,"width":287,"height":95,"color":"1","type":"text","text":"They have auditors call them in to give them testimonies"},
-		{"id":"621f782fda445612","x":166,"y":580,"width":274,"height":133,"color":"1","type":"text","text":"One of them claims being stalked by someone in a Raincoat during the downpours "},
-		{"id":"a7d4a1d8ca705bd4","x":560,"y":617,"width":250,"height":60,"color":"2","type":"text","text":"They don’t want to give their name "},
-		{"id":"2446da5576f5c740","x":-245,"y":621,"width":285,"height":92,"color":"2","type":"text","text":"They are calling from a phone booth under the rain as a refuge"}
+		{"id":"2e9694f1a027be79","type":"text","text":"[[Isaac]] turns on the radio","x":-120,"y":-120,"width":250,"height":60,"color":"1"},
+		{"id":"4035bbc585b89238","type":"text","text":"It broadcasts a show with [[Martin]] and [[Martine]], the two hosts being paranormal investigators","x":140,"y":87,"width":300,"height":113,"color":"1"},
+		{"id":"7e98aae02433ce84","type":"text","text":"They have auditors call them in to give them testimonies","x":-138,"y":320,"width":287,"height":95,"color":"1"},
+		{"id":"621f782fda445612","type":"text","text":"One of them claims being stalked by [[Raincoat Man|someone in a raincoat]] during the downpours ","x":166,"y":580,"width":274,"height":133,"color":"1"},
+		{"id":"a7d4a1d8ca705bd4","type":"text","text":"They don’t want to give their name ","x":560,"y":617,"width":250,"height":60,"color":"2"},
+		{"id":"2446da5576f5c740","type":"text","text":"They are calling from a phone booth under the rain as a refuge","x":-245,"y":601,"width":285,"height":92,"color":"2"},
+		{"id":"78376fbede61ff50","x":-129,"y":834,"width":295,"height":106,"color":"1","type":"text","text":"They claim the [[Raincoat Man]] only wears a raincoat and nothing else."},
+		{"id":"c867407dc43bfcaa","x":431,"y":841,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"3cef858429c8a4f6","fromNode":"2e9694f1a027be79","fromSide":"bottom","toNode":"4035bbc585b89238","toSide":"top"},
 		{"id":"f8fd7b47a46adae3","fromNode":"4035bbc585b89238","fromSide":"bottom","toNode":"7e98aae02433ce84","toSide":"top"},
 		{"id":"e5808bdb29ff03d6","fromNode":"7e98aae02433ce84","fromSide":"bottom","toNode":"621f782fda445612","toSide":"top"},
 		{"id":"1dbb51d2dfb1607a","fromNode":"621f782fda445612","fromSide":"right","toNode":"a7d4a1d8ca705bd4","toSide":"left"},
-		{"id":"c95b6c5ce1caee9f","fromNode":"621f782fda445612","fromSide":"left","toNode":"2446da5576f5c740","toSide":"right"}
+		{"id":"c95b6c5ce1caee9f","fromNode":"621f782fda445612","fromSide":"left","toNode":"2446da5576f5c740","toSide":"right"},
+		{"id":"b00af309168ce948","fromNode":"621f782fda445612","fromSide":"bottom","toNode":"78376fbede61ff50","toSide":"top"},
+		{"id":"ea54677a501ef27b","fromNode":"78376fbede61ff50","fromSide":"right","toNode":"c867407dc43bfcaa","toSide":"left"}
 	]
 }
