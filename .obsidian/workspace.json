@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,11 +119,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "04 - Why did you quit"
+              "title": "03 - The before party"
+            }
+          },
+          {
+            "id": "3baead59992d885f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -293,17 +317,16 @@
             "state": {
               "type": "highlights-sidebar",
               "state": {},
-              "icon": "highlighter",
-              "title": "Highlights"
+              "icon": "lucide-ghost",
+              "title": "highlights-sidebar"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 386.5,
-    "collapsed": true
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,42 +339,45 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
-      "system3-relay:Relay": false,
-      "sidebar-highlights:Open highlights": false
+      "system3-relay:Relay": false
     }
   },
-  "active": "c82debe2a01719ed",
+  "active": "3baead59992d885f",
   "lastOpenFiles": [
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "conflict-files-obsidian-git.md",
+    "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+    "Lucas.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+    "5 - Template/Kanban Card Template.md",
+    "5 - Template/Base Template.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/00 - Incipit.md",
+    "1 - Rough Notes/step autoRig.md",
+    "Exhibitionist Priest/02 - Attachments/Icons/shush.png",
+    "Exhibitionist Priest/02 - Attachments/Icons/question-mark.png",
+    "Exhibitionist Priest/02 - Attachments/Icons/pin.png",
+    "Exhibitionist Priest/01 - Zettelkastem/Glossary for Outline.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md",
+    "Exhibitionist Priest/03 - Index/Characters/Luke.md",
+    "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/01 - Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/04 - why did you quit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
     "Exhibitionist Priest.zip",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md",
-    "1 - Rough Notes/step autoRig.md",
     "Exhibitionist Priest/03 - Index/Characters/Martine.md",
     "Exhibitionist Priest/03 - Index/Characters/Martin.md",
     "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
-    "Exhibitionist Priest/05 - Tasks/Visual Tasks.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/00 - Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/undefined.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/00 - Incipit.md",
-    "2026-05-27.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/Evangelique/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Evangelique",
-    "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md",
-    "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md",
-    "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011224.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011200.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011151.png",
@@ -359,10 +385,7 @@
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011012.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516010751.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516010601.png",
-    "7 - Attachments/windows-jalousie-homme-jumelles-portrait-spy-spy-agrandir-la-curiosite-curieusement-la-tension-de-la-chenille-voyeur-voyeurisme-telescope-l-elargissement-de-l-optique-h3ymmg.jpg",
     "Exhibitionist Priest/01 - Zettelkastem/Renpy Export",
-    "7 - Attachments/Pasted image 20260327112807.png",
-    "7 - Attachments/Pasted image 20260327112750.png",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts",
@@ -376,7 +399,6 @@
     "6 - Zettelkastem/Exhibitionist Priest/Character Design.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 3.canvas",
-    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 2.canvas",
-    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story(1).canvas"
+    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 2.canvas"
   ]
 }
