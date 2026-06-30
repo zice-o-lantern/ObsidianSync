@@ -78,17 +78,24 @@
             "id": "cef7910f5286b3ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
-                "viewState": {
-                  "x": 271.8575784301757,
-                  "y": 285,
-                  "zoom": 0
+                "file": "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Isaac listens to Radio Podcast"
+              "icon": "lucide-file",
+              "title": "Raincoat Man"
             }
           }
         ],
@@ -261,8 +268,9 @@
   },
   "active": "cef7910f5286b3ae",
   "lastOpenFiles": [
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
+    "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Untitled.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
     "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
@@ -307,7 +315,6 @@
     "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
     "Exhibitionist Priest/05 - Tasks/Current/Develop Cesare backstory.md",
     "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
-    "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260224135618.png",
     "Exhibitionist Priest/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
     "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Outline Chillasque.canvas"
