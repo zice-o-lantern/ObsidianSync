@@ -163,12 +163,8 @@
 		{"id":"497bbb9d87ae4f3d","type":"text","text":"he meets him again when he's 19 and hooks up with him by Cesare's demands","x":-968,"y":-1820,"width":276,"height":120,"color":"2"},
 		{"id":"4097323742ceba9a","type":"text","text":"he assaults the jogger trying to shut him up","x":474,"y":-1970,"width":250,"height":60,"color":"2"},
 		{"id":"6700593f5dd10b13","text":"[[Isaac]] stumbles into [[Lucas]] changing into his room","type":"text","x":-540,"y":371,"width":267,"height":109,"color":"1"},
-		{"id":"8068a36def15eeab","type":"text","text":"[[Luke]] tries to get why [[Isaac]] quit being a lawyer during cleaning but interrupted by [[Simone]] and [[Nick]]","x":132,"y":569,"width":308,"height":131,"color":"1"},
 		{"type":"text","id":"c21f7d9fa7227a1b","text":"More info on [[Luke]]/[[Isaac]] relationship","x":-1,"y":390,"width":267,"height":71,"color":"2"},
-		{"file":"Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/02 - Lucas’ Call.md","type":"file","id":"9b9087cb2604b697","x":-642,"y":585,"width":228,"height":115,"color":"6"},
-		{"type":"file","file":"Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/03 - The before party - First Draft 1.md","id":"f308cfeb4edd5dad","x":-183,"y":559,"width":182,"height":141,"color":"6"},
 		{"id":"ea90b91f03a83b99","type":"text","text":"[[Luke]] tries again to make [him](Isaac) spit out why he quit law practice but [he](Isaac) hightails out of it giving the excuse of washing [his](Luke) cles[[Luke]] tries again to make [him](Isaac) spit out why he quit law practice but [he](Isaac) hightails out of it giving the excuse of washing [his](Luke) cles","x":55,"y":1145,"width":289,"height":165,"color":"1"},
-		{"type":"file","id":"07f9f4334c8f64ee","file":"Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/01 - Grandma.md","x":-253,"y":-720,"width":425,"height":274,"color":"6"},
 		{"id":"3f7b1f3592ad760a","type":"text","text":"Tomorrow morning, [[Isaac]] wanders in the town with no purpose","x":-560,"y":1374,"width":251,"height":99,"color":"1"},
 		{"text":"[[Isaac]] mistakenly fantasises about [[Lucas]] betting his underwear away and only wearing a top","type":"text","id":"e3178d074bc8d155","x":143,"y":940,"width":402,"height":78,"color":"2"},
 		{"type":"text","id":"e38972af45b52318","text":"","x":-1770,"y":915,"width":50,"height":50},
@@ -183,7 +179,9 @@
 		{"id":"14a8cac856640b34","type":"text","text":"The camera belonged to his uncle","x":286,"y":80,"width":250,"height":60,"color":"2"},
 		{"id":"9cabc08bb3dd921e","x":-626,"y":120,"width":306,"height":80,"color":"1","type":"text","text":"[[Luke]] calls and gets into Isaac’s house to clean it up but Isaac sends him showering"},
 		{"type":"text","text":"[[Isaac]] finds a camera and decides to take more photos to entertain himself.","id":"a953d29f416d47ca","x":-40,"y":-178,"width":259,"height":140,"color":"1"},
-		{"id":"dd49e551b4aa66ea","x":-147,"y":200,"width":279,"height":105,"color":"1","type":"file","file":"Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas"}
+		{"id":"dd49e551b4aa66ea","x":-147,"y":200,"width":279,"height":105,"color":"1","type":"file","file":"Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas"},
+		{"id":"8068a36def15eeab","type":"text","text":"[[Luke]] tries to get why [[Isaac]] quit being a lawyer during cleaning but interrupted by [[Simone]] and [[Nick]]","x":-42,"y":602,"width":308,"height":131,"color":"1"},
+		{"id":"4ae2007011d1adf8","x":-576,"y":569,"width":396,"height":99,"color":"1","type":"text","text":"[[Isaac]] and [[Luke]] take tea together after having tidied up the house a bit"}
 	],
 	"edges":[
 		{"id":"a3608c43ff5c40ea","fromNode":"a9eeaddc2d383660","fromSide":"left","toNode":"30385a5052c1b3bb","toSide":"right"},
@@ -339,8 +337,6 @@
 		{"id":"41fbfe16c0ea2875","fromNode":"96c49b28692ab1fd","fromSide":"right","toNode":"1a853734bbf4f496","toSide":"left"},
 		{"id":"49190f98d1c57c39","fromNode":"1a853734bbf4f496","fromSide":"right","toNode":"5bd7c650571aa5ef","toSide":"left"},
 		{"id":"1e427fe3fc9862ab","fromNode":"7699975734aa5b8e","fromSide":"bottom","toNode":"dd05f8371face44b","toSide":"top"},
-		{"id":"60432efd5817b271","fromNode":"30c06c7a34d8747c","fromSide":"right","toNode":"07f9f4334c8f64ee","toSide":"left"},
-		{"id":"b95e92def7ebe51b","fromNode":"07f9f4334c8f64ee","fromSide":"right","toNode":"a953d29f416d47ca","toSide":"top"},
 		{"id":"0098ce523608411a","fromNode":"1375babfc42cb8e9","fromSide":"top","toNode":"bfce0d20b709e44e","toSide":"bottom"},
 		{"id":"121983c982c91335","fromNode":"d22891dd4e957e40","fromSide":"right","toNode":"e3178d074bc8d155","toSide":"left"},
 		{"id":"b0ab32df6d49676d","fromNode":"a9eeaddc2d383660","fromSide":"top","toNode":"8d40aac404acb3a8","toSide":"bottom"},
@@ -349,15 +345,14 @@
 		{"id":"74a642d3b924b36f","fromNode":"23667013acc1f87b","fromSide":"bottom","toNode":"497bbb9d87ae4f3d","toSide":"top"},
 		{"id":"874e97fe32df57c9","fromNode":"96c49b28692ab1fd","fromSide":"bottom","toNode":"4097323742ceba9a","toSide":"top"},
 		{"id":"776b781f087228df","fromNode":"398b1c16bb8e5ff6","fromSide":"bottom","toNode":"32950284bed3dd30","toSide":"top"},
-		{"id":"ebfaea32262d1f12","fromNode":"6700593f5dd10b13","fromSide":"bottom","toNode":"8068a36def15eeab","toSide":"top"},
 		{"id":"5b94859d129fbfa0","fromNode":"8068a36def15eeab","fromSide":"bottom","toNode":"d22891dd4e957e40","toSide":"top"},
 		{"id":"0da31a087ac85498","fromNode":"6700593f5dd10b13","fromSide":"right","toNode":"c21f7d9fa7227a1b","toSide":"left"},
-		{"id":"19d42278e9364ac5","fromNode":"6700593f5dd10b13","fromSide":"bottom","toNode":"9b9087cb2604b697","toSide":"top"},
-		{"id":"f9f010f1e5ca5fb5","fromNode":"8068a36def15eeab","fromSide":"left","toNode":"f308cfeb4edd5dad","toSide":"right"},
 		{"id":"f072596f24c53566","fromNode":"d22891dd4e957e40","fromSide":"bottom","toNode":"ea90b91f03a83b99","toSide":"top"},
 		{"id":"a275d619c8e45b2c","fromNode":"ea90b91f03a83b99","fromSide":"bottom","toNode":"3f7b1f3592ad760a","toSide":"top"},
 		{"id":"c1cb368b6a66fa4a","fromNode":"a953d29f416d47ca","fromSide":"bottom","toNode":"9cabc08bb3dd921e","toSide":"top"},
 		{"id":"c3c249e431fd7089","fromNode":"9cabc08bb3dd921e","fromSide":"bottom","toNode":"dd49e551b4aa66ea","toSide":"top"},
-		{"id":"7ea2dac845f6fc9b","fromNode":"dd49e551b4aa66ea","fromSide":"bottom","toNode":"6700593f5dd10b13","toSide":"top"}
+		{"id":"7ea2dac845f6fc9b","fromNode":"dd49e551b4aa66ea","fromSide":"bottom","toNode":"6700593f5dd10b13","toSide":"top"},
+		{"id":"a09e39261dfb7040","fromNode":"6700593f5dd10b13","fromSide":"bottom","toNode":"4ae2007011d1adf8","toSide":"top"},
+		{"id":"fd4a24e46d9629d8","fromNode":"4ae2007011d1adf8","fromSide":"bottom","toNode":"8068a36def15eeab","toSide":"left"}
 	]
 }
