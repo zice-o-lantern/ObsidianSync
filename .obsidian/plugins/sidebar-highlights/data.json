@@ -751,9 +751,9 @@
         "id": "7pph3xf8r",
         "text": "<span style=\"color:rgb(126, 114, 218)\">Hey</span>",
         "tags": [],
-        "line": 14,
-        "startOffset": 258,
-        "endOffset": 311,
+        "line": 15,
+        "startOffset": 257,
+        "endOffset": 310,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
         "footnoteCount": 6,
         "footnoteContents": [
@@ -772,9 +772,9 @@
         "id": "agktfgyji",
         "text": "~~, hehe~~",
         "tags": [],
-        "line": 29,
-        "startOffset": 550,
-        "endOffset": 564,
+        "line": 30,
+        "startOffset": 534,
+        "endOffset": 548,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
         "footnoteCount": 6,
         "footnoteContents": [
@@ -790,36 +790,112 @@
         "type": "highlight"
       },
       {
-        "id": "sjmv2153n",
+        "id": "pcromwgfj",
         "text": "He’d never ~~dare~~ tell me I’m bothering him",
         "tags": [],
-        "line": 81,
-        "startOffset": 2137,
-        "endOffset": 2186,
+        "line": 82,
+        "startOffset": 2069,
+        "endOffset": 2118,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: The usage of the term dare here in english makes it sound like a threat LOL",
           "S: fair lol"
         ],
-        "createdAt": 1774363147738,
+        "createdAt": 1782745858353,
         "isNativeComment": false,
         "type": "highlight"
       },
       {
-        "id": "7jcsxxr2s",
+        "id": "e8rmw1ynm",
         "text": "This house is weird. It’s messing with me. I know it. Things are never where they’re supposed to be. I can never find anything. Or <span style=\"color:rgb(232, 17, 93)\">when </span>I find them, <span style=\"color:rgb(232, 17, 93)\">they're</span>~~but~~ on the other side of the house. In the morning I wake up with stains on the sheets. Colorless. <span style=\"color:rgb(232, 17, 93)\">Water, maybe?</span>~~Water? Maybe.~~ The smell is unbearable. It smells like mold. I had Lucas smell it so he could tell me what it was. He told me it smelled like nothing",
         "tags": [],
-        "line": 92,
-        "startOffset": 2372,
-        "endOffset": 2932,
+        "line": 93,
+        "startOffset": 2293,
+        "endOffset": 2853,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: I changed the order of the question mark/uncertainty emphasis to better flow with english speaking patterns. more of a localization thing",
           "S: sure thanks!"
         ],
-        "createdAt": 1774363262387,
+        "createdAt": 1782745858577,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "j0tbdkk5m",
+        "text": "<span style=\"color:rgb(126, 114, 218)\">Hey</span>",
+        "tags": [],
+        "line": 164,
+        "startOffset": 6608,
+        "endOffset": 6661,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+        "footnoteCount": 6,
+        "footnoteContents": [
+          "M: question about greetings, are you shortening anything/doing any lingo for greetings/goodbyes?",
+          "S: actually in french when you greet someone in a phone call you say \"Allo\" who is a deformed version of Hello so in the original text they're already saying a kind of lingo",
+          "M: that's what I thought might be happening, it felt like a translater thing hehe",
+          "S: I mean i was thinking of fnaf phone guy also",
+          "M: testing if this works, kind of a weird system",
+          "S: yeah lol"
+        ],
+        "createdAt": 1783030988197,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "yejrep9j0",
+        "text": "~~, hehe~~",
+        "tags": [],
+        "line": 179,
+        "startOffset": 6885,
+        "endOffset": 6899,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+        "footnoteCount": 6,
+        "footnoteContents": [
+          "M: Should we do more like... **He laughs** type thing or do you prefer typing it out? okay formatting text doesnt work in these things, thats meant to be italicized.",
+          "S: Hmm the thing is as it's destined to be a visual novel, every action verbs used to describe how someone talks can break the flow like the *He laughs* will have to be put into a different dialogue bubble than \"Oh I'm just teasing you\" and i think it's easier to put it inside the dialogue directly than to create another bubble solely to describe an action. I sometimes break this rule for a meaningful action but when an onomatopoeia can be used instead, i don't bother",
+          "M: My biggest concern is that it sort of breaks the established flow within the text itself by swapping betwen onomatopoeia, partially because within english writing rules this is one of those things where we are taught young to \"pick one\" and be consistent with, as far as the flow of creative writing. We can just roll with it how it is, but as for a localization thing, it's something to consider/put a pin in for now and see how it feels in implementation. I was imagining the text bubble for these scene being \"Oh, I'm just teasing you.\" _He laughs_ as one continuous thought and not two separate bubbles.",
+          "Yeah but on the other hand, i think it breaks the flow to make a new bubble just to say he's laughing",
+          "You misunderstand what I'm saying, it wouldn't be two bubbles but 1!",
+          "I don't see how that would work in a vn environment"
+        ],
+        "createdAt": 1783030988474,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "u4znw2vb1",
+        "text": "He’d never ~~dare~~ tell me I’m bothering him",
+        "tags": [],
+        "line": 231,
+        "startOffset": 8420,
+        "endOffset": 8469,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+        "footnoteCount": 2,
+        "footnoteContents": [
+          "M: The usage of the term dare here in english makes it sound like a threat LOL",
+          "S: fair lol"
+        ],
+        "createdAt": 1783030988009,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "43kykp77k",
+        "text": "This house is weird. It’s messing with me. I know it. Things are never where they’re supposed to be. I can never find anything. Or <span style=\"color:rgb(232, 17, 93)\">when </span>I find them, <span style=\"color:rgb(232, 17, 93)\">they're</span>~~but~~ on the other side of the house. In the morning I wake up with stains on the sheets. Colorless. <span style=\"color:rgb(232, 17, 93)\">Water, maybe?</span>~~Water? Maybe.~~ The smell is unbearable. It smells like mold. I had Lucas smell it so he could tell me what it was. He told me it smelled like nothing",
+        "tags": [],
+        "line": 242,
+        "startOffset": 8644,
+        "endOffset": 9204,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+        "footnoteCount": 2,
+        "footnoteContents": [
+          "M: I changed the order of the question mark/uncertainty emphasis to better flow with english speaking patterns. more of a localization thing",
+          "S: sure thanks!"
+        ],
+        "createdAt": 1783030988233,
         "isNativeComment": false,
         "type": "highlight"
       }
