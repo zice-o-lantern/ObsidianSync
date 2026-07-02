@@ -165,7 +165,7 @@ Je crois !
 Mensonges.
 
 [[Isaac|ISAAC]]
-T’as sûrement dû mal cherché 
+T’as sûrement mal cherché 
 
 [[Luke|LUCAS]]
 Roooooh, t’as si peu confiance en moi ? 
@@ -188,7 +188,7 @@ Vraiment ???
 [[Isaac|ISAAC]]
 Oui vraiment. Allez, ouste va chercher.
 
-Il détalé dans les escaliers, encore, comme un petit toutou.
+Il détale dans les escaliers, encore, comme un petit toutou.
 Ainsi, je m’attèle à faire blanchir le parquet. Cependant, me mettre à quatre pattes et me plier en deux pour atteindre la poussière en dessous de ces vieux meubles qui n’ont pas été déplacé en quarante ans s’avère, sans surprise, ennuyeux et fastidieux. Alors, je me dis, peut-être qu’un fond sonore m’aiderait à passer le temps.
 
 Alors je me lève et allume la vieille radio. Un bruit de statiques s’échappe de la radio pour finalement laisser placer à une voix masculine.
@@ -197,7 +197,7 @@ Alors je me lève et allume la vieille radio. Un bruit de statiques s’échappe
 …………- et merci pour votre témoignage passionnant ! J’espère que vous trouverez une solution à votre situation et je vous souhaite de passer une bonne fin de soirée !
 
 ???
-Merci beaucoup Martin de m’avoir écouté. Je me sens un peu moins seul. Passez une bonne fin de soirée aussi.
+Merci beaucoup Martin de m’avoir écouté… Je me sens un peu moins seul. Passez une bonne fin de soirée aussi.
 
 [[Martin|MARTIN]] 
 Eh bien c’est la fin de ce témoignage de notre chère auditrice, Véronique. Martine, qu’est ce que t’en as pensé ? 
@@ -209,7 +209,24 @@ C’était très intriguant ! Jamais je n'avais entendu parler de cette histoire
 Oh fais attention à toi. Ne t'approche pas trop ! Après tout, il ne peut pas y avoir deux soi à la fois dans ce monde. Et il pourrait choisir de faire le choix pour toi.
 
 [[Martine|MARTINE]]
-Terrifiant... Elle a vraiment vu un doppelganger ou juste un quelqu'un qui le lui ressemblait
+Terrifiant... Elle a vraiment vu un doppelgänger ou juste quelqu'un qui le lui ressemblait par coïncidence ?
+
+[[Martin|MARTIN]]
+Eh bien on ne le saura jamais… à moins que Véronique nous rappelle avec de nouvelles informations ou mises à jour sur la situation ! 
+
+[[Martine|MARTINE]]
+Aaaargh ! C’est frustrant. Je voudrais tellement en savoir plus.
+
+[[Martin|MARTIN]]
+Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour sur votre vie ou toute rencontre étrange, hors de notre réalité, hors de toute notion préconçue. Même de l’au-delà !
+
+[[Martine|MARTINE]]
+En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée même d’un autre genre* !
+
+S’il fallait déterminer un moyen d’établir la validité de ce qu’ils déballent tout au long de leur émission, il suffirait de débarquer dans les locaux et les regarder débiter. Ç’en dégoûterait même les plus illuminés de la place locale.
+Pourtant je me surprends à ne jamais changer la fréquence. Je surfe les ondes sans vagues et je me laisse submerger du flot de leurs voix, tourbillonnant dans la houle de leur récit. Je ferme les yeux et je frotte le sol, l’eau passant à travers mes orteils. L’orage redouble 
+
+[[Martin|MARTIN]]
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 

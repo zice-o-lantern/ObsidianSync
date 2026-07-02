@@ -16,8 +16,8 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -1268.7727179094582,
-                  "y": 723.6153861934108,
+                  "x": -1270.1360377714352,
+                  "y": 1457.060105863134,
                   "zoom": -2.396291675904259
                 }
               },
@@ -78,24 +78,10 @@
             "id": "f52d5da16891ec65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cafe"
+              "title": "New tab"
             }
           },
           {
@@ -121,9 +107,32 @@
               "icon": "lucide-file",
               "title": "Jeff"
             }
+          },
+          {
+            "id": "966b6842ee0e3e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "03 - The before party"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +233,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
+            "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -290,8 +299,21 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "f52d5da16891ec65",
+  "active": "8c016fd0ac2988f7",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md~HEAD",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/unknown - Cafe.md~HEAD",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/00 - Incipit.md~main",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/00 - Incipit.md~HEAD",
+    "Exhibitionist Priest/05 - Tasks/SFX Music Tasks.md~main",
+    "Untitled Kanban.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/unknown - Cafe.md~main",
+    "Exhibitionist Priest/05 - Tasks/SFX Music Tasks.md~HEAD",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md~main",
+    "Exhibitionist Priest/03 - Index/Characters/Martin.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
@@ -300,7 +322,6 @@
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/03 - Index/Characters/Lucas.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit English.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit.md",
     "Exhibitionist Priest/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg",
@@ -308,9 +329,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Script/Part 1",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Index.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script",
-    "Exhibitionist Priest/01 - Zettelkastem/Script",
-    "Exhibitionist Priest/03 - Index/Places/Places",
     "Exhibitionist Priest/02 - Attachments/IMG_0536.jpg",
     "7 - Attachments/IMG_0535.jpg",
     "Exhibitionist Priest/05 - Tasks/Current/Should the photo Is take be a mistake or on purpose.md",
@@ -331,16 +349,6 @@
     "Exhibitionist Priest/05 - Tasks/Archived/Develop Joesph in grandma's house.md",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260224135618.png",
     "Exhibitionist Priest/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
-    "Untitled.md",
-    "Exhibitionist Priest/05 - Tasks/Should Joseph have a female friend.md",
-    "Exhibitionist Priest/03 - Index/Characters/Emma.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Should Joseph have a female friend.md",
-    "Exhibitionist Priest/07 - Rough Notes/Character names.md",
-    "6 - Zettelkastem/Daily notes",
-    "Exhibitionist Priest/05 - Tasks/Pinned",
-    "Exhibitionist Priest/05 - Tasks/Current",
-    "Exhibitionist Priest/05 - Tasks/Archived",
-    "Exhibitionist Priest/07 - Rough Notes",
     "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Outline Chillasque.canvas"
   ]
 }
