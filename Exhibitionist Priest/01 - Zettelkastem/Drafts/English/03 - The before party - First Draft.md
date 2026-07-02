@@ -1,4 +1,3 @@
-
 # The Before Party
 
 (<span style="color:rgb(232, 17, 93)">Editor's note</span>: This is the first draft of edits version of the document. I saved an additional one temporarily here: [[03 - The before party - First Draft 1]] . I didn't want to do something convoluted and mess up your organizational style so I left it simple! Sorry overall though. )
