@@ -462,6 +462,7 @@ Oui, peut-être… Mais t’inquiète, ce que je veux dire, c’est qu’il faut
 Après tout, c’est moi qui suis dans ta chambre. C’est normal que t’aies pas toqué, j’aurais dû te prévenir avant que tu ne rentres. Le truc c’est que je t’ai pas entendu arrivé. Tu peux être si discret parfois.
 
 Il met sa main derrière la tête et rit de bon cœur, une petite cicatrice au visage.
+... Comment ça il ne m'a pas entendu arriver ? J'ai déboulé ici comme un éléphant.
 
 [[Luke|LUCAS]]
 Juste assis-toi sur le lit, le temps que je finisse !
@@ -511,4 +512,17 @@ Mon instinct me hurle de courir hors de la chambre, loin de lui. Cependant, les 
 Il est peut-être vrai que j'en fais un pataquès.
 
 [[Luke|LUCAS]]
-Mais oui ! Assieds toi sur le lit. Tiens tu vas m'aider à choisir ce que je de
+Mais oui ! Assieds toi sur le lit. Tiens tu vas m'aider à choisir ce que je vais porter ce soir.
+
+[[Isaac|ISAAC]]
+Je devrais vraiment faire ça ?
+
+[[Luke|LUCAS]]
+Ouiiii vas-y ! juste le temps que je mette mon slip
+
+Juste à la mention du slip, je ferme les yeux et je regarde au sol.
+
+[[Luke|LUCAS]]
+Roh [[Isaac]], t'as pas quatre ans, enfin ???
+
+Il me
