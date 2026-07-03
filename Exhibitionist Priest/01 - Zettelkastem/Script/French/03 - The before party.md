@@ -525,4 +525,13 @@ Juste à la mention du slip, je ferme les yeux et je regarde au sol.
 [[Luke|LUCAS]]
 Roh [[Isaac]], t'as pas quatre ans, enfin ???
 
-Il me
+Il me dit sur un ton taquineur
+
+[[Luke|LUCAS]]
+T'en as vingt-sept ! T'as bien vu des boules et des bites à ton âge ?
+
+[[Isaac|ISAAC]]
+J'imagine...
+
+Non pas vraiment. Je ne vois pas dans quelle situation j'aurais pu voir les parties génitales d'un homme. Puis c'est pas comme si les prétendantes et prétandants(?) se battaient à ma porte.
+
