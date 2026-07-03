@@ -99,23 +99,6 @@
             }
           },
           {
-            "id": "9812cb640f6361fa",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
-                "viewState": {
-                  "x": 173.6801224163315,
-                  "y": 893.1997126436781,
-                  "zoom": -0.3967327132667544
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Isaac listens to Radio Podcast"
-            }
-          },
-          {
             "id": "8cf127b72b6f4cc1",
             "type": "leaf",
             "state": {
@@ -140,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -309,14 +292,22 @@
   },
   "active": "8cf127b72b6f4cc1",
   "lastOpenFiles": [
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
+    "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+    "Exhibitionist Priest/06 - Canvas/Sub plots",
+    "conflict-files-obsidian-git.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
     "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
     "1 - Rough Notes/le message de TADC.md",
     "Untitled.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
     "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
     "Lucas.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md~HEAD",
@@ -339,7 +330,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit.md",
     "Exhibitionist Priest/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg",
     "Exhibitionist Priest/04 - Tags",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/Part 1",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Index.md",
     "Exhibitionist Priest/02 - Attachments/IMG_0536.jpg",
@@ -352,10 +342,6 @@
     "Exhibitionist Priest/02 - Attachments/IMG_0532.jpg",
     "Exhibitionist Priest/02 - Attachments/IMG_0530.jpg",
     "Exhibitionist Priest/03 - Index/Characters/Simone.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
-    "Exhibitionist Priest/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
-    "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Develop Cesare backstory.md",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260224135618.png",
     "Exhibitionist Priest/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
     "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Outline Chillasque.canvas"
