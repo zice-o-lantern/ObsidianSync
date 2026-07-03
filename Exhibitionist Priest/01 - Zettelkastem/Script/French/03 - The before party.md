@@ -288,7 +288,18 @@ JUDAS
 De Sainte-Mère-église.
 
 [[Martine|MARTINE]]
+Eh mais ce serait pas proche de chez nous ça ?
 
+[[Martin|MARTIN]]
+Mais si ! 
+
+Judas se racle la gorge, agacé
+
+[[Martin|MARTIN]]
+… Bref, vous appelez pour quoi, Judas, vous avez une histoire à nous raconter ?
+
+JUDAS
+Je suis suivi
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 

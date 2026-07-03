@@ -35539,3 +35539,170 @@ s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-
 s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:c69f2546-4b16-47e6-86db-d0360cfbdcd3 (/06 - Canvas/Outline of the story.canvas): 0 attempts, (expires in -155999ms)
 Queue size: 0
     at checkAndRefreshTokens@
+[2026-07-03T12:46:29.895Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:31.984Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:34.020Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:36.444Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:38.481Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:40.514Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:42.559Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:44.988Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:47.174Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:49.242Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:51.835Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:55.740Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:46:58.578Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:01.246Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:03.370Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:07.338Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:12.367Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:14.764Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:17.009Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:17.666Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T12:47:17.668Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 21m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:c69f2546-4b16-47e6-86db-d0360cfbdcd3 (/06 - Canvas/Outline of the story.canvas): 0 attempts, (expires in -215998ms)
+Queue size: 0
+    at checkAndRefreshTokens@
+[2026-07-03T12:47:17.764Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "oJHbTlJvjdiXmpsqZjww7fs54AfhUHmOsTrF5DKV",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:47:19.369Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:21.435Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:23.759Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:25.914Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:27.976Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:30.299Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:39.906Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:44.640Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:49.560Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:52.203Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:47:54.457Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:00.201Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:02.633Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:04.813Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:07.463Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:09.496Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:11.746Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:15.722Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:17.669Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T12:48:17.672Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 20m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:c69f2546-4b16-47e6-86db-d0360cfbdcd3 (/06 - Canvas/Outline of the story.canvas): 0 attempts, (expires in -276001ms)
+Queue size: 0
+    at checkAndRefreshTokens@
+[2026-07-03T12:48:17.966Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:20.701Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:23.345Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:25.381Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:34.036Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:36.742Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:38.776Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:41.080Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:43.150Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:45.408Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:47.660Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:50.025Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:52.853Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:48:56.797Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:49:04.834Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:49:08.699Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:49:11.046Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:49:17.670Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T12:49:17.673Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 19m)
+Stale Tokens:
+Queue size: 0
+    at checkAndRefreshTokens@
