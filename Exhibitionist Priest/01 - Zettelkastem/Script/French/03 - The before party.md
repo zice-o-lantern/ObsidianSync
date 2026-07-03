@@ -296,7 +296,10 @@ Mais si !
 Judas se racle la gorge, agacé
 
 [[Martin|MARTIN]]
-… Bref, vous appelez pour quoi, Judas, vous avez une histoire à nous raconter ?
+On vous entend pas très bien, Judas, vous êtes où actuellement ?
+
+[[Martin|MARTIN]]
+… vous appelez pour quoi, Judas, vous avez une histoire à nous raconter ?
 
 JUDAS
 Je suis suivi
