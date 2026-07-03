@@ -320,7 +320,7 @@ Vous êtes suivi ???
 Par qui… ou par quoi ?
 
 JUDAS
-Je ne sais pas.
+Je ne sais pas. J’essaie de l’éviter donc je n’ai jamais été assez proche pour dire.
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 

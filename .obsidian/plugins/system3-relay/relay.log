@@ -38401,3 +38401,625 @@ Stale Tokens:
 s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 7m)
 Queue size: 0
     at checkAndRefreshTokens@
+[2026-07-03T13:05:39.570Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T13:05:39.571Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 2m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 2m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 3m)
+Queue size: 0
+    at checkAndRefreshTokens@
+[2026-07-03T13:05:39.627Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [/01 - Zettelkastem/Script/French/03 - The before party.md] disconnection event {
+  "isTrusted": true
+}
+    at forEach@[native code]
+[2026-07-03T13:05:39.627Z] [DEBUG] [LiveTokenStore]: removing cff1b570-8322-4b9a-a3bf-67d5f0921ec1 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.628Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.628Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at connect@
+[2026-07-03T13:05:39.628Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at getToken@
+[2026-07-03T13:05:39.629Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at getToken@
+[2026-07-03T13:05:39.629Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "disconnected",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T13:05:39.630Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: get provider token
+    at connect@
+[2026-07-03T13:05:39.630Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Script/French/03 - The before party.md
+    at getToken@
+[2026-07-03T13:05:39.630Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at getToken@
+[2026-07-03T13:05:39.630Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "disconnected",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T13:05:39.630Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "disconnected",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T13:05:39.654Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [Exhibitionist Priest] disconnection event {
+  "isTrusted": true
+}
+    at forEach@[native code]
+[2026-07-03T13:05:39.654Z] [DEBUG] [LiveTokenStore]: removing 0f8c49e0-c43c-441b-9b17-5f23457faa85 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.654Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing 3216ffba-7703-4c28-8849-814822426b70 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[Canvas](/06 - Canvas/Story's locations.canvas)]: [Provider State] /06 - Canvas/Story's locations.canvas {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing 106c9123-45e6-4ca9-b335-06ab49375b16 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[Canvas](/06 - Canvas/Outline of the story0ld.canvas)]: [Provider State] /06 - Canvas/Outline of the story0ld.canvas {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing c69f2546-4b16-47e6-86db-d0360cfbdcd3 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[Canvas](/06 - Canvas/Outline of the story.canvas)]: [Provider State] /06 - Canvas/Outline of the story.canvas {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing aafe3e45-0380-418c-8722-0aec5625db57 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[Canvas](/06 - Canvas/Character Design.canvas)]: [Provider State] /06 - Canvas/Character Design.canvas {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing 5e24151c-eebe-4075-8095-2d7b9c9e4aa3 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[Canvas](/06 - Canvas/Sub plots/Luke is changing.canvas)]: [Provider State] /06 - Canvas/Sub plots/Luke is changing.canvas {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing a63748e4-357f-4850-81b3-e45b3aa5a090 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[Canvas](/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas)]: [Provider State] /06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing 167f9f0d-ea33-419a-af01-5293b26cffe3 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[SharedDoc](/07 - Rough Notes/Plot points ideas.md)]: [Provider State] /07 - Rough Notes/Plot points ideas.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing f0ccd447-ff50-4baa-b0f7-bb4f65f5caf4 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[SharedDoc](/07 - Rough Notes/Title Ideas.md)]: [Provider State] /07 - Rough Notes/Title Ideas.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing eacbaeb8-e546-4824-9ccc-ad17d1280a7c from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[SharedDoc](/07 - Rough Notes/fourre-tout.md)]: [Provider State] /07 - Rough Notes/fourre-tout.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing a5c2e9bd-84c9-416f-9d55-d33abf44778f from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[SharedDoc](/07 - Rough Notes/Character names.md)]: [Provider State] /07 - Rough Notes/Character names.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing 92419b93-b2ff-40a1-b7a5-1584155ab540 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[SharedDoc](/03 - Index/Places/Café.md)]: [Provider State] /03 - Index/Places/Café.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing e034ae8c-2481-4630-a26d-f473f41e11f8 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[SharedDoc](/03 - Index/Characters/Jeff.md)]: [Provider State] /03 - Index/Characters/Jeff.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.655Z] [DEBUG] [LiveTokenStore]: removing a4df3b78-9b4b-4b23-8a68-fdc8f2ddf568 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.655Z] [DEBUG] [[SharedDoc](/03 - Index/Characters/Martine.md)]: [Provider State] /03 - Index/Characters/Martine.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 6e0a4a4c-ef55-410f-bab6-a0e1fbaa0512 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/03 - Index/Characters/Simone.md)]: [Provider State] /03 - Index/Characters/Simone.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 526afe6a-9650-41d6-a424-4f41d41596ef from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/03 - Index/Characters/Isaac.md)]: [Provider State] /03 - Index/Characters/Isaac.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 21a13453-650c-4d6f-8ea2-6d09bc8c8422 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/03 - Index/Characters/Martin.md)]: [Provider State] /03 - Index/Characters/Martin.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 0558e60a-a18e-4a9b-8dad-9495929f3a53 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/03 - Index/Characters/Luke.md)]: [Provider State] /03 - Index/Characters/Luke.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 1fe632bb-22a6-47b6-bbf2-435f0963cbb2 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/03 - Index/Characters/Nick.md)]: [Provider State] /03 - Index/Characters/Nick.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 2b0a6854-e664-404f-bba2-db6544cc3941 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/03 - Index/Characters/Cesare.md)]: [Provider State] /03 - Index/Characters/Cesare.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 47805c10-a45d-4dd2-bdb7-b51c85bc7265 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/03 - Index/Characters/Raincoat Man.md)]: [Provider State] /03 - Index/Characters/Raincoat Man.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 980b5a55-f012-4d55-8a9a-51f82e4b3bf4 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 5e4110cb-d317-48de-be9c-e0e484b613d5 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Promoting Tasks.md)]: [Provider State] /05 - Tasks/Promoting Tasks.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 138c5266-a005-46fd-93d0-8b8be2be66b1 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Archived/Develop Joesph in grandma's house.md)]: [Provider State] /05 - Tasks/Archived/Develop Joesph in grandma's house.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing a1627dd8-ec4c-49a6-bb2f-3d41f29f05ff from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Archived/Develop how they met.md)]: [Provider State] /05 - Tasks/Archived/Develop how they met.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 9c872191-37b8-4dd3-93da-4a512b9a64a9 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Archived/Should Joseph have a female friend.md)]: [Provider State] /05 - Tasks/Archived/Should Joseph have a female friend.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 8239905a-542c-4846-a029-446d6810e34f from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Archived/What should Cesare strive for.md)]: [Provider State] /05 - Tasks/Archived/What should Cesare strive for.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 8a838c5d-588e-42de-bcbc-a79b87b494f1 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Current/Should the photo Is take be a mistake or on purpose.md)]: [Provider State] /05 - Tasks/Current/Should the photo Is take be a mistake or on purpose.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing a5b4e791-16a0-44a0-a5e2-430d3a5d58d0 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Current/Cesare entering in the booth with Isaac.md)]: [Provider State] /05 - Tasks/Current/Cesare entering in the booth with Isaac.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing b84083ed-1e50-4e1a-be8a-acb9f513f9dd from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Current/Determine when to fire the checkov's gun.md)]: [Provider State] /05 - Tasks/Current/Determine when to fire the checkov's gun.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 0bacd28f-05f8-486a-8a96-e292e91b2eaf from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Current/Develop Cesare backstory.md)]: [Provider State] /05 - Tasks/Current/Develop Cesare backstory.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 532f1bed-e3d5-4cbb-854c-f5f9166e3213 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Current/Develop how they met.md)]: [Provider State] /05 - Tasks/Current/Develop how they met.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing 5807f1c1-4cfa-4eab-af03-f17ae99bc1b1 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md)]: [Provider State] /05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing be878c3e-e399-4db5-9a13-3907d50107b2 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Current/Should Joseph have a female friend.md)]: [Provider State] /05 - Tasks/Current/Should Joseph have a female friend.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.656Z] [DEBUG] [LiveTokenStore]: removing f2239dda-249f-4f84-8c09-bc1c7d75d391 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.656Z] [DEBUG] [[SharedDoc](/05 - Tasks/Coding Tasks.md)]: [Provider State] /05 - Tasks/Coding Tasks.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 60f2809a-7897-4883-a778-b7bbe82aacc0 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/05 - Tasks/Writing tasks.md)]: [Provider State] /05 - Tasks/Writing tasks.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 54781502-46e3-4263-82be-311838ae6693 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md)]: [Provider State] /05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 69b6709c-ce77-4c88-9d6d-9611e8894ca7 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md)]: [Provider State] /05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 79368a42-de99-4a07-ae72-ac7c7a69e63d from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/05 - Tasks/Pinned/Should Joseph have a female friend.md)]: [Provider State] /05 - Tasks/Pinned/Should Joseph have a female friend.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 8791cb7e-e08b-485a-9f68-1655ab9d614a from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/05 - Tasks/Visual Tasks.md)]: [Provider State] /05 - Tasks/Visual Tasks.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 4537f975-1e0d-4126-86c0-7cf368c9db64 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 6070d406-3da6-4324-900c-78938708a8e4 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 1caa0114-ceee-40fd-8d1d-fee71dacfe6d from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing dca748fc-ba22-4b41-9465-bb32955ef3f9 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 3bb4df81-4532-42e5-96d2-b08b803e364b from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 173b4237-145e-469e-83f8-240c65d45211 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Drafts/French/00 - Incipit.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing d1c7dfb4-4e9b-4c60-9315-2a1cab5910e3 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md)]: [Provider State] /01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 9ee627cd-95ef-4faa-b796-38513f5cbe4d from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md)]: [Provider State] /01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 507564f9-72a7-4667-abe7-e8c74d878f96 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md)]: [Provider State] /01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 8bf51180-8124-44bc-adf1-db0dbca7af64 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/English/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/English/03 - The before party.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 51e40d94-1372-4454-817e-99cb529a212e from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/English/04 - why did you quit.md)]: [Provider State] /01 - Zettelkastem/Script/English/04 - why did you quit.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing c0726f40-1d8c-4d0e-9def-d750b52e5304 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/English/01 - Grandma.md)]: [Provider State] /01 - Zettelkastem/Script/English/01 - Grandma.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 7e48891d-ece9-4f8c-b475-270c80ae9d92 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md)]: [Provider State] /01 - Zettelkastem/Script/English/02 - Lucas’ Call.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing cff1b570-8322-4b9a-a3bf-67d5f0921ec1 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing b0842f51-7772-4278-92d3-687435f5b88b from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/01 - Grandma.md)]: [Provider State] /01 - Zettelkastem/Script/French/01 - Grandma.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing 24e9a828-4d9a-4fd3-9bdd-ac052f3fbfca from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.657Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Script/French/00 - Incipit.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.657Z] [DEBUG] [LiveTokenStore]: removing d6d8f57e-ce04-457a-a3a1-fa700629edf5 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/04 - Why did you quit.md)]: [Provider State] /01 - Zettelkastem/Script/French/04 - Why did you quit.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: removing 943a697f-3e12-4146-852a-e3bc3c009dfe from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/Cafe.md)]: [Provider State] /01 - Zettelkastem/Script/French/Cafe.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: removing d976cd58-51e1-4dcf-a637-23a45c11787d from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md)]: [Provider State] /01 - Zettelkastem/Script/French/02 - Lucas’ Call.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: removing 6666337e-ff40-4c86-a9fc-48d9e64b37dd from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/murky waters/Overview English - Notes - Murkwater.md)]: [Provider State] /01 - Zettelkastem/murky waters/Overview English - Notes - Murkwater.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: removing 821aeca6-3be1-49ad-8c65-94f4da208f3c from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md)]: [Provider State] /01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: removing 9022c012-e9f2-499f-ac11-0fbd05415686 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md)]: [Provider State] /01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: removing e86a2d54-07d6-4c58-8cdb-4501eb0beba8 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md)]: [Provider State] /01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: removing bda9ef95-1f3f-4b6a-8daf-09772b089542 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Renpy Export/01 - Grandma.md)]: [Provider State] /01 - Zettelkastem/Renpy Export/01 - Grandma.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: removing 90ef6099-c065-4c49-b81e-24ccb2c87978 from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Renpy Export/00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Renpy Export/00 - Incipit.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: removing 09550b0e-af39-4dbb-bf3d-bc8da21b93cd from refresh queue
+    at removeFromRefreshQueue@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Glossary for Outline.md)]: [Provider State] /01 - Zettelkastem/Glossary for Outline.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at disconnect@
+[2026-07-03T13:05:39.658Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at connect@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at getToken@
+[2026-07-03T13:05:39.658Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at getToken@
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "disconnected",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T13:05:39.658Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "disconnected",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T13:05:39.759Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T13:05:40.103Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "wv0WnsXNypyiPn78XEdHpOZ9LRdFpkjWelkBnSgw",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T13:05:40.657Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connected",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T13:05:58.980Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:01.009Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:03.091Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:06.229Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:08.262Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:19.438Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:21.475Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:23.520Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:25.559Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:27.676Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:29.784Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:32.551Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:35.569Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:37.982Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:06:39.565Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T13:06:39.566Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 38s)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 38s)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 2m)
+Queue size: 0
+    at checkAndRefreshTokens@
+[2026-07-03T13:06:40.226Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:07:08.141Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:07:10.151Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:07:12.156Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:07:15.686Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:07:17.709Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:07:27.440Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:07:29.487Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:07:31.564Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
