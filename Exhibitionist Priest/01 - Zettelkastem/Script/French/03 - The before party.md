@@ -221,12 +221,56 @@ Aaaargh ! C’est frustrant. Je voudrais tellement en savoir plus.
 Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour sur votre vie ou toute rencontre étrange, hors de notre réalité, hors de toute notion préconçue. Même de l’au-delà !
 
 [[Martine|MARTINE]]
-En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée même d’un autre genre* !
+En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée, même d’un autre genre* !
 
 S’il fallait déterminer un moyen d’établir la validité de ce qu’ils déballent tout au long de leur émission, il suffirait de débarquer dans les locaux et les regarder débiter. Ç’en dégoûterait même les plus illuminés de la place locale.
-Pourtant je me surprends à ne jamais changer la fréquence. Je surfe les ondes sans vagues et je me laisse submerger du flot de leurs voix, tourbillonnant dans la houle de leur récit. Je ferme les yeux et j’astique la sol, 
+Pourtant je me surprends à ne jamais changer la fréquence. Je surfe les ondes sans vagues et je me laisse submerger du flot de leurs voix, tourbillonnant dans la houle de leur récit. Je ferme les yeux et j’astique le sol et l’eau coule doucement entre mes orteils. L’orage qui bat de son plein déverse des averses qui coulent lentement le long des vitres. Je lève la tête, regardant longuement la pluie caresser les plinthes, la cabine téléphonique, toujours seul, au milieu de ces déferlements de pluie et je plains intérieurement [[Simone]] et [[Nick]] qui sont sûrement sous la pluie encore à cette heure-là. Je me décide de les passer un coup de fil pour m’assurer qu’ils vont bien.
 
 [[Martin|MARTIN]]
+Et nous allons accueillir notre prochain auditeur !
+
+Je décroche le combiné et je vais pour composer le numéro de [[Simone]] quand…
+
+[[Martine|MARTINE]]
+Bonjour cher auditeur. Comment vous vous appelez ?
+
+???
+…
+
+Merde je ne me rappelle plus du numéro de [[Simone]]…
+
+[[Martin|MARTIN]]
+Allo, Monsieur, Madame, allo vous m’entendez ?
+
+???
+…
+
+Bah je vais appeler [[Nick]] en attendant. Je pianote les numéros très minutieusement, de peur de déranger un inconnu. Je n’ai pas envie de répéter l’expérience de devoir expliquer que Nini, c’est mon ami et que non en vrai je l’appelle pas tout le temps comme ça mais ça sonnait bien sur le moment mais selon la réaction de l’autre personne à l’autre bout de la ligne, c’était pas le surnom le plus inspiré que j’ai eu de ma vie.
+
+[[Martine|MARTINE]]
+Je crois que nous avons des interférences sur la ligne. Allo vous m’entendez ?
+
+???
+… Oui parfaitement. Je vous entends très bien
+
+Un jour, le monde a basculé (faut que je change ça c’est vraiment de la merde j’écris ça 4h du matin merci beaucoup). Je repose lentement le téléphone dans le combiné
+
+[[Martine|MARTINE]]
+Ah bah voilààààà, on vous entend enfin. Comment vous vous appelez monsieur ?
+
+???
+… Je préfère ne pas dire.
+
+à travers la qualité pitoyable de la radio, on peut toujours entendre la pluie clapoter sur des parois de verre. L’homme avait la voix calme mais déraillante comme s’il allait craquer d’un moment à l’autre. Ses silences sont entrecoupées par des raclements de gorge. Même sous tous ces couches de paranoïas et de crises, cette voix m’est familière, même je la reconnaîtrais d’entre tous.
+
+[[Martin|MARTIN]]
+Comment ça vous ne préférez pas dire
+
+???
+… C’est bien ce que j’ai dit
+
+C’est la voix de [[Luke]].
+Paniqué je regarde à travers la fenêtre. Il y a quelqu’un dans la cabine. Comment j’ai pu le rater. Il porte un imperméable jaune pétant. L’eau ruisselle sur ses épaules formant une flaque au sol. Il est de dos. Il porte une capuche. Il tient le téléphone à la main.u
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
