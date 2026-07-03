@@ -1,6 +1,6 @@
 # The Before Party
 
-(<span style="color:rgb(232, 17, 93)">Editor's note</span>: This is the first draft of edits version of the document. I saved an additional one temporarily here: [[Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/03 - The before party]] . I didn't want to do something convoluted and mess up your organizational style so I left it simple! Sorry overall though. )
+(<span style="color:rgb(232, 17, 93)">Editor's note</span>: This is the first draft of edits version of the document. I saved an additional one temporarily here: [[Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party]] . I didn't want to do something convoluted and mess up your organizational style so I left it simple! Sorry overall though. )
 
 In the end, he made it in ten minutes instead of thirty. He crosses the garden, clumsily stepping around the shards of broken vase on the pavement. He opens the door.
 
