@@ -21549,3 +21549,884 @@ Queue size: 0
   "signal": {}
 }
     at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T16:04:33.820Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:134:6806)
+[2026-07-03T16:04:33.820Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-03T16:04:33.821Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-03T16:04:33.822Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-03T16:04:33.822Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Ac._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-03T16:04:33.825Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at kn.destroy (plugin:system3-relay:54:51112)
+[2026-07-03T16:04:33.825Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at dc.destroy (plugin:system3-relay:54:47544)
+[2026-07-03T16:04:33.825Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at pc.destroy (plugin:system3-relay:54:48406)
+[2026-07-03T16:04:33.884Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T16:04:33.884Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T16:04:33.884Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T16:04:33.884Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-03T16:04:33.884Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-03T16:04:33.884Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-03T16:04:33.885Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:04:33.885Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:04:33.885Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:04:33.885Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:04:33.885Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Fp (plugin:system3-relay:54:52478)
+[2026-07-03T16:04:33.885Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T16:04:33.885Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-03T16:04:33.886Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Up (plugin:system3-relay:56:7044)
+[2026-07-03T16:04:33.897Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 77ms [LiveViews][layout-change]
+    at at Ac._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-03T16:04:33.901Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:04:33.901Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:04:33.901Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:04:33.901Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:04:33.901Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T16:04:51.285Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:04:51.286Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 22m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 22m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:24e9a828-4d9a-4fd3-9bdd-ac052f3fbfca (/01 - Zettelkastem/Script/French/00 - Incipit.md): 0 attempts, (expires in -273464ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in -273458ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b0842f51-7772-4278-92d3-687435f5b88b (/01 - Zettelkastem/Script/French/01 - Grandma.md): 0 attempts, (expires in -273444ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:7e48891d-ece9-4f8c-b475-270c80ae9d92 (/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md): 0 attempts, (expires in -213469ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:51e40d94-1372-4454-817e-99cb529a212e (/01 - Zettelkastem/Script/English/04 - why did you quit.md): 0 attempts, (expires in -213356ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:8bf51180-8124-44bc-adf1-db0dbca7af64 (/01 - Zettelkastem/Script/English/03 - The before party.md): 0 attempts, (expires in -213315ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d6d8f57e-ce04-457a-a3a1-fa700629edf5 (/01 - Zettelkastem/Script/French/04 - Why did you quit.md): 0 attempts, (expires in -213313ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a63748e4-357f-4850-81b3-e45b3aa5a090 (/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in -213211ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:5d56bf47-e07d-41b8-a030-50d4ae4df68d (/03 - Index/Characters/Judas.md): 0 attempts, (expires in -33046ms)
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:05:51.297Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:05:51.299Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 21m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 21m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:7e48891d-ece9-4f8c-b475-270c80ae9d92 (/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md): 0 attempts, (expires in -273482ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:51e40d94-1372-4454-817e-99cb529a212e (/01 - Zettelkastem/Script/English/04 - why did you quit.md): 0 attempts, (expires in -273369ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:8bf51180-8124-44bc-adf1-db0dbca7af64 (/01 - Zettelkastem/Script/English/03 - The before party.md): 0 attempts, (expires in -273328ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d6d8f57e-ce04-457a-a3a1-fa700629edf5 (/01 - Zettelkastem/Script/French/04 - Why did you quit.md): 0 attempts, (expires in -273326ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a63748e4-357f-4850-81b3-e45b3aa5a090 (/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in -273224ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:5d56bf47-e07d-41b8-a030-50d4ae4df68d (/03 - Index/Characters/Judas.md): 0 attempts, (expires in -93059ms)
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:06:51.299Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:06:51.300Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 20m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:5d56bf47-e07d-41b8-a030-50d4ae4df68d (/03 - Index/Characters/Judas.md): 0 attempts, (expires in -153060ms)
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:07:51.294Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:07:51.295Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 19m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:5d56bf47-e07d-41b8-a030-50d4ae4df68d (/03 - Index/Characters/Judas.md): 0 attempts, (expires in -213055ms)
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:08:51.288Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:08:51.289Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 18m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:5d56bf47-e07d-41b8-a030-50d4ae4df68d (/03 - Index/Characters/Judas.md): 0 attempts, (expires in -273049ms)
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:08:53.059Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "9SEaScKeIVYlGATPxZqZ7nahTH0Sje1eFWgTa7J4",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T16:09:51.291Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:09:51.292Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 17m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 17m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:10:51.289Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:10:51.290Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 16m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:11:51.299Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:11:51.299Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 15m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 15m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:12:51.299Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:12:51.299Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 14m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 14m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:13:05.186Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:05.186Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:05.186Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:05.186Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:05.186Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:05.809Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:05.809Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:05.809Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:05.809Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:05.810Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:07.218Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T16:13:10.624Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:10.624Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:10.624Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:10.624Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:10.625Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:12.649Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T16:13:16.396Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:16.396Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:16.396Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:16.396Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:16.396Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:16.610Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:16.610Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:16.611Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:16.611Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:16.611Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:16.721Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:16.721Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:16.721Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:16.721Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:16.721Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:16.921Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:16.921Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:16.921Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:16.921Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:16.921Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:16.998Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:16.998Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:16.998Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:16.998Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:16.998Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:17.247Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:17.247Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:17.248Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:17.248Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:17.248Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:17.359Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:17.359Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:17.359Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:17.359Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:17.359Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:17.847Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:17.848Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:17.848Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:17.848Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:17.848Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:18.015Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:18.015Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:18.016Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:18.016Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:18.016Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:18.132Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:18.132Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:18.133Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:18.133Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:18.133Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:18.297Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:18.298Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:18.298Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:18.298Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:18.298Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:18.412Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:18.412Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:18.412Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:18.413Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:18.413Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:18.440Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T16:13:18.596Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:18.596Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:18.596Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:18.596Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:18.596Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:18.670Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:18.670Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:18.670Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:18.670Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:18.670Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:18.786Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:18.786Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:18.786Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:18.786Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:18.786Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:18.909Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:18.909Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:18.909Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:18.909Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:18.909Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:19.108Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:19.108Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:19.109Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:19.109Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:19.109Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:19.265Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:19.266Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:19.266Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:19.266Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:19.266Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:19.331Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:19.331Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:19.331Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:19.331Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:19.331Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:19.365Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:19.366Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:19.366Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:19.366Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:19.366Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:19.640Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:19.641Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:19.641Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:19.641Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:19.641Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:19.725Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:19.726Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:19.726Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:19.726Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:19.726Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:19.800Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:19.801Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:19.801Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:19.801Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:19.801Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:19.905Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:19.905Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:19.905Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:19.905Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:19.905Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:20.090Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:20.090Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:20.090Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:20.090Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:20.090Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:20.202Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:20.203Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:20.203Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:20.203Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:20.203Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:20.288Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:20.288Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:20.288Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:20.288Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:20.288Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:20.620Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T16:13:21.763Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:21.763Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:21.763Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:21.763Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:21.764Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:23.186Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:23.186Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:23.186Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:23.186Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:23.187Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:23.789Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T16:13:29.792Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:29.792Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:29.793Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:29.793Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:29.793Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:30.007Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:30.007Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:30.007Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:30.007Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:30.008Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:30.083Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:30.084Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:30.084Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:30.084Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:30.084Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:31.236Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:31.237Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:31.237Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:31.237Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:31.237Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:31.366Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:31.366Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:31.366Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:31.366Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:31.366Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:31.524Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:31.524Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:31.525Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:31.525Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:31.525Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:31.613Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:31.613Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:31.613Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:31.613Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:31.613Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:31.719Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:31.719Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:31.719Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:31.719Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:31.719Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:31.824Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T16:13:32.108Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:32.108Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:32.108Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:32.108Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:32.109Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:32.400Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:32.400Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:32.400Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:32.400Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:32.400Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:32.485Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:32.485Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:32.485Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:32.486Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:32.486Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:34.009Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:34.009Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:34.009Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:34.009Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:34.009Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:34.134Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T16:13:34.920Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:34.920Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:34.920Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:34.920Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:34.920Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:35.111Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:35.111Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:35.111Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:35.111Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:35.111Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:35.389Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:35.389Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:35.389Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:35.389Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:35.390Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:35.503Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:35.503Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:35.503Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:35.503Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:35.503Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:35.764Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:35.764Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:35.764Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:35.764Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:35.764Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:35.886Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:35.886Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:35.886Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:35.886Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:35.886Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:36.013Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:36.013Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:36.013Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:36.013Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:36.014Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:36.186Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:36.187Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:36.187Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:36.187Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:36.187Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:36.357Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:36.358Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:36.358Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:36.358Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:36.358Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:36.469Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:36.470Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:36.470Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:36.470Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:36.470Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:36.668Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:36.668Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:36.668Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:36.668Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:36.668Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:36.816Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:36.816Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:36.816Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:36.816Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:36.816Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:36.944Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T16:13:37.190Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:37.190Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:37.190Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:37.190Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:37.190Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:37.276Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:37.276Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:37.276Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:37.276Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:37.276Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:37.367Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:37.367Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:37.367Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:37.368Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:37.368Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:37.403Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:37.403Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:37.403Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:37.404Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:37.404Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:37.523Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-03T16:13:37.524Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T16:13:37.524Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-03T16:13:37.524Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T16:13:37.524Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T16:13:39.210Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T16:13:51.287Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:13:51.288Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 13m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 13m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T16:13:53.423Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "2vOuYlxtQJab2OcVer1fDL59fA1JsICfZ4cHV1r4",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)

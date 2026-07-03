@@ -158,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"gender\"]",
+                "query": "[\"due-date\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -322,7 +323,7 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "c82debe2a01719ed",
+  "active": "604df6b020e6e2cc",
   "lastOpenFiles": [
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
