@@ -31442,3 +31442,595 @@ key: e7662ce0ab530e9e action: add
     at at yt.deliver (plugin:system3-relay:20:36478)
 [2026-07-03T12:06:04.153Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
     at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T12:06:05.080Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/English/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/English/03 - The before party.md {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-03T12:06:05.179Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/06 - Canvas/Outline of the story.canvas
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T12:06:05.465Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md)]: [Provider State] /01 - Zettelkastem/Script/English/02 - Lucas’ Call.md {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-03T12:06:05.994Z] [DEBUG] [Promise]: Dependency stuck after 3s. Checking. async()=>(await this.sharedFolder.whenSynced(),this._persistence.synced&&!this.persistenceSynced?(this.persistenceSynced=!0,Promise.resolve()):new Promise(r=>{this.persistenceSynced&&r(),this._persistence.once("synced",()=>{this.persistenceSynced=!0,r()})}))
+    at at eval (plugin:system3-relay:34:13870)
+[2026-07-03T12:06:06.391Z] [LOG] [Live][Workspace]: file-open
+    at at eval (plugin:system3-relay:134:6692)
+[2026-07-03T12:06:06.391Z] [DEBUG] [LiveViews][file-open]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-03T12:06:06.391Z] [DEBUG] [LiveViews][file-open]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-03T12:06:06.391Z] [DEBUG] [kc]: connecting canvas view to canvas Exhibitionist Priest/06 - Canvas/Outline of the story.canvas /06 - Canvas/Outline of the story.canvas
+    at at kc.install (plugin:system3-relay:76:5826)
+[2026-07-03T12:06:06.392Z] [WARN] [Patcher]: Methods [requestSave, applyHistory] already patched on e, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:06.392Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:06.392Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:06.392Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:06.392Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:06.392Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:06.392Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:06.392Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:06.392Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:06.392Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:06.392Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:06.392Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:06.392Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:06.392Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:06.392Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:06.393Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:09.107Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/06 - Canvas/Outline of the story.canvas
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T12:06:15.390Z] [LOG] [Live][Workspace]: file-open
+    at at eval (plugin:system3-relay:134:6692)
+[2026-07-03T12:06:15.390Z] [DEBUG] [LiveViews][file-open]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-03T12:06:15.390Z] [DEBUG] [LiveViews][file-open]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-03T12:06:15.390Z] [DEBUG] [kc]: connecting canvas view to canvas Exhibitionist Priest/06 - Canvas/Outline of the story.canvas /06 - Canvas/Outline of the story.canvas
+    at at kc.install (plugin:system3-relay:76:5826)
+[2026-07-03T12:06:15.391Z] [WARN] [Patcher]: Methods [requestSave, applyHistory] already patched on e, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:15.391Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:15.391Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:15.391Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:15.391Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:15.391Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:15.391Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:15.391Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:15.391Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:15.391Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:15.391Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:15.391Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:15.391Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:15.391Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:15.391Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:15.392Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:15.392Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:15.392Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:15.392Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:15.392Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:15.392Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:15.392Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:16.428Z] [LOG] [Live][Workspace]: file-open
+    at at eval (plugin:system3-relay:134:6692)
+[2026-07-03T12:06:16.428Z] [DEBUG] [LiveViews][file-open]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-03T12:06:16.428Z] [DEBUG] [LiveViews][file-open]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-03T12:06:16.428Z] [DEBUG] [kc]: connecting canvas view to canvas Exhibitionist Priest/06 - Canvas/Outline of the story.canvas /06 - Canvas/Outline of the story.canvas
+    at at kc.install (plugin:system3-relay:76:5826)
+[2026-07-03T12:06:16.429Z] [WARN] [Patcher]: Methods [requestSave, applyHistory] already patched on e, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:16.429Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:16.429Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:16.429Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:16.429Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:16.429Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:16.429Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:16.429Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:16.429Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:16.429Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:16.429Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:16.429Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:16.429Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:16.429Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:16.429Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:16.430Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:19.205Z] [LOG] [Live][Workspace]: file-open
+    at at eval (plugin:system3-relay:134:6692)
+[2026-07-03T12:06:19.206Z] [DEBUG] [LiveViews][file-open]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-03T12:06:19.206Z] [DEBUG] [LiveViews][file-open]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-03T12:06:19.206Z] [DEBUG] [kc]: connecting canvas view to canvas Exhibitionist Priest/06 - Canvas/Outline of the story.canvas /06 - Canvas/Outline of the story.canvas
+    at at kc.install (plugin:system3-relay:76:5826)
+[2026-07-03T12:06:19.207Z] [WARN] [Patcher]: Methods [requestSave, applyHistory] already patched on e, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:19.207Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:19.207Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:19.207Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:19.207Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:19.207Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:19.207Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:19.207Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:19.207Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:19.207Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:19.207Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:19.207Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:19.207Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:19.207Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:19.207Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:20.288Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/06 - Canvas/Outline of the story.canvas
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T12:06:24.336Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/06 - Canvas/Outline of the story.canvas
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T12:06:28.343Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/06 - Canvas/Outline of the story.canvas
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T12:06:30.461Z] [LOG] [Live][Workspace]: file-open
+    at at eval (plugin:system3-relay:134:6692)
+[2026-07-03T12:06:30.461Z] [DEBUG] [LiveViews][file-open]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-03T12:06:30.461Z] [DEBUG] [LiveViews][file-open]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-03T12:06:30.461Z] [DEBUG] [kc]: connecting canvas view to canvas Exhibitionist Priest/06 - Canvas/Outline of the story.canvas /06 - Canvas/Outline of the story.canvas
+    at at kc.install (plugin:system3-relay:76:5826)
+[2026-07-03T12:06:30.462Z] [WARN] [Patcher]: Methods [requestSave, applyHistory] already patched on e, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:30.462Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:30.462Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:30.462Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:30.462Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:30.462Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:30.462Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:30.462Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:30.462Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:30.462Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:30.463Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:30.463Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:30.463Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:30.463Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:30.463Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:30.463Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:31.367Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/06 - Canvas/Outline of the story.canvas
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T12:06:31.924Z] [LOG] [Live][Workspace]: file-open
+    at at eval (plugin:system3-relay:134:6692)
+[2026-07-03T12:06:31.924Z] [DEBUG] [LiveViews][file-open]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-03T12:06:31.924Z] [DEBUG] [LiveViews][file-open]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-03T12:06:31.924Z] [DEBUG] [kc]: connecting canvas view to canvas Exhibitionist Priest/06 - Canvas/Outline of the story.canvas /06 - Canvas/Outline of the story.canvas
+    at at kc.install (plugin:system3-relay:76:5826)
+[2026-07-03T12:06:31.925Z] [WARN] [Patcher]: Methods [requestSave, applyHistory] already patched on e, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:31.925Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:31.925Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:31.925Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:31.925Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:31.925Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:31.925Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:31.925Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:31.925Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:31.925Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:31.925Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:31.925Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:31.925Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:31.925Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:31.925Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:31.925Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-03T12:06:31.926Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:31.926Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:31.926Z] [WARN] [Patcher]: Methods [save] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:31.926Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:31.926Z] [WARN] [Patcher]: Methods [edit] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-03T12:06:31.926Z] [DEBUG] [Patcher]: All methods conflicted, returning no-op unsubscriber
+    at at Co.patch (plugin:system3-relay:54:44501)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering all components for mode: preview
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering preview from document
+    at at dc.render (plugin:system3-relay:54:47259)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Preview render completed
+    at at dc.render (plugin:system3-relay:54:47426)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-03T12:06:31.926Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/English/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-03T12:06:33.366Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/06 - Canvas/Outline of the story.canvas
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-03T12:07:02.878Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T12:07:02.879Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 15m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:8bf51180-8124-44bc-adf1-db0dbca7af64 (/01 - Zettelkastem/Script/English/03 - The before party.md): 0 attempts, (expires in 24m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:7e48891d-ece9-4f8c-b475-270c80ae9d92 (/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md): 0 attempts, (expires in 24m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:5e24151c-eebe-4075-8095-2d7b9c9e4aa3 (/06 - Canvas/Untitled.canvas): 0 attempts, (expires in -73602ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:4c348b9e-7f02-406d-a0ea-fd6ff8f76a3b (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:ba62426c-8591-4a7d-a30c-ed4da061eaa8 (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 7m)
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
