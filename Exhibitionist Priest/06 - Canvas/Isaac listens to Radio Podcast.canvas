@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"2e9694f1a027be79","type":"text","text":"[[Isaac]] turns on the radio","x":-120,"y":-120,"width":250,"height":60,"color":"1"},
-		{"id":"4035bbc585b89238","type":"text","text":"It broadcasts a show with [[Martin]] and [[Martine]], the two hosts being paranormal investigators","x":140,"y":87,"width":300,"height":113,"color":"1"},
-		{"id":"7e98aae02433ce84","type":"text","text":"They have auditors call them in to give them testimonies","x":-138,"y":320,"width":287,"height":95,"color":"1"},
-		{"id":"621f782fda445612","type":"text","text":"One of them claims being stalked by [[Raincoat Man|someone in a raincoat]] during the downpours ","x":166,"y":580,"width":274,"height":133,"color":"1"},
+		{"type":"text","text":"[[Isaac]] turns on the radio","id":"2e9694f1a027be79","x":-120,"y":-120,"width":250,"height":60,"color":"1"},
+		{"text":"It broadcasts a show with [[Martin]] and [[Martine]], the two hosts being paranormal investigators","id":"4035bbc585b89238","type":"text","x":140,"y":87,"width":300,"height":113,"color":"1"},
+		{"type":"text","id":"7e98aae02433ce84","text":"They have auditors call them in to give them testimonies","x":-138,"y":320,"width":287,"height":95,"color":"1"},
+		{"text":"One of them claims being stalked by [[Raincoat Man|someone in a raincoat]] during the downpours ","id":"621f782fda445612","type":"text","x":166,"y":580,"width":274,"height":133,"color":"1"},
 		{"id":"a7d4a1d8ca705bd4","type":"text","text":"They don’t want to give their name ","x":560,"y":617,"width":250,"height":60,"color":"2"},
-		{"id":"2446da5576f5c740","type":"text","text":"They are calling from a phone booth under the rain as a refuge","x":-245,"y":601,"width":285,"height":92,"color":"2"},
-		{"id":"78376fbede61ff50","x":-129,"y":834,"width":295,"height":106,"color":"1","type":"text","text":"They claim the [[Raincoat Man]] only wears a raincoat and nothing else."},
-		{"id":"c867407dc43bfcaa","x":396,"y":818,"width":329,"height":139,"color":"2","type":"text","text":"They give a menacing aura as they emanate darkness (because of the black suit and the rain making the visibility harder)"},
-		{"id":"553e6aabdfb3098b","x":175,"y":1116,"width":250,"height":60,"color":"1","type":"text","text":"The call end abruptly "}
+		{"type":"text","id":"2446da5576f5c740","text":"They are calling from a phone booth under the rain as a refuge","x":-245,"y":601,"width":285,"height":92,"color":"2"},
+		{"id":"78376fbede61ff50","text":"They claim the [[Raincoat Man]] only wears a raincoat and nothing else.","type":"text","x":-129,"y":834,"width":295,"height":106,"color":"1"},
+		{"id":"c867407dc43bfcaa","text":"They give a menacing aura as they emanate darkness (because of the black suit and the rain making the visibility harder)","type":"text","x":396,"y":818,"width":329,"height":139,"color":"2"},
+		{"type":"text","text":"The call end abruptly ","id":"553e6aabdfb3098b","x":175,"y":1116,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"3cef858429c8a4f6","fromNode":"2e9694f1a027be79","fromSide":"bottom","toNode":"4035bbc585b89238","toSide":"top"},
