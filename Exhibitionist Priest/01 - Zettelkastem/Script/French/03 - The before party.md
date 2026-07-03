@@ -221,12 +221,44 @@ Aaaargh ! C’est frustrant. Je voudrais tellement en savoir plus.
 Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour sur votre vie ou toute rencontre étrange, hors de notre réalité, hors de toute notion préconçue. Même de l’au-delà !
 
 [[Martine|MARTINE]]
-En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée même d’un autre genre* !
+En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée, même d’un autre genre* !
 
 S’il fallait déterminer un moyen d’établir la validité de ce qu’ils déballent tout au long de leur émission, il suffirait de débarquer dans les locaux et les regarder débiter. Ç’en dégoûterait même les plus illuminés de la place locale.
-Pourtant je me surprends à ne jamais changer la fréquence. Je surfe les ondes sans vagues et je me laisse submerger du flot de leurs voix, tourbillonnant dans la houle de leur récit. Je ferme les yeux et j’astique la sol, 
+Pourtant je me surprends à ne jamais changer la fréquence. Je surfe les ondes sans vagues et je me laisse submerger du flot de leurs voix, tourbillonnant dans la houle de leur récit. Je ferme les yeux et j’astique le sol et l’eau coule doucement entre mes orteils. L’orage qui bat de son plein déverse des averses qui coulent lentement le long des vitres. Je lève la tête, regardant longuement la pluie caresser les plinthes, la cabine téléphonique, toujours seul, au milieu de la pluie et je plains intérieurement [[Simone]] et [[Nick]] qui sont sûrement sous la pluie encore à cette heure-là. Je me décide de les passer un coup de fil pour s’assurer qu’ils vont bien.
 
 [[Martin|MARTIN]]
+Et nous allons accueillir notre prochain auditeur !
+
+Je décroche le combiné et je vais pour composer le numéro de [[Simone]] quand…
+
+[[Martine|MARTINE]]
+Bonjour cher auditeur. Comment vous vous appelez ?
+
+???
+…
+
+[[Martin|MARTIN]]
+Allo, Monsieur, Madame, allo vous m’entendez ?
+
+???
+…
+
+[[Martine|MARTINE]]
+Je crois que nous avons des interférences sur la ligne. Allo vous m’entendez ?
+
+???
+… Oui parfaitement. Je vous entends très bien
+
+[[Martine|MARTINE]]
+Ah bah voilààààà, on vous entend enfin. Comment vous vous appelez monsieur ?
+
+???
+… Je préfère ne pas dire.
+
+L’homme avait la voix calme mais déraillante comme s’il allait craquer d’un moment à l’autre. Ses silences sont entrecoupées par des raclements de gorge
+
+???
+… Oui
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
