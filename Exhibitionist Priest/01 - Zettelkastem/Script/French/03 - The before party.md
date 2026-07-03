@@ -218,6 +218,9 @@ Eh bien on ne le saura jamais… à moins que Véronique nous rappelle avec de n
 Aaaargh ! C’est frustrant. Je voudrais tellement en savoir plus.
 
 [[Martin|MARTIN]]
+Petit passage météo ! Il pleut beaucoup en Normandie
+
+[[Martin|MARTIN]]
 Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour sur votre vie ou toute rencontre étrange, hors de notre réalité, hors de toute notion préconçue. Même de l’au-delà !
 
 [[Martine|MARTINE]]
@@ -349,7 +352,14 @@ Une grande inspiration se fait entendre à travers les haut-parleurs
 Ok. Comment vous l’avez “rencontré”, votre suiveur ?
 
 JUDAS
-C’était un jour de pluie. Je me dépêchais de rentrer chez moi pour éviter d’être encore plus trempé.
+C’était un jour de pluie. Je me dépêchais de rentrer chez moi pour éviter d’être encore plus trempé lorsque je l’ai aperçu…
+
+[[Martin|MARTIN]]
+Votre suiveur.
+
+JUDAS
+Oui… Il portait un imperméable jaune capuchonné. C’est tout ce que je pouvais dire. La pluie m’empêchait de voir clair. Il se tenait, de dos, sur le pas de la porte d’entrée, y toquant.
+Je ne sais pas ce qu’il m’a pris
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
