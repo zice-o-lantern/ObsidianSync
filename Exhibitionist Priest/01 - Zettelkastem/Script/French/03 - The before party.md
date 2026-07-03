@@ -559,7 +559,7 @@ Je saute sur la rambarde de la fenêtre et je cherche à tout prix les poignées
 [[Isaac|ISAAC]]
 Hein
 
-Ma tête pendule dans le vide sous la pluie torrentielle. En bas, de la boue se forme dans le jardin et les cordes s'abattent de plus belle sur les toits des maisons avoisinantes. Petit à petit, les goutelettes d'eaux projetées des violents cordes s'écransant sur mon crâne trempent ma chemise et mon col.
+Ma tête pendule dans le vide sous la pluie torrentielle. En bas, de la boue se forme dans le jardin et les cordes s'abattent de plus belle sur les toits des maisons avoisinantes. Petit à petit, les goutelettes d'eaux projetées des violents cordes s'écransant sur mon crâne trempent ma chemise et mon col. Les images me reviennent.
 Je tourne la tête vers [[Luke]]
 
 [[Isaac|ISAAC]]
@@ -571,5 +571,26 @@ Oui, je... je viens de te le dire.
 [[Isaac|ISAAC]]
 Pourquoi t'as ouvert la fenêtre ?
 
+[[Luke|LUCAS]]
+Tu viens pas d'essayer de le faire ?
+
+[[Isaac|ISAAC]]
+Réponds-moi Lucas. Il pleut dehors. Pourquoi ouvrir la fenêtre quand il pleut.
+
+Il hausse les épaules.
+
+[[Luke|LUCAS]]
+La chambre était poussiéreuse et j'aime bien l'air mouillé de la pluie. T'es pas d'accord ?
+
+
+Je me rassis doucement sur le bord du lit.
+
+[[Isaac|ISAAC]]
+T'as pas tort.
+
+[[Luke|LUCAS]]
+Bref tu penses que je devrais porter quoi comme pantalon ?
+
+Il s'approche de moi et avec un autre short 
 
 
