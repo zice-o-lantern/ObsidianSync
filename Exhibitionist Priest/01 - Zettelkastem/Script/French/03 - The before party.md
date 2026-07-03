@@ -386,11 +386,42 @@ Je continue de fixer cet inconnu, à l'extérieur, dans la cabine téléphonique
 
 [[Judas|JUDAS]]
 Je ne savais pas quoi faire. Je crois que le froid m'engourdissait. Ce n'est vraiment qu'au bout de quelques minutes que j'ai eu l'idée d'appeler la police. Cependant quand j'ai commencé à dégainer mon téléphone portable, il s'en était allé. Ou plutôt il avait disparu ? C'était bizarre. J'aurais juré que je ne l'ai pas laché des yeux durant tout ce temps. Je n'ai vraiment que baisser les yeux pour regarder mon téléphone ! J'ai attendu encore quelques minutes pour être sûr que l'homme soit parti puis je me suis jeté sur la porte et je l'ai verrouillé à double tour.
-J'aurais cru que ç'aurait été fini ce jour-là. Que je ne le reverrai plus. Mais maintenant durant les averses, les jours de pluie, je l'aperçois. Du coin de l'œil, dans la rue, dans la forêt, qu'importe, je le vois partout, tout le temps. Quand je m'enforme chez moi, en espérant qu'il parte, je le vois dehors. Alors j'ai fini par barricader les fenêtres, pour qu'il arrête de m'épier. Mais l'eau s'infiltre. Elle s'infiltre de partout, des petites interstices, aux fenêtres jusque dans la cheminée. Même quand il ne pleut pas, il m'épie, je le sais. Je ne peux plus vivre chez moi. Il a déjà tout touché. Je les reconnais. Son putain d'imperméable laisse des traces. Il fallait que je parte. Mais je n'ai nulle part où aller. Il m'y suivra de toute façon. Même à l'heure où je vous parle, il est là
-, derrière moi. Je le sens. Je n'ai aucun échappatoire.
-J'ai péché Seigneur.
+J'aurais cru que ç'aurait été fini ce jour-là. Que je ne le reverrai plus. Mais maintenant durant les averses, les jours de pluie, je l'aperçois. Du coin de l'œil, dans la rue, dans la forêt, qu'importe, je le vois partout, tout le temps. Quand je m'enferme chez moi, en espérant qu'il parte, je le vois dehors. Alors j'ai fini par barricader les fenêtres, pour qu'il arrête de m'épier. Mais l'eau s'infiltre. Elle s'infiltre de partout, des petites interstices, aux fenêtres jusque dans la cheminée. Même quand il ne pleut pas, il m'épie, je le sais. Je ne peux plus vivre chez moi. Il a déjà tout touché. Je les reconnais. Son putain d'imperméable laisse des traces. Il fallait que je parte. Mais je n'ai nulle part où aller. Il m'y suivra de toute façon. Même à l'heure où je vous parle, il est là, derrière moi. Je le sens. Je ne peux plus me retourner. Je n'ai aucun échappatoire.
+J'ai péché Seigneur. Je vous demande pardon. J'ai été un sale pécheur et tu viens récupérer ta rétribution. Pitié, Seigneur, soyez clément. Je ne recommencerai plus.
 
-Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
+[[Martine|MARTINE]]
+Judas ? Vous allez bien ? Vous nous entendez ?
+
+Le son de Judas devient plus faible. Dans la cabine téléphonique, l'homme a baissé la téléphone,  et semble regarder les cieux, les bras ballants. De temps en temps, on peut entendre des prières faibles et des sanglots.
+
+[[Martin|MARTIN]]
+Judas ? Judas ?! Monsieur, répondez, s'il vous plaît, qu'est-ce qu'il vous arrive ? L'homme à l'imperméable est-il avec vous ?
+
+Sur ce, je reprends mes esprits. Il ne bouge plus. C'est le moment parfait. Je me précipite sur la sacoche et j'y en sors l'appareil-photo. Les mains tremblantes appuyées par les sanglots de l'homme de la radio, je vise et fais le point focale sur l'imperméable et j'appuie sur le bouton capturer
+
+[[Judas|JUDAS]]
+NON ARRÊTE
+
+L'éclat de voix me surprend et je me retourne vers la radio
+
+[[Martine|MARTINE]]
+Monsieur, monsieur ??? Qu'est-ce qu'il vous arrive ?
+
+Silence. Seulement le bruit de la pluie retentit à travers les haut-parleurs
+
+Je me redirige vers la cabine téléphonique. L'homme n'est plus là. La porte de la cabine grande ouverte, valdinguante. Je regarde la photo que j'ai prise. Il n'y figure pas non plus.
+
+[[Martin|MARTIN]]
+Eh bien chers auditeurs... c'était quelque chose... Nous espérons de tout cœur que-
+
+J'éteins la radio. Où est [[Luke]] ?
+
+Je monte à quatre patte les escaliers. Puis après avoir dérapé un je ne sais nombre de fois dans le couloir, j’enfonce la porte. 
+
+[[Isaac|ISAAC]]
+Luke ??
+
+Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
 [[Luke|LUCAS]]
 Isaac ???
@@ -398,7 +429,7 @@ Isaac ???
 [[Isaac|ISAAC]]
 AAAAAAAH
 
-Je claque la porte fermée les yeux fermés et j’entends un grand fracas dans la chambre. Inquiet, je rouvre la chambre, avec précaution. [[Luke]] est au sol, grognant de douleur sur ses bras, essayant de se relever. Je me précipite vers lui
+Je claque la porte fermée les yeux fermés et j’entends un grand fracas dans la chambre. Inquiet, je rouvre la chambre, avec précaution. [[Luke]] est au sol, grognant de douleur,  appuyé sur ses coudes, essayant de se relever. Je me précipite vers lui
 
 [[Isaac|ISAAC]]
 Oh mon dieu, [[Luke]], tu vas bien ???
@@ -465,7 +496,19 @@ Lorsqu’il m’a pris dans les bras, ma jambe s’est retrouvé dans son entrej
 
 Je me retire de son étreinte, le regard au sol, mes mains tirant mon haut le plus bas possible.
 
+##### Fuir
+
 [[Isaac|ISAAC]]
 Oui, frères hein… je pense que je vais quand même y aller. La maison va pas se nettoyer toute seule. Change toi vite, il ne reste plus qu’une heure et demie avant que tout le monde arrive.
 
 Je marche d’une foulée rapide vers la porte et la ferme avant qu’il ne puisse parler.
+
+###### Rester
+
+Mon instinct me hurle de courir hors de la chambre, loin de lui. Cependant, les souvenirs des événements d'il y a juste quelques minutes refont surface dans mon esprit.
+
+[[Isaac|ISAAC]]
+Il est peut-être vrai que j'en fais un pataquès.
+
+[[Luke|LUCAS]]
+Mais oui ! Assieds toi sur le lit. Tiens tu vas m'aider à choisir ce que je de

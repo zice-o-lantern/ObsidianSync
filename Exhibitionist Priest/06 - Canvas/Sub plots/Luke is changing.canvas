@@ -2,23 +2,25 @@
 	"nodes":[
 		{"id":"4ba091d8ecadcb6a","type":"text","text":"[[Isaac]] panics hearing the voice of [[Luke]] in the radio so he goes upstairs to check on [[Lucas]]","x":-120,"y":-260,"width":280,"height":120,"color":"1"},
 		{"id":"8eafbe21d82921a7","type":"text","text":"[[Isaac|He]] stumbles onto [[Luke]] changing. Here ensures a series of events where [[Isaac]] gets flustered and [[Luke]] tries to reassure him","x":-105,"y":-40,"width":250,"height":188,"color":"1"},
-		{"id":"1e392384ff1d3679","x":-355,"y":320,"width":250,"height":60,"color":"5","type":"text","text":"[[Isaac]] is too much flustered"},
+		{"id":"1e392384ff1d3679","type":"text","text":"[[Isaac]] is too much flustered","x":-355,"y":320,"width":250,"height":60,"color":"5"},
 		{"id":"f42385fb24449cf8","type":"text","text":"[[Isaac]] wants to know more about the voice","x":145,"y":320,"width":250,"height":60,"color":"5"},
-		{"id":"6fdf2b8e648b2705","x":145,"y":500,"width":250,"height":120,"color":"1","type":"text","text":"[[Isaac]] interrogates [[Luke]] about the voice he heard in the radio"},
-		{"id":"831a36c9994e945c","x":480,"y":292,"width":192,"height":116,"color":"2","type":"text","text":"Sets [[Isaac]] asked about the radio *variable* to **true**"},
-		{"id":"bbcf9bc518cf44ae","type":"text","text":"[[Luke]] knows nothing about what he's talking about but is subtly uncomfortable at the mention of the [[Raincoat Man]]\n","x":145,"y":680,"width":250,"height":200,"color":"1"},
-		{"id":"4c6b2ec0c67fde49","x":-355,"y":500,"width":250,"height":60,"color":"1","type":"text","text":"He flees"},
-		{"id":"e49a2a58f9b41d58","x":-105,"y":1040,"width":250,"height":60,"color":"1","type":"text","text":"[[Isaac]] leaves the room"}
+		{"id":"831a36c9994e945c","type":"text","text":"Sets [[Isaac]] asked about the radio *variable* to **true**","x":480,"y":292,"width":192,"height":116,"color":"2"},
+		{"id":"4c6b2ec0c67fde49","type":"text","text":"He flees","x":-355,"y":500,"width":250,"height":60,"color":"1"},
+		{"id":"6fdf2b8e648b2705","type":"text","text":"[[Isaac]] interrogates [[Luke]] about the voice he heard in the radio","x":145,"y":660,"width":250,"height":120,"color":"1"},
+		{"id":"bbcf9bc518cf44ae","type":"text","text":"[[Luke]] knows nothing about what he's talking about but is subtly uncomfortable at the mention of the [[Raincoat Man]]\n","x":145,"y":840,"width":250,"height":200,"color":"1"},
+		{"id":"e49a2a58f9b41d58","type":"text","text":"[[Isaac]] leaves the room","x":-105,"y":1200,"width":250,"height":60,"color":"1"},
+		{"id":"e722a7bc39c57425","type":"text","text":"[[Luke]] invites him to sit down aside from him and him pick what he should wear","x":145,"y":470,"width":250,"height":120,"color":"1"}
 	],
 	"edges":[
 		{"id":"5977fff6abe351a9","fromNode":"4ba091d8ecadcb6a","fromSide":"bottom","toNode":"8eafbe21d82921a7","toSide":"top","color":"1"},
 		{"id":"865ee928cc959367","fromNode":"8eafbe21d82921a7","fromSide":"bottom","toNode":"1e392384ff1d3679","toSide":"top","color":"5"},
 		{"id":"6c37825c6b3d34ac","fromNode":"1e392384ff1d3679","fromSide":"bottom","toNode":"4c6b2ec0c67fde49","toSide":"top","color":"5"},
 		{"id":"bddee0e7c5238780","fromNode":"8eafbe21d82921a7","fromSide":"bottom","toNode":"f42385fb24449cf8","toSide":"top","color":"5"},
-		{"id":"9ffaa5ca2a800f54","fromNode":"f42385fb24449cf8","fromSide":"bottom","toNode":"6fdf2b8e648b2705","toSide":"top","color":"1"},
 		{"id":"09d57ceb5c87ecfa","fromNode":"f42385fb24449cf8","fromSide":"right","toNode":"831a36c9994e945c","toSide":"left"},
 		{"id":"f2c847b3282e0ec7","fromNode":"6fdf2b8e648b2705","fromSide":"bottom","toNode":"bbcf9bc518cf44ae","toSide":"top","color":"1"},
-		{"id":"d2726961d40b5262","fromNode":"4c6b2ec0c67fde49","fromSide":"bottom","toNode":"e49a2a58f9b41d58","toSide":"top"},
-		{"id":"5a68e38b4bef95af","fromNode":"bbcf9bc518cf44ae","fromSide":"bottom","toNode":"e49a2a58f9b41d58","toSide":"top"}
+		{"id":"d2726961d40b5262","fromNode":"4c6b2ec0c67fde49","fromSide":"bottom","toNode":"e49a2a58f9b41d58","toSide":"top","color":"1"},
+		{"id":"5a68e38b4bef95af","fromNode":"bbcf9bc518cf44ae","fromSide":"bottom","toNode":"e49a2a58f9b41d58","toSide":"top","color":"1"},
+		{"id":"0876b91217029ad9","fromNode":"f42385fb24449cf8","fromSide":"bottom","toNode":"e722a7bc39c57425","toSide":"top"},
+		{"id":"effd551367f5c65f","fromNode":"e722a7bc39c57425","fromSide":"bottom","toNode":"6fdf2b8e648b2705","toSide":"top"}
 	]
 }
