@@ -285,6 +285,7 @@ Oui ça deviendrait long à la longue de juste vous appeler Monsieur, monsieur.
 … D’accord Judas. Dites-moi, Judas, vous venez d’où ?
 
 JUDAS
+De Sainte-Mère
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
