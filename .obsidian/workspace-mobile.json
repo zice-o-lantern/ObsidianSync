@@ -279,6 +279,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "sidebar-highlights:Open highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,

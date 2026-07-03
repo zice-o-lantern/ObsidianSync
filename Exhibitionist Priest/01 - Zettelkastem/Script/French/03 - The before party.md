@@ -276,7 +276,13 @@ Paniqué je regarde à travers la fenêtre. Il y a quelqu’un dans la cabine. C
 Même pas un petit nom ? N’ayez aucune crainte, Monsieur, vous êtes libre de dire ce que vous voulez
 
 [[Martin|MARTIN]]
-Oui ça
+Oui ça deviendrait long à la longue de juste vous appeler Monsieur, monsieur.
+
+???
+… Alors appelez moi Judas.
+
+[[Martine|MARTINE]]
+… D’accord Judas. Dites-moi, Judas, vou
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 

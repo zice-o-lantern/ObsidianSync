@@ -32034,3 +32034,1366 @@ s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-
 s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:ba62426c-8591-4a7d-a30c-ed4da061eaa8 (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 7m)
 Queue size: 0
     at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T12:32:32.276Z] [LOG] [System 3][Relay]: No active enterprise tenant configured, using defaults
+    at onload@
+[2026-07-03T12:32:32.276Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/auth-refresh {
+  "method": "POST",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.277Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records/7cm9jf7qvjo05mx {
+  "method": "GET",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.277Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.278Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.278Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.278Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.278Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.278Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.278Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.315Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at @
+[2026-07-03T12:32:32.315Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at @
+[2026-07-03T12:32:32.315Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at @
+[2026-07-03T12:32:32.315Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at @
+[2026-07-03T12:32:32.315Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at @
+[2026-07-03T12:32:32.315Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at @
+[2026-07-03T12:32:32.315Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at @
+[2026-07-03T12:32:32.315Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at @
+[2026-07-03T12:32:32.315Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.315Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.315Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.315Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.315Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.315Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.315Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.316Z] [DEBUG] [postie]: send Al ()=>{this.loginManager.loggedIn?this.login():this.logout()}
+    at @
+[2026-07-03T12:32:32.530Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at connect@
+[2026-07-03T12:32:32.530Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at getToken@
+[2026-07-03T12:32:32.530Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at getToken@
+[2026-07-03T12:32:32.531Z] [DEBUG] [LiveViews][[Shared Folders]]: Refresh
+    at refresh@
+[2026-07-03T12:32:32.532Z] [DEBUG] [LiveTokenStore]: starting
+    at start@
+[2026-07-03T12:32:32.532Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T12:32:32.533Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 10m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9c872191-37b8-4dd3-93da-4a512b9a64a9 (/05 - Tasks/Archived/Should Joseph have a female friend.md): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:d15fdac9-140f-430f-abfa-da1fc9e0ec70 (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:2b0a6854-e664-404f-bba2-db6544cc3941 (/03 - Index/Characters/Cesare.md): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:f6166fe5-6a92-47f6-a21f-b2adcd88b10e (/03 - Index/Characters/Raincoat Man.md): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:6070d406-3da6-4324-900c-78938708a8e4 (/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d (/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:7e48891d-ece9-4f8c-b475-270c80ae9d92 (/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:47805c10-a45d-4dd2-bdb7-b51c85bc7265 (/03 - Index/Characters/Raincoat Man.md): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:106c9123-45e6-4ca9-b335-06ab49375b16 (/06 - Canvas/Outline of the story0ld.canvas): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a11e3a43-8b87-48f3-a8d0-0de1243114fd (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a63748e4-357f-4850-81b3-e45b3aa5a090 (/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:5e24151c-eebe-4075-8095-2d7b9c9e4aa3 (/06 - Canvas/Sub plots/Luke is changing.canvas): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:c69f2546-4b16-47e6-86db-d0360cfbdcd3 (/06 - Canvas/Outline of the story.canvas): 0 attempts, (expires in 11m)
+Queue size: 0
+    at checkAndRefreshTokens@
+[2026-07-03T12:32:32.536Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "onUnloadFile"
+  ],
+  "patchCount": 1
+}
+    at setup@
+[2026-07-03T12:32:32.536Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "process"
+  ],
+  "patchCount": 2
+}
+    at setup@
+[2026-07-03T12:32:32.537Z] [WARN] [System 3][Relay]: Webviewer plugin not found or not initialized
+    at setup@
+[2026-07-03T12:32:32.537Z] [DEBUG] [Wl]: starting
+    at setup@
+[2026-07-03T12:32:32.538Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:32.538Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:32.538Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at @
+[2026-07-03T12:32:32.538Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at @
+[2026-07-03T12:32:32.538Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at @
+[2026-07-03T12:32:32.538Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at @
+[2026-07-03T12:32:32.538Z] [DEBUG] [postie]: send Yl ()=>{this.refresh("[Shared Folders]"),this.folderListeners.forEach((l,c)=>{this.sharedFolders.has(c)||(l(),this.folderListeners.delete(c))}),this.sharedFolders.forEach(l=>{this.folderListeners.has(l)||this.folderListeners.set(l,a(l))})}
+    at @
+[2026-07-03T12:32:32.538Z] [DEBUG] [postie]: send bn ()=>this.quickRefresh()
+    at @
+[2026-07-03T12:32:32.539Z] [DEBUG] [postie]: send bn ()=>this.quickRefresh()
+    at @
+[2026-07-03T12:32:32.539Z] [DEBUG] [postie]: send er ()=>this.quickRefresh()
+    at @
+[2026-07-03T12:32:32.540Z] [DEBUG] [postie]: send Yl ()=>{this.sharedFolders.forEach(s=>{Py([Vo.enableDocumentStatus],()=>{this.offDocumentListeners.get(s)||this.offDocumentListeners.set(s,s.fset.on(()=>{this.refresh()}))}),s.whenReady().then(()=>{this.refresh()}),this.unsubscribes.push(s.syncSettingsManager.subscribe(i=>{this.quickRefresh()})),this.unsubscribes.push(s.subscribe(this,()=>{this.quickRefresh()})),this.unsubscribes.push(s.syncStore.subscribe(i=>{this.quickRefresh()}))}),this.refresh()}
+    at @
+[2026-07-03T12:32:32.540Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at @
+[2026-07-03T12:32:32.540Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at @
+[2026-07-03T12:32:32.568Z] [LOG] [Kl]: type registry change
+    at deliverImmediate@
+[2026-07-03T12:32:32.569Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.570Z] [LOG] [[SyncFolder](/06 - Canvas)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.570Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at @
+[2026-07-03T12:32:32.570Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at @
+[2026-07-03T12:32:32.571Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at @
+[2026-07-03T12:32:32.571Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at @
+[2026-07-03T12:32:32.571Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.571Z] [LOG] [[SyncFolder](/06 - Canvas/Sub plots)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.571Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at @
+[2026-07-03T12:32:32.571Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at @
+[2026-07-03T12:32:32.571Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.571Z] [LOG] [[SyncFolder](/07 - Rough Notes)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.571Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.572Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.572Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.572Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.572Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.572Z] [LOG] [[SyncFolder](/02 - Attachments)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.572Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.572Z] [LOG] [[SyncFolder](/02 - Attachments/Attachments for Murkwater's notes)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.572Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191639.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.572Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191639.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191413.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191413.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191941.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191941.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191954.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191954.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192044.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192044.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191149.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191149.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192134.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192134.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191400.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191400.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192025.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192025.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191504.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191504.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191115.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191115.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191129.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191129.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191711.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191711.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192009.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.573Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192009.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191448.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191448.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191914.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191914.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191929.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191929.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191735.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191735.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191654.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191654.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191333.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191333.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191208.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191208.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191220.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191220.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192112.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192112.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191346.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191346.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/goat.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/goat.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/49d79ffc0a69539df42e8714e7bd31e6.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/49d79ffc0a69539df42e8714e7bd31e6.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.574Z] [LOG] [[SyncFolder](/02 - Attachments/Icons)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Icons/shush.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Icons/shush.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Icons/question-mark.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Icons/question-mark.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Icons/pin.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Icons/pin.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.574Z] [LOG] [[SharedFile](/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023126.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023126.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/a4442e3494d124a8bfd7c2afa625570d.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/a4442e3494d124a8bfd7c2afa625570d.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023118.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023118.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/bn8as71kufj61.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/bn8as71kufj61.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224135618.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224135618.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/CLOCHER-STE-MERE-OK-10-12-14-1-e1431340490604-634x1024-1.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/CLOCHER-STE-MERE-OK-10-12-14-1-e1431340490604-634x1024-1.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/photo_2026-02-17_11-49-41.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/photo_2026-02-17_11-49-41.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516010751.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516010751.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105438.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105438.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/albino-bat.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/albino-bat.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/lamb-lying-in-meadow.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/lamb-lying-in-meadow.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042740.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042740.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011012.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011012.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105449.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105449.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105339.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.575Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105339.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/7da58b858b8413e18e672ee97a09c816.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/7da58b858b8413e18e672ee97a09c816.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/83f9872575139b676e9640543df39631.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/83f9872575139b676e9640543df39631.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/eat-nagabe.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/eat-nagabe.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/1ba8fa11c1790e3b6549893742ae0c39.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/1ba8fa11c1790e3b6549893742ae0c39.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/9910189_orig.webp)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/9910189_orig.webp)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/nice-black-timbewolf.webp)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/nice-black-timbewolf.webp)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105314.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105314.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/smell-nagabe.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/smell-nagabe.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Screenshot 2026-02-24 154025.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Screenshot 2026-02-24 154025.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022658.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022658.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/csm_europaeischer-wolf-tierpark-hellabrunn-europa-tierlexikon_f8f7e4b636.webp)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/csm_europaeischer-wolf-tierpark-hellabrunn-europa-tierlexikon_f8f7e4b636.webp)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226103610.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226103610.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/yin-yang.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/yin-yang.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/ec6a35298fb7cdc1429389fb842f2cf5.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/ec6a35298fb7cdc1429389fb842f2cf5.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022707.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022707.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022713.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022713.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011200.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.576Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011200.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Polar_Bear_-_Alaska_(cropped).jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Polar_Bear_-_Alaska_(cropped).jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/canis-lycaon_a90838e3-54fb-4eb7-a1d2-7f335003835a.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/canis-lycaon_a90838e3-54fb-4eb7-a1d2-7f335003835a.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022723.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022723.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011224.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011224.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/7cb82c7b6509a30d1f418086ee1fe78a.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/7cb82c7b6509a30d1f418086ee1fe78a.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Kolmården_Wolf.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Kolmården_Wolf.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/aae64177183f5d81432afd6eab3d60c9.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/aae64177183f5d81432afd6eab3d60c9.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0536.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0536.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011151.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011151.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0534.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0534.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226103620.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226103620.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/3b8722652af05ae5e1d80f8536f8487f.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/3b8722652af05ae5e1d80f8536f8487f.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0535.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0535.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0531.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0531.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042202.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.577Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042202.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0530.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0530.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0532.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0532.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022450.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022450.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/coyote-canis-latrans-xl.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/coyote-canis-latrans-xl.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0533.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0533.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.578Z] [LOG] [[SyncFolder](/02 - Attachments/VN Sprites)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/1542414679.hiddenwall_ramos.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/1542414679.hiddenwall_ramos.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/1534317655.hiddenwall_koshiro.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/1534317655.hiddenwall_koshiro.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/bafkreia7ot76wk3nuvzjevzr4iykwhzxaysbwwbtti44vb2rbp4fn2dcvm.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/bafkreia7ot76wk3nuvzjevzr4iykwhzxaysbwwbtti44vb2rbp4fn2dcvm.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/bafkreiectpkmb4bdolvzkf73bqooblvayzbgxhdnnuie7tdbby334ds2pa.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/bafkreiectpkmb4bdolvzkf73bqooblvayzbgxhdnnuie7tdbby334ds2pa.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022409.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022409.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/finbpjpirbespgfpul19.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/finbpjpirbespgfpul19.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042700.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042700.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516010601.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516010601.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/sainte-mere-eglise-church.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.578Z] [LOG] [[SharedFile](/02 - Attachments/sainte-mere-eglise-church.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023100.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023100.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/81Hj1wcXL-L.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/81Hj1wcXL-L.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Scarbrow-Dymond-Lake-Ecolodge-Jianguo-Xie-1k.jpg)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Scarbrow-Dymond-Lake-Ecolodge-Jianguo-Xie-1k.jpg)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Coyote.webp)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Coyote.webp)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022433.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022433.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042712.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042712.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011135.png)]: created
+    at getOrCreateSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011135.png)]: pull
+    at getSyncFile@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.579Z] [LOG] [[SyncFolder](/03 - Index)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.579Z] [LOG] [[SyncFolder](/03 - Index/Places)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.579Z] [LOG] [[SyncFolder](/03 - Index/Characters)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.579Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.580Z] [LOG] [[SyncFolder](/05 - Tasks)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.581Z] [LOG] [[SyncFolder](/05 - Tasks/Archived)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.581Z] [LOG] [[SyncFolder](/05 - Tasks/Current)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.581Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.582Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.582Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.582Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.582Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.582Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.582Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.582Z] [LOG] [[SyncFolder](/05 - Tasks/Pinned)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.582Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.582Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.583Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.583Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.583Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.583Z] [LOG] [[SyncFolder](/01 - Zettelkastem)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.583Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.583Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Drafts)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.583Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.583Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Drafts/English)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.583Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.583Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.583Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.583Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.583Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Drafts/French)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Script)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Script/English)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.584Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Script/French)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SyncFolder](/01 - Zettelkastem/murky waters)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SyncFolder](/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at @
+[2026-07-03T12:32:32.585Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Renpy Export)]: created
+    at getOrCreateSyncFolder@
+[2026-07-03T12:32:32.586Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.586Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.586Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at @
+[2026-07-03T12:32:32.595Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at connect@
+[2026-07-03T12:32:32.595Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at getToken@
+[2026-07-03T12:32:32.595Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at getToken@
+[2026-07-03T12:32:32.595Z] [DEBUG] [LiveViews][[Shared Folders]]: Releasing Views []
+    at _refreshViews@
+[2026-07-03T12:32:32.596Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:32.601Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at @
+[2026-07-03T12:32:32.601Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at @
+[2026-07-03T12:32:32.601Z] [LOG] [Kl]: type registry change
+    at deliver@
+[2026-07-03T12:32:32.601Z] [DEBUG] [postie]: send Hl ()=>{this.log("type registry change"),this.notifyListeners()}
+    at @
+[2026-07-03T12:32:32.603Z] [DEBUG] [postie]: send Kl async()=>{await this.syncFileTree(this.syncStore)}
+    at @
+[2026-07-03T12:32:32.628Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at @
+[2026-07-03T12:32:32.629Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at @
+[2026-07-03T12:32:32.676Z] [DEBUG] [postie]: send Md ()=>{this.refresh("[Docset]")}
+    at @
+[2026-07-03T12:32:32.732Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "BGxASn9GjlJmG0UCKI2bP2ynme2gkGVUVm6zKpFo",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:32.841Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at @
+[2026-07-03T12:32:32.889Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at @
+[2026-07-03T12:32:32.910Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "BGxASn9GjlJmG0UCKI2bP2ynme2gkGVUVm6zKpFo",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at send@
+[2026-07-03T12:32:33.068Z] [LOG] [n]: applying server flags {
+  "enableEditorTweens": false,
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}
+    at @
+[2026-07-03T12:32:33.077Z] [DEBUG] [LiveViews][[Shared Folders]]: Ready Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at _refreshViews@
+[2026-07-03T12:32:33.079Z] [LOG] [[AwarenessView](/01 - Zettelkastem/Script/French/03 - The before party.md)]: Installing awareness component for Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at Cc@
+[2026-07-03T12:32:33.080Z] [LOG] [[AwarenessView](/01 - Zettelkastem/Script/French/03 - The before party.md)]: Awareness component successfully mounted
+    at install@
+[2026-07-03T12:32:33.080Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at connect@
+[2026-07-03T12:32:33.080Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at getToken@
+[2026-07-03T12:32:33.080Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at getToken@
+[2026-07-03T12:32:33.080Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:33.081Z] [DEBUG] [LiveViews][[Shared Folders]]: Attached Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at _refreshViews@
+[2026-07-03T12:32:33.081Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: get provider token
+    at connect@
+[2026-07-03T12:32:33.081Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Script/French/03 - The before party.md
+    at getToken@
+[2026-07-03T12:32:33.081Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at getToken@
+[2026-07-03T12:32:33.081Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:33.081Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:33.082Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at @
+[2026-07-03T12:32:33.105Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at @
+[2026-07-03T12:32:33.115Z] [DEBUG] [su]: Fetching latest release from: https://api.github.com/repos/No-Instructions/Relay/releases/latest
+    at getReleases@
+[2026-07-03T12:32:33.204Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at remote@
+[2026-07-03T12:32:33.204Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at @
+[2026-07-03T12:32:33.204Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at @
+[2026-07-03T12:32:33.204Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at @
+[2026-07-03T12:32:33.204Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at @
+[2026-07-03T12:32:33.322Z] [WARN] [Shared Folders]: refreshQueue size: 5
+    at @
+[2026-07-03T12:32:33.322Z] [DEBUG] [LiveViews][[Shared Folders]]: Refresh
+    at refresh@
+[2026-07-03T12:32:33.322Z] [DEBUG] [postie]: send Yl ()=>{this.refresh("[Shared Folders]"),this.folderListeners.forEach((l,c)=>{this.sharedFolders.has(c)||(l(),this.folderListeners.delete(c))}),this.sharedFolders.forEach(l=>{this.folderListeners.has(l)||this.folderListeners.set(l,a(l))})}
+    at @
+[2026-07-03T12:32:33.323Z] [DEBUG] [postie]: send Yl ()=>{this.sharedFolders.forEach(s=>{Py([Vo.enableDocumentStatus],()=>{this.offDocumentListeners.get(s)||this.offDocumentListeners.set(s,s.fset.on(()=>{this.refresh()}))}),s.whenReady().then(()=>{this.refresh()}),this.unsubscribes.push(s.syncSettingsManager.subscribe(i=>{this.quickRefresh()})),this.unsubscribes.push(s.subscribe(this,()=>{this.quickRefresh()})),this.unsubscribes.push(s.syncStore.subscribe(i=>{this.quickRefresh()}))}),this.refresh()}
+    at @
+[2026-07-03T12:32:33.324Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at @
+[2026-07-03T12:32:33.324Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at connect@
+[2026-07-03T12:32:33.324Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at getToken@
+[2026-07-03T12:32:33.325Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at getToken@
+[2026-07-03T12:32:33.325Z] [DEBUG] [LiveViews][[Shared Folders]]: Releasing Views []
+    at _refreshViews@
+[2026-07-03T12:32:33.326Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at connect@
+[2026-07-03T12:32:33.326Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at getToken@
+[2026-07-03T12:32:33.326Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at getToken@
+[2026-07-03T12:32:33.326Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:33.326Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:33.326Z] [DEBUG] [LiveViews][[Shared Folders]]: Attached Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at _refreshViews@
+[2026-07-03T12:32:33.326Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: get provider token
+    at connect@
+[2026-07-03T12:32:33.326Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Script/French/03 - The before party.md
+    at getToken@
+[2026-07-03T12:32:33.327Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at getToken@
+[2026-07-03T12:32:33.327Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:33.361Z] [DEBUG] [su]: Fetching https://raw.githubusercontent.com/No-Instructions/Relay/main/manifest.json
+    at fetchLatestTagFromChannel@
+[2026-07-03T12:32:33.370Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at @
+[2026-07-03T12:32:33.561Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connected",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:34.053Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connected",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T12:32:48.491Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:32:50.543Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:32:53.024Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:32:55.116Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:32:57.188Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:32:59.194Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:01.924Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:03.946Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:06.008Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:08.025Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:16.272Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:21.660Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:24.739Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:28.355Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:30.510Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:32.532Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T12:33:32.534Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 9m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9c872191-37b8-4dd3-93da-4a512b9a64a9 (/05 - Tasks/Archived/Should Joseph have a female friend.md): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:d15fdac9-140f-430f-abfa-da1fc9e0ec70 (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:2b0a6854-e664-404f-bba2-db6544cc3941 (/03 - Index/Characters/Cesare.md): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:f6166fe5-6a92-47f6-a21f-b2adcd88b10e (/03 - Index/Characters/Raincoat Man.md): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:6070d406-3da6-4324-900c-78938708a8e4 (/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d (/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:7e48891d-ece9-4f8c-b475-270c80ae9d92 (/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:47805c10-a45d-4dd2-bdb7-b51c85bc7265 (/03 - Index/Characters/Raincoat Man.md): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:106c9123-45e6-4ca9-b335-06ab49375b16 (/06 - Canvas/Outline of the story0ld.canvas): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a11e3a43-8b87-48f3-a8d0-0de1243114fd (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a63748e4-357f-4850-81b3-e45b3aa5a090 (/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:5e24151c-eebe-4075-8095-2d7b9c9e4aa3 (/06 - Canvas/Sub plots/Luke is changing.canvas): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:c69f2546-4b16-47e6-86db-d0360cfbdcd3 (/06 - Canvas/Outline of the story.canvas): 0 attempts, (expires in 10m)
+Queue size: 0
+    at checkAndRefreshTokens@
+[2026-07-03T12:33:32.572Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:34.699Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:36.701Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:38.861Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:33:50.754Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:34:24.213Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:34:27.127Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:34:29.274Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:34:32.534Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T12:34:32.537Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 8m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9c872191-37b8-4dd3-93da-4a512b9a64a9 (/05 - Tasks/Archived/Should Joseph have a female friend.md): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:d15fdac9-140f-430f-abfa-da1fc9e0ec70 (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:2b0a6854-e664-404f-bba2-db6544cc3941 (/03 - Index/Characters/Cesare.md): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:f6166fe5-6a92-47f6-a21f-b2adcd88b10e (/03 - Index/Characters/Raincoat Man.md): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:6070d406-3da6-4324-900c-78938708a8e4 (/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d (/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:7e48891d-ece9-4f8c-b475-270c80ae9d92 (/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:47805c10-a45d-4dd2-bdb7-b51c85bc7265 (/03 - Index/Characters/Raincoat Man.md): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:106c9123-45e6-4ca9-b335-06ab49375b16 (/06 - Canvas/Outline of the story0ld.canvas): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a11e3a43-8b87-48f3-a8d0-0de1243114fd (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a63748e4-357f-4850-81b3-e45b3aa5a090 (/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:5e24151c-eebe-4075-8095-2d7b9c9e4aa3 (/06 - Canvas/Sub plots/Luke is changing.canvas): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:c69f2546-4b16-47e6-86db-d0360cfbdcd3 (/06 - Canvas/Outline of the story.canvas): 0 attempts, (expires in 9m)
+Queue size: 0
+    at checkAndRefreshTokens@
+[2026-07-03T12:34:32.858Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:34:35.342Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:34:37.556Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:34:39.734Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:34:42.489Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:34:48.029Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:35:32.536Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T12:35:32.539Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 7m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9c872191-37b8-4dd3-93da-4a512b9a64a9 (/05 - Tasks/Archived/Should Joseph have a female friend.md): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:d15fdac9-140f-430f-abfa-da1fc9e0ec70 (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:2b0a6854-e664-404f-bba2-db6544cc3941 (/03 - Index/Characters/Cesare.md): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:f6166fe5-6a92-47f6-a21f-b2adcd88b10e (/03 - Index/Characters/Raincoat Man.md): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:6070d406-3da6-4324-900c-78938708a8e4 (/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d (/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:7e48891d-ece9-4f8c-b475-270c80ae9d92 (/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:47805c10-a45d-4dd2-bdb7-b51c85bc7265 (/03 - Index/Characters/Raincoat Man.md): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:106c9123-45e6-4ca9-b335-06ab49375b16 (/06 - Canvas/Outline of the story0ld.canvas): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a11e3a43-8b87-48f3-a8d0-0de1243114fd (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a63748e4-357f-4850-81b3-e45b3aa5a090 (/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:5e24151c-eebe-4075-8095-2d7b9c9e4aa3 (/06 - Canvas/Sub plots/Luke is changing.canvas): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:c69f2546-4b16-47e6-86db-d0360cfbdcd3 (/06 - Canvas/Outline of the story.canvas): 0 attempts, (expires in 8m)
+Queue size: 0
+    at checkAndRefreshTokens@
+[2026-07-03T12:36:03.094Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:36:05.234Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:36:09.354Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:36:11.369Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:36:13.618Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:36:15.742Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at @capacitor://localhost/app.js:1:1262141
