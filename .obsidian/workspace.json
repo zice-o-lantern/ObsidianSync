@@ -121,19 +121,9 @@
               "icon": "lucide-file",
               "title": "03 - The before party"
             }
-          },
-          {
-            "id": "43fa3db38bef1bbf",
-            "type": "leaf",
-            "state": {
-              "type": "system3-differences-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "File Diff: 03 - The before party.md and local disk"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -328,7 +318,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "43fa3db38bef1bbf",
+  "active": "c82debe2a01719ed",
   "lastOpenFiles": [
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
