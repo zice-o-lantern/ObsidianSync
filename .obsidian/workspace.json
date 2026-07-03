@@ -123,40 +123,17 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
                 "viewState": {
-                  "x": 371.0495049904213,
-                  "y": 962.9526668449844,
-                  "zoom": -0.9326359472393566
+                  "x": 385.30597138169264,
+                  "y": 748.6765780563151,
+                  "zoom": -0.5993026139060234
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Isaac listens to Radio Podcast"
             }
-          },
-          {
-            "id": "1dd3527eebc7a7f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/English/04 - why did you quit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "04 - why did you quit"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"gender\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -301,13 +278,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/02 - Lucas’ Call.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02 - Lucas’ Call"
+              "title": "Outline of 03 - The before party"
             }
           },
           {
@@ -331,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -352,14 +329,20 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "57af6ce7728439ed",
+  "active": "c82debe2a01719ed",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/04 - why did you quit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party 1.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
-    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
+    "Exhibitionist Priest/03 - Index/Characters/Judas.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/04 - why did you quit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/01 - Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
@@ -378,17 +361,11 @@
     "Exhibitionist Priest/02 - Attachments/Icons/question-mark.png",
     "Exhibitionist Priest/02 - Attachments/Icons/pin.png",
     "Exhibitionist Priest/01 - Zettelkastem/Glossary for Outline.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md",
     "Exhibitionist Priest/03 - Index/Characters/Luke.md",
     "Lucas.md",
-    "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/01 - Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest.zip",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Evangelique",

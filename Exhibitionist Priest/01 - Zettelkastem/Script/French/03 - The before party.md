@@ -221,13 +221,24 @@ Aaaargh ! C’est frustrant. Je voudrais tellement en savoir plus.
 Petit passage météo ! Il pleut beaucoup en Normandie mais ces derniers jours, encore plus !
 
 [[Martine|MARTINE]]
-C’est vrai, ça ! Ces derniers temps, tu ne peux plus sortir sans parapluie. Juste hier que j’avais oublié le mien qu’une averse s’est abattue sur moi ! 
+C’est vrai, ça ! Ces derniers temps, tu ne peux plus sortir sans parapluie. Juste hier que j’avais oublié le mien qu’une averse s’est abattue sur moi !
 
 [[Martin|MARTIN]]
+Ma pauvre Martine...
+
+Martin se met à rire
+
+[[Martin|MARTIN]]
+Oh, au passage, t'as entendu parler des derniers cas de disparitions en Normandie ?
+
+[[Martine|MARTINE]]
+Bien sûr, comment ne pas en entendre parler ! Tout le monde ne fait que parler de ça. C'en devient effrayant. En plus, de plus en plus de gens nous appellent pour raconter leur déboires... Ça commence à me faire peur de sortir de chez moi.
+
+Elle glousse de bon cœur
 
 
 [[Martin|MARTIN]]
-Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour sur votre vie ou toute rencontre étrange, hors de notre réalité, hors de toute notion préconçue. Même de l’au-delà !
+Peut-être mais ça fait plus de gens qui nous appellent finalement. Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour sur votre vie ou toute rencontre étrange, hors de notre réalité, hors de toute notion préconçue. Même de l’au-delà !
 
 [[Martine|MARTINE]]
 En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée, même d’un autre genre* !
@@ -243,7 +254,7 @@ Je décroche le combiné et je vais pour composer le numéro de [[Simone]] quand
 [[Martine|MARTINE]]
 Bonjour cher auditeur. Comment vous vous appelez ?
 
-???
+[[Judas|???]]
 …
 
 Merde je ne me rappelle plus du numéro de [[Simone]]…
@@ -251,7 +262,7 @@ Merde je ne me rappelle plus du numéro de [[Simone]]…
 [[Martin|MARTIN]]
 Allo, Monsieur, Madame, allo vous m’entendez ?
 
-???
+[[Judas|???]]
 …
 
 Bah je vais appeler [[Nick]] en attendant. Je pianote les numéros très minutieusement, de peur de déranger un inconnu. Je n’ai pas envie de répéter l’expérience de devoir expliquer que Nini, c’est mon ami et que non en vrai je l’appelle pas tout le temps comme ça mais ça sonnait bien sur le moment mais selon la réaction de l’autre personne à l’autre bout de la ligne, c’était pas le surnom le plus inspiré que j’ai eu de ma vie.
@@ -259,7 +270,7 @@ Bah je vais appeler [[Nick]] en attendant. Je pianote les numéros très minutie
 [[Martine|MARTINE]]
 Je crois que nous avons des interférences sur la ligne. Allo vous m’entendez ?
 
-???
+[[Judas|???]]
 … Oui parfaitement. Je vous entends très bien
 
 Un jour, le monde a basculé (faut que je change ça c’est vraiment de la merde j’écris ça 4h du matin merci beaucoup). Je repose lentement le téléphone dans le combiné
@@ -267,7 +278,7 @@ Un jour, le monde a basculé (faut que je change ça c’est vraiment de la merd
 [[Martine|MARTINE]]
 Ah bah voilààààà, on vous entend enfin. Comment vous vous appelez monsieur ?
 
-???
+[[Judas|???]]
 … Je préfère ne pas dire.
 
 à travers la qualité pitoyable de la radio, on peut toujours entendre la pluie clapoter sur des parois de verre. L’homme avait la voix calme mais déraillante comme s’il allait craquer d’un moment à l’autre. Ses silences sont entrecoupées par des raclements de gorge. Même sous tous ces couches de paranoïas et de crises, cette voix m’est familière, même je la reconnaîtrais d’entre tous.
@@ -275,7 +286,7 @@ Ah bah voilààààà, on vous entend enfin. Comment vous vous appelez monsieur 
 [[Martin|MARTIN]]
 Comment ça vous ne préférez pas dire
 
-???
+[[Judas|???]]
 … Vous m’avez bien entendu
 
 C’est la voix de [[Luke]].
@@ -287,66 +298,68 @@ Même pas un petit nom ? N’ayez aucune crainte, Monsieur, vous êtes libre de 
 [[Martin|MARTIN]]
 Oui ça deviendrait long à la longue de juste vous appeler Monsieur, monsieur.
 
-???
+[[Judas|???]]
 … Alors appelez moi Judas.
 
 [[Martine|MARTINE]]
 … D’accord Judas. Dites-moi, Judas, vous venez d’où ?
 
-JUDAS
+[[Judas|JUDAS]]
 De Sainte-Mère-église.
 
 [[Martine|MARTINE]]
 Eh mais ce serait pas proche de chez nous ça ?
 
 [[Martin|MARTIN]]
-Mais si ! 
+Mais si !
 
 Judas se racle la gorge, agacé
 
 [[Martin|MARTIN]]
 … Bref, on vous entend pas très bien, Judas, vous êtes où actuellement ?
 
-JUDAS
+[[Judas|JUDAS]]
 Dans une cabine téléphonique.
 
 [[Martine|MARTINE]]
 Ce serait pas mieux si vous preniez un fixe ?
 
-JUDAS
+[[Judas|JUDAS]]
 Non.
 
-[[Martin|MARTIN]] 
+[[Martin|MARTIN]]
 Vous appelez pour quoi, Judas, vous avez une histoire à nous raconter ?
 
-JUDAS
+L'averse s'abat de plus belle sur la fenêtre. Judas peine à trouver ses mots lorsqu'il déballe d'une traite :
+
+[[Judas]]
 Je suis suivi
 
 [[Martine|MARTINE]]
-Vous êtes suivi ???
+Vous êtes suivi ?
 
 [[Martin|MARTIN]]
 Par qui… ou par quoi ?
 
-JUDAS
-Je ne sais pas. J’essaie de l’éviter donc je n’ai jamais été assez proche pour dire.
+[[Judas|JUDAS]]
+Je ne sais pas. J’essaie de l’éviter donc je n’ai jamais été assez proche pour vous dire.
 
 [[Martin|MARTIN]]
 Il ne vous a jamais accosté ?
 
-JUDAS
+[[Judas|JUDAS]]
 Non
 
 [[Martin|MARTIN]]
-Comment vous savez qu’il vous suit ? Ça pourrait être des gens qui se ressemblent de loin non ?
+Comment vous savez qu’il vous suit, alors ? Ça pourrait être des gens qui se ressemblent de loin non ?
 
-JUDAS
+[[Judas|JUDAS]]
 Non ce n’est pas ça. Je suis sûr que c’est la même… chose
 
 [[Martine|MARTINE]]
 À quoi il ressemble ?
 
-JUDAS
+[[Judas|JUDAS]]
 Je ne sais pas.
 
 [[Martine|MARTINE]]
@@ -357,15 +370,25 @@ Une grande inspiration se fait entendre à travers les haut-parleurs
 [[Martine|MARTINE]]
 Ok. Comment vous l’avez “rencontré”, votre suiveur ?
 
-JUDAS
-C’était un jour de pluie. Je me dépêchais de rentrer chez moi pour éviter d’être encore plus trempé lorsque je l’ai aperçu…
+[[Judas|JUDAS]]
+C’était un jour de pluie. Je me dépêchais de rentrer chez moi pour éviter d’être encore plus trempé... lorsque je l’ai aperçu…
 
 [[Martin|MARTIN]]
 Votre suiveur.
 
-JUDAS
-Oui… Il portait un imperméable jaune capuchonné. C’est tout ce que je pouvais dire. La pluie m’empêchait de voir clair. Il se tenait, de dos, sur le pas de la porte d’entrée, y toquant.
-Je ne sais pas ce qu’il m’a pris
+[[Judas|JUDAS]]
+Oui… Il... portait un imperméable jaune et il était capuchonné. C’est tout ce que je pouvais dire. La pluie m’empêchait d'y voir clair. Il se tenait, de dos, sur le pas de la porte d’entrée, y toquant.
+Je ne sais pas ce qu’il m’a pris  mais je ne le sentais. Il me foutait les jetons. Alors je me suis caché derrière un arbre, qui m'abritait presque de la pluie. Je. pense que j'ai attendu au moins une demi-heure comme ça.
+Il continuait d'y toquer. Sans pause, sans arrêts. Comme s'il savait que quelqu'un allait lui répondre. Mais personne n'était à la maison.
+. 
+
+Je continue de fixer cet inconnu, à l'extérieur, dans la cabine téléphonique. Il continue de se tenir de dos à la fenêtre, parlant toujours à je ne sais qui à l'autre bout du téléphone. Les vertiges me gagnent et je peine à rester levé, m'appuyant sur la table. Je n'arrive pas à avoir son visage. Est-ce qu'il pourrait se tourner ?
+
+[[Judas|JUDAS]]
+Je ne savais pas quoi faire. Je crois que le froid m'engourdissait. Ce n'est vraiment qu'au bout de quelques minutes que j'ai eu l'idée d'appeler la police. Cependant quand j'ai commencé à dégainer mon téléphone portable, il s'en était allé. Ou plutôt il avait disparu ? C'était bizarre. J'aurais juré que je ne l'ai pas laché des yeux durant tout ce temps. Je n'ai vraiment que baisser les yeux pour regarder mon téléphone ! J'ai attendu encore quelques minutes pour être sûr que l'homme soit parti puis je me suis jeté sur la porte et je l'ai verrouillé à double tour.
+J'aurais cru que ç'aurait été fini ce jour-là. Que je ne le reverrai plus. Mais maintenant durant les averses, les jours de pluie, je l'aperçois. Du coin de l'œil, dans la rue, dans la forêt, qu'importe, je le vois partout, tout le temps. Quand je m'enforme chez moi, en espérant qu'il parte, je le vois dehors. Alors j'ai fini par barricader les fenêtres, pour qu'il arrête de m'épier. Mais l'eau s'infiltre. Elle s'infiltre de partout, des petites interstices, aux fenêtres jusque dans la cheminée. Même quand il ne pleut pas, il m'épie, je le sais. Je ne peux plus vivre chez moi. Il a déjà tout touché. Je les reconnais. Son putain d'imperméable laisse des traces. Il fallait que je parte. Mais je n'ai nulle part où aller. Il m'y suivra de toute façon. Même à l'heure où je vous parle, il est là
+, derrière moi. Je le sens. Je n'ai aucun échappatoire.
+J'ai péché Seigneur.
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
