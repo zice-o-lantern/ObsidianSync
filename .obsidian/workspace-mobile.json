@@ -121,9 +121,19 @@
               "icon": "lucide-file",
               "title": "03 - The before party"
             }
+          },
+          {
+            "id": "f50c7781d08d168d",
+            "type": "leaf",
+            "state": {
+              "type": "system3-differences-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "File Diff: 03 - The before party.md and local disk"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -291,7 +301,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "8cf127b72b6f4cc1",
+  "active": "f50c7781d08d168d",
   "lastOpenFiles": [
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
