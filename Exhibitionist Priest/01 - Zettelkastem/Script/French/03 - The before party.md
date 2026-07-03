@@ -296,13 +296,31 @@ Mais si !
 Judas se racle la gorge, agacé
 
 [[Martin|MARTIN]]
-On vous entend pas très bien, Judas, vous êtes où actuellement ?
+… Bref, on vous entend pas très bien, Judas, vous êtes où actuellement ?
 
-[[Martin|MARTIN]]
-… vous appelez pour quoi, Judas, vous avez une histoire à nous raconter ?
+JUDAS
+Dans une cabine téléphonique.
+
+[[Martine|MARTINE]]
+Ce serait pas mieux si vous preniez un fixe ?
+
+JUDAS
+Non.
+
+[[Martin|MARTIN]] 
+Vous appelez pour quoi, Judas, vous avez une histoire à nous raconter ?
 
 JUDAS
 Je suis suivi
+
+[[Martine|MARTINE]]
+Vous êtes suivi ???
+
+[[Martin|MARTIN]]
+Par qui… ou par quoi ?
+
+JUDAS
+Je ne sais pas.
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
