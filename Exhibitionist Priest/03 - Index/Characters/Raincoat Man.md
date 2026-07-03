@@ -1,11 +1,10 @@
 ---
 full-name: Raincoat Man?
 age: 0
-gender: Unknown
-profession: None
-alases: L’imperméable
+gender: Unknowpn
+rofessionNoneealases: L’imperméableable
 species: Unknown
-relatives:
+relattags:]"
 tags:
 ---
 Trais:
