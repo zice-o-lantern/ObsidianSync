@@ -114,9 +114,19 @@
               "icon": "lucide-layout-dashboard",
               "title": "Isaac listens to Radio Podcast"
             }
+          },
+          {
+            "id": "8cf127b72b6f4cc1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -283,13 +293,14 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "cef7910f5286b3ae",
+  "active": "8cf127b72b6f4cc1",
   "lastOpenFiles": [
-    "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
-    "1 - Rough Notes/le message de TADC.md",
+    "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-    "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
+    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
+    "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
+    "1 - Rough Notes/le message de TADC.md",
     "Untitled.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
     "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
@@ -309,7 +320,6 @@
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Grandma.md",
     "Exhibitionist Priest/03 - Index/Exhibitionist Priest.md",
-    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/03 - Index/Characters/Lucas.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit English.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit.md",
