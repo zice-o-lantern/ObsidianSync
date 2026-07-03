@@ -218,7 +218,13 @@ Eh bien on ne le saura jamais… à moins que Véronique nous rappelle avec de n
 Aaaargh ! C’est frustrant. Je voudrais tellement en savoir plus.
 
 [[Martin|MARTIN]]
-Petit passage météo ! Il pleut beaucoup en Normandie
+Petit passage météo ! Il pleut beaucoup en Normandie mais ces derniers jours, encore plus !
+
+[[Martine|MARTINE]]
+C’est vrai, ça ! Ces derniers temps, tu ne peux plus sortir sans parapluie. Juste hier que j’avais oublié le mien qu’une averse s’est abattue sur moi ! 
+
+[[Martin|MARTIN]]
+
 
 [[Martin|MARTIN]]
 Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour sur votre vie ou toute rencontre étrange, hors de notre réalité, hors de toute notion préconçue. Même de l’au-delà !
