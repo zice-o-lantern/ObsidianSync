@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,11 +119,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Saccharine Edits 00 - Incipit"
+              "title": "03 - The before party"
+            }
+          },
+          {
+            "id": "43fa3db38bef1bbf",
+            "type": "leaf",
+            "state": {
+              "type": "system3-differences-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "File Diff: 03 - The before party.md and local disk"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,13 +328,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "c82debe2a01719ed",
+  "active": "43fa3db38bef1bbf",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
     "5 - Template/Kanban Card Template.md",
     "5 - Template/Base Template.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/00 - Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
     "1 - Rough Notes/step autoRig.md",
     "Exhibitionist Priest/02 - Attachments/Icons/shush.png",
     "Exhibitionist Priest/02 - Attachments/Icons/question-mark.png",

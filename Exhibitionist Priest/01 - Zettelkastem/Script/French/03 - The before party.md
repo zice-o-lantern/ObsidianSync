@@ -253,24 +253,16 @@ Je crois que nous avons des interférences sur la ligne. Allo vous m’entendez 
 ???
 … Oui parfaitement. Je vous entends très bien
 
-Un jour, le monde a basculé (faut que je change ça c’est vraiment de la merde j’écris ça 4h du matin merci beaucoup). Je repose lentement le téléphone dans le combiné
-
 [[Martine|MARTINE]]
 Ah bah voilààààà, on vous entend enfin. Comment vous vous appelez monsieur ?
 
 ???
 … Je préfère ne pas dire.
 
-à travers la qualité pitoyable de la radio, on peut toujours entendre la pluie clapoter sur des parois de verre. L’homme avait la voix calme mais déraillante comme s’il allait craquer d’un moment à l’autre. Ses silences sont entrecoupées par des raclements de gorge. Même sous tous ces couches de paranoïas et de crises, cette voix m’est familière, même je la reconnaîtrais d’entre tous.
-
-[[Martin|MARTIN]]
-Comment ça vous ne préférez pas dire
+L’homme avait la voix calme mais déraillante comme s’il allait craquer d’un moment à l’autre. Ses silences sont entrecoupées par des raclements de gorge
 
 ???
-… C’est bien ce que j’ai dit
-
-C’est la voix de [[Luke]].
-Paniqué je regarde à travers la fenêtre. Il y a quelqu’un dans la cabine. Comment j’ai pu le rater. Il porte un imperméable jaune pétant. L’eau ruisselle sur ses épaules formant une flaque au sol. Il est de dos. Il porte une capuche. Il tient le téléphone à la main.u
+… Oui
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
