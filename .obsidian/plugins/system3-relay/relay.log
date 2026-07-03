@@ -36963,3 +36963,22 @@ Queue size: 0
   }
 ]
     at _refreshViews@
+[2026-07-03T12:53:15.557Z] [LOG] [Live][Workspace]: layout-change
+    at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:53:15.557Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at refresh@
+[2026-07-03T12:53:15.558Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at _refreshViews@
+[2026-07-03T12:53:15.558Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  },
+  {
+    "type": "In",
+    "file": "/05 - Tasks/Writing tasks.md",
+    "canConnect": true
+  }
+]
+    at _refreshViews@
