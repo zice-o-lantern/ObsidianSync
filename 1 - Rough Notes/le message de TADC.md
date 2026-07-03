@@ -5,3 +5,5 @@ je pensais que c'était stupide de penser que le show allait finir comme ça par
 peut-être que je serai plus à même d'accepter cette fin, s'ils étaient donnés le choix de quitter le cirque. Sinon, ça fait contraint, je trouve que ça fait un peu victim blaming dans le sens, que si tu te retrouves dans une mauvaise situation, tu devrais juste l'accepter et de ne pas rechercher mieux ou alors de rechercher mieux dans les miettes qu'il te reste. Alors là même sachant qu'ils pourraient retrouver leurs vie précédente, préféraient cette vie et restent seraient plus cool pour moi. C'est un peu ce qu'il s'est passé dans l'épisode 7 quand Jax appuie sur le bouton rouge. mais d'un côté, est-ce vraiment moral de laisser vivre les gens dans une matrice factice ? ça fait toujours déni de la réalité
 
 à la fin, il est évident pour moi que GooseWorks est un.e excellent.e écrivain.e. Aussi je pense que je digérerais mieux l'histoire un seul bloc sûrement
+
+Ok rien de tout cela n’a été évoqué lol
