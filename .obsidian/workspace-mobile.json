@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -1270.1360377714352,
-                  "y": 1457.060105863134,
-                  "zoom": -2.396291675904259
+                  "x": 0.6267206804881074,
+                  "y": 791.1468537835929,
+                  "zoom": -0.8091387747253488
                 }
               },
               "pinned": true,
@@ -75,22 +75,12 @@
             }
           },
           {
-            "id": "f52d5da16891ec65",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "bc94de5e301a6928",
+            "id": "cef7910f5286b3ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
+                "file": "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -105,11 +95,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jeff"
+              "title": "Raincoat Man"
             }
           },
           {
-            "id": "966b6842ee0e3e5e",
+            "id": "9812cb640f6361fa",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
+                "viewState": {
+                  "x": 173.6801224163315,
+                  "y": 893.1997126436781,
+                  "zoom": -0.3967327132667544
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Isaac listens to Radio Podcast"
+            }
+          },
+          {
+            "id": "8cf127b72b6f4cc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,7 +139,8 @@
               "title": "03 - The before party"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -299,9 +307,18 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "8c016fd0ac2988f7",
+  "active": "8cf127b72b6f4cc1",
   "lastOpenFiles": [
+    "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
+    "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
+    "1 - Rough Notes/le message de TADC.md",
+    "Untitled.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
+    "Lucas.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md~HEAD",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/unknown - Cafe.md~HEAD",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/00 - Incipit.md~main",
@@ -313,14 +330,10 @@
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md~main",
     "Exhibitionist Priest/03 - Index/Characters/Martin.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Grandma.md",
     "Exhibitionist Priest/03 - Index/Exhibitionist Priest.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/03 - Index/Characters/Lucas.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit English.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit.md",
@@ -343,10 +356,6 @@
     "Exhibitionist Priest/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
     "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
     "Exhibitionist Priest/05 - Tasks/Current/Develop Cesare backstory.md",
-    "Exhibitionist Priest/05 - Tasks/Art Tasks.md",
-    "Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Cesare entering in the booth with Isaac.md",
-    "Exhibitionist Priest/05 - Tasks/Archived/Develop Joesph in grandma's house.md",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260224135618.png",
     "Exhibitionist Priest/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
     "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Outline Chillasque.canvas"
