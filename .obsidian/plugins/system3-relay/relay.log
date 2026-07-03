@@ -39023,3 +39023,57 @@ Queue size: 0
     at @capacitor://localhost/app.js:1:1262141
 [2026-07-03T13:07:31.564Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
     at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T13:07:39.978Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T13:07:39.980Z] [DEBUG] [LiveTokenStore]: adding to refresh queue
+    at checkAndRefreshTokens@
+[2026-07-03T13:07:39.980Z] [DEBUG] [LiveTokenStore]: immediate refresh of s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1
+    at addToRefreshQueue@
+[2026-07-03T13:07:39.981Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1
+    at addToRefreshQueue@
+[2026-07-03T13:07:39.981Z] [DEBUG] [LiveTokenStore]: adding to refresh queue
+    at checkAndRefreshTokens@
+[2026-07-03T13:07:39.981Z] [DEBUG] [LiveTokenStore]: immediate refresh of s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85
+    at addToRefreshQueue@
+[2026-07-03T13:07:39.981Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85
+    at addToRefreshQueue@
+[2026-07-03T13:07:39.982Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in -22605ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in -22563ms)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 37s)
+Queue size: 0
+    at checkAndRefreshTokens@
+[2026-07-03T13:07:40.253Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783085860367
+    at onTokenRefreshed@
+[2026-07-03T13:07:40.254Z] [LOG] [[SharedFile](Exhibitionist Priest)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-0f8c49e0-c43c-441b-9b17-5f23457faa85/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-0f8c49e0-c43c-441b-9b17-5f23457faa85?token=[REDACTED]
+    at onTokenRefreshed@
+[2026-07-03T13:07:40.254Z] [DEBUG] [LiveTokenStore]: Token refreshed for Exhibitionist Priest (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85)
+    at onTokenRefreshed@
+[2026-07-03T13:07:40.254Z] [DEBUG] [LiveTokenStore]: getting next item in queue
+    at dequeue@
+[2026-07-03T13:07:40.265Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783085860380
+    at onTokenRefreshed@
+[2026-07-03T13:07:40.265Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-cff1b570-8322-4b9a-a3bf-67d5f0921ec1/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-cff1b570-8322-4b9a-a3bf-67d5f0921ec1?token=[REDACTED]
+    at onTokenRefreshed@
+[2026-07-03T13:07:40.265Z] [DEBUG] [LiveTokenStore]: Token refreshed for /01 - Zettelkastem/Script/French/03 - The before party.md (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1)
+    at onTokenRefreshed@
+[2026-07-03T13:07:40.265Z] [DEBUG] [LiveTokenStore]: getting next item in queue
+    at dequeue@
+[2026-07-03T13:07:45.583Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "disconnected",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T13:07:45.785Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at @
+[2026-07-03T13:07:46.606Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connected",
+  "intent": "connected"
+}
+    at @
