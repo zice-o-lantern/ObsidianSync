@@ -98,12 +98,12 @@ Mais t’allais pas faire une soirée comme ça quand même !
 [[Luke|LUCAS]]
 … si ?
 
-Mes sourcils se baissent et se creusent tels les sillons d’un champs de rizières.
+Mes sourcils se baissent et se creusent 
 
 [[Isaac|ISAAC]]
 Oh que tu m’énerves !
 
-Je lui traine par le bras à travers la maison dans la salle de bain.
+Je le traine par le bras à travers la maison dans la salle de bain.
 
 [[Isaac|ISAAC]]
 Je t’en supplie, prends une douche.

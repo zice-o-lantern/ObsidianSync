@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -1972.416506612933,
-                  "y": -1895.2003360645565,
-                  "zoom": -2.3333333333333326
+                  "x": -262.16664163000564,
+                  "y": 477.41580445634077,
+                  "zoom": -0.6666666666666663
                 }
               },
               "pinned": true,
@@ -75,30 +75,6 @@
             }
           },
           {
-            "id": "f926407760fb927e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "façon de projeter texture depuis une camera mais de façon permanente"
-            }
-          },
-          {
             "id": "c82debe2a01719ed",
             "type": "leaf",
             "state": {
@@ -120,6 +96,54 @@
               },
               "icon": "lucide-file",
               "title": "03 - The before party"
+            }
+          },
+          {
+            "id": "2f7793742a513ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/02 - Lucas’ Call.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02 - Lucas’ Call"
+            }
+          },
+          {
+            "id": "12d7997f49653c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/02 - Lucas’ Call.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02 - Lucas’ Call"
             }
           }
         ],
@@ -286,19 +310,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "c9a74765f421b46d",
-            "type": "leaf",
-            "state": {
-              "type": "highlights-sidebar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "highlights-sidebar"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -315,11 +329,19 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "c82debe2a01719ed",
+  "active": "2f7793742a513ea0",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/02 - Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/03 - The before party - First Draft 1.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
     "5 - Template/Kanban Card Template.md",
@@ -331,7 +353,6 @@
     "Exhibitionist Priest/02 - Attachments/Icons/pin.png",
     "Exhibitionist Priest/01 - Zettelkastem/Glossary for Outline.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md",
@@ -344,15 +365,10 @@
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/04 - why did you quit.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest.zip",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md",
     "Exhibitionist Priest/03 - Index/Characters/Martine.md",
-    "Exhibitionist Priest/03 - Index/Characters/Martin.md",
-    "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
-    "Exhibitionist Priest/05 - Tasks/Visual Tasks.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/Evangelique",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011224.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011200.png",
@@ -374,7 +390,6 @@
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Character Design.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Story's places.canvas",
-    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 3.canvas",
-    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 2.canvas"
+    "6 - Zettelkastem/Exhibitionist Priest/Outline of the story 3.canvas"
   ]
 }

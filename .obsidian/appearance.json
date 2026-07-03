@@ -8,6 +8,7 @@
   "nativeMenus": false,
   "enabledCssSnippets": [
     "colored_kanban_lanes",
-    "colored_kanban_cards"
+    "colored_kanban_cards",
+    "Properties"
   ]
 }
