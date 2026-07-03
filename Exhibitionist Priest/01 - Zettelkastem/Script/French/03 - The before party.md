@@ -534,5 +534,12 @@ T'en as vingt-sept ! T'as bien vu des boules et des bites à ton âge ?
 J'imagine...
 
 Non pas vraiment. Je ne vois pas dans quelle situation j'aurais pu voir les parties génitales d'un homme. Puis c'est pas comme si les prétendantes et prétandants(?) se battaient à ma porte.
-Je déglutis de plus en plus. J'ai soif. Je crois
+Je déglutis de plus en plus. J'ai soif. Je crois. Il faut que je rouvre les yeux. Je serre mes poings et et mes doigts s'enfoncent dans la peau. Je tire sur le col de ma chemise. Qu'est-ce qu'il m'arrive.
+
+##### Ouvrir les yeux
+
+J'essaie. Pourtant je n'y arrive pas. Un étau s'est posé sur mes paupières pour les garder fermés. Mon cœur bat à la vitesse d'un régiment de bataillon.
+
+##### Les garder fermés
+Je presse sur mes paupières le plus fort possible. Je chasse ces chaleurs qui m'envahissent 
 
