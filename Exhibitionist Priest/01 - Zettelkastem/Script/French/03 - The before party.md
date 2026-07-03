@@ -224,7 +224,7 @@ Alors n’hésitez pas à nous appeler au 05 69 96 67 67 pour nous mettre jour s
 En effet, aujourd’hui est notre émission spéciale *rencontre inexpliquée, même d’un autre genre* !
 
 S’il fallait déterminer un moyen d’établir la validité de ce qu’ils déballent tout au long de leur émission, il suffirait de débarquer dans les locaux et les regarder débiter. Ç’en dégoûterait même les plus illuminés de la place locale.
-Pourtant je me surprends à ne jamais changer la fréquence. Je surfe les ondes sans vagues et je me laisse submerger du flot de leurs voix, tourbillonnant dans la houle de leur récit. Je ferme les yeux et j’astique le sol et l’eau coule doucement entre mes orteils. L’orage qui bat de son plein déverse des averses qui coulent lentement le long des vitres. Je lève la tête, regardant longuement la pluie caresser les plinthes, la cabine téléphonique, toujours seul, au milieu de la pluie et je plains intérieurement [[Simone]] et [[Nick]] qui sont sûrement sous la pluie encore à cette heure-là. Je me décide de les passer un coup de fil pour s’assurer qu’ils vont bien.
+Pourtant je me surprends à ne jamais changer la fréquence. Je surfe les ondes sans vagues et je me laisse submerger du flot de leurs voix, tourbillonnant dans la houle de leur récit. Je ferme les yeux et j’astique le sol et l’eau coule doucement entre mes orteils. L’orage qui bat de son plein déverse des averses qui coulent lentement le long des vitres. Je lève la tête, regardant longuement la pluie caresser les plinthes, la cabine téléphonique, toujours seul, au milieu de ces déferlements de pluie et je plains intérieurement [[Simone]] et [[Nick]] qui sont sûrement sous la pluie encore à cette heure-là. Je me décide de les passer un coup de fil pour m’assurer qu’ils vont bien.
 
 [[Martin|MARTIN]]
 Et nous allons accueillir notre prochain auditeur !
@@ -237,11 +237,15 @@ Bonjour cher auditeur. Comment vous vous appelez ?
 ???
 …
 
+Merde je ne me rappelle plus du numéro de [[Simone]]…
+
 [[Martin|MARTIN]]
 Allo, Monsieur, Madame, allo vous m’entendez ?
 
 ???
 …
+
+Bah je vais appeler [[Nick]] en attendant. Je pianote les numéros très minutieusement, de peur de déranger un inconnu. Je n’ai pas envie de répéter l’expérience de devoir expliquer que Nini, c’est mon ami et que non en vrai je l’appelle pas tout le temps comme ça mais ça sonnait bien sur le moment mais selon la réaction de l’autre personne à l’autre bout de la ligne, c’était pas le surnom le plus inspiré que j’ai eu de ma vie.
 
 [[Martine|MARTINE]]
 Je crois que nous avons des interférences sur la ligne. Allo vous m’entendez ?
@@ -249,13 +253,18 @@ Je crois que nous avons des interférences sur la ligne. Allo vous m’entendez 
 ???
 … Oui parfaitement. Je vous entends très bien
 
+Un jour, le monde a basculé (faut que je change ça c’est vraiment de la merde j’écris ça 4h du matin merci beaucoup). Je repose lentement le téléphone dans le combiné
+
 [[Martine|MARTINE]]
 Ah bah voilààààà, on vous entend enfin. Comment vous vous appelez monsieur ?
 
 ???
 … Je préfère ne pas dire.
 
-L’homme avait la voix calme mais déraillante comme s’il allait craquer d’un moment à l’autre. Ses silences sont entrecoupées par des raclements de gorge
+L’homme avait la voix calme mais déraillante comme s’il allait craquer d’un moment à l’autre. Ses silences sont entrecoupées par des raclements de gorge. Même sous tous ces couches de paranoïas et de crises, cette voix m’est familière, même je la reconnaîtrais d’entre tous.
+
+[[Martin|MARTIN]]
+Comment ça vous ne préférez pas dire
 
 ???
 … Oui
