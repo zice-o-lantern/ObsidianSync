@@ -33397,3 +33397,27 @@ Queue size: 0
     at @capacitor://localhost/app.js:1:1262141
 [2026-07-03T12:36:15.742Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
     at @capacitor://localhost/app.js:1:1262141
+[2026-07-03T12:36:32.636Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T12:36:32.648Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 6m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9c872191-37b8-4dd3-93da-4a512b9a64a9 (/05 - Tasks/Archived/Should Joseph have a female friend.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:d15fdac9-140f-430f-abfa-da1fc9e0ec70 (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:2b0a6854-e664-404f-bba2-db6544cc3941 (/03 - Index/Characters/Cesare.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:f6166fe5-6a92-47f6-a21f-b2adcd88b10e (/03 - Index/Characters/Raincoat Man.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:6070d406-3da6-4324-900c-78938708a8e4 (/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d (/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:7e48891d-ece9-4f8c-b475-270c80ae9d92 (/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:47805c10-a45d-4dd2-bdb7-b51c85bc7265 (/03 - Index/Characters/Raincoat Man.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:106c9123-45e6-4ca9-b335-06ab49375b16 (/06 - Canvas/Outline of the story0ld.canvas): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a11e3a43-8b87-48f3-a8d0-0de1243114fd (/06 - Canvas/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:a63748e4-357f-4850-81b3-e45b3aa5a090 (/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:5e24151c-eebe-4075-8095-2d7b9c9e4aa3 (/06 - Canvas/Sub plots/Luke is changing.canvas): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:canvas:c69f2546-4b16-47e6-86db-d0360cfbdcd3 (/06 - Canvas/Outline of the story.canvas): 0 attempts, (expires in 7m)
+Queue size: 0
+    at checkAndRefreshTokens@
