@@ -38390,3 +38390,14 @@ Stale Tokens:
 s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 8m)
 Queue size: 0
     at checkAndRefreshTokens@
+[2026-07-03T13:01:36.944Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at checkAndRefreshTokens@
+[2026-07-03T13:01:36.947Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 6m)
+Stale Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:60f2809a-7897-4883-a778-b7bbe82aacc0 (/05 - Tasks/Writing tasks.md): 0 attempts, (expires in 7m)
+Queue size: 0
+    at checkAndRefreshTokens@
