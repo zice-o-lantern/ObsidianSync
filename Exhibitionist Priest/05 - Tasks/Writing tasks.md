@@ -20,7 +20,7 @@ kanban-plugin: board
 - [ ] Raincoat Man
 - [ ] Write why did you quit 1,5k @{2026-05-31}
 - [ ] Write Poker night 1k @{2026-05-31}
-
+ (not needed)
 
 ## PEER REVIEW
 
