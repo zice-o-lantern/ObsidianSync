@@ -25693,3 +25693,765 @@ Queue size: 0
   "intent": "connected"
 }
     at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-03T23:11:06.892Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-03T23:11:07.191Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-03T23:11:12.457Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:12.457Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:12.457Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:12.457Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:12.458Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:12.458Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:12.458Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:12.463Z] [WARN] [System 3][Relay]: Webviewer plugin not found or not initialized
+    at at au.patchWebviewer (plugin:system3-relay:134:5271)
+[2026-07-03T23:11:12.463Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/auth-methods {
+  "method": "GET",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:12.479Z] [DEBUG] [postie]: send er q=>t(20,r=q)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.479Z] [DEBUG] [postie]: send Al pe=>t(5,u=pe)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.479Z] [DEBUG] [postie]: send n pe=>t(45,i=pe)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.479Z] [DEBUG] [postie]: send n g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.479Z] [DEBUG] [postie]: send n g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.479Z] [DEBUG] [postie]: send n g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.479Z] [DEBUG] [postie]: send er re=>t(7,o=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.479Z] [DEBUG] [postie]: send er re=>t(8,a=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.479Z] [DEBUG] [postie]: send Yl re=>t(6,r=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.624Z] [LOG] [Al]: Warning: unable to find provider: oidc
+    at at Al.initiateManualOAuth2CodeFlow (plugin:system3-relay:33:16413)
+[2026-07-03T23:11:12.624Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.687Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.687Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.687Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.687Z] [DEBUG] [postie]: send er q=>t(20,r=q)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.687Z] [DEBUG] [postie]: send er re=>t(7,o=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.813Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.813Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.813Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.813Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.813Z] [DEBUG] [postie]: send er q=>t(20,r=q)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.813Z] [DEBUG] [postie]: send er re=>t(7,o=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.833Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.834Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.834Z] [DEBUG] [postie]: send er q=>t(20,r=q)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.834Z] [DEBUG] [postie]: send er re=>t(7,o=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:12.834Z] [DEBUG] [postie]: send er re=>t(8,a=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:18.804Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records/npoj8wuikv1fhh2 {
+  "method": "GET",
+  "query": {
+    "expand": "shared_folder_roles_via_shared_folder"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:18.819Z] [DEBUG] [postie]: send ud ie=>t(2,c=ie)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:18.819Z] [DEBUG] [postie]: send Yl ie=>t(64,d=ie)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:18.819Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:18.819Z] [DEBUG] [postie]: send Yl g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:18.819Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:18.819Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:18.819Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:18.819Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:19.231Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:19.231Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:19.231Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:19.231Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:19.231Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:19.231Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.635Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relays/records/ap6jjyjhmg0qvj9 {
+  "method": "GET",
+  "query": {
+    "expand": "relay_roles_via_relay,shared_folders_via_relay,storage_quota"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send Sd Y=>t(14,u=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send rd Y=>t(17,y=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send rd g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send Yl Y=>t(24,E=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send rd g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send Yl g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send er Y=>t(13,a=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send rd Y=>t(15,p=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send rd g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send id Y=>t(29,G=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:32.652Z] [DEBUG] [postie]: send rd Y=>t(9,r=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er q=>t(20,r=q)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send Sd Y=>t(14,u=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send rd Y=>t(17,y=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send rd g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send rd g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er Y=>t(13,a=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send rd Y=>t(9,r=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:33.070Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:46.824Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records/obdepyd5x4ibz63 {
+  "method": "DELETE",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:47.130Z] [DEBUG] [Nl]: [Event]: relay_roles delete {
+  "collectionId": "y09wij3v3fmztmu",
+  "collectionName": "relay_roles",
+  "created": "2026-04-18 21:02:45.684Z",
+  "expand": {
+    "relay": {
+      "collectionId": "xb3vq1vva14oeu0",
+      "collectionName": "relays",
+      "created": "2026-02-16 12:12:28.597Z",
+      "creator": "7cm9jf7qvjo05mx",
+      "cta": "Thank you for supporting Relay <3",
+      "guid": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "id": "ap6jjyjhmg0qvj9",
+      "max_connections": 0,
+      "name": "Exhibitionist priest",
+      "organization": "",
+      "plan": "Hobby",
+      "provider": "wo5u8poywu1x9zk",
+      "storage_quota": "6jser4wq1crcym5",
+      "updated": "2026-06-17 14:53:47.196Z",
+      "user_limit": 6,
+      "version": 0
+    },
+    "user": {
+      "avatar": "",
+      "collectionId": "_pb_users_auth_",
+      "collectionName": "users",
+      "created": "2026-02-18 09:48:55.404Z",
+      "displayName": "Spysok",
+      "emailVisibility": "[REDACTED]",
+      "id": "0kunzvbsyvei7ey",
+      "name": "Spysok",
+      "paid": false,
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocJTJnvbJ7Hkpp-Gojrd48z9zPs2Fa8JkkKbUXcr4-sopAb4MA=s96-c",
+      "updated": "2026-02-18 09:48:55.466Z",
+      "username": "users195447",
+      "verified": true
+    }
+  },
+  "id": "obdepyd5x4ibz63",
+  "relay": "ap6jjyjhmg0qvj9",
+  "role": "x6lllh2qsf9lxk6",
+  "updated": "2026-04-18 21:02:45.684Z",
+  "user": "0kunzvbsyvei7ey"
+}
+    at at Nl._handleEvent (plugin:system3-relay:45:5635)
+[2026-07-03T23:11:47.130Z] [WARN] [bd]: cascade delete parent relay_roles obdepyd5x4ibz63
+    at at bd.cascade (plugin:system3-relay:45:154)
+[2026-07-03T23:11:47.130Z] [DEBUG] [Nl]: [Event]: relay_roles delete {
+  "collectionId": "y09wij3v3fmztmu",
+  "collectionName": "relay_roles",
+  "created": "2026-04-18 21:02:45.684Z",
+  "expand": {
+    "relay": {
+      "collectionId": "xb3vq1vva14oeu0",
+      "collectionName": "relays",
+      "created": "2026-02-16 12:12:28.597Z",
+      "creator": "7cm9jf7qvjo05mx",
+      "cta": "Thank you for supporting Relay <3",
+      "guid": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "id": "ap6jjyjhmg0qvj9",
+      "max_connections": 0,
+      "name": "Exhibitionist priest",
+      "organization": "",
+      "plan": "Hobby",
+      "provider": "wo5u8poywu1x9zk",
+      "storage_quota": "6jser4wq1crcym5",
+      "updated": "2026-06-17 14:53:47.196Z",
+      "user_limit": 6,
+      "version": 0
+    },
+    "user": {
+      "avatar": "",
+      "collectionId": "_pb_users_auth_",
+      "collectionName": "users",
+      "created": "2026-02-18 09:48:55.404Z",
+      "displayName": "Spysok",
+      "emailVisibility": "[REDACTED]",
+      "id": "0kunzvbsyvei7ey",
+      "name": "Spysok",
+      "paid": false,
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocJTJnvbJ7Hkpp-Gojrd48z9zPs2Fa8JkkKbUXcr4-sopAb4MA=s96-c",
+      "updated": "2026-02-18 09:48:55.466Z",
+      "username": "users195447",
+      "verified": true
+    }
+  },
+  "id": "obdepyd5x4ibz63",
+  "relay": "ap6jjyjhmg0qvj9",
+  "role": "x6lllh2qsf9lxk6",
+  "updated": "2026-04-18 21:02:45.684Z",
+  "user": "0kunzvbsyvei7ey"
+}
+    at at Nl._handleEvent (plugin:system3-relay:45:5635)
+[2026-07-03T23:11:47.130Z] [WARN] [bd]: cascade delete parent relay_roles obdepyd5x4ibz63
+    at at bd.cascade (plugin:system3-relay:45:154)
+[2026-07-03T23:11:47.140Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:47.140Z] [DEBUG] [postie]: send er Y=>t(13,a=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:47.140Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:47.140Z] [DEBUG] [postie]: send rd Y=>t(9,r=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:47.140Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:47.140Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:47.140Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:47.140Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:47.140Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:49.697Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records/1groh6p2p17x9yb {
+  "method": "DELETE",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:11:50.007Z] [DEBUG] [Nl]: [Event]: relay_roles delete {
+  "collectionId": "y09wij3v3fmztmu",
+  "collectionName": "relay_roles",
+  "created": "2026-02-16 15:05:29.991Z",
+  "expand": {
+    "relay": {
+      "collectionId": "xb3vq1vva14oeu0",
+      "collectionName": "relays",
+      "created": "2026-02-16 12:12:28.597Z",
+      "creator": "7cm9jf7qvjo05mx",
+      "cta": "Thank you for supporting Relay <3",
+      "guid": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "id": "ap6jjyjhmg0qvj9",
+      "max_connections": 0,
+      "name": "Exhibitionist priest",
+      "organization": "",
+      "plan": "Hobby",
+      "provider": "wo5u8poywu1x9zk",
+      "storage_quota": "6jser4wq1crcym5",
+      "updated": "2026-06-17 14:53:47.196Z",
+      "user_limit": 6,
+      "version": 0
+    },
+    "user": {
+      "avatar": "",
+      "collectionId": "_pb_users_auth_",
+      "collectionName": "users",
+      "created": "2026-02-16 15:05:14.251Z",
+      "displayName": "",
+      "emailVisibility": "[REDACTED]",
+      "id": "m9kslhsnan6mvz2",
+      "name": "",
+      "paid": false,
+      "picture": "https://avatars.githubusercontent.com/u/191957134?v=4",
+      "updated": "2026-02-16 15:05:14.252Z",
+      "username": "rybang2002",
+      "verified": true
+    }
+  },
+  "id": "1groh6p2p17x9yb",
+  "relay": "ap6jjyjhmg0qvj9",
+  "role": "x6lllh2qsf9lxk6",
+  "updated": "2026-02-16 15:05:29.991Z",
+  "user": "m9kslhsnan6mvz2"
+}
+    at at Nl._handleEvent (plugin:system3-relay:45:5635)
+[2026-07-03T23:11:50.007Z] [WARN] [bd]: cascade delete parent relay_roles 1groh6p2p17x9yb
+    at at bd.cascade (plugin:system3-relay:45:154)
+[2026-07-03T23:11:50.007Z] [DEBUG] [Nl]: [Event]: relay_roles delete {
+  "collectionId": "y09wij3v3fmztmu",
+  "collectionName": "relay_roles",
+  "created": "2026-02-16 15:05:29.991Z",
+  "expand": {
+    "relay": {
+      "collectionId": "xb3vq1vva14oeu0",
+      "collectionName": "relays",
+      "created": "2026-02-16 12:12:28.597Z",
+      "creator": "7cm9jf7qvjo05mx",
+      "cta": "Thank you for supporting Relay <3",
+      "guid": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
+      "id": "ap6jjyjhmg0qvj9",
+      "max_connections": 0,
+      "name": "Exhibitionist priest",
+      "organization": "",
+      "plan": "Hobby",
+      "provider": "wo5u8poywu1x9zk",
+      "storage_quota": "6jser4wq1crcym5",
+      "updated": "2026-06-17 14:53:47.196Z",
+      "user_limit": 6,
+      "version": 0
+    },
+    "user": {
+      "avatar": "",
+      "collectionId": "_pb_users_auth_",
+      "collectionName": "users",
+      "created": "2026-02-16 15:05:14.251Z",
+      "displayName": "",
+      "emailVisibility": "[REDACTED]",
+      "id": "m9kslhsnan6mvz2",
+      "name": "",
+      "paid": false,
+      "picture": "https://avatars.githubusercontent.com/u/191957134?v=4",
+      "updated": "2026-02-16 15:05:14.252Z",
+      "username": "rybang2002",
+      "verified": true
+    }
+  },
+  "id": "1groh6p2p17x9yb",
+  "relay": "ap6jjyjhmg0qvj9",
+  "role": "x6lllh2qsf9lxk6",
+  "updated": "2026-02-16 15:05:29.991Z",
+  "user": "m9kslhsnan6mvz2"
+}
+    at at Nl._handleEvent (plugin:system3-relay:45:5635)
+[2026-07-03T23:11:50.007Z] [WARN] [bd]: cascade delete parent relay_roles 1groh6p2p17x9yb
+    at at bd.cascade (plugin:system3-relay:45:154)
+[2026-07-03T23:11:50.010Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:50.010Z] [DEBUG] [postie]: send er Y=>t(13,a=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:50.010Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:50.010Z] [DEBUG] [postie]: send rd Y=>t(9,r=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:50.010Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:50.010Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:50.010Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:50.010Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:11:50.010Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:12:03.038Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:12:03.039Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 24m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 24m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:13:03.052Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:13:03.052Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 23m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 23m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:14:03.038Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:14:03.038Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 22m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 22m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:15:03.051Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:15:03.051Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 21m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 21m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:16:03.048Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:16:03.048Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 20m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:16:50.366Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "3Etxv3m6QaQYGY6IDNxkMCydyGMc91p4LgAbtdTG",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:17:03.043Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:17:03.044Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 19m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:18:03.048Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:18:03.049Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 18m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:18:12.220Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records/npoj8wuikv1fhh2 {
+  "method": "GET",
+  "query": {
+    "expand": "shared_folder_roles_via_shared_folder"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:18:12.232Z] [DEBUG] [postie]: send ud ie=>t(2,c=ie)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.233Z] [DEBUG] [postie]: send Yl ie=>t(64,d=ie)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.233Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.233Z] [DEBUG] [postie]: send Yl g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.233Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.233Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.233Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.233Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.623Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.623Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.624Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.624Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.624Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:12.624Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:37.895Z] [WARN] [System 3][Relay]: Webviewer plugin not found or not initialized
+    at at au.patchWebviewer (plugin:system3-relay:134:5271)
+[2026-07-03T23:18:37.895Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/auth-methods {
+  "method": "GET",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-03T23:18:37.908Z] [DEBUG] [postie]: send Al pe=>t(5,u=pe)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:37.908Z] [DEBUG] [postie]: send n pe=>t(45,i=pe)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:37.908Z] [DEBUG] [postie]: send n g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:37.908Z] [DEBUG] [postie]: send n g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:37.908Z] [DEBUG] [postie]: send n g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:37.908Z] [DEBUG] [postie]: send er re=>t(7,o=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:37.908Z] [DEBUG] [postie]: send er re=>t(8,a=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:37.908Z] [DEBUG] [postie]: send Yl re=>t(6,r=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-03T23:18:38.053Z] [LOG] [Al]: Warning: unable to find provider: oidc
+    at at Al.initiateManualOAuth2CodeFlow (plugin:system3-relay:33:16413)
+[2026-07-03T23:19:03.052Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:19:03.052Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 17m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 17m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:20:03.038Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:20:03.039Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 16m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:21:03.053Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-03T23:21:03.054Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 15m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 15m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
