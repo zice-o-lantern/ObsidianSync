@@ -541,5 +541,35 @@ Je déglutis de plus en plus. J'ai soif. Je crois. Il faut que je rouvre les yeu
 J'essaie. Pourtant je n'y arrive pas. Un étau s'est posé sur mes paupières pour les garder fermés. Mon cœur bat à la vitesse d'un régiment de bataillon.
 
 ##### Les garder fermés
-Je presse sur mes paupières le plus fort possible. Je chasse ces chaleurs qui m'envahissent 
+Je presse sur mes paupières le plus fort possible. Je chasse ces chaleurs qui m'envahissent du mieux que je le puisse mais c'est impossible.
+
+C'est insupportable
+
+[[Isaac|ISAAC]]
+JE VAIS OUVRIR LA FENÊTRE
+
+[[Luke|LUCAS]]
+Mais Zac-
+
+Je saute sur la rambarde de la fenêtre et je cherche à tout prix les poignées... Seulement-
+
+[[Luke|LUCAS]]
+... elle est déjà ouverte.
+
+[[Isaac|ISAAC]]
+Hein
+
+Ma tête pendule dans le vide sous la pluie torrentielle. En bas, de la boue se forme dans le jardin et les cordes s'abattent de plus belle sur les toits des maisons avoisinantes. Petit à petit, les goutelettes d'eaux projetées des violents cordes s'écransant sur mon crâne trempent ma chemise et mon col.
+Je tourne la tête vers [[Luke]]
+
+[[Isaac|ISAAC]]
+La fenêtre est déjà ouverte... ?
+
+[[Luke|LUCAS]]
+Oui, je... je viens de te le dire.
+
+[[Isaac|ISAAC]]
+Pourquoi t'as ouvert la fenêtre ?
+
+
 
