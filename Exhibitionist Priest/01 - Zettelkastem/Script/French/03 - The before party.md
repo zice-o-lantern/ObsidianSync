@@ -599,8 +599,20 @@ Je t'ai dit de ne pas porter de shorts, on est supposés laver la maison là.
 [[Luke|LUCAS]]
 Raaaaaaaaah d'accord. Alors qu'est-ce que je devrais porter ?
 
-Il se retourne pour ramasser des pantalons au hasard et en se penchant, j'aperçois son derrière, avec son slip qui peie à couvrir ses volumes et s'étirant dans l'interfessier. Même ma chemise trempée et l'air mouillé ne peut m'aider dans cet épreuve.
+Il se retourne pour ramasser des pantalons au hasard et en se penchant, j'aperçois son derrière, avec son slip qui penie à couvrir ses volumes et s'étirant dans l'interfessier. Il secoue ses fesses comme un petit chiot tout excité remuant la queue. Même ma chemise trempée et l'air mouillé ne peut m'aider dans cet épreuve.
 
-En se baissant, son T-shit se coince dans son slip. En revenant vers moi, un paquet se dessine visiblement et se présente fièrement devant moi.
+En se baissant, son T-shit se coince dans son slip. En revenant vers moi, pleins de pantanlons sous le coude, un paquet se dessine visiblement et se présente fièrement devant moi. Je résiste de toute ma volonté pour ne pas saisir ses confiseries. Je m'affaisse et j'halète.
+
+[[Isaac|ISAAC]]
+Je crois qu'un jogging devrait aller.
+
+[[Luke|LUCAS]]
+T'es sûr ??? Super !
+
+Avec tout son enthousiasme, il enfile le jogging presque trop petit pour lui et compresse sa chair tout au long de ses cuisses. Pourquoi je n'ai pas fui plus tôt.
+Ainsi [[Luke]] se change et je m'apprête à me lever quand il me prend par le bras et me traîne aux rez de chaussée.
+
+[[Luke|LUCAS]]
+Allez faut nettoyer la maison maintenant on a plus beaucoup de temps !
 
 
