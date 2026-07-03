@@ -322,6 +322,20 @@ Par qui… ou par quoi ?
 JUDAS
 Je ne sais pas. J’essaie de l’éviter donc je n’ai jamais été assez proche pour dire.
 
+[[Martin|MARTIN]]
+Il ne vous a jamais accosté ?
+
+JUDAS
+Non
+
+[[Martin|MARTIN]]
+Comment vous savez qu’il vous suit ? Ça pourrait être des gens qui se ressemblent de loin non ?
+
+JUDAS
+Non ce n’est pas ça. Je suis sûr que c’est la même… chose
+
+[[Martine|MARTINE]]
+
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
 [[Luke|LUCAS]]
