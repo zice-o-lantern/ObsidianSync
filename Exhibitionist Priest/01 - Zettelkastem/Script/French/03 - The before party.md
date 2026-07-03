@@ -335,6 +335,21 @@ JUDAS
 Non ce n’est pas ça. Je suis sûr que c’est la même… chose
 
 [[Martine|MARTINE]]
+À quoi il ressemble ?
+
+JUDAS
+Je ne sais pas.
+
+[[Martine|MARTINE]]
+Comment ça, vous ne savez pas ? Si vous ne dites pas plus d’informations, on peut pas vous aider… Judas.
+
+Une grande inspiration se fait entendre à travers les haut-parleurs
+
+[[Martine|MARTINE]]
+Ok. Comment vous l’avez “rencontré”, votre suiveur ?
+
+JUDAS
+C’était un jour de pluie. Je me dépêchais de rentrer chez moi pour éviter d’être encore plus trempé.
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
