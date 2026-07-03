@@ -591,6 +591,16 @@ T'as pas tort.
 [[Luke|LUCAS]]
 Bref tu penses que je devrais porter quoi comme pantalon ?
 
-Il s'approche de moi et avec un autre short 
+Il s'approche de moi avec un autre short dans les mains.
+
+[[Isaac|ISAAC]]
+Je t'ai dit de ne pas porter de shorts, on est supposés laver la maison là.
+
+[[Luke|LUCAS]]
+Raaaaaaaaah d'accord. Alors qu'est-ce que je devrais porter ?
+
+Il se retourne pour ramasser des pantalons au hasard et en se penchant, j'aperçois son derrière, avec son slip qui peie à couvrir ses volumes et s'étirant dans l'interfessier. Même ma chemise trempée et l'air mouillé ne peut m'aider dans cet épreuve.
+
+En se baissant, son T-shit se coince dans son slip. En revenant vers moi, un paquet se dessine visiblement et se présente fièrement devant moi.
 
 
