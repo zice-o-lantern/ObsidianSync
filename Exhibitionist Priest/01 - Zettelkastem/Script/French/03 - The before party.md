@@ -267,7 +267,7 @@ Ah bah voilààààà, on vous entend enfin. Comment vous vous appelez monsieur 
 Comment ça vous ne préférez pas dire
 
 ???
-… C’est bien ce que j’ai dit
+… Vous m’avez bien entendu
 
 C’est la voix de [[Luke]].
 Paniqué je regarde à travers la fenêtre. Il y a quelqu’un dans la cabine. Comment j’ai pu le rater. Il porte un imperméable jaune pétant. L’eau ruisselle sur ses épaules formant une flaque au sol. Il est de dos. Il porte une capuche. Il tient le téléphone à la main.
@@ -285,7 +285,10 @@ Oui ça deviendrait long à la longue de juste vous appeler Monsieur, monsieur.
 … D’accord Judas. Dites-moi, Judas, vous venez d’où ?
 
 JUDAS
-De Sainte-Mère
+De Sainte-Mère-église.
+
+[[Martine|MARTINE]]
+
 
 Après avoir monté les escaliers, j’ouvre la porte doucement. Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
