@@ -5,32 +5,36 @@ Ah oui en effet c’est un peu… poussiéreux
 <span style="color:rgb(255, 222, 0)">Oh it's a little...dusty in here.</span>
 
 Je croise les bras.
-<span style="color:rgb(255, 222, 0)">I cross my arms</span>
+<span style="color:rgb(255, 222, 0)">I cross my arms.</span>
 
 [[Isaac|ISAAC]]
 Je te l’avais dit.
-<span style="color:rgb(255, 222, 0)">I already told you that</span>
+<span style="color:rgb(255, 222, 0)">I already told you that.</span>
 
 Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
-<span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser</span>
+<span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.</span>
 
 [[Luke|LUCAS]]
 Tu ranges où tes balais ?
 <span style="color:rgb(255, 222, 0)">Where do you keep your brooms?</span>
 
 Je me tire la peau des arcades
-<span style="color:rgb(255, 222, 0)">
+<span style="color:rgb(255, 222, 0)">I rub my temples</span>  
 
 [[Isaac|ISAAC]]
 Au fond, en dessous des escaliers.
+<span style="color:rgb(255, 222, 0)">In the back closet under the stairs.</span> 
 
 [[Luke|LUCAS]]
 Merci !
+<span style="color:rgb(255, 222, 0)">Thanks!</span>
 
 [[Isaac|ISAAC]]
 Y’a pas de quoi…
+<span style="color:rgb(255, 222, 0)">Don't mention it...</span>
 
 Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
+<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span>
 
 [[Luke|LUCAS]]
 On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
