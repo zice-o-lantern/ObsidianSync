@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": 3601.0808577272032,
-                  "y": 1704.5716811200307,
-                  "zoom": -1
+                  "x": 3554.3279774822927,
+                  "y": 1101.6528264822996,
+                  "zoom": -2.6666666666666665
                 }
               },
               "pinned": true,
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "39311cd363b301ea",
@@ -294,7 +295,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 386.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

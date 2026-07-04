@@ -11,7 +11,7 @@
         "audio": true,
         "videos": true,
         "pdfs": true,
-        "otherTypes": false
+        "otherTypes": true
       },
       "relay": "c4c85ea1-b405-44d6-8561-1b4f1da5211c",
       "connect": true
