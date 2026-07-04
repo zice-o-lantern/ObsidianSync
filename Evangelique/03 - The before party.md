@@ -1,40 +1,32 @@
+
+
 Finalement il est arrivé au bout de dix minutes au lieu de trente minutes. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
-<span style="color:rgb(255, 222, 0)">After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. He opens the door</span> 
+
 [[Luke|LUCAS]]
 Ah oui en effet c’est un peu… poussiéreux 
-<span style="color:rgb(255, 222, 0)">Oh it's a little...dusty in here.</span>
 
 Je croise les bras.
-<span style="color:rgb(255, 222, 0)">I cross my arms.</span>
 
 [[Isaac|ISAAC]]
-Je te l’avais dit.
-<span style="color:rgb(255, 222, 0)">I already told you that.</span>
+Vraiment ?
 
 Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
-<span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.</span>
 
 [[Luke|LUCAS]]
 Tu ranges où tes balais ?
-<span style="color:rgb(255, 222, 0)">Where do you keep your brooms?</span>
 
 Je me tire la peau des arcades
-<span style="color:rgb(255, 222, 0)">I rub my temples</span>  
 
 [[Isaac|ISAAC]]
 Au fond, en dessous des escaliers.
-<span style="color:rgb(255, 222, 0)">In the back closet under the stairs.</span> 
 
 [[Luke|LUCAS]]
 Merci !
-<span style="color:rgb(255, 222, 0)">Thanks!</span>
 
 [[Isaac|ISAAC]]
 Y’a pas de quoi…
-<span style="color:rgb(255, 222, 0)">Don't mention it...</span>
 
 Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
-<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span> <span style="color:rgb(126, 114, 218)">(it's more "He "violently" (can't find the right word sorry) opens the closet and grabs the broom in a swift motion")</span>
 
 [[Luke|LUCAS]]
 On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
@@ -78,7 +70,7 @@ Bah si je crois, c’est pour ça que je suis là.
 Je lui fauche le balais des mains.
 
 [[Isaac|ISAAC]]
-Mais t’es plus que sale que là.
+Mais t’es plus que sale, là.
 
 [[Luke|LUCAS]]
 Arrête d’exagérer… je pue pas quand même. 
@@ -86,36 +78,38 @@ Arrête d’exagérer… je pue pas quand même.
 Il sent son aisselle.
 
 [[Luke|LUCAS]]
-Ça va<span style="color:rgb(126, 114, 218)">aaaaaaaaaa</span>.
+Ça va.
 
-Je saisis sa chemise et la renifle.
+Je fauche sa chemise et la renifle.
 
 [[Isaac|ISAAC]]
 Tu empestes la sueur !
 
 [[Luke|LUCAS]]
-C’est peut être vrai. Et alors ?
+C’est peut-être vrai. Et alors ?
 
 [[Isaac|ISAAC]]
-Et alors que tu vas prendre une douche, voilà tout~~.~~
+Et alors que tu vas prendre une douche, voilà tout.
 
 [[Luke|LUCAS]]
 J’ai pas d’habits de rechange !
 
 [[Isaac|ISAAC]]
-Mais t’allais pas faire une soirée dans cette tenue quand même !
+Mais t’allais pas faire une soirée comme ça quand même !
 
 [[Luke|LUCAS]]
 … si ?
 
-[[Isaac|ISAAC]]
-~~Oh que~~ <span style="color:rgb(126, 114, 218)">Arrrrgh</span>, tu m’énerves !
+Mes sourcils se baissent et se creusent 
 
-Je lui traine par le bras à travers la maison dans la salle de bain.
+[[Isaac|ISAAC]]
+Oh que tu m’énerves !
+
+Je le traine par le bras à travers la maison dans la salle de bain.
 
 [[Isaac|ISAAC]]
 Je t’en supplie, prends une douche.
-Tu peux prendre mes vêtements dans ma chambre. T’en trouveras sûrement qui t’iront. Je vais nettoyer pendant que tu te douches.
+Tu peux prendre des vêtements dans ma chambre s’il y’en a pas dans la chambre d’amis. T’en trouveras sûrement qui t’iront. Je vais nettoyer pendant que tu te douches.
 
 [[Luke|LUCAS]]
 Mais-
@@ -124,7 +118,7 @@ Je lui claque la porte au nez avant qu’il puisse en placer une.
 
 Je m’appuie sur la porte, dos au mur, reprenant mon souffle. Après quelques temps j’entends l’eau de la douche couler donc je saisis le signal et m’en vais attraper le balai qui gît au sol et je commence à dépoussiérer, le temps qu’il revienne.
 
-Quand je le vois comme ça, se plier en quatre, juste pour moi ça m’énerve. Ce n’est pas la première fois. Ce ne sera pas la dernière. Ça a toujours été comme ça avec lui. Toujours à débouler, sans rien demander. Je ne veux pas de son aide. Je ne suis pas son enfant sur lequel il doit veiller.
+Quand je le vois, se plier en quatre comme ça, juste pour moi, ça m’énerve. Ce n’est pas la première fois. Ce ne sera pas la dernière. Ça a toujours été comme ça avec lui. Toujours à débouler, sans rien demander. Je ne veux pas de son aide. Je ne suis pas son enfant sur lequel il doit veiller.
 Je pensais que ça allait s’arrêter après nos études. Il est pas venu avec moi pour l’université. Il a réussi à en trouver une assez proche pour pouvoir faire le trajet en voiture.  Moi j’ai préféré déménager dans un logement étudiant miteux. Et même là, il venait me voir et m’apporter des choses. J’ai dû éclaircir plusieurs fois à mes camarades et colocataires, que non c’est pas mon frère et c’est encore moins mon père, alors qu’on ne se ressemble pas vraiment. À chaque fois je refusais ses offres, mais étant donné ma situation, je me retrouvais à accepter. En fait, je dois l’admettre, il a beau m’énerver, j’aime bien qu’il prenne soin de moi. Avec lui, je n’ai jamais à me soucier de manquer de quoi que ce soit. Mon souhait, une réalité. Puis quand il me prend dans ses bras, je sens que je peux enfin respirer. La chaleur de son corps me submerge. Le poids du monde se lève. 
 Mais du coin de ma tête, je peine à apprécier tout ce qu’il fait. Je sais que je ne peux rendre tout ce qu’il me fait. Quand il m’enlace je force mes bras autour de sa taille en retour. Ils resteraient ballants sinon. Je sais que je devrais faire plus. J’en suis incapable. Je ne pourrais jamais retourner sa bonté et son affection. Puis s’il creusait plus loin…
 
@@ -160,10 +154,10 @@ Il dit, le sourire aux lèvres. Mes yeux ne lâchent pas ses jambes.
 Mets-en un. La maison est sale et tu devrais pas laisser ta… peau toucher la poussière comme ça. 
 
 [[Luke|LUCAS]]
-~~Sûrement~~ <span style="color:rgb(126, 114, 218)">Oui</span> mais je trouve rien.
+Sûrement mais je trouve rien.
 
 [[Isaac|ISAAC]]
-~~C’est que t~~<span style="color:rgb(126, 114, 218)">T</span>u n’as pas assez cherché. Normalement y a des joggings que tu peux mettre. Tu as regardé dans ma chambre, dans le tiroir en bas de l’armoire ?
+C’est que tu n’as pas assez cherché. Normalement y a des joggings que tu peux mettre. Tu as regardé dans ma chambre, dans le tiroir en bas de l’armoire ?
 
 [[Luke]] lève les yeux au ciel et se dandine sur ses jambes.
 
@@ -176,8 +170,7 @@ Mensonges.
 T’as sûrement mal cherché 
 
 [[Luke|LUCAS]]
-Roooooh, t’as si peu confiance en moi ?
-
+Roooooh, t’as si peu confiance en moi ? 
 Je glousse, dissimulant les picotements qui me montent aux mains.
 
 [[Isaac|ISAAC]]
@@ -189,7 +182,7 @@ Et si je te disais oui ?
 Il dit un sourire au coin de ses lèvres. Je roule des yeux, un petit rire m’échappe.
 
 [[Isaac|ISAAC]]
-Bon [[Luke]], va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café <span style="color:rgb(126, 114, 218)">si tu montes</span>.
+Bon [[Luke]], va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café.
 
 [[Luke|LUCAS]]
 Vraiment ???
@@ -506,8 +499,117 @@ Lorsqu’il m’a pris dans les bras, ma jambe s’est retrouvé dans son entrej
 
 Je me retire de son étreinte, le regard au sol, mes mains tirant mon haut le plus bas possible.
 
-##### Rester dans la chambre
-**$\quad$ Jump to [[Exhibitionist Priest/01 - Zettelkastem/Script/French/03_A - Stay in the room]]
-
 ##### Fuir
-**$\quad$ Jump to [[Exhibitionist Priest/01 - Zettelkastem/Script/French/03_B - Flee]]
+
+###### Rester
+
+Mon instinct me hurle de courir hors de la chambre, loin de lui. Cependant, les souvenirs des événements d'il y a juste quelques minutes refont surface dans mon esprit.
+
+[[Isaac|ISAAC]]
+Il est peut-être vrai que j'en fais un pataquès.
+
+[[Luke|LUCAS]]
+Mais oui ! Assieds toi sur le lit. Tiens tu vas m'aider à choisir ce que je vais porter ce soir.
+
+[[Isaac|ISAAC]]
+Je devrais vraiment faire ça ?
+
+[[Luke|LUCAS]]
+Ouiiii vas-y ! juste le temps que je mette mon slip
+
+Juste à la mention du slip, je ferme les yeux et je regarde au sol.
+
+[[Luke|LUCAS]]
+Roh [[Isaac]], t'as pas quatre ans, enfin ???
+
+Il me dit sur un ton taquineur
+
+[[Luke|LUCAS]]
+T'en as vingt-sept ! T'as bien vu des boules et des bites à ton âge ?
+
+[[Isaac|ISAAC]]
+J'imagine...
+
+Non pas vraiment. Je ne vois pas dans quelle situation j'aurais pu voir les parties génitales d'un homme. Puis c'est pas comme si les prétendantes et prétandants(?) se battaient à ma porte.
+Je déglutis de plus en plus. J'ai soif. Je crois. Il faut que je rouvre les yeux. Je serre mes poings et et mes doigts s'enfoncent dans la peau. Je tire sur le col de ma chemise. Qu'est-ce qu'il m'arrive.
+
+##### Ouvrir les yeux
+
+J'essaie. Pourtant je n'y arrive pas. Un étau s'est posé sur mes paupières pour les garder fermés. Mon cœur bat à la vitesse d'un régiment de bataillon.
+
+##### Les garder fermés
+Je presse sur mes paupières le plus fort possible. Je chasse ces chaleurs qui m'envahissent du mieux que je le puisse mais c'est impossible.
+
+C'est insupportable
+
+[[Isaac|ISAAC]]
+JE VAIS OUVRIR LA FENÊTRE
+
+[[Luke|LUCAS]]
+Mais Zac-
+
+Je saute sur la rambarde de la fenêtre et je cherche à tout prix les poignées... Seulement-
+
+[[Luke|LUCAS]]
+... elle est déjà ouverte.
+
+[[Isaac|ISAAC]]
+Hein
+
+Ma tête pendule dans le vide sous la pluie torrentielle. En bas, de la boue se forme dans le jardin et les cordes s'abattent de plus belle sur les toits des maisons avoisinantes. Petit à petit, les goutelettes d'eaux projetées des violents cordes s'écransant sur mon crâne trempent ma chemise et mon col. Les images me reviennent.
+Je tourne la tête vers [[Luke]]
+
+[[Isaac|ISAAC]]
+La fenêtre est déjà ouverte... ?
+
+[[Luke|LUCAS]]
+Oui, je... je viens de te le dire.
+
+[[Isaac|ISAAC]]
+Pourquoi t'as ouvert la fenêtre ?
+
+[[Luke|LUCAS]]
+Tu viens pas d'essayer de le faire ?
+
+[[Isaac|ISAAC]]
+Réponds-moi Lucas. Il pleut dehors. Pourquoi ouvrir la fenêtre quand il pleut.
+
+Il hausse les épaules.
+
+[[Luke|LUCAS]]
+La chambre était poussiéreuse et j'aime bien l'air mouillé de la pluie. T'es pas d'accord ?
+
+
+Je me rassis doucement sur le bord du lit.
+
+[[Isaac|ISAAC]]
+T'as pas tort.
+
+[[Luke|LUCAS]]
+Bref tu penses que je devrais porter quoi comme pantalon ?
+
+Il s'approche de moi avec un autre short dans les mains.
+
+[[Isaac|ISAAC]]
+Je t'ai dit de ne pas porter de shorts, on est supposés laver la maison là.
+
+[[Luke|LUCAS]]
+Raaaaaaaaah d'accord. Alors qu'est-ce que je devrais porter ?
+
+Il se retourne pour ramasser des pantalons au hasard et en se penchant, j'aperçois son derrière, avec son slip qui penie à couvrir ses volumes et s'étirant dans l'interfessier. Il secoue ses fesses comme un petit chiot tout excité remuant la queue. Même ma chemise trempée et l'air mouillé ne peut m'aider dans cet épreuve.
+
+En se baissant, son T-shit se coince dans son slip. En revenant vers moi, pleins de pantanlons sous le coude, un paquet se dessine visiblement et se présente fièrement devant moi. Je résiste de toute ma volonté pour ne pas saisir ses confiseries. Je m'affaisse et j'halète.
+
+[[Isaac|ISAAC]]
+Je crois qu'un jogging devrait aller.
+
+[[Luke|LUCAS]]
+T'es sûr ??? Super !
+
+Avec tout son enthousiasme, il enfile le jogging presque trop petit pour lui et compresse sa chair tout au long de ses cuisses. Pourquoi je n'ai pas fui plus tôt.
+Ainsi [[Luke]] se change et je m'apprête à me lever quand il me prend par le bras et me traîne aux rez de chaussée.
+
+[[Luke|LUCAS]]
+Allez faut nettoyer la maison maintenant on a plus beaucoup de temps !
+
+

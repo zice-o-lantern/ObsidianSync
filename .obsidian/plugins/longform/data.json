@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Script/French/Index.md",
+  "selectedDraftVaultPath": "Evangelique/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-07-03T23:11:03.842Z",
-      "total": 0,
+      "total": 10546,
       "drafts": {
         "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
           "total": 0,
@@ -38,6 +38,19 @@
             "Déjeuner": 0,
             "Dîner ensemble": 0,
             "Menace à l'Appart'": 0
+          }
+        },
+        "Evangelique/Index.md": {
+          "total": 10546,
+          "scenes": {
+            "00 - Incipit": 436,
+            "01 - Grandma": 1640,
+            "02 - Lucas’ Call": 980,
+            "03 - The before party": 4522,
+            "03_A - Stay in the room": 702,
+            "03_B - Flee": 283,
+            "04 - Why did you quit": 1057,
+            "Cafe": 926
           }
         }
       }
@@ -1294,6 +1307,19 @@
           "optionValues": {
             "target": "manuscript.md",
             "open-after": true
+          }
+        }
+      ]
+    },
+    "Test": {
+      "name": "Test",
+      "description": "",
+      "steps": [
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$1",
+            "separator": "\n\n"
           }
         }
       ]

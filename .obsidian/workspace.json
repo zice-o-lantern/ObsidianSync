@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": 2567.4967756342376,
-                  "y": 1666.1883551818985,
-                  "zoom": -1.6666666666666665
+                  "x": 2486.861828440966,
+                  "y": 1147.100882625211,
+                  "zoom": -2.333333333333333
                 }
               },
               "pinned": true,
@@ -114,8 +114,33 @@
               "icon": "lucide-file",
               "title": "Cesare"
             }
+          },
+          {
+            "id": "3530acb00efcc4f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evangelique/02 - Lucas’ Call.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02 - Lucas’ Call"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,12 +203,12 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "39311cd363b301ea",
@@ -314,12 +339,25 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "57af6ce7728439ed",
+  "active": "3530acb00efcc4f3",
   "lastOpenFiles": [
+    "Evangelique/01 - Grandma.md",
+    "Evangelique/00 - Incipit.md",
+    "Evangelique/manuscript.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Evangelique/Cafe.md",
+    "Evangelique/03_A - Stay in the room.md",
+    "Evangelique/04 - Why did you quit.md",
+    "Evangelique/03_B - Flee.md",
+    "Evangelique/03 - The before party.md",
+    "Evangelique/02 - Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French 1",
+    "Evangelique/Index.md.edtz",
+    "Evangelique/Index.md",
+    "Evangelique",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/03 - Index/Characters/Luke.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_B - Flee.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_A - Stay in the room.md",
@@ -342,21 +380,8 @@
     "Exhibitionist Priest/03 - Index/Exhibitionist Priest.md",
     "Old Stuff/03 - Index/Characters",
     "Old Stuff/03 - Index",
-    "Old Stuff",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
-    "Exhibitionist Priest/03 - Index/Characters/Judas.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/00 - Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/01 - Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
-    "Exhibitionist Priest/06 - Canvas/Sub plots",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md",
-    "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
     "Exhibitionist Priest/02 - Attachments/Icons/shush.png",
     "Exhibitionist Priest/02 - Attachments/Icons/question-mark.png",
     "Exhibitionist Priest/02 - Attachments/Icons/pin.png",
