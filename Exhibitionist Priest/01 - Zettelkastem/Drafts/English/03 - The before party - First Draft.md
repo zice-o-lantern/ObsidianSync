@@ -69,7 +69,7 @@ You're not going to clean the house like that, are you?
 [[Luke|LUCAS]]
 Well, yeah, I think so—that's why I'm here.
 
-I snatch the broom out of his hands.
+I snatch the broom out of his hands. 
 
 [[Isaac|ISAAC]]
 But you're filthy.
