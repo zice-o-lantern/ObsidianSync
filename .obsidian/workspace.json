@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -520.0539858302527,
-                  "y": 2121.629845593475,
-                  "zoom": -1
+                  "x": -1343.121349782607,
+                  "y": 674.9351370694035,
+                  "zoom": -0.333333333333333
                 }
               },
               "pinned": true,
@@ -89,6 +89,30 @@
               },
               "icon": "lucide-file",
               "title": "Saccharine Edits 00 - Incipit"
+            }
+          },
+          {
+            "id": "83d4144e3ec7bdaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cesare"
             }
           }
         ]
@@ -290,12 +314,13 @@
   },
   "active": "57af6ce7728439ed",
   "lastOpenFiles": [
+    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_B - Flee.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_A - Stay in the room.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas.edtz",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas.edtz",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas.edtz",
