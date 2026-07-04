@@ -501,11 +501,6 @@ Je me retire de son étreinte, le regard au sol, mes mains tirant mon haut le pl
 
 ##### Fuir
 
-[[Isaac|ISAAC]]
-Oui, frères hein… je pense que je vais quand même y aller. La maison va pas se nettoyer toute seule. Change toi vite, il ne reste plus qu’une heure et demie avant que tout le monde arrive.
-
-Je marche d’une foulée rapide vers la porte et la ferme avant qu’il ne puisse parler.
-
 ###### Rester
 
 Mon instinct me hurle de courir hors de la chambre, loin de lui. Cependant, les souvenirs des événements d'il y a juste quelques minutes refont surface dans mon esprit.

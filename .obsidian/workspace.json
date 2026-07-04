@@ -49,81 +49,9 @@
               "icon": "lucide-trello",
               "title": "Writing tasks"
             }
-          },
-          {
-            "id": "c82debe2a01719ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "03 - The before party"
-            }
-          },
-          {
-            "id": "3af32f0f07faab23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "03 - The before party"
-            }
-          },
-          {
-            "id": "1b2a84e6ba487008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_A - Stay in the room.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "03_A - Stay in the room"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -319,11 +247,12 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "1b2a84e6ba487008",
+  "active": "0aa843b4a6cf9ef9",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_A - Stay in the room.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_B - Flee.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
     "Old Stuff/03 - Index/Characters/Luke.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/04 - why did you quit.md",
@@ -331,7 +260,7 @@
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/Overview English - Notes - Murkwater.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/03 - Index/Exhibitionist Priest.md",
     "Old Stuff/03 - Index/Characters",
     "Old Stuff/03 - Index",
@@ -356,7 +285,6 @@
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
-    "5 - Template/Kanban Card Template.md",
     "Exhibitionist Priest/02 - Attachments/Icons/shush.png",
     "Exhibitionist Priest/02 - Attachments/Icons/question-mark.png",
     "Exhibitionist Priest/02 - Attachments/Icons/pin.png",
