@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-07-03T23:11:03.842Z",
-      "total": 10546,
+      "total": 10555,
       "drafts": {
         "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
           "total": 0,
@@ -41,11 +41,11 @@
           }
         },
         "Evangelique/Index.md": {
-          "total": 10546,
+          "total": 10555,
           "scenes": {
             "00 - Incipit": 436,
             "01 - Grandma": 1640,
-            "02 - Lucas’ Call": 980,
+            "02 - Lucas’ Call": 989,
             "03 - The before party": 4522,
             "03_A - Stay in the room": 702,
             "03_B - Flee": 283,
@@ -1294,6 +1294,13 @@
           "optionValues": {}
         },
         {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": true
+          }
+        },
+        {
           "id": "prepend-title",
           "optionValues": {
             "format": "$3{#} $1",
@@ -1309,7 +1316,7 @@
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "manuscript.md",
+            "target": "$1 manuscript.md",
             "open-after": true
           }
         }

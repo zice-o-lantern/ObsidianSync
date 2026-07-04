@@ -13,5 +13,6 @@ longform:
     - 03_B - Flee
     - 04 - Why did you quit
     - Cafe
-  ignoredFiles: []
+  ignoredFiles:
+    - Evangelique manuscript
 ---

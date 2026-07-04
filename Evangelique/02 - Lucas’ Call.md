@@ -16,7 +16,7 @@ Allo ? Allo alloooooooo !
 … Allo.
 
 [[Luke|LUCAS]]
-~~Oh enfin te voilà ! Tu m’as manqué tu sais ?~~ Cacacacaa
+~~Oh enfin te voilà ! Tu m’as manqué tu sais ?~~ <span style="color:rgb(126, 114, 218)">Cacacacaaaa</span>
 
 Je lève ma montre.
 
