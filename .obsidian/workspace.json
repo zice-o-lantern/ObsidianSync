@@ -227,8 +227,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -363,11 +362,15 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "d802b37c7f256f17",
+  "active": "bf0b3ee1b6bbdaef",
   "lastOpenFiles": [
+    "Scripts/tes.js.md",
+    "Scripts/tes.js",
+    "Scripts/tes.js.md.edtz",
+    "Evangelique/Evangelique manuscript.md",
+    "Scripts",
     "Evangelique/Evangelique manuscript.md.edtz",
     "Evangelique/02 - Lucas’ Call.md",
-    "Evangelique/Evangelique manuscript.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Evangelique/Cafe.md",
@@ -392,18 +395,13 @@
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas.edtz",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas.edtz",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
     "Old Stuff/03 - Index/Characters/Luke.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/04 - why did you quit.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
-    "Old Stuff/03 - Index/Characters",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/02 - Attachments/Icons/shush.png",
