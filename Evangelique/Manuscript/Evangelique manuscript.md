@@ -243,12 +243,12 @@ Il a raccroché
 Finalement il est arrivé au bout de dix minutes au lieu de trente minutes. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
 
 LUCAS
-Ah oui en effet c’est un peu… poussiéreux 
+oui en effet c’est un peu… poussiéreux 
 
-Je croise les bras.
+croise les bras.
 
 ISAAC
-Vraiment ?
+?
 
 Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
 

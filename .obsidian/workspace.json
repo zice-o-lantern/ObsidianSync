@@ -73,6 +73,30 @@
               "icon": "lucide-file",
               "title": "03 - The before party"
             }
+          },
+          {
+            "id": "59c921c154868c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evangelique/Manuscript/Evangelique manuscript.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Evangelique manuscript"
+            }
           }
         ],
         "currentTab": 2
@@ -274,17 +298,17 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "d93ac4a9a188550f",
+  "active": "c18b82dd2812fee2",
   "lastOpenFiles": [
-    "Scripts/remove-english-localisation.js",
-    "Scripts/add-break-lines - Copy.js",
     "Evangelique/Manuscript/Evangelique manuscript.md",
     "Evangelique/03 - The before party.md",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Scripts/remove-english-localisation.js",
+    "Scripts/add-break-lines - Copy.js",
     "Scripts/add-break-lines.js",
     "Scripts/remove-color-tags - Copy.js",
     "Evangelique/03 - The before party.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md.edtz",
     "Evangelique/02 - Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md.edtz",
@@ -295,7 +319,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Evangelique/Manuscript",
-    "Scripts/tes - Copy.js",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Evangelique/Evangelique manuscript.md",
     "Scripts/tes.js.md",

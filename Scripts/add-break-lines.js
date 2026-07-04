@@ -22,7 +22,7 @@ module.exports = {
     name: "Add Break Lines",
 
     // short description of what it does
-    description: "Add break lines for the renpy export",
+    description: "Add break lines for the renpy export with %% bl %%",
 
     // array. valid options are "Scene", "Manuscript", "Join". "Join" must be the only member if present.
     availableKinds: ["Scene", "Manuscript"],

@@ -1,16 +1,16 @@
 compile = (input, context) => {
-  const BREAKLINE_REGEX = /%% bl %%/gm;
+  const EN_REGEX = /%% EN %%(.*?)\W/gm;
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       return {
         ...sceneInput,
-        contents: sceneInput.contents.replace(BREAKLINE_REGEX, () => "\n")
+        contents: sceneInput.contents.replace(EN_REGEX, () => "")
       };
     });
   } else {
     return {
       ...input,
-      contents: input.contents.replace(BREAKLINE_REGEX, () => "\n")
+      contents: input.contents.replace(EN_REGEX, () => "")
     };
   }
 }
@@ -19,10 +19,10 @@ module.exports = {
   // object that describes the step and its configuration
   description: {
     // the name of your step
-    name: "Add Break Lines",
+    name: "Remove The English Localisation",
 
     // short description of what it does
-    description: "Add break lines for the renpy export",
+    description: "Remove the English Localisation with %% EN %%",
 
     // array. valid options are "Scene", "Manuscript", "Join". "Join" must be the only member if present.
     availableKinds: ["Scene", "Manuscript"],

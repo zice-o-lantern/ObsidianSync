@@ -1340,6 +1340,10 @@
           "optionValues": {}
         },
         {
+          "id": "Scripts/remove-english-localisation.js",
+          "optionValues": {}
+        },
+        {
           "id": "remove-links",
           "optionValues": {
             "remove-wikilinks": true,
