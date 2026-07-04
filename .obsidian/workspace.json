@@ -227,7 +227,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -362,7 +363,7 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "bf0b3ee1b6bbdaef",
+  "active": "d93ac4a9a188550f",
   "lastOpenFiles": [
     "Scripts/tes.js.md",
     "Scripts/tes.js",

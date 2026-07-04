@@ -1319,6 +1319,13 @@
             "target": "$1 manuscript.md",
             "open-after": true
           }
+        },
+        {
+          "id": "Scripts/tes.js",
+          "optionValues": {
+            "my-text-option": "Hello world!",
+            "my-boolean-option": true
+          }
         }
       ]
     }
