@@ -1,4 +1,5 @@
 compile = (input, context) => {
+  const COLORTAGS_REGEX = /<span style="color(.*?)>/gm;
   /**
     Function that is executed during compilation. It may be `async`.
     Errors encountered during execution should be thrown and will
@@ -40,7 +41,7 @@ module.exports = {
   // object that describes the step and its configuration
   description: {
     // the name of your step
-    name: "My Step",
+    name: "Remove Color Tags",
 
     // short description of what it does
     description: "Does something cool",
