@@ -1358,15 +1358,19 @@
           "optionValues": {}
         },
         {
+          "id": "Scripts/remove-highlights.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Scripts/remove-french-localisation.js",
+          "optionValues": {}
+        },
+        {
           "id": "Scripts/add-break-lines.js",
           "optionValues": {}
         },
         {
           "id": "Scripts/remove-color-tags.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Scripts/remove-english-localisation.js",
           "optionValues": {}
         },
         {

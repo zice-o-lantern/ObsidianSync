@@ -1,5 +1,5 @@
 compile = (input, context) => {
-  const HIGHLIGHTS_REGEX = /== (.*?) ==/gm;
+  const HIGHLIGHTS_REGEX = /==/gm;
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       return {
@@ -19,10 +19,10 @@ module.exports = {
   // object that describes the step and its configuration
   description: {
     // the name of your step
-    name: "Remove Color Tags",
+    name: "Remove Highlights",
 
     // short description of what it does
-    description: "Remove color tags of the text",
+    description: "Remove highlights with '=='",
 
     // array. valid options are "Scene", "Manuscript", "Join". "Join" must be the only member if present.
     availableKinds: ["Scene", "Manuscript"],
