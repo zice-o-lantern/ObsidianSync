@@ -56,8 +56,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
-                "mode": "preview",
+                "file": "Evangelique/03 - The before party.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -71,21 +71,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03 - The before party - First Draft"
-            }
-          },
-          {
-            "id": "d8111d49a2cea49d",
-            "type": "leaf",
-            "state": {
-              "type": "system3-differences-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "File Diff: 03 - The before party - First Draft.md and local disk"
+              "title": "03 - The before party"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -283,11 +273,11 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "d93ac4a9a188550f",
+  "active": "c18b82dd2812fee2",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
     "Evangelique/02 - Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md.edtz",

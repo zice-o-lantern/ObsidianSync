@@ -15,4 +15,5 @@ longform:
     - Cafe
   ignoredFiles:
     - Evangelique manuscript
+    - 
 ---
