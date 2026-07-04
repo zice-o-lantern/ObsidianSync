@@ -1,37 +1,33 @@
-import type {
-  CompileContext,
-  CompileInput,
-  CompileManuscriptInput,
-  CompileSceneInput,
-} from "..";
-import { CompileStepKind, makeBuiltinStep } from "./abstract-compile-step";
-
-const COLORTAGS_REGEX = /<span style="color(.*?)>/gm;
-
-export const RemoveStrikethroughsStep = makeBuiltinStep({
-  id: "remove-strikethroughs",
-  description: {
-    name: "Remove Strikethroughs",
-    description: "Removes struck-through ~~text~~.",
-    availableKinds: [CompileStepKind.Scene, CompileStepKind.Manuscript],
-    options: [],
-  },
-  compile(input: CompileInput, context: CompileContext): CompileInput {
-    if (context.kind === CompileStepKind.Scene) {
-      return (input as CompileSceneInput[]).map((sceneInput) => {
-        return {
-          ...sceneInput,
-          contents: sceneInput.contents.replace(COLORTAGS_REGEX, () => ""),
-        };
-      });
-    } else {
+compile = (input, context) => {
+  const COLORTAGS_REGEX = /<span style="color(.*?)>/gm;
+  if (context.kind === "Scene") {
+    return input.map((sceneInput) => {
       return {
-        ...(input as CompileManuscriptInput),
-        contents: (input as CompileManuscriptInput).contents.replace(
-          COLORTAGS_REGEX,
-          () => ""
-        ),
+        ...sceneInput,
+        contents: sceneInput.contents.replace(COLORTAGS_REGEX, () => "")
       };
-    }
+    });
+  } else {
+    return {
+      ...input,
+      contents: input.contents.replace(COLORTAGS_REGEX, () => "")
+    };
+  }
+}
+
+module.exports = {
+  // object that describes the step and its configuration
+  description: {
+    // the name of your step
+    name: "Remove Color Tags",
+
+    // short description of what it does
+    description: "Remove color tags of the text",
+
+    // array. valid options are "Scene", "Manuscript", "Join". "Join" must be the only member if present.
+    availableKinds: ["Scene", "Manuscript"],
+
+    // array of step options, or an empty array if step has no options
   },
-});
+  compile: compile,
+};

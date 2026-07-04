@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-07-03T23:11:03.842Z",
-      "total": 10555,
+      "total": 10556,
       "drafts": {
         "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
           "total": 0,
@@ -41,11 +41,11 @@
           }
         },
         "Evangelique/Index.md": {
-          "total": 10555,
+          "total": 10556,
           "scenes": {
             "00 - Incipit": 436,
             "01 - Grandma": 1640,
-            "02 - Lucas’ Call": 989,
+            "02 - Lucas’ Call": 990,
             "03 - The before party": 4522,
             "03_A - Stay in the room": 702,
             "03_B - Flee": 283,
@@ -1290,10 +1290,6 @@
           }
         },
         {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
           "id": "remove-comments",
           "optionValues": {
             "remove-markdown-comments": true,
@@ -1319,12 +1315,35 @@
             "target": "$1 manuscript.md",
             "open-after": true
           }
+        }
+      ]
+    },
+    "English": {
+      "name": "English",
+      "description": "",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
         },
         {
-          "id": "Scripts/tes.js",
+          "id": "prepend-title",
           "optionValues": {
-            "my-text-option": "Hello world!",
-            "my-boolean-option": true
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
           }
         }
       ]
