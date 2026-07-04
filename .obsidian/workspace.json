@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -320.347524610166,
-                  "y": 1911.75651391942,
-                  "zoom": -1.3333333333333333
+                  "x": -72.74113329428597,
+                  "y": 2425.275565972464,
+                  "zoom": -1
                 }
               },
               "pinned": true,
@@ -56,15 +56,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                "file": "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
                 "viewState": {
-                  "x": -110.41157089836933,
-                  "y": 1590.720438583752,
-                  "zoom": 0.030788327191666354
+                  "x": 153.68766215612482,
+                  "y": 1151.7102798293877,
+                  "zoom": -1.829308219352346
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Outline of the story"
+              "title": "Luke is changing"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "Saccharine Edits 00 - Incipit"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,8 +288,14 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "a5ea40a27d79cc10",
+  "active": "57af6ce7728439ed",
   "lastOpenFiles": [
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_B - Flee.md",
+    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_A - Stay in the room.md",
+    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas.edtz",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas.edtz",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas.edtz",
@@ -298,10 +303,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md.edtz",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_A - Stay in the room.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_B - Flee.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
     "Old Stuff/03 - Index/Characters/Luke.md",
@@ -318,7 +319,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
-    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/03 - Index/Characters/Judas.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/00 - Incipit.md",
@@ -334,8 +334,6 @@
     "Exhibitionist Priest/02 - Attachments/Icons/question-mark.png",
     "Exhibitionist Priest/02 - Attachments/Icons/pin.png",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
-    "Exhibitionist Priest.zip",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/Evangelique",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011224.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011200.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011151.png",
