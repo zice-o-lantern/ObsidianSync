@@ -34,7 +34,7 @@ Y’a pas de quoi…
 <span style="color:rgb(255, 222, 0)">Don't mention it...</span>
 
 Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
-<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span>
+<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span> <span style="color:rgb(126, 114, 218)">(it's more "He "violently" (can't find the right word sorry) opens the closet and grabs the broom in a swift motion")</span>
 
 [[Luke|LUCAS]]
 On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
