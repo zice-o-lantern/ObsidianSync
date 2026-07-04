@@ -69,7 +69,7 @@ You're not going to clean the house like that, are you?
 [[Luke|LUCAS]]
 Well, yeah, I think so—that's why I'm here.
 
-I snatch the broom out of his hands. 
+I snatch the broom out of his hands.
 
 [[Isaac|ISAAC]]
 But you're filthy.
@@ -275,6 +275,13 @@ Yeah, brothers, huh… I think I’m going to go anyway. The house isn’t going
 [^31]: S: yaaaaaaaay!! but there's till one remaining of this scene usually. should I write the next part in another scene? I'm scared it might make too much files at some point
 
 [^32]: M: Actually, the statement is when phrased this way is not read as a literal observation, its more of a way to say he looks dirty. Essentially its the same thing as the original text intent if I understand.
+
+[^33]: M: Yes that works much better!
+
+[^34]: M: Perfect! Just making sure :3 yeah lol we even use graduate for elementary and middle school
+
+[^35]: M: More "correct", driving distance as a term is very normal and useable in all contexts.
+iginal text intent if I understand.
 
 [^33]: M: Yes that works much better!
 

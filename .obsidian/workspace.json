@@ -51,37 +51,13 @@
             }
           },
           {
-            "id": "7b9503b697bfca72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evangelique/02 - Lucas’ Call.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "02 - Lucas’ Call"
-            }
-          },
-          {
-            "id": "83d4144e3ec7bdaa",
+            "id": "c18b82dd2812fee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -96,6 +72,16 @@
               },
               "icon": "lucide-file",
               "title": "03 - The before party - First Draft"
+            }
+          },
+          {
+            "id": "d8111d49a2cea49d",
+            "type": "leaf",
+            "state": {
+              "type": "system3-differences-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "File Diff: 03 - The before party - First Draft.md and local disk"
             }
           }
         ],
@@ -162,7 +148,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -296,8 +283,12 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "83d4144e3ec7bdaa",
+  "active": "d93ac4a9a188550f",
   "lastOpenFiles": [
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+    "Evangelique/02 - Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
@@ -307,7 +298,6 @@
     "Evangelique/Manuscript/Evangelique manuscript.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
-    "Evangelique/02 - Lucas’ Call.md",
     "Evangelique/Manuscript",
     "Scripts/tes - Copy.js",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
@@ -316,9 +306,6 @@
     "Scripts/tes.js.md",
     "Scripts/tes.js",
     "Scripts/tes.js.md.edtz",
-    "Scripts",
-    "Evangelique/Evangelique manuscript.md.edtz",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Evangelique/Cafe.md",
     "Evangelique/02 - Lucas’ Call.md.md",
     "Evangelique/Index.md",
@@ -336,7 +323,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
-    "Old Stuff/03 - Index/Characters/Luke.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/02 - Attachments/Icons/shush.png",

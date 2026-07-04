@@ -1342,6 +1342,13 @@
           "optionValues": {}
         },
         {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": true
+          }
+        },
+        {
           "id": "prepend-title",
           "optionValues": {
             "format": "$3{#} $1",
