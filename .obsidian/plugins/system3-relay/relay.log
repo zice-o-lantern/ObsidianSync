@@ -36343,3 +36343,650 @@ Queue size: 0
   "signal": {}
 }
     at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:57:10.036Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:57:10.036Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in 5m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96 (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 20m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:58:10.045Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:58:10.045Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in 4m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96 (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md): 0 attempts, (expires in 5m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 19m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:59:10.037Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:59:10.037Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in 3m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96 (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md): 0 attempts, (expires in 4m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 18m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:00:10.036Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:00:10.036Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in 2m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96 (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md): 0 attempts, (expires in 3m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 17m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 17m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:01:10.032Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:01:10.033Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in 44s)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96 (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md): 0 attempts, (expires in 2m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 16m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:01:11.665Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "AyO81p5bMoWX0xmFXZeeuHXFd2n2eLdVUojVqT60",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T13:02:10.029Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:02:10.029Z] [DEBUG] [LiveTokenStore]: adding to refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:02:10.029Z] [DEBUG] [LiveTokenStore]: immediate refresh of s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:02:10.029Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d
+    at at kI (plugin:system3-relay:34:5323)
+[2026-07-04T13:02:10.029Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in -15721ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96 (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md): 0 attempts, (expires in 1m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 15m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 15m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:02:10.145Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783171930268
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:02:10.146Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-d976cd58-51e1-4dcf-a637-23a45c11787d/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-d976cd58-51e1-4dcf-a637-23a45c11787d?token=[REDACTED]
+    at at Mt.refreshProvider (plugin:system3-relay:34:10184)
+[2026-07-04T13:02:10.146Z] [DEBUG] [LiveTokenStore]: Token refreshed for /01 - Zettelkastem/Script/French/02 - Lucas’ Call.md (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d)
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:02:10.146Z] [DEBUG] [LiveTokenStore]: getting next item in queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:03:10.039Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:03:10.039Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96 (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md): 0 attempts, (expires in 1s)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 14m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 14m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in 24m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:04:10.030Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:04:10.030Z] [DEBUG] [LiveTokenStore]: adding to refresh queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:04:10.030Z] [DEBUG] [LiveTokenStore]: immediate refresh of s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:04:10.030Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96
+    at at kI (plugin:system3-relay:34:5323)
+[2026-07-04T13:04:10.031Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96 (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md): 0 attempts, (expires in -58685ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 13m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 13m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in 23m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:04:10.165Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783172050288
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:04:10.165Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-507564f9-72a7-4667-abe7-e8c74d878f96/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-507564f9-72a7-4667-abe7-e8c74d878f96?token=[REDACTED]
+    at at Mt.refreshProvider (plugin:system3-relay:34:10184)
+[2026-07-04T13:04:10.165Z] [DEBUG] [LiveTokenStore]: Token refreshed for /01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96)
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:04:10.165Z] [DEBUG] [LiveTokenStore]: getting next item in queue
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:04:22.245Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md)]: [Provider State] /01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md {
+  "status": "disconnected",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T13:04:22.355Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md)]: [Provider State] /01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T13:04:23.618Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md)]: [Provider State] /01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T13:05:10.030Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:05:10.031Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in 22m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96 (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md): 0 attempts, (expires in 24m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:05:58.280Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:05:58.280Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:05:58.281Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:05:58.281Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:05:58.317Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:05:58.317Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:05:58.317Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:05:58.317Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:05:58.432Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:05:58.432Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:05:58.432Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:05:58.432Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:05:58.544Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:05:58.544Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:05:58.544Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:05:58.545Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:05:58.728Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:05:58.728Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:05:58.728Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:05:58.728Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:05:58.805Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:05:58.805Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:05:58.805Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:05:58.805Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:05:58.877Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:05:58.877Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:05:58.877Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:05:58.877Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:05:59.028Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:05:59.028Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:05:59.028Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:05:59.029Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:05:59.104Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:05:59.104Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:05:59.104Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:05:59.104Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:00.301Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-04T13:06:10.035Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:06:10.035Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 11m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 11m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:d976cd58-51e1-4dcf-a637-23a45c11787d (/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md): 0 attempts, (expires in 21m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:507564f9-72a7-4667-abe7-e8c74d878f96 (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md): 0 attempts, (expires in 23m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:06:12.020Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "yLQp5mV7rF35yScrzyizRoXflthsBIE2E4y1A8TG",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T13:06:14.377Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:14.377Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:14.377Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:14.377Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:14.613Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:14.613Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:14.613Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:14.613Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:14.692Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:14.692Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:14.692Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:14.692Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:14.866Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:14.866Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:14.866Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:14.866Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:15.187Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:15.187Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:15.187Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:15.187Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:15.322Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:15.322Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:15.322Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:15.322Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:15.451Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:15.451Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:15.451Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:15.451Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:15.743Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:15.743Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:15.743Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:15.744Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:15.960Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:15.960Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:15.960Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:15.960Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:16.126Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:16.126Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:16.126Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:16.127Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:16.288Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:16.288Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:16.288Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:16.289Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:16.385Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-04T13:06:16.702Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:16.702Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:16.702Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:16.702Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:16.859Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:16.859Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:16.859Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:16.859Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:17.651Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:17.651Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:17.651Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:17.651Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:18.270Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:18.270Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:18.270Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:18.270Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:18.414Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:18.414Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:18.414Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:18.414Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:18.662Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:18.662Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:18.662Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:18.662Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:18.792Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:18.792Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:18.793Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:18.793Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:19.042Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:19.042Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:19.042Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:19.042Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:19.177Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:19.177Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:19.177Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:19.178Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:19.741Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:19.741Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:19.741Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:19.741Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:19.890Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:19.890Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:19.890Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:19.890Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:20.379Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:20.380Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:20.380Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:20.380Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:20.520Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:20.520Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:20.520Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:20.520Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:20.669Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:20.670Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:20.670Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:20.670Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:20.804Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-04T13:06:20.809Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:20.809Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:20.809Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:20.809Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:20.960Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:20.960Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:20.960Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:20.960Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:21.508Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:21.509Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:21.509Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:21.509Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:21.702Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:21.702Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:21.702Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:21.702Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:21.894Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:21.894Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:21.894Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:21.894Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:22.450Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:22.450Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:22.450Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:22.450Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:22.685Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:22.685Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:22.685Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:22.685Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:22.816Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-04T13:06:22.824Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:22.824Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:22.824Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:22.824Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:22.951Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:22.951Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:22.951Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:22.951Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:23.066Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:23.066Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:23.066Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:23.066Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:23.316Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:23.316Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:23.316Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:23.316Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:23.396Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:23.396Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:23.396Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:23.396Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:23.508Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:23.508Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:23.508Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:23.508Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:23.625Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:23.625Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:23.625Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:23.625Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:24.224Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:24.224Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:24.224Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:24.224Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:24.423Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:24.423Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:24.423Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:24.423Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:24.503Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:24.503Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:24.503Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:24.503Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:24.591Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:24.591Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:24.591Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:24.591Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:24.840Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-04T13:06:25.564Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:06:25.564Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:06:25.564Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:06:25.564Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:06:27.571Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md
+    at at eval (plugin:system3-relay:134:8230)
