@@ -1,5 +1,7 @@
 # L’appel de [[Lucas]]
 
+À ce moment-là, mon téléphone sonne ~~alors~~<span style="color:rgb(126, 114, 218)">. La série de bips et de drings-drings qui </span> je le sors. C’est [[Luke]]. Je décroche.
+
 [[Lucas|LUCAS]]
 Allo ? Allo alloooooooo !
 
