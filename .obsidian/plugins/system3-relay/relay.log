@@ -57232,3 +57232,419 @@ s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-
 Stale Tokens:
 Queue size: 0
     at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:46:56.588Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:46:56.588Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 1m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 1m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:47:56.580Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:47:56.580Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 477ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 634ms)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:47:58.558Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "KiOIXHzLpTaRyMP92rrZgO4joF5ZsQy0j4TZHqbD",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T13:48:56.583Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:56.583Z] [DEBUG] [LiveTokenStore]: adding to refresh queue
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:56.583Z] [DEBUG] [LiveTokenStore]: immediate refresh of s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:56.583Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b
+    at at II (plugin:system3-relay:34:5323)
+[2026-07-04T13:48:56.584Z] [DEBUG] [LiveTokenStore]: adding to refresh queue
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:56.584Z] [DEBUG] [LiveTokenStore]: immediate refresh of s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:56.584Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85
+    at at II (plugin:system3-relay:34:5323)
+[2026-07-04T13:48:56.584Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in -59527ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in -59370ms)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:57.157Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783174737319
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:57.157Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-e711afbc-293d-4dd5-9849-5774c4bef58b/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-e711afbc-293d-4dd5-9849-5774c4bef58b?token=[REDACTED]
+    at at It.refreshProvider (plugin:system3-relay:34:10113)
+[2026-07-04T13:48:57.157Z] [DEBUG] [LiveTokenStore]: Token refreshed for /01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b)
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:57.157Z] [DEBUG] [LiveTokenStore]: getting next item in queue
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:57.178Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783174737340
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:57.179Z] [LOG] [[SharedFile](Exhibitionist Priest)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-0f8c49e0-c43c-441b-9b17-5f23457faa85/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-0f8c49e0-c43c-441b-9b17-5f23457faa85?token=[REDACTED]
+    at at zl.refreshProvider (plugin:system3-relay:34:10113)
+[2026-07-04T13:48:57.179Z] [DEBUG] [LiveTokenStore]: Token refreshed for Exhibitionist Priest (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85)
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:48:57.179Z] [DEBUG] [LiveTokenStore]: getting next item in queue
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:49:07.723Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "disconnected",
+  "intent": "connected"
+}
+    at at zl.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T13:49:07.834Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at zl.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T13:49:07.892Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md)]: [Provider State] /01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md {
+  "status": "disconnected",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T13:49:07.999Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md)]: [Provider State] /01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T13:49:08.595Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md)]: [Provider State] /01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T13:49:08.738Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at zl.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.743Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.744Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:08.745Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T13:49:56.577Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:49:56.577Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 24m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 24m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:50:56.579Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:50:56.580Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 23m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 23m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:51:56.580Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:51:56.580Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 22m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 22m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:52:56.581Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:52:56.582Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 21m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 21m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:52:58.914Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "6QkEJik4f5bmbQUB9aVew4EMvv6Hj9pBR9ujIjqY",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T13:53:56.591Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:53:56.591Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 20m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:54:56.582Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:54:56.582Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 19m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:55:56.583Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:55:56.583Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 18m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
