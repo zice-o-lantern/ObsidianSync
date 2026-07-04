@@ -26455,3 +26455,3817 @@ s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-
 Stale Tokens:
 Queue size: 0
     at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:08.793Z] [LOG] [System 3][Relay]: No active enterprise tenant configured, using defaults
+    at at au.validateEndpointsOnStartup (plugin:system3-relay:130:7262)
+[2026-07-04T12:26:08.794Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/auth-refresh {
+  "method": "POST",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.794Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records/7cm9jf7qvjo05mx {
+  "method": "GET",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.795Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.795Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.795Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.795Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.795Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.796Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.796Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.817Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:08.818Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:08.818Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:08.818Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:08.818Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:08.818Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:08.818Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:08.818Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:08.818Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.818Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.818Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.818Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.819Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.819Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.819Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:08.819Z] [DEBUG] [postie]: send Al ()=>{this.loginManager.loggedIn?this.login():this.logout()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:09.115Z] [LOG] [Al]: Token Refreshed
+    at at eval (plugin:system3-relay:33:12965)
+[2026-07-04T12:26:09.116Z] [LOG] [Al]: JWT Info: {
+  "expiresAt": "7/18/2026, 2:26:09 PM",
+  "expiresIn": "14 days",
+  "userId": "7cm9jf7qvjo05mx",
+  "email": "[REDACTED]"
+}
+    at at eval (plugin:system3-relay:33:12993)
+[2026-07-04T12:26:09.117Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "Hf5JOLZZRfZW3gxdPeUGsjm4Hginxkha9ZnrOqAX",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:09.268Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "Hf5JOLZZRfZW3gxdPeUGsjm4Hginxkha9ZnrOqAX",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:26:09.362Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:09.667Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.020Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.020Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: storage quota update undefined 10737418240
+    at at eval (plugin:system3-relay:49:7064)
+[2026-07-04T12:26:10.020Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.020Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.021Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85
+    at at kI (plugin:system3-relay:34:5323)
+[2026-07-04T12:26:10.021Z] [DEBUG] [LiveViews][[Shared Folders]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T12:26:10.027Z] [DEBUG] [LiveTokenStore]: starting
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.027Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.028Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.043Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "onUnloadFile"
+  ],
+  "patchCount": 1
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:26:10.043Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "process"
+  ],
+  "patchCount": 2
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:26:10.044Z] [WARN] [System 3][Relay]: Webviewer plugin not found or not initialized
+    at at au.patchWebviewer (plugin:system3-relay:134:5271)
+[2026-07-04T12:26:10.044Z] [DEBUG] [Wl]: starting
+    at at Wl.resume (plugin:system3-relay:45:51588)
+[2026-07-04T12:26:10.059Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.059Z] [DEBUG] [postie]: send Bl ()=>{let t=this.getNestedValue(this.settings.get());this.lastKnown===void 0&&t===void 0||JSON.stringify(this.lastKnown)!==JSON.stringify(t)&&(this.lastKnown=t,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.059Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.059Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.059Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.059Z] [DEBUG] [postie]: send Yl ()=>{this.refresh("[Shared Folders]"),this.folderListeners.forEach((l,c)=>{this.sharedFolders.has(c)||(l(),this.folderListeners.delete(c))}),this.sharedFolders.forEach(l=>{this.folderListeners.has(l)||this.folderListeners.set(l,a(l))})}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.061Z] [DEBUG] [postie]: send bn ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.062Z] [DEBUG] [postie]: send bn ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.063Z] [DEBUG] [postie]: send er ()=>this.quickRefresh()
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.070Z] [DEBUG] [postie]: send Yl ()=>{this.sharedFolders.forEach(s=>{Py([Vo.enableDocumentStatus],()=>{this.offDocumentListeners.get(s)||this.offDocumentListeners.set(s,s.fset.on(()=>{this.refresh()}))}),s.whenReady().then(()=>{this.refresh()}),this.unsubscribes.push(s.syncSettingsManager.subscribe(i=>{this.quickRefresh()})),this.unsubscribes.push(s.subscribe(this,()=>{this.quickRefresh()})),this.unsubscribes.push(s.syncStore.subscribe(i=>{this.quickRefresh()}))}),this.refresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.071Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.073Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.125Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-07-04T12:26:10.127Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.128Z] [LOG] [[SyncFolder](/07 - Rough Notes)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.128Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.129Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.129Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.130Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.130Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.130Z] [LOG] [[SyncFolder](/05 - Tasks)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.130Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.130Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.130Z] [LOG] [[SyncFolder](/05 - Tasks/Current)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.130Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.131Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.131Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.131Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.132Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.132Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.132Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.132Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.133Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.133Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.133Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.133Z] [LOG] [[SyncFolder](/05 - Tasks/Pinned)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.133Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.133Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.134Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.134Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.134Z] [LOG] [[SyncFolder](/05 - Tasks/Archived)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.134Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.134Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.134Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.135Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.135Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.135Z] [LOG] [[SyncFolder](/02 - Attachments)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.135Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224135618.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224135618.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.136Z] [LOG] [[SyncFolder](/02 - Attachments/VN Sprites)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/bafkreiectpkmb4bdolvzkf73bqooblvayzbgxhdnnuie7tdbby334ds2pa.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/bafkreiectpkmb4bdolvzkf73bqooblvayzbgxhdnnuie7tdbby334ds2pa.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/bafkreia7ot76wk3nuvzjevzr4iykwhzxaysbwwbtti44vb2rbp4fn2dcvm.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/bafkreia7ot76wk3nuvzjevzr4iykwhzxaysbwwbtti44vb2rbp4fn2dcvm.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/1534317655.hiddenwall_koshiro.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/1534317655.hiddenwall_koshiro.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/1542414679.hiddenwall_ramos.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/VN Sprites/1542414679.hiddenwall_ramos.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/yin-yang.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/yin-yang.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/Polar_Bear_-_Alaska_(cropped).jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/Polar_Bear_-_Alaska_(cropped).jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/Screenshot 2026-02-24 154025.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.136Z] [LOG] [[SharedFile](/02 - Attachments/Screenshot 2026-02-24 154025.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/smell-nagabe.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/smell-nagabe.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Scarbrow-Dymond-Lake-Ecolodge-Jianguo-Xie-1k.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Scarbrow-Dymond-Lake-Ecolodge-Jianguo-Xie-1k.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011200.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011200.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/sainte-mere-eglise-church.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/sainte-mere-eglise-church.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/photo_2026-02-17_11-49-41.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/photo_2026-02-17_11-49-41.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011151.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011151.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011224.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011224.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011135.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011135.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105449.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.137Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105449.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105339.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105339.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011012.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516011012.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516010751.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516010751.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516010601.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260516010601.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023126.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023126.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105438.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105438.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105314.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226105314.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226103620.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226103620.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226103610.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260226103610.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023100.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023100.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042740.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042740.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042712.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042712.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042700.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042700.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042202.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.138Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260224042202.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023118.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023118.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022713.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022713.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022723.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022723.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022707.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022707.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022658.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022658.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022433.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022433.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022450.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022450.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022409.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022409.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Kolmården_Wolf.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/Kolmården_Wolf.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/lamb-lying-in-meadow.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/lamb-lying-in-meadow.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0535.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0535.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/nice-black-timbewolf.webp)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/nice-black-timbewolf.webp)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0536.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0536.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0531.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0531.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0533.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.139Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0533.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0532.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0532.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0534.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0534.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.140Z] [LOG] [[SyncFolder](/02 - Attachments/Icons)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/Icons/question-mark.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/Icons/question-mark.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/Icons/shush.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/Icons/shush.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/Icons/pin.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/Icons/pin.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/goat.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/goat.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0530.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/IMG_0530.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/coyote-canis-latrans-xl.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/coyote-canis-latrans-xl.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/CLOCHER-STE-MERE-OK-10-12-14-1-e1431340490604-634x1024-1.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/CLOCHER-STE-MERE-OK-10-12-14-1-e1431340490604-634x1024-1.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/finbpjpirbespgfpul19.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/finbpjpirbespgfpul19.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.140Z] [LOG] [[SharedFile](/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/ec6a35298fb7cdc1429389fb842f2cf5.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/ec6a35298fb7cdc1429389fb842f2cf5.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/eat-nagabe.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/eat-nagabe.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/csm_europaeischer-wolf-tierpark-hellabrunn-europa-tierlexikon_f8f7e4b636.webp)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/csm_europaeischer-wolf-tierpark-hellabrunn-europa-tierlexikon_f8f7e4b636.webp)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/bn8as71kufj61.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/bn8as71kufj61.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Coyote.webp)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Coyote.webp)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.141Z] [LOG] [[SyncFolder](/02 - Attachments/Attachments for Murkwater's notes)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192134.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192134.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192112.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192112.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192025.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192025.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192044.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192044.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191954.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191954.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191941.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191941.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192009.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192009.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191929.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191929.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191400.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191400.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191711.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.141Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191711.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191914.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191914.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191735.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191735.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191654.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191654.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191220.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191220.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191639.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191639.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191504.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191504.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191413.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191413.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191448.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191448.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191346.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191346.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191208.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191208.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191333.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191333.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191149.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191149.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.142Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191129.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191129.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191115.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191115.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/albino-bat.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/albino-bat.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/canis-lycaon_a90838e3-54fb-4eb7-a1d2-7f335003835a.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/canis-lycaon_a90838e3-54fb-4eb7-a1d2-7f335003835a.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/a4442e3494d124a8bfd7c2afa625570d.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/a4442e3494d124a8bfd7c2afa625570d.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/aae64177183f5d81432afd6eab3d60c9.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/aae64177183f5d81432afd6eab3d60c9.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/83f9872575139b676e9640543df39631.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/83f9872575139b676e9640543df39631.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/9910189_orig.webp)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/9910189_orig.webp)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/81Hj1wcXL-L.png)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/81Hj1wcXL-L.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/7da58b858b8413e18e672ee97a09c816.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/7da58b858b8413e18e672ee97a09c816.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/7cb82c7b6509a30d1f418086ee1fe78a.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/7cb82c7b6509a30d1f418086ee1fe78a.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/3b8722652af05ae5e1d80f8536f8487f.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/3b8722652af05ae5e1d80f8536f8487f.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/49d79ffc0a69539df42e8714e7bd31e6.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/49d79ffc0a69539df42e8714e7bd31e6.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/1ba8fa11c1790e3b6549893742ae0c39.jpg)]: created
+    at at new xn (plugin:system3-relay:45:36341)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](/02 - Attachments/1ba8fa11c1790e3b6549893742ae0c39.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.143Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.144Z] [LOG] [[SyncFolder](/03 - Index)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.144Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.144Z] [LOG] [[SyncFolder](/03 - Index/Places)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.144Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.145Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.145Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.145Z] [LOG] [[SyncFolder](/03 - Index/Characters)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.145Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.145Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.145Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.146Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.146Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.146Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.146Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.147Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.147Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.147Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.148Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.148Z] [LOG] [[SyncFolder](/06 - Canvas)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.148Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at at Jl.getCanvas (plugin:system3-relay:51:1969)
+[2026-07-04T12:26:10.149Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at at Jl.getCanvas (plugin:system3-relay:51:1969)
+[2026-07-04T12:26:10.149Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.149Z] [LOG] [[SyncFolder](/06 - Canvas/Sub plots)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.149Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at at Jl.getCanvas (plugin:system3-relay:51:1969)
+[2026-07-04T12:26:10.150Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at at Jl.getCanvas (plugin:system3-relay:51:1969)
+[2026-07-04T12:26:10.150Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at at Jl.getCanvas (plugin:system3-relay:51:1969)
+[2026-07-04T12:26:10.150Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getCanvas]: creating canvas for shared ID
+    at at Jl.getCanvas (plugin:system3-relay:51:1969)
+[2026-07-04T12:26:10.150Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.151Z] [LOG] [[SyncFolder](/01 - Zettelkastem)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.151Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.151Z] [LOG] [[SyncFolder](/01 - Zettelkastem/murky waters)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.151Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.151Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.151Z] [LOG] [[SyncFolder](/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.151Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.151Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.151Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.152Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.152Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Renpy Export)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.152Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.152Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.152Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.153Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.153Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Script)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.153Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.153Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Script/French)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.153Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.153Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.153Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.153Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.154Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.154Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.154Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.154Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.154Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Script/English)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.154Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.154Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.155Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.155Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.155Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.155Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Drafts)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.155Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.155Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Drafts/French)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.155Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.155Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.155Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.156Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.156Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getSyncFolder] getting syncfolder
+    at at Jl.getSyncFolder (plugin:system3-relay:51:8435)
+[2026-07-04T12:26:10.156Z] [LOG] [[SyncFolder](/01 - Zettelkastem/Drafts/English)]: created
+    at at new n (plugin:system3-relay:45:53411)
+[2026-07-04T12:26:10.156Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.156Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.156Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.157Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.157Z] [LOG] [[SharedFile](Exhibitionist Priest)]: [getDoc]: creating doc for shared ID
+    at at Jl.getDoc (plugin:system3-relay:51:1364)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022433.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022409.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023126.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022707.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022450.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022658.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022713.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022723.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023100.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023118.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/83f9872575139b676e9640543df39631.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.170Z] [LOG] [[SharedFile](/02 - Attachments/7cb82c7b6509a30d1f418086ee1fe78a.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.171Z] [LOG] [[SharedFile](/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.171Z] [LOG] [[SharedFile](/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.175Z] [LOG] [[SharedFile](Exhibitionist Priest)]: remote paths [
+  "/01 - Zettelkastem",
+  "/01 - Zettelkastem/murky waters",
+  "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions",
+  "/05 - Tasks",
+  "/02 - Attachments",
+  "/02 - Attachments/Icons",
+  "/02 - Attachments/VN Sprites",
+  "/07 - Rough Notes",
+  "/05 - Tasks/Archived",
+  "/05 - Tasks/Current",
+  "/03 - Index",
+  "/03 - Index/Characters",
+  "/03 - Index/Places",
+  "/01 - Zettelkastem/Script",
+  "/05 - Tasks/Pinned",
+  "/01 - Zettelkastem/Drafts",
+  "/01 - Zettelkastem/Script/English",
+  "/01 - Zettelkastem/Script/French",
+  "/06 - Canvas",
+  "/02 - Attachments/Attachments for Murkwater's notes",
+  "/01 - Zettelkastem/Renpy Export",
+  "/01 - Zettelkastem/Drafts/English",
+  "/01 - Zettelkastem/Drafts/French",
+  "/06 - Canvas/Sub plots",
+  "/01 - Zettelkastem/murky waters/Overview English - Notes - Murkwater.md",
+  "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
+  "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
+  "/01 - Zettelkastem/Glossary for Outline.md",
+  "/05 - Tasks/Pinned/Should Joseph have a female friend.md",
+  "/03 - Index/Characters/Nick.md",
+  "/02 - Attachments/Icons/shush.png",
+  "/02 - Attachments/Icons/question-mark.png",
+  "/02 - Attachments/Icons/pin.png",
+  "/02 - Attachments/VN Sprites/bafkreiectpkmb4bdolvzkf73bqooblvayzbgxhdnnuie7tdbby334ds2pa.jpg",
+  "/02 - Attachments/VN Sprites/1534317655.hiddenwall_koshiro.png",
+  "/02 - Attachments/VN Sprites/bafkreia7ot76wk3nuvzjevzr4iykwhzxaysbwwbtti44vb2rbp4fn2dcvm.jpg",
+  "/02 - Attachments/VN Sprites/1542414679.hiddenwall_ramos.png",
+  "/02 - Attachments/goat.jpg",
+  "/02 - Attachments/albino-bat.jpg",
+  "/02 - Attachments/lamb-lying-in-meadow.jpg",
+  "/02 - Attachments/49d79ffc0a69539df42e8714e7bd31e6.jpg",
+  "/02 - Attachments/nice-black-timbewolf.webp",
+  "/02 - Attachments/photo_2026-02-17_11-49-41.jpg",
+  "/02 - Attachments/coyote-canis-latrans-xl.jpg",
+  "/02 - Attachments/csm_europaeischer-wolf-tierpark-hellabrunn-europa-tierlexikon_f8f7e4b636.webp",
+  "/02 - Attachments/9910189_orig.webp",
+  "/02 - Attachments/finbpjpirbespgfpul19.jpg",
+  "/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg",
+  "/02 - Attachments/Kolmården_Wolf.jpg",
+  "/02 - Attachments/81Hj1wcXL-L.png",
+  "/02 - Attachments/canis-lycaon_a90838e3-54fb-4eb7-a1d2-7f335003835a.jpg",
+  "/02 - Attachments/Coyote.webp",
+  "/02 - Attachments/eat-nagabe.png",
+  "/02 - Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg",
+  "/02 - Attachments/Polar_Bear_-_Alaska_(cropped).jpg",
+  "/02 - Attachments/smell-nagabe.png",
+  "/02 - Attachments/yin-yang.png",
+  "/07 - Rough Notes/Character names.md",
+  "/05 - Tasks/Archived/What should Cesare strive for.md",
+  "/05 - Tasks/Current/Should Joseph have a female friend.md",
+  "/05 - Tasks/Current/Should the photo Is take be a mistake or on purpose.md",
+  "/05 - Tasks/Current/Develop Cesare backstory.md",
+  "/03 - Index/Characters/Simone.md",
+  "/05 - Tasks/Writing tasks.md",
+  "/03 - Index/Characters/Isaac.md",
+  "/03 - Index/Characters/Cesare.md",
+  "/03 - Index/Characters/Jeff.md",
+  "/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
+  "/03 - Index/Places/Café.md",
+  "/05 - Tasks/Archived/Should Joseph have a female friend.md",
+  "/05 - Tasks/Archived/Develop how they met.md",
+  "/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
+  "/05 - Tasks/Current/Develop how they met.md",
+  "/03 - Index/Characters/Martin.md",
+  "/03 - Index/Characters/Martine.md",
+  "/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
+  "/02 - Attachments/Pasted image 20260222022433.png",
+  "/02 - Attachments/Pasted image 20260222022409.png",
+  "/02 - Attachments/Pasted image 20260222023126.png",
+  "/02 - Attachments/Pasted image 20260222022707.png",
+  "/02 - Attachments/Pasted image 20260222022450.png",
+  "/02 - Attachments/Pasted image 20260222022658.png",
+  "/02 - Attachments/Pasted image 20260222022713.png",
+  "/02 - Attachments/Pasted image 20260222022723.png",
+  "/02 - Attachments/Pasted image 20260222023100.png",
+  "/02 - Attachments/Pasted image 20260222023118.png",
+  "/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg",
+  "/02 - Attachments/83f9872575139b676e9640543df39631.jpg",
+  "/02 - Attachments/7cb82c7b6509a30d1f418086ee1fe78a.jpg",
+  "/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
+  "/01 - Zettelkastem/Script/French/03 - The before party 1.md",
+  "/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
+  "/02 - Attachments/Pasted image 20260224042202.png",
+  "/02 - Attachments/Pasted image 20260224042740.png",
+  "/02 - Attachments/Pasted image 20260224042700.png",
+  "/02 - Attachments/Pasted image 20260224042712.png",
+  "/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg",
+  "/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg",
+  "/01 - Zettelkastem/Script/French/00 - Incipit.md",
+  "/01 - Zettelkastem/Script/French/01 - Grandma.md",
+  "/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
+  "/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
+  "/02 - Attachments/Scarbrow-Dymond-Lake-Ecolodge-Jianguo-Xie-1k.jpg",
+  "/02 - Attachments/bn8as71kufj61.jpg",
+  "/06 - Canvas/Outline of the story.canvas",
+  "/06 - Canvas/Character Design.canvas",
+  "/01 - Zettelkastem/Script/French/Cafe.md",
+  "/03 - Index/Characters/Raincoat Man.md",
+  "/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
+  "/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+  "/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+  "/02 - Attachments/Pasted image 20260516010601.png",
+  "/02 - Attachments/Pasted image 20260516010751.png",
+  "/02 - Attachments/Pasted image 20260516011012.png",
+  "/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+  "/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md",
+  "/06 - Canvas/Outline of the story0ld.canvas",
+  "/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+  "/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md",
+  "/01 - Zettelkastem/Renpy Export/00 - Incipit.md",
+  "/01 - Zettelkastem/Renpy Export/01 - Grandma.md",
+  "/01 - Zettelkastem/Script/French/03 - The before party.md",
+  "/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
+  "/06 - Canvas/Sub plots/Luke is changing.canvas",
+  "/01 - Zettelkastem/Script/English/04 - why did you quit.md",
+  "/01 - Zettelkastem/Script/English/01 - Grandma.md",
+  "/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md",
+  "/01 - Zettelkastem/Script/English/03 - The before party.md",
+  "/02 - Attachments/Pasted image 20260516011151.png",
+  "/02 - Attachments/Pasted image 20260516011224.png",
+  "/02 - Attachments/Pasted image 20260516011135.png",
+  "/02 - Attachments/Pasted image 20260516011200.png",
+  "/05 - Tasks/Current/Cesare entering in the booth with Isaac.md",
+  "/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
+  "/02 - Attachments/Pasted image 20260224135618.png",
+  "/05 - Tasks/Archived/Develop Joesph in grandma's house.md",
+  "/02 - Attachments/IMG_0536.jpg",
+  "/02 - Attachments/IMG_0535.jpg",
+  "/02 - Attachments/aae64177183f5d81432afd6eab3d60c9.jpg",
+  "/02 - Attachments/1ba8fa11c1790e3b6549893742ae0c39.jpg",
+  "/02 - Attachments/a4442e3494d124a8bfd7c2afa625570d.jpg",
+  "/02 - Attachments/3b8722652af05ae5e1d80f8536f8487f.jpg",
+  "/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg",
+  "/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG",
+  "/02 - Attachments/7da58b858b8413e18e672ee97a09c816.jpg",
+  "/02 - Attachments/ec6a35298fb7cdc1429389fb842f2cf5.jpg",
+  "/02 - Attachments/sainte-mere-eglise-church.jpg",
+  "/02 - Attachments/CLOCHER-STE-MERE-OK-10-12-14-1-e1431340490604-634x1024-1.jpg",
+  "/02 - Attachments/Pasted image 20260226103620.png",
+  "/02 - Attachments/Pasted image 20260226103610.png",
+  "/02 - Attachments/Pasted image 20260226105449.png",
+  "/02 - Attachments/Pasted image 20260226105314.png",
+  "/02 - Attachments/Pasted image 20260226105339.png",
+  "/02 - Attachments/Pasted image 20260226105438.png",
+  "/07 - Rough Notes/Plot points ideas.md",
+  "/05 - Tasks/Coding Tasks.md",
+  "/05 - Tasks/Promoting Tasks.md",
+  "/05 - Tasks/Visual Tasks.md",
+  "/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
+  "/02 - Attachments/Screenshot 2026-02-24 154025.png",
+  "/01 - Zettelkastem/Drafts/French/00 - Incipit.md",
+  "/07 - Rough Notes/fourre-tout.md",
+  "/03 - Index/Characters/Luke.md",
+  "/07 - Rough Notes/Title Ideas.md",
+  "/03 - Index/Exhibitionist Priest.md",
+  "/02 - Attachments/IMG_0530.jpg",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191954.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191941.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191929.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191115.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191129.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191149.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191208.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191220.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191333.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191346.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191400.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191448.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191413.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191504.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191639.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191654.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191711.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191735.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191914.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192009.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192025.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192112.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192044.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192134.png",
+  "/02 - Attachments/IMG_0534.jpg",
+  "/02 - Attachments/IMG_0531.jpg",
+  "/02 - Attachments/IMG_0532.jpg",
+  "/02 - Attachments/IMG_0533.jpg",
+  "/06 - Canvas/Story's locations.canvas",
+  "/03 - Index/Characters/Judas.md"
+]
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15491)
+[2026-07-04T12:26:10.175Z] [LOG] [[SharedFile](Exhibitionist Priest)]: operations [
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Icons",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VN Sprites",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/07 - Rough Notes",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Archived",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Places",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Pinned",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/English",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Renpy Export",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/French",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Sub plots",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters/Overview English - Notes - Murkwater.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Glossary for Outline.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Pinned/Should Joseph have a female friend.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Nick.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Icons/shush.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Icons/question-mark.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Icons/pin.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VN Sprites/bafkreiectpkmb4bdolvzkf73bqooblvayzbgxhdnnuie7tdbby334ds2pa.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VN Sprites/1534317655.hiddenwall_koshiro.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VN Sprites/bafkreia7ot76wk3nuvzjevzr4iykwhzxaysbwwbtti44vb2rbp4fn2dcvm.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VN Sprites/1542414679.hiddenwall_ramos.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/goat.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/albino-bat.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/lamb-lying-in-meadow.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/49d79ffc0a69539df42e8714e7bd31e6.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/nice-black-timbewolf.webp",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/photo_2026-02-17_11-49-41.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/coyote-canis-latrans-xl.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/csm_europaeischer-wolf-tierpark-hellabrunn-europa-tierlexikon_f8f7e4b636.webp",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/9910189_orig.webp",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/finbpjpirbespgfpul19.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Kolmården_Wolf.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/81Hj1wcXL-L.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/canis-lycaon_a90838e3-54fb-4eb7-a1d2-7f335003835a.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Coyote.webp",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/eat-nagabe.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Polar_Bear_-_Alaska_(cropped).jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/smell-nagabe.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/yin-yang.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/07 - Rough Notes/Character names.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Archived/What should Cesare strive for.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Should Joseph have a female friend.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Should the photo Is take be a mistake or on purpose.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Develop Cesare backstory.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Simone.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Writing tasks.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Isaac.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Cesare.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Jeff.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Places/Café.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Archived/Should Joseph have a female friend.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Archived/Develop how they met.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Develop how they met.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Martin.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Martine.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022433.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022409.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222023126.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022707.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022450.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022658.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022713.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022723.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222023100.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222023118.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/83f9872575139b676e9640543df39631.jpg",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/7cb82c7b6509a30d1f418086ee1fe78a.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/03 - The before party 1.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260224042202.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260224042740.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260224042700.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260224042712.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/00 - Incipit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/01 - Grandma.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Scarbrow-Dymond-Lake-Ecolodge-Jianguo-Xie-1k.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/bn8as71kufj61.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Outline of the story.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Character Design.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/Cafe.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Raincoat Man.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516010601.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516010751.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516011012.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Outline of the story0ld.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Renpy Export/00 - Incipit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Renpy Export/01 - Grandma.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Sub plots/Luke is changing.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/English/04 - why did you quit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/English/01 - Grandma.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/English/03 - The before party.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516011151.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516011224.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516011135.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516011200.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Cesare entering in the booth with Isaac.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260224135618.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Archived/Develop Joesph in grandma's house.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0536.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0535.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/aae64177183f5d81432afd6eab3d60c9.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/1ba8fa11c1790e3b6549893742ae0c39.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/a4442e3494d124a8bfd7c2afa625570d.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/3b8722652af05ae5e1d80f8536f8487f.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/7da58b858b8413e18e672ee97a09c816.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/ec6a35298fb7cdc1429389fb842f2cf5.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/sainte-mere-eglise-church.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/CLOCHER-STE-MERE-OK-10-12-14-1-e1431340490604-634x1024-1.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226103620.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226103610.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226105449.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226105314.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226105339.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226105438.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/07 - Rough Notes/Plot points ideas.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Coding Tasks.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Promoting Tasks.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Visual Tasks.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Screenshot 2026-02-24 154025.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/French/00 - Incipit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/07 - Rough Notes/fourre-tout.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Luke.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/07 - Rough Notes/Title Ideas.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Exhibitionist Priest.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0530.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191954.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191941.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191929.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191115.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191129.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191149.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191208.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191220.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191333.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191346.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191400.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191448.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191413.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191504.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191639.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191654.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191711.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191735.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191914.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192009.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192025.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192112.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192044.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192134.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0534.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0531.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0532.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0533.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Story's locations.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Judas.md",
+    "promise": {}
+  }
+]
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15518)
+[2026-07-04T12:26:10.175Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.175Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.175Z] [DEBUG] [LiveViews][[Shared Folders]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:26:10.192Z] [DEBUG] [su]: Fetching latest release from: https://api.github.com/repos/No-Instructions/Relay/releases/latest
+    at at su.fetchLatestRelease (plugin:system3-relay:127:3862)
+[2026-07-04T12:26:10.203Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.205Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.205Z] [LOG] [Kl]: type registry change
+    at at eval (plugin:system3-relay:49:621)
+[2026-07-04T12:26:10.205Z] [DEBUG] [postie]: send Hl ()=>{this.log("type registry change"),this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.207Z] [DEBUG] [postie]: send Kl async()=>{await this.syncFileTree(this.syncStore)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.208Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022433.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.208Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022409.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.208Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023126.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.208Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022707.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.208Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022450.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.208Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022658.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.208Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022713.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.208Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222022723.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.208Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023100.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.208Z] [LOG] [[SharedFile](/02 - Attachments/Pasted image 20260222023118.png)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.209Z] [LOG] [[SharedFile](/02 - Attachments/83f9872575139b676e9640543df39631.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.209Z] [LOG] [[SharedFile](/02 - Attachments/7cb82c7b6509a30d1f418086ee1fe78a.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.209Z] [LOG] [[SharedFile](/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.209Z] [LOG] [[SharedFile](/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg)]: pull
+    at at xn.pull (plugin:system3-relay:45:38693)
+[2026-07-04T12:26:10.213Z] [LOG] [[SharedFile](Exhibitionist Priest)]: remote paths [
+  "/01 - Zettelkastem",
+  "/01 - Zettelkastem/murky waters",
+  "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions",
+  "/05 - Tasks",
+  "/02 - Attachments",
+  "/02 - Attachments/Icons",
+  "/02 - Attachments/VN Sprites",
+  "/07 - Rough Notes",
+  "/05 - Tasks/Archived",
+  "/05 - Tasks/Current",
+  "/03 - Index",
+  "/03 - Index/Characters",
+  "/03 - Index/Places",
+  "/01 - Zettelkastem/Script",
+  "/05 - Tasks/Pinned",
+  "/01 - Zettelkastem/Drafts",
+  "/01 - Zettelkastem/Script/English",
+  "/01 - Zettelkastem/Script/French",
+  "/06 - Canvas",
+  "/02 - Attachments/Attachments for Murkwater's notes",
+  "/01 - Zettelkastem/Renpy Export",
+  "/01 - Zettelkastem/Drafts/English",
+  "/01 - Zettelkastem/Drafts/French",
+  "/06 - Canvas/Sub plots",
+  "/01 - Zettelkastem/murky waters/Overview English - Notes - Murkwater.md",
+  "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
+  "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
+  "/01 - Zettelkastem/Glossary for Outline.md",
+  "/05 - Tasks/Pinned/Should Joseph have a female friend.md",
+  "/03 - Index/Characters/Nick.md",
+  "/02 - Attachments/Icons/shush.png",
+  "/02 - Attachments/Icons/question-mark.png",
+  "/02 - Attachments/Icons/pin.png",
+  "/02 - Attachments/VN Sprites/bafkreiectpkmb4bdolvzkf73bqooblvayzbgxhdnnuie7tdbby334ds2pa.jpg",
+  "/02 - Attachments/VN Sprites/1534317655.hiddenwall_koshiro.png",
+  "/02 - Attachments/VN Sprites/bafkreia7ot76wk3nuvzjevzr4iykwhzxaysbwwbtti44vb2rbp4fn2dcvm.jpg",
+  "/02 - Attachments/VN Sprites/1542414679.hiddenwall_ramos.png",
+  "/02 - Attachments/goat.jpg",
+  "/02 - Attachments/albino-bat.jpg",
+  "/02 - Attachments/lamb-lying-in-meadow.jpg",
+  "/02 - Attachments/49d79ffc0a69539df42e8714e7bd31e6.jpg",
+  "/02 - Attachments/nice-black-timbewolf.webp",
+  "/02 - Attachments/photo_2026-02-17_11-49-41.jpg",
+  "/02 - Attachments/coyote-canis-latrans-xl.jpg",
+  "/02 - Attachments/csm_europaeischer-wolf-tierpark-hellabrunn-europa-tierlexikon_f8f7e4b636.webp",
+  "/02 - Attachments/9910189_orig.webp",
+  "/02 - Attachments/finbpjpirbespgfpul19.jpg",
+  "/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg",
+  "/02 - Attachments/Kolmården_Wolf.jpg",
+  "/02 - Attachments/81Hj1wcXL-L.png",
+  "/02 - Attachments/canis-lycaon_a90838e3-54fb-4eb7-a1d2-7f335003835a.jpg",
+  "/02 - Attachments/Coyote.webp",
+  "/02 - Attachments/eat-nagabe.png",
+  "/02 - Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg",
+  "/02 - Attachments/Polar_Bear_-_Alaska_(cropped).jpg",
+  "/02 - Attachments/smell-nagabe.png",
+  "/02 - Attachments/yin-yang.png",
+  "/07 - Rough Notes/Character names.md",
+  "/05 - Tasks/Archived/What should Cesare strive for.md",
+  "/05 - Tasks/Current/Should Joseph have a female friend.md",
+  "/05 - Tasks/Current/Should the photo Is take be a mistake or on purpose.md",
+  "/05 - Tasks/Current/Develop Cesare backstory.md",
+  "/03 - Index/Characters/Simone.md",
+  "/05 - Tasks/Writing tasks.md",
+  "/03 - Index/Characters/Isaac.md",
+  "/03 - Index/Characters/Cesare.md",
+  "/03 - Index/Characters/Jeff.md",
+  "/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
+  "/03 - Index/Places/Café.md",
+  "/05 - Tasks/Archived/Should Joseph have a female friend.md",
+  "/05 - Tasks/Archived/Develop how they met.md",
+  "/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
+  "/05 - Tasks/Current/Develop how they met.md",
+  "/03 - Index/Characters/Martin.md",
+  "/03 - Index/Characters/Martine.md",
+  "/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
+  "/02 - Attachments/Pasted image 20260222022433.png",
+  "/02 - Attachments/Pasted image 20260222022409.png",
+  "/02 - Attachments/Pasted image 20260222023126.png",
+  "/02 - Attachments/Pasted image 20260222022707.png",
+  "/02 - Attachments/Pasted image 20260222022450.png",
+  "/02 - Attachments/Pasted image 20260222022658.png",
+  "/02 - Attachments/Pasted image 20260222022713.png",
+  "/02 - Attachments/Pasted image 20260222022723.png",
+  "/02 - Attachments/Pasted image 20260222023100.png",
+  "/02 - Attachments/Pasted image 20260222023118.png",
+  "/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg",
+  "/02 - Attachments/83f9872575139b676e9640543df39631.jpg",
+  "/02 - Attachments/7cb82c7b6509a30d1f418086ee1fe78a.jpg",
+  "/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
+  "/01 - Zettelkastem/Script/French/03 - The before party 1.md",
+  "/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
+  "/02 - Attachments/Pasted image 20260224042202.png",
+  "/02 - Attachments/Pasted image 20260224042740.png",
+  "/02 - Attachments/Pasted image 20260224042700.png",
+  "/02 - Attachments/Pasted image 20260224042712.png",
+  "/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg",
+  "/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg",
+  "/01 - Zettelkastem/Script/French/00 - Incipit.md",
+  "/01 - Zettelkastem/Script/French/01 - Grandma.md",
+  "/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
+  "/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
+  "/02 - Attachments/Scarbrow-Dymond-Lake-Ecolodge-Jianguo-Xie-1k.jpg",
+  "/02 - Attachments/bn8as71kufj61.jpg",
+  "/06 - Canvas/Outline of the story.canvas",
+  "/06 - Canvas/Character Design.canvas",
+  "/01 - Zettelkastem/Script/French/Cafe.md",
+  "/03 - Index/Characters/Raincoat Man.md",
+  "/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
+  "/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+  "/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+  "/02 - Attachments/Pasted image 20260516010601.png",
+  "/02 - Attachments/Pasted image 20260516010751.png",
+  "/02 - Attachments/Pasted image 20260516011012.png",
+  "/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+  "/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md",
+  "/06 - Canvas/Outline of the story0ld.canvas",
+  "/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+  "/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md",
+  "/01 - Zettelkastem/Renpy Export/00 - Incipit.md",
+  "/01 - Zettelkastem/Renpy Export/01 - Grandma.md",
+  "/01 - Zettelkastem/Script/French/03 - The before party.md",
+  "/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
+  "/06 - Canvas/Sub plots/Luke is changing.canvas",
+  "/01 - Zettelkastem/Script/English/04 - why did you quit.md",
+  "/01 - Zettelkastem/Script/English/01 - Grandma.md",
+  "/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md",
+  "/01 - Zettelkastem/Script/English/03 - The before party.md",
+  "/02 - Attachments/Pasted image 20260516011151.png",
+  "/02 - Attachments/Pasted image 20260516011224.png",
+  "/02 - Attachments/Pasted image 20260516011135.png",
+  "/02 - Attachments/Pasted image 20260516011200.png",
+  "/05 - Tasks/Current/Cesare entering in the booth with Isaac.md",
+  "/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
+  "/02 - Attachments/Pasted image 20260224135618.png",
+  "/05 - Tasks/Archived/Develop Joesph in grandma's house.md",
+  "/02 - Attachments/IMG_0536.jpg",
+  "/02 - Attachments/IMG_0535.jpg",
+  "/02 - Attachments/aae64177183f5d81432afd6eab3d60c9.jpg",
+  "/02 - Attachments/1ba8fa11c1790e3b6549893742ae0c39.jpg",
+  "/02 - Attachments/a4442e3494d124a8bfd7c2afa625570d.jpg",
+  "/02 - Attachments/3b8722652af05ae5e1d80f8536f8487f.jpg",
+  "/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg",
+  "/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG",
+  "/02 - Attachments/7da58b858b8413e18e672ee97a09c816.jpg",
+  "/02 - Attachments/ec6a35298fb7cdc1429389fb842f2cf5.jpg",
+  "/02 - Attachments/sainte-mere-eglise-church.jpg",
+  "/02 - Attachments/CLOCHER-STE-MERE-OK-10-12-14-1-e1431340490604-634x1024-1.jpg",
+  "/02 - Attachments/Pasted image 20260226103620.png",
+  "/02 - Attachments/Pasted image 20260226103610.png",
+  "/02 - Attachments/Pasted image 20260226105449.png",
+  "/02 - Attachments/Pasted image 20260226105314.png",
+  "/02 - Attachments/Pasted image 20260226105339.png",
+  "/02 - Attachments/Pasted image 20260226105438.png",
+  "/07 - Rough Notes/Plot points ideas.md",
+  "/05 - Tasks/Coding Tasks.md",
+  "/05 - Tasks/Promoting Tasks.md",
+  "/05 - Tasks/Visual Tasks.md",
+  "/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
+  "/02 - Attachments/Screenshot 2026-02-24 154025.png",
+  "/01 - Zettelkastem/Drafts/French/00 - Incipit.md",
+  "/07 - Rough Notes/fourre-tout.md",
+  "/03 - Index/Characters/Luke.md",
+  "/07 - Rough Notes/Title Ideas.md",
+  "/03 - Index/Exhibitionist Priest.md",
+  "/02 - Attachments/IMG_0530.jpg",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191954.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191941.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191929.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191115.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191129.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191149.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191208.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191220.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191333.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191346.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191400.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191448.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191413.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191504.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191639.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191654.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191711.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191735.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191914.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192009.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192025.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192112.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192044.png",
+  "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192134.png",
+  "/02 - Attachments/IMG_0534.jpg",
+  "/02 - Attachments/IMG_0531.jpg",
+  "/02 - Attachments/IMG_0532.jpg",
+  "/02 - Attachments/IMG_0533.jpg",
+  "/06 - Canvas/Story's locations.canvas",
+  "/03 - Index/Characters/Judas.md"
+]
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15491)
+[2026-07-04T12:26:10.213Z] [LOG] [[SharedFile](Exhibitionist Priest)]: operations [
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Icons",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VN Sprites",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/07 - Rough Notes",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Archived",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Places",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Pinned",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/English",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Renpy Export",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/French",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Sub plots",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters/Overview English - Notes - Murkwater.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Chat log - Transcription on Catholic terminology.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Glossary for Outline.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Pinned/Should Joseph have a female friend.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Nick.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Icons/shush.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Icons/question-mark.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Icons/pin.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VN Sprites/bafkreiectpkmb4bdolvzkf73bqooblvayzbgxhdnnuie7tdbby334ds2pa.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VN Sprites/1534317655.hiddenwall_koshiro.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VN Sprites/bafkreia7ot76wk3nuvzjevzr4iykwhzxaysbwwbtti44vb2rbp4fn2dcvm.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VN Sprites/1542414679.hiddenwall_ramos.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/goat.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/albino-bat.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/lamb-lying-in-meadow.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/49d79ffc0a69539df42e8714e7bd31e6.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/nice-black-timbewolf.webp",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/photo_2026-02-17_11-49-41.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/coyote-canis-latrans-xl.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/csm_europaeischer-wolf-tierpark-hellabrunn-europa-tierlexikon_f8f7e4b636.webp",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/9910189_orig.webp",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/finbpjpirbespgfpul19.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/VIERPFOTEN_2022_11_03.00017.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Kolmården_Wolf.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/81Hj1wcXL-L.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/canis-lycaon_a90838e3-54fb-4eb7-a1d2-7f335003835a.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Coyote.webp",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/eat-nagabe.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/shutterstock_97268789 - lamb looking at camera - web size-1277x884.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Polar_Bear_-_Alaska_(cropped).jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/smell-nagabe.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/yin-yang.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/07 - Rough Notes/Character names.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Archived/What should Cesare strive for.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Should Joseph have a female friend.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Should the photo Is take be a mistake or on purpose.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Develop Cesare backstory.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Simone.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Writing tasks.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Isaac.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Cesare.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Jeff.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Pinned/Should Joseph be the one spying on Cesare in the incipit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Places/Café.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Archived/Should Joseph have a female friend.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Archived/Develop how they met.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Determine when to fire the checkov's gun.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Develop how they met.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Martin.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Martine.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022433.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022409.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222023126.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022707.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022450.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022658.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022713.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222022723.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222023100.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/Pasted image 20260222023118.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/83f9872575139b676e9640543df39631.jpg",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/7cb82c7b6509a30d1f418086ee1fe78a.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/03 - The before party 1.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260224042202.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260224042740.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260224042700.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260224042712.png",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/2461c63bce5990d5fd0da98b1ca2fe14.jpg",
+    "promise": {}
+  },
+  {
+    "op": "update",
+    "path": "/02 - Attachments/f53fb878af341e47d742c3083d9d0ef8.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/00 - Incipit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/01 - Grandma.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/02 - Lucas’ Call.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Scarbrow-Dymond-Lake-Ecolodge-Jianguo-Xie-1k.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/bn8as71kufj61.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Outline of the story.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Character Design.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/Cafe.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Raincoat Man.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516010601.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516010751.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516011012.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Outline of the story0ld.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Renpy Export/00 - Incipit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Renpy Export/01 - Grandma.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Sub plots/Luke is changing.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/English/04 - why did you quit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/English/01 - Grandma.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Script/English/03 - The before party.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516011151.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516011224.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516011135.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260516011200.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/Cesare entering in the booth with Isaac.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Current/see if murk is ok with cesare and isaac meeting.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260224135618.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Archived/Develop Joesph in grandma's house.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0536.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0535.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/aae64177183f5d81432afd6eab3d60c9.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/1ba8fa11c1790e3b6549893742ae0c39.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/a4442e3494d124a8bfd7c2afa625570d.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/3b8722652af05ae5e1d80f8536f8487f.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/f68840a739acf7910dab240e7df0a914.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Église_Notre-Dame-de-l'assomption.JPG",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/7da58b858b8413e18e672ee97a09c816.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/ec6a35298fb7cdc1429389fb842f2cf5.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/sainte-mere-eglise-church.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/CLOCHER-STE-MERE-OK-10-12-14-1-e1431340490604-634x1024-1.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226103620.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226103610.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226105449.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226105314.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226105339.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Pasted image 20260226105438.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/07 - Rough Notes/Plot points ideas.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Coding Tasks.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Promoting Tasks.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/05 - Tasks/Visual Tasks.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Screenshot 2026-02-24 154025.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/01 - Zettelkastem/Drafts/French/00 - Incipit.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/07 - Rough Notes/fourre-tout.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Luke.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/07 - Rough Notes/Title Ideas.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Exhibitionist Priest.md",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0530.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191954.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191941.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191929.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191115.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191129.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191149.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191208.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191220.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191333.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191346.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191400.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191448.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191413.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191504.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191639.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191654.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191711.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191735.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 191914.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192009.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192025.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192112.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192044.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/Attachments for Murkwater's notes/Screenshot 2026-02-20 192134.png",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0534.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0531.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0532.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/02 - Attachments/IMG_0533.jpg",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/06 - Canvas/Story's locations.canvas",
+    "promise": {}
+  },
+  {
+    "op": "noop",
+    "path": "/03 - Index/Characters/Judas.md",
+    "promise": {}
+  }
+]
+    at at Dl.r [as promiseFunction] (plugin:system3-relay:49:15518)
+[2026-07-04T12:26:10.232Z] [DEBUG] [su]: Fetching https://raw.githubusercontent.com/No-Instructions/Relay/main/manifest.json
+    at at su.fetchRepoManifest (plugin:system3-relay:127:5915)
+[2026-07-04T12:26:10.240Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.242Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.244Z] [DEBUG] [postie]: send Kl i=>{this.quickRefresh()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.267Z] [DEBUG] [postie]: send Md ()=>{this.refresh("[Docset]")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.335Z] [DEBUG] [Bl]: updated matches disk, no change
+    at at Bl.update (plugin:system3-relay:45:22948)
+[2026-07-04T12:26:10.387Z] [DEBUG] [su]: repo manifest {
+  "id": "system3-relay",
+  "name": "Relay",
+  "version": "0.7.6",
+  "minAppVersion": "0.15.0",
+  "description": "Collaborate in real time with live cursors. Create multiplayer folders and manage user access.",
+  "author": "System 3",
+  "authorUrl": "https://system3.md",
+  "fundingUrl": "https://www.buymeacoffee.com/dtkav",
+  "isDesktopOnly": false
+}
+    at at su.fetchLatestTagFromChannel (plugin:system3-relay:127:4278)
+[2026-07-04T12:26:10.407Z] [DEBUG] [postie]: send su ()=>{let l=this.updateManager.getNewRelease();l?(this.removeCommand("update-plugin"),this.addCommand({id:"update-plugin",name:`Update Plugin (${this.version} \u2192 ${l.tag_name})`,callback:async()=>{await this.updateManager.installUpdate(l)}}),this.log(`Update available: v${this.version} \u2192 ${l.tag_name}`)):this.removeCommand("update-plugin")}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.460Z] [LOG] [n]: applying server flags {
+  "enableEditorTweens": false,
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}
+    at at n.applyServerFlags (plugin:system3-relay:23:2881)
+[2026-07-04T12:26:10.544Z] [LOG] [[SharedFile](Exhibitionist Priest)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-0f8c49e0-c43c-441b-9b17-5f23457faa85/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-0f8c49e0-c43c-441b-9b17-5f23457faa85?token=[REDACTED]
+    at at Jl.refreshProvider (plugin:system3-relay:34:10184)
+[2026-07-04T12:26:10.549Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.551Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.553Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.586Z] [DEBUG] [LiveViews][[Shared Folders]]: Ready Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:26:10.589Z] [LOG] [[AwarenessView](/01 - Zettelkastem/Script/French/03 - The before party.md)]: Installing awareness component for Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at Cc.install (plugin:system3-relay:80:14136)
+[2026-07-04T12:26:10.591Z] [LOG] [[AwarenessView](/01 - Zettelkastem/Script/French/03 - The before party.md)]: Awareness component successfully mounted
+    at at Cc.mountAwarenessComponent (plugin:system3-relay:80:15101)
+[2026-07-04T12:26:10.591Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.591Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.591Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85
+    at at kI (plugin:system3-relay:34:5323)
+[2026-07-04T12:26:10.592Z] [DEBUG] [LiveViews][[Shared Folders]]: Attached Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:26:10.592Z] [DEBUG] [LiveViews][[Shared Folders]]: loading plugins
+    at at Ac._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T12:26:10.596Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-04T12:26:10.597Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-04T12:26:10.597Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-04T12:26:10.597Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:26:10.597Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:26:10.597Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:26:10.597Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:26:10.597Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:26:10.597Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:26:10.597Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:26:10.597Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Fp (plugin:system3-relay:54:52478)
+[2026-07-04T12:26:10.597Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-04T12:26:10.598Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:26:10.598Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Up (plugin:system3-relay:56:7044)
+[2026-07-04T12:26:10.602Z] [DEBUG] [LiveViews][[Shared Folders]]: refresh completed in 580ms [LiveViews][[Shared Folders]]
+    at at Ac._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T12:26:10.608Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:26:10.608Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:26:10.608Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:26:10.608Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:26:10.608Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.608Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.608Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-04T12:26:10.608Z] [WARN] [Shared Folders]: refreshQueue size: 4
+    at at Ac.refresh (plugin:system3-relay:80:36769)
+[2026-07-04T12:26:10.608Z] [DEBUG] [LiveViews][[Docset]]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T12:26:10.609Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.609Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.609Z] [DEBUG] [LiveViews][[Docset]]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:26:10.609Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.609Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.609Z] [DEBUG] [LiveViews][[Docset]]: Attached Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:26:10.609Z] [DEBUG] [LiveViews][[Docset]]: loading plugins
+    at at Ac._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T12:26:10.610Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at kn.destroy (plugin:system3-relay:54:51112)
+[2026-07-04T12:26:10.610Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at dc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T12:26:10.610Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at pc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T12:26:10.614Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-04T12:26:10.614Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-04T12:26:10.614Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-04T12:26:10.614Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:26:10.615Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:26:10.615Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:26:10.615Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:26:10.615Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:26:10.615Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:26:10.615Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:26:10.615Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Fp (plugin:system3-relay:54:52478)
+[2026-07-04T12:26:10.615Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-04T12:26:10.615Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:26:10.615Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Up (plugin:system3-relay:56:7044)
+[2026-07-04T12:26:10.618Z] [DEBUG] [LiveViews][[Docset]]: refresh completed in 351ms [LiveViews][[Docset]]
+    at at Ac._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T12:26:10.619Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:26:10.619Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:26:10.619Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:26:10.619Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:26:10.619Z] [LOG] [[SharedFile](Exhibitionist Priest)]: get provider token
+    at at Jl.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.619Z] [DEBUG] [LiveTokenStore]: getting token Exhibitionist Priest
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.619Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-04T12:26:10.649Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783169770630
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.649Z] [DEBUG] [LiveTokenStore]: Token refreshed for Exhibitionist Priest (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85)
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.649Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.651Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.652Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.654Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.655Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.657Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: get provider token
+    at at Mt.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.657Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Script/French/03 - The before party.md
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.657Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1
+    at at kI (plugin:system3-relay:34:5323)
+[2026-07-04T12:26:10.657Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: get provider token
+    at at Mt.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.657Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Script/French/03 - The before party.md
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.657Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: get provider token
+    at at Mt.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.657Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Script/French/03 - The before party.md
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.657Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: get provider token
+    at at Mt.getProviderToken (plugin:system3-relay:34:9645)
+[2026-07-04T12:26:10.657Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Script/French/03 - The before party.md
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.659Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:26:10.678Z] [DEBUG] [Bl]: updated matches disk, no change
+    at at Bl.update (plugin:system3-relay:45:22948)
+[2026-07-04T12:26:10.769Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783169770853
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.769Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-cff1b570-8322-4b9a-a3bf-67d5f0921ec1/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-cff1b570-8322-4b9a-a3bf-67d5f0921ec1?token=[REDACTED]
+    at at Mt.refreshProvider (plugin:system3-relay:34:10184)
+[2026-07-04T12:26:10.770Z] [DEBUG] [LiveTokenStore]: Token refreshed for /01 - Zettelkastem/Script/French/03 - The before party.md (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1)
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:26:10.770Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.770Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.770Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.770Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:10.770Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
