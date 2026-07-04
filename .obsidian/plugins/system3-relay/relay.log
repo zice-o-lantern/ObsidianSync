@@ -56322,3 +56322,913 @@ s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-
 Stale Tokens:
 Queue size: 0
     at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:36:56.575Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:36:56.576Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 11m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 11m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:37:56.587Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:37:56.587Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 10m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 10m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:37:57.815Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "rwm3OFkgpO7l0iBs2l3ZWDby0wHN9QXVslQc1EeK",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T13:38:25.474Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:130:17419)
+[2026-07-04T13:38:25.475Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Cc._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T13:38:25.475Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T13:38:25.475Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "wn",
+    "file": "/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T13:38:25.475Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Cc._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T13:38:25.476Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: destroyed
+    at at xn.destroy (plugin:system3-relay:54:51279)
+[2026-07-04T13:38:25.476Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: destroyed
+    at at lc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T13:38:25.476Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: destroyed
+    at at cc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T13:38:25.480Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: created
+    at at new xn (plugin:system3-relay:54:48625)
+[2026-07-04T13:38:25.480Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: created
+    at at new lc (plugin:system3-relay:54:46967)
+[2026-07-04T13:38:25.480Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: created
+    at at new cc (plugin:system3-relay:54:47784)
+[2026-07-04T13:38:25.480Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T13:38:25.480Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T13:38:25.480Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T13:38:25.480Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: preview
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:25.480Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering preview from document
+    at at lc.render (plugin:system3-relay:54:47259)
+[2026-07-04T13:38:25.480Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Preview render completed
+    at at lc.render (plugin:system3-relay:54:47426)
+[2026-07-04T13:38:25.480Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:25.480Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:25.480Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]: created
+    at at new Ap (plugin:system3-relay:54:52645)
+[2026-07-04T13:38:25.480Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at So.patch (plugin:system3-relay:54:44286)
+[2026-07-04T13:38:25.480Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T13:38:25.481Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]: created
+    at at new Rp (plugin:system3-relay:56:7044)
+[2026-07-04T13:38:25.483Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 9ms [LiveViews][layout-change]
+    at at Cc._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T13:38:25.484Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: preview
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:25.484Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering preview from document
+    at at lc.render (plugin:system3-relay:54:47259)
+[2026-07-04T13:38:25.484Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Preview render completed
+    at at lc.render (plugin:system3-relay:54:47426)
+[2026-07-04T13:38:25.484Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:25.484Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:25.484Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: ViewHookPlugin initialized
+    at at xn.initialize (plugin:system3-relay:54:51204)
+[2026-07-04T13:38:34.881Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:130:17419)
+[2026-07-04T13:38:34.881Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Cc._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T13:38:34.881Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T13:38:34.881Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "wn",
+    "file": "/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T13:38:34.881Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Cc._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T13:38:34.882Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: destroyed
+    at at xn.destroy (plugin:system3-relay:54:51279)
+[2026-07-04T13:38:34.882Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: destroyed
+    at at lc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T13:38:34.882Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: destroyed
+    at at cc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T13:38:34.885Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: created
+    at at new xn (plugin:system3-relay:54:48625)
+[2026-07-04T13:38:34.885Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: created
+    at at new lc (plugin:system3-relay:54:46967)
+[2026-07-04T13:38:34.885Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: created
+    at at new cc (plugin:system3-relay:54:47784)
+[2026-07-04T13:38:34.885Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T13:38:34.885Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T13:38:34.885Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T13:38:34.885Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:34.885Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:34.885Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:34.885Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:34.885Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]: created
+    at at new Ap (plugin:system3-relay:54:52645)
+[2026-07-04T13:38:34.885Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at So.patch (plugin:system3-relay:54:44286)
+[2026-07-04T13:38:34.886Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T13:38:34.886Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]: created
+    at at new Rp (plugin:system3-relay:56:7044)
+[2026-07-04T13:38:34.889Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 8ms [LiveViews][layout-change]
+    at at Cc._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T13:38:34.889Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:34.890Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:34.890Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:34.890Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:34.890Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: ViewHookPlugin initialized
+    at at xn.initialize (plugin:system3-relay:54:51204)
+[2026-07-04T13:38:45.513Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:45.513Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:45.513Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:45.513Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:45.513Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:45.663Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:45.663Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:45.663Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:45.663Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:45.663Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:45.946Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:45.946Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:45.946Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:45.946Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:45.946Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:46.064Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:46.064Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:46.064Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:46.064Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:46.064Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:46.189Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:46.189Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:46.189Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:46.189Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:46.189Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:46.321Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:46.321Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:46.321Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:46.321Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:46.321Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:46.458Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:46.458Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:46.458Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:46.458Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:46.458Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:46.583Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:46.583Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:46.583Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:46.583Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:46.583Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:47.517Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:38:47.543Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:47.543Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:47.543Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:47.543Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:47.543Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:47.688Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:47.688Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:47.688Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:47.688Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:47.688Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:47.892Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:47.893Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:47.893Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:47.893Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:47.893Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:48.005Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:48.005Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:48.005Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:48.005Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:48.005Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:48.081Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:48.081Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:48.081Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:48.081Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:48.081Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:48.181Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:48.182Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:48.182Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:48.182Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:48.182Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:48.295Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:48.295Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:48.295Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:48.295Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:48.295Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:48.481Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:48.481Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:48.482Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:48.482Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:48.482Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:48.637Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:48.637Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:48.637Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:48.637Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:48.637Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:48.711Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:48.711Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:48.711Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:48.711Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:48.711Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:49.547Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:38:51.887Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:51.887Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:51.887Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:51.887Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:51.887Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:52.809Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:52.809Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:52.809Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:52.809Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:52.809Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:53.033Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:53.033Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:53.033Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:53.033Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:53.033Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:53.142Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:53.143Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:53.143Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:53.143Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:53.143Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:53.261Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:53.261Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:53.261Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:53.262Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:53.262Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:53.893Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:38:54.744Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:54.744Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:54.745Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:54.745Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:54.745Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:54.859Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:38:54.859Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:38:54.859Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:38:54.859Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:38:54.859Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:38:56.586Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:38:56.586Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 9m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 9m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:38:56.760Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:39:00.067Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:00.067Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:00.067Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:00.067Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:00.067Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:00.674Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:00.674Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:00.674Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:00.674Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:00.674Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:00.712Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:00.712Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:00.712Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:00.712Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:00.712Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:00.790Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:00.790Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:00.790Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:00.790Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:00.790Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:02.077Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:39:09.422Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:09.422Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:09.422Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:09.422Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:09.422Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:11.433Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:39:14.540Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:14.541Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:14.541Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:14.541Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:14.541Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:16.552Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:39:16.807Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:16.808Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:16.808Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:16.808Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:16.808Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:18.814Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:39:20.648Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:20.648Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:20.648Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:20.648Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:20.648Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:22.668Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:39:28.795Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:28.795Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:28.795Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:28.795Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:28.795Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:29.000Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:29.001Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:29.001Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:29.001Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:29.001Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:29.255Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:29.255Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:29.255Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:29.255Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:29.255Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:29.377Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:29.377Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:29.377Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:29.377Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:29.377Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:29.488Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:29.489Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:29.489Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:29.489Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:29.489Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:29.650Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:29.650Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:29.650Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:29.650Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:29.650Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:29.724Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:29.724Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:29.724Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:29.724Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:29.724Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:29.956Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:29.956Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:29.956Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:29.957Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:29.957Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:30.158Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:30.158Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:30.158Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:30.158Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:30.158Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:30.234Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:30.234Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:30.234Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:30.234Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:30.234Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:30.348Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:30.348Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:30.348Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:30.348Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:30.348Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:30.428Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:30.428Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:30.428Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:30.428Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:30.428Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:30.604Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:30.604Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:30.604Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:30.604Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:30.604Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:30.679Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:30.679Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:30.679Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:30.679Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:30.679Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:30.752Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:30.752Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:30.752Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:30.752Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:30.752Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:30.801Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:39:47.771Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:47.771Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:47.771Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:47.771Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:47.771Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:47.847Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:47.847Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:47.847Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:47.847Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:47.847Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:48.356Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:48.356Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:48.356Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:48.356Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:48.356Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:48.429Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:48.429Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:48.429Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:48.429Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:48.429Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:48.778Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:48.778Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:48.778Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:48.778Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:48.778Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:48.890Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:48.890Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:48.890Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:48.891Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:48.891Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:49.743Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:39:49.743Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:39:49.743Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:39:49.743Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:39:49.743Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:39:49.780Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:39:56.590Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:39:56.590Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 8m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:40:18.266Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T13:40:18.266Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T13:40:18.266Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T13:40:18.266Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T13:40:18.266Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T13:40:19.640Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T13:40:56.587Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:40:56.588Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 7m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:41:56.590Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:41:56.590Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 6m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:42:56.584Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:42:56.584Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 5m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 5m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:42:58.166Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "LScuJygD9Xh7H8VIMFTCAlgULVrT54qKuT2v1m30",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T13:43:56.581Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:43:56.582Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 4m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 4m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:44:56.590Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:44:56.591Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 3m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 3m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:45:56.582Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T13:45:56.582Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 2m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 2m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)

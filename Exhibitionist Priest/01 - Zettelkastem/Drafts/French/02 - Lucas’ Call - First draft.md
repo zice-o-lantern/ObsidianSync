@@ -1,6 +1,6 @@
 # L’appel de [[Lucas]]
 
-À ce moment-là, mon téléphone sonne ~~alors~~<span style="color:rgb(126, 114, 218)">. La série de bips et de drings-drings qui énerverait même les plus se propage à travers ma cuisse </span> je le sors. C’est [[Luke]]. Je décroche.
+À ce moment-là, mon téléphone sonne ~~alors~~<span style="color:rgb(126, 114, 218)">. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  </span> je le sors. C’est [[Luke]]. Je décroche.
 
 [[Lucas|LUCAS]]
 Allo ? Allo alloooooooo !
