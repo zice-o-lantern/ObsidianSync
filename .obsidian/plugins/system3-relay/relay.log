@@ -30269,3 +30269,1040 @@ Queue size: 0
   "intent": "connected"
 }
     at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:13.526Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Jl.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:26:13.917Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Script/French/03 - The before party.md)]: [Provider State] /01 - Zettelkastem/Script/French/03 - The before party.md {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at Mt.notifyListeners (plugin:system3-relay:34:9406)
+[2026-07-04T12:27:10.037Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:27:10.038Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 24m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 24m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:28:10.038Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:28:10.039Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 23m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 23m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:29:10.042Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:29:10.042Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 22m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 22m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:30:10.043Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:30:10.043Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 21m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 21m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:31:09.482Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "FrFO9eEE1DNA2NPAf7wokkw62tuBrCf5kacPfGSz",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:31:10.042Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:31:10.042Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 20m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:32:10.044Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:32:10.044Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 19m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:32:28.100Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T12:32:28.100Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:28.100Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:28.100Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:28.100Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:28.435Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T12:32:28.435Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:28.436Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:28.436Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:28.436Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:30.111Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-04T12:32:43.875Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T12:32:43.875Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:43.875Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:43.875Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:43.876Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:44.017Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T12:32:44.017Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:44.017Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:44.017Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:44.017Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:44.158Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T12:32:44.158Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:44.158Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:44.158Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:44.158Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:45.885Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md
+    at at eval (plugin:system3-relay:134:8230)
+[2026-07-04T12:32:46.427Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:134:6806)
+[2026-07-04T12:32:46.428Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T12:32:46.428Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:32:46.428Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:32:46.428Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Ac._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T12:32:46.429Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at kn.destroy (plugin:system3-relay:54:51112)
+[2026-07-04T12:32:46.429Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at dc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T12:32:46.429Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at pc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T12:32:46.432Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-04T12:32:46.432Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-04T12:32:46.432Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-04T12:32:46.432Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:46.432Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:46.433Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:46.433Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:46.433Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:46.433Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:46.433Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:46.433Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Fp (plugin:system3-relay:54:52478)
+[2026-07-04T12:32:46.433Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-04T12:32:46.433Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:46.433Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Up (plugin:system3-relay:56:7044)
+[2026-07-04T12:32:46.434Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 6ms [LiveViews][layout-change]
+    at at Ac._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T12:32:46.435Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:46.435Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:46.435Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:46.435Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:46.435Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-04T12:32:46.448Z] [DEBUG] [postie]: send er ()=>{r(this.getGroupProgress(t))}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.448Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.448Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.448Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.448Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.448Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.448Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.448Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.449Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:46.450Z] [DEBUG] [postie]: send xn ()=>{this.setText()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:32:51.800Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:134:6806)
+[2026-07-04T12:32:51.801Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T12:32:51.801Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:32:51.801Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:32:51.801Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Ac._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T12:32:51.801Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at kn.destroy (plugin:system3-relay:54:51112)
+[2026-07-04T12:32:51.802Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at dc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T12:32:51.802Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at pc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T12:32:51.804Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-04T12:32:51.804Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-04T12:32:51.804Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-04T12:32:51.804Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:51.805Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:51.805Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:51.805Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:51.805Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:51.805Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:51.805Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:51.805Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Fp (plugin:system3-relay:54:52478)
+[2026-07-04T12:32:51.805Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-04T12:32:51.805Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:51.805Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Up (plugin:system3-relay:56:7044)
+[2026-07-04T12:32:51.809Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 8ms [LiveViews][layout-change]
+    at at Ac._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T12:32:51.810Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:51.810Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:51.810Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:51.810Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:51.810Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-04T12:32:53.290Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:134:6806)
+[2026-07-04T12:32:53.290Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T12:32:53.290Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:32:53.290Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:32:53.290Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Ac._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T12:32:53.291Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at kn.destroy (plugin:system3-relay:54:51112)
+[2026-07-04T12:32:53.291Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at dc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T12:32:53.291Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at pc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T12:32:53.294Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-04T12:32:53.294Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-04T12:32:53.295Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-04T12:32:53.295Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:53.295Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:53.295Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:53.295Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:53.295Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:53.295Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:53.295Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:53.295Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Fp (plugin:system3-relay:54:52478)
+[2026-07-04T12:32:53.295Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-04T12:32:53.295Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:53.295Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Up (plugin:system3-relay:56:7044)
+[2026-07-04T12:32:53.296Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 6ms [LiveViews][layout-change]
+    at at Ac._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T12:32:53.297Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:53.297Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:53.297Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:53.297Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:53.297Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-04T12:32:55.400Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:134:6806)
+[2026-07-04T12:32:55.400Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Ac._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T12:32:55.400Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:32:55.400Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "In",
+    "file": "/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T12:32:55.400Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Ac._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T12:32:55.401Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at kn.destroy (plugin:system3-relay:54:51112)
+[2026-07-04T12:32:55.401Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at dc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T12:32:55.401Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: destroyed
+    at at pc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T12:32:55.409Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new kn (plugin:system3-relay:54:48625)
+[2026-07-04T12:32:55.409Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new dc (plugin:system3-relay:54:46967)
+[2026-07-04T12:32:55.409Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: created
+    at at new pc (plugin:system3-relay:54:47784)
+[2026-07-04T12:32:55.409Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:55.409Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:55.409Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:55.409Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:55.410Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:55.410Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:55.410Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:55.410Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Fp (plugin:system3-relay:54:52478)
+[2026-07-04T12:32:55.410Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at Co.patch (plugin:system3-relay:54:44286)
+[2026-07-04T12:32:55.410Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at Co.patch (plugin:system3-relay:54:44772)
+[2026-07-04T12:32:55.410Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]: created
+    at at new Up (plugin:system3-relay:56:7044)
+[2026-07-04T12:32:55.412Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 12ms [LiveViews][layout-change]
+    at at Ac._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T12:32:55.413Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering all components for mode: source
+    at at kn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T12:32:55.413Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Skipping render - not in preview mode
+    at at dc.render (plugin:system3-relay:54:47196)
+[2026-07-04T12:32:55.413Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: Rendering metadata from document
+    at at pc.render (plugin:system3-relay:54:47993)
+[2026-07-04T12:32:55.413Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md]]: No frontmatter found in document
+    at at pc.render (plugin:system3-relay:54:48279)
+[2026-07-04T12:32:55.413Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Script/French/03 - The before party.md]]: ViewHookPlugin initialized
+    at at kn.initialize (plugin:system3-relay:54:51037)
+[2026-07-04T12:33:06.877Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:33:06.877Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:33:06.877Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:33:06.877Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:33:06.877Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:33:06.877Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:33:06.877Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:33:06.883Z] [WARN] [System 3][Relay]: Webviewer plugin not found or not initialized
+    at at au.patchWebviewer (plugin:system3-relay:134:5271)
+[2026-07-04T12:33:06.883Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/auth-methods {
+  "method": "GET",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:33:06.899Z] [DEBUG] [postie]: send er q=>t(20,r=q)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:06.900Z] [DEBUG] [postie]: send Al pe=>t(5,u=pe)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:06.900Z] [DEBUG] [postie]: send n pe=>t(45,i=pe)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:06.900Z] [DEBUG] [postie]: send n g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:06.900Z] [DEBUG] [postie]: send n g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:06.900Z] [DEBUG] [postie]: send n g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:06.900Z] [DEBUG] [postie]: send er re=>t(7,o=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:06.900Z] [DEBUG] [postie]: send er re=>t(8,a=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:06.900Z] [DEBUG] [postie]: send Yl re=>t(6,r=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.042Z] [LOG] [Al]: Warning: unable to find provider: oidc
+    at at Al.initiateManualOAuth2CodeFlow (plugin:system3-relay:33:16413)
+[2026-07-04T12:33:07.045Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.109Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.109Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.109Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.109Z] [DEBUG] [postie]: send er q=>t(20,r=q)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.109Z] [DEBUG] [postie]: send er re=>t(7,o=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.255Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.255Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.255Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.255Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.255Z] [DEBUG] [postie]: send er q=>t(20,r=q)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.255Z] [DEBUG] [postie]: send er re=>t(7,o=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.276Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.276Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.276Z] [DEBUG] [postie]: send er q=>t(20,r=q)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.277Z] [DEBUG] [postie]: send er re=>t(7,o=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:07.277Z] [DEBUG] [postie]: send er re=>t(8,a=re)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:10.041Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:33:10.041Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 18m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:33:16.103Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relays/records/ap6jjyjhmg0qvj9 {
+  "method": "GET",
+  "query": {
+    "expand": "relay_roles_via_relay,shared_folders_via_relay,storage_quota"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:33:16.125Z] [DEBUG] [postie]: send Sd Y=>t(14,u=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send rd Y=>t(17,y=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send rd g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send Yl Y=>t(24,E=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send rd g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send Yl g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send er Y=>t(13,a=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send rd Y=>t(15,p=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send rd g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send id Y=>t(29,G=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.126Z] [DEBUG] [postie]: send rd Y=>t(9,r=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er I=>{this.remote=I.find(L=>L.guid==this.guid)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send Sd o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er async I=>{let L=I.find(C=>{var S;return C.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});L!==void 0&&this.storageQuota!==L.quota&&(this.storageQuota!==void 0&&L.quota!==void 0&&L.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,L.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,L.quota),this.storageQuota=L.quota)}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er q=>t(20,r=q)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send Sd Y=>t(14,u=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send rd Y=>t(17,y=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send rd g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send rd g=>{c[y]=g,u&=~(1<<y),l&&d()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er Y=>t(13,a=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er ()=>{let o=new Map;this.parentMap.forEach((s,i)=>{this.predicate(s,i)&&o.set(i,s)}),this._map=o,this.notifyListeners()}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send rd Y=>t(9,r=Y)
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.605Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:33:16.606Z] [DEBUG] [postie]: send er ()=>{let i=this.evaluate();i!==this.currentValue&&(this.currentValue=i,this.notifyListeners())}
+    at at yt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T12:34:10.029Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:34:10.030Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 17m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 17m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:35:10.030Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:35:10.031Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 16m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:36:09.841Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "4idgafMueEdWmrYeI1PDHhhRgN0u5B2cNdH1Vf4B",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Al.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T12:36:10.038Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at El.log (plugin:system3-relay:33:19797)
+[2026-07-04T12:36:10.038Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 15m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 15m)
+Stale Tokens:
+Queue size: 0
+    at at El.log (plugin:system3-relay:33:19797)

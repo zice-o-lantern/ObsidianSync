@@ -73,57 +73,6 @@
               "icon": "lucide-file",
               "title": "03 - The before party"
             }
-          },
-          {
-            "id": "eafdff16f02b2610",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -124,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Luke is changing"
-            }
-          },
-          {
-            "id": "2b45ec85ce094b99",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
-                "viewState": {
-                  "x": 385.30597138169264,
-                  "y": 748.6765780563151,
-                  "zoom": -0.5993026139060234
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Isaac listens to Radio Podcast"
-            }
-          },
-          {
-            "id": "db057865c5f03eda",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
-                "viewState": {
-                  "x": 158.5,
-                  "y": 567.8512221041447,
-                  "zoom": -0.6688435471591001
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Luke is changing"
-            }
           }
         ],
         "currentTab": 2
@@ -189,8 +138,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -323,7 +271,7 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "604df6b020e6e2cc",
+  "active": "bf0b3ee1b6bbdaef",
   "lastOpenFiles": [
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
