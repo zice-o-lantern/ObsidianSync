@@ -35,7 +35,7 @@
   "enablePreviewViewHooks": true,
   "enableMetadataViewHooks": true,
   "enableKanbanView": true,
-  "debugging": true,
+  "debugging": false,
   "enableSyncMenu": true,
   "enableAttachmentSync": true,
   "enableDocumentServer": true,
