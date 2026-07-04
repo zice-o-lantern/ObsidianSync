@@ -12,11 +12,14 @@ Je te l’avais dit.
 <span style="color:rgb(255, 222, 0)">I already told you that</span>
 
 Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
+<span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser</span>
 
 [[Luke|LUCAS]]
 Tu ranges où tes balais ?
+<span style="color:rgb(255, 222, 0)">Where do you keep your brooms?</span>
 
 Je me tire la peau des arcades
+<span style="color:rgb(255, 222, 0)">
 
 [[Isaac|ISAAC]]
 Au fond, en dessous des escaliers.
@@ -79,7 +82,7 @@ Arrête d’exagérer… je pue pas quand même.
 Il sent son aisselle.
 
 [[Luke|LUCAS]]
-Ça va.
+Ça va<span style="color:rgb(126, 114, 218)">aaaaaaaaaa</span>.
 
 Je saisis sa chemise et la renifle.
 
@@ -90,7 +93,7 @@ Tu empestes la sueur !
 C’est peut être vrai. Et alors ?
 
 [[Isaac|ISAAC]]
-Et alors que tu vas prendre une douche, voilà tout.
+Et alors que tu vas prendre une douche, voilà tout~~.~~
 
 [[Luke|LUCAS]]
 J’ai pas d’habits de rechange !
@@ -102,7 +105,7 @@ Mais t’allais pas faire une soirée dans cette tenue quand même !
 … si ?
 
 [[Isaac|ISAAC]]
-Oh que tu m’énerves !
+~~Oh que~~ <span style="color:rgb(126, 114, 218)">Arrrrgh</span>, tu m’énerves !
 
 Je lui traine par le bras à travers la maison dans la salle de bain.
 
@@ -153,10 +156,10 @@ Il dit, le sourire aux lèvres. Mes yeux ne lâchent pas ses jambes.
 Mets-en un. La maison est sale et tu devrais pas laisser ta… peau toucher la poussière comme ça. 
 
 [[Luke|LUCAS]]
-Sûrement mais je trouve rien.
+~~Sûrement~~ <span style="color:rgb(126, 114, 218)">Oui</span> mais je trouve rien.
 
 [[Isaac|ISAAC]]
-C’est que tu n’as pas assez cherché. Normalement y a des joggings que tu peux mettre. Tu as regardé dans ma chambre, dans le tiroir en bas de l’armoire ?
+~~C’est que t~~<span style="color:rgb(126, 114, 218)">T</span>u n’as pas assez cherché. Normalement y a des joggings que tu peux mettre. Tu as regardé dans ma chambre, dans le tiroir en bas de l’armoire ?
 
 [[Luke]] lève les yeux au ciel et se dandine sur ses jambes.
 
@@ -169,7 +172,8 @@ Mensonges.
 T’as sûrement mal cherché 
 
 [[Luke|LUCAS]]
-Roooooh, t’as si peu confiance en moi ? 
+Roooooh, t’as si peu confiance en moi ?
+
 Je glousse, dissimulant les picotements qui me montent aux mains.
 
 [[Isaac|ISAAC]]
@@ -181,7 +185,7 @@ Et si je te disais oui ?
 Il dit un sourire au coin de ses lèvres. Je roule des yeux, un petit rire m’échappe.
 
 [[Isaac|ISAAC]]
-Bon [[Luke]], va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café.
+Bon [[Luke]], va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café <span style="color:rgb(126, 114, 218)">si tu montes</span>.
 
 [[Luke|LUCAS]]
 Vraiment ???
