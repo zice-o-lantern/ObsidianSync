@@ -1338,6 +1338,10 @@
           "optionValues": {}
         },
         {
+          "id": "remove-strikethroughs",
+          "optionValues": {}
+        },
+        {
           "id": "prepend-title",
           "optionValues": {
             "format": "$3{#} $1",

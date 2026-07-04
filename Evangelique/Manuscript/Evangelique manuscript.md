@@ -58,7 +58,7 @@ ISAAC
 … Allo.
 
 LUCAS
-~~Oh enfin te voilà ! Tu m’as manqué tu sais ?~~ Cacacacaaaa</span>
+~~Oh enfin te voilà ! Tu m’as manqué tu sais ?~~ Cacacacaaaa
 
 Je lève ma montre.
 

@@ -75,77 +75,12 @@
             }
           },
           {
-            "id": "a8847c7118e6f45f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evangelique/Manuscript/Evangelique manuscript.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Evangelique manuscript"
-            }
-          },
-          {
-            "id": "a5ea40a27d79cc10",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
-                "viewState": {
-                  "x": 153.68766215612482,
-                  "y": 1151.7102798293877,
-                  "zoom": -1.829308219352346
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Luke is changing"
-            }
-          },
-          {
-            "id": "811f5d12218ea166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Saccharine Edits 00 - Incipit"
-            }
-          },
-          {
             "id": "83d4144e3ec7bdaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cesare"
+              "title": "03 - The before party - First Draft"
             }
           }
         ],
@@ -227,8 +162,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -363,14 +297,21 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "a8847c7118e6f45f",
+  "active": "83d4144e3ec7bdaa",
   "lastOpenFiles": [
-    "Evangelique/02 - Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Evangelique/Manuscript/Evangelique manuscript.md",
+    "Scripts/remove-color-tags - Copy.js",
+    "Evangelique/Manuscript/Evangelique manuscript.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
+    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
+    "Evangelique/02 - Lucas’ Call.md",
     "Evangelique/Manuscript",
     "Scripts/tes - Copy.js",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Evangelique/Evangelique manuscript.md",
     "Scripts/remove-color-tags.js",
     "Scripts/tes.js.md",
@@ -383,27 +324,20 @@
     "Evangelique/02 - Lucas’ Call.md.md",
     "Evangelique/Index.md",
     "Evangelique/manuscript.md",
-    "Evangelique/02 - Lucas’ Call.md.edtz",
     "Evangelique/01 - Grandma.md",
     "Evangelique/00 - Incipit.md",
     "Evangelique/03_A - Stay in the room.md",
     "Evangelique/04 - Why did you quit.md",
     "Evangelique/03_B - Flee.md",
     "Evangelique/03 - The before party.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French 1",
-    "Evangelique/Index.md.edtz",
-    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/03 - Index/Characters/Luke.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_B - Flee.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_A - Stay in the room.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
     "Old Stuff/03 - Index/Characters/Luke.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/04 - why did you quit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/murky waters/murky waters - telegram transcriptions/Transcription on Catholic terminology.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/02 - Attachments/Icons/shush.png",
