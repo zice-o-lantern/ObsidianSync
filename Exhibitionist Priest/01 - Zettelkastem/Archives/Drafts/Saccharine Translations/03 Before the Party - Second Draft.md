@@ -507,7 +507,7 @@ Lorsqu’il m’a pris dans les bras, ma jambe s’est retrouvé dans son entrej
 Je me retire de son étreinte, le regard au sol, mes mains tirant mon haut le plus bas possible.
 
 ##### Rester dans la chambre
-**$\quad$ Jump to [[Exhibitionist Priest/01 - Zettelkastem/Script/French/03_A - Stay in the room]]
+**$\quad$ Jump to [[03_A - Stay in the room]]
 
 ##### Fuir
-**$\quad$ Jump to [[Exhibitionist Priest/01 - Zettelkastem/Script/French/03_B - Flee]]
+**$\quad$ Jump to [[03_B - Flee]]

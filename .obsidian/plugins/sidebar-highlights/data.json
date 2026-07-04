@@ -745,85 +745,8 @@
         "type": "highlight"
       }
     ],
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md": [
-      {
-        "id": "7pph3xf8r",
-        "text": "<span style=\"color:rgb(126, 114, 218)\">Hey</span>",
-        "tags": [],
-        "line": 14,
-        "startOffset": 258,
-        "endOffset": 311,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 6,
-        "footnoteContents": [
-          "M: question about greetings, are you shortening anything/doing any lingo for greetings/goodbyes?",
-          "S: actually in french when you greet someone in a phone call you say \"Allo\" who is a deformed version of Hello so in the original text they're already saying a kind of lingo",
-          "M: that's what I thought might be happening, it felt like a translater thing hehe",
-          "S: I mean i was thinking of fnaf phone guy also",
-          "M: testing if this works, kind of a weird system",
-          "S: yeah lol"
-        ],
-        "createdAt": 1774362713516,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "agktfgyji",
-        "text": "~~, hehe~~",
-        "tags": [],
-        "line": 29,
-        "startOffset": 550,
-        "endOffset": 564,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 6,
-        "footnoteContents": [
-          "M: Should we do more like... **He laughs** type thing or do you prefer typing it out? okay formatting text doesnt work in these things, thats meant to be italicized.",
-          "S: Hmm the thing is as it's destined to be a visual novel, every action verbs used to describe how someone talks can break the flow like the *He laughs* will have to be put into a different dialogue bubble than \"Oh I'm just teasing you\" and i think it's easier to put it inside the dialogue directly than to create another bubble solely to describe an action. I sometimes break this rule for a meaningful action but when an onomatopoeia can be used instead, i don't bother",
-          "M: My biggest concern is that it sort of breaks the established flow within the text itself by swapping betwen onomatopoeia, partially because within english writing rules this is one of those things where we are taught young to \"pick one\" and be consistent with, as far as the flow of creative writing. We can just roll with it how it is, but as for a localization thing, it's something to consider/put a pin in for now and see how it feels in implementation. I was imagining the text bubble for these scene being \"Oh, I'm just teasing you.\" _He laughs_ as one continuous thought and not two separate bubbles.",
-          "Yeah but on the other hand, i think it breaks the flow to make a new bubble just to say he's laughing",
-          "You misunderstand what I'm saying, it wouldn't be two bubbles but 1!",
-          "I don't see how that would work in a vn environment"
-        ],
-        "createdAt": 1774521551779,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "pcromwgfj",
-        "text": "He’d never ~~dare~~ tell me I’m bothering him",
-        "tags": [],
-        "line": 81,
-        "startOffset": 2137,
-        "endOffset": 2186,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 2,
-        "footnoteContents": [
-          "M: The usage of the term dare here in english makes it sound like a threat LOL",
-          "S: fair lol"
-        ],
-        "createdAt": 1782745858353,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "e8rmw1ynm",
-        "text": "This house is weird. It’s messing with me. I know it. Things are never where they’re supposed to be. I can never find anything. Or <span style=\"color:rgb(232, 17, 93)\">when </span>I find them, <span style=\"color:rgb(232, 17, 93)\">they're</span>~~but~~ on the other side of the house. In the morning I wake up with stains on the sheets. Colorless. <span style=\"color:rgb(232, 17, 93)\">Water, maybe?</span>~~Water? Maybe.~~ The smell is unbearable. It smells like mold. I had Lucas smell it so he could tell me what it was. He told me it smelled like nothing",
-        "tags": [],
-        "line": 92,
-        "startOffset": 2372,
-        "endOffset": 2932,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
-        "footnoteCount": 2,
-        "footnoteContents": [
-          "M: I changed the order of the question mark/uncertainty emphasis to better flow with english speaking patterns. more of a localization thing",
-          "S: sure thanks!"
-        ],
-        "createdAt": 1782745858577,
-        "isNativeComment": false,
-        "type": "highlight"
-      }
-    ],
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md": [
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md": [],
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md": [
       {
         "id": "nmky1h3jw",
         "text": "Note",
@@ -831,7 +754,7 @@
         "line": 9,
         "startOffset": 119,
         "endOffset": 127,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: <span style=\"color:rgb(232, 17, 93)\">(I'm making this note halfway through editing the body, I mostly wanted to say I've removed some commas for the sake of english reading flow, I think we discussed this with the prior piece I worked on for you before though.)</span>",
@@ -848,7 +771,7 @@
         "line": 11,
         "startOffset": 203,
         "endOffset": 354,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 3,
         "footnoteContents": [
           "S: I changed the sentence here because there's now a similar sentence at the bottom",
@@ -866,7 +789,7 @@
         "line": 13,
         "startOffset": 958,
         "endOffset": 1169,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 4,
         "footnoteContents": [
           "M: (Alternative turn of phrase here: \"Plus, it puts your whole life on hold. Not that I had much going on to begin with.\". We should go over the essence of the phrase in your original language.)",
@@ -885,7 +808,7 @@
         "line": 16,
         "startOffset": 1389,
         "endOffset": 1457,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: Did you mean excited? Euphoric is a bit more physical in english contexts, even over the top of ecstasy, which is why it was used in the contexts of something like the show Euphoria in reference to drug use. Totally okay if you meant it this way, just needed to give context for the english understanding of the word",
@@ -902,7 +825,7 @@
         "line": 16,
         "startOffset": 1614,
         "endOffset": 1766,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 9,
         "footnoteContents": [
           "M: Leaving a note here to see the original intent of the tactile element here. I wouldnt say styrofoam normally evokes a numb feeling in my mind!",
@@ -926,7 +849,7 @@
         "line": 16,
         "startOffset": 2352,
         "endOffset": 2361,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "S: test of footnote",
@@ -943,7 +866,7 @@
         "line": 18,
         "startOffset": 3037,
         "endOffset": 3106,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 3,
         "footnoteContents": [
           "M: Possible turn of phrase: \"I think.\" instead of I believe. If this is meant to express uncertainty of even their ages",
@@ -961,7 +884,7 @@
         "line": 20,
         "startOffset": 3504,
         "endOffset": 3547,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 3,
         "footnoteContents": [
           "M: Is this a thing in france??? Americans are famously litigious so i literally cannot fathom a town without a lawyer haha. Unless you're like in the middle of nowhere.",
@@ -979,7 +902,7 @@
         "line": 25,
         "startOffset": 5652,
         "endOffset": 5803,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 3,
         "footnoteContents": [
           "M: Perhaps instead of a period we could do a comma here: \"It's a really good camera, especially for a hobbyist.\"",
@@ -997,7 +920,7 @@
         "line": 27,
         "startOffset": 6068,
         "endOffset": 6274,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 5,
         "footnoteContents": [
           "M: A chance for emphasis. The character doesnt seem to curse, but it would be cute to see \"darn\" show up again here: \"Ever since day one, all those darn curtains have been stressing me out-- and I've never even seen the neighbor's face",
@@ -1017,7 +940,7 @@
         "line": 29,
         "startOffset": 7016,
         "endOffset": 7199,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: We should explore different phrasing here: \"I manage to catch a glimpse of a woman inside the room.\" or \"I manage to catch a glimpse of something-- a woman in the room.\"",
@@ -1034,7 +957,7 @@
         "line": 30,
         "startOffset": 7715,
         "endOffset": 7794,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "M: whiting is a type of fish in english hehehe"
@@ -1050,7 +973,7 @@
         "line": 30,
         "startOffset": 8035,
         "endOffset": 8100,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "M: Here is when I realized the bird was in Isaac's windowsill and not the neighbor's windowsill. Made some adjustments to prior text"
@@ -1066,7 +989,7 @@
         "line": 34,
         "startOffset": 9341,
         "endOffset": 9425,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 4,
         "footnoteContents": [
           "S: maybe it's this part i find cheesy",
@@ -1085,7 +1008,7 @@
         "line": 35,
         "startOffset": 9836,
         "endOffset": 9998,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
         "footnoteCount": 5,
         "footnoteContents": [
           "M: I like that I didnt need to edit much down here, you nailed it as far as the ending paragraphs go",
@@ -1099,23 +1022,7 @@
         "type": "highlight"
       }
     ],
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md": [
-      {
-        "id": "9cln51d9e",
-        "text": "toujours",
-        "tags": [],
-        "line": 12,
-        "startOffset": 534,
-        "endOffset": 546,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/01 - Grandma - First Draft.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1775209474197,
-        "isNativeComment": false,
-        "type": "highlight"
-      }
-    ],
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md": [
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md": [
       {
         "id": "ot4fgza4f",
         "text": "walks past me, ~~ignoring me~~,",
@@ -1123,7 +1030,7 @@
         "line": 14,
         "startOffset": 624,
         "endOffset": 659,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "M: alternative turn of phrase \"Lucas ignores me, walking past and tossing his satchel onto the dresser by the entrance.\""
@@ -1139,7 +1046,7 @@
         "line": 58,
         "startOffset": 1743,
         "endOffset": 1809,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "S: I'm sure it doesn't work like that in english, but in the orignal text, Is makes an affirmative statement instead of a observation beccause it's less heavy and makes the pacing of the sentence cool, i don't know if we can do the same in english",
@@ -1156,7 +1063,7 @@
         "line": 61,
         "startOffset": 1884,
         "endOffset": 1895,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: alternative turn of phrase: \"Yeah well, we're in a hurry, so how about we get to work.\"",
@@ -1173,7 +1080,7 @@
         "line": 77,
         "startOffset": 2256,
         "endOffset": 2354,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 3,
         "footnoteContents": [
           "M: alternate phrase: \"Stop exaggerating... I'm not that dirty-- I dont even stink.\"",
@@ -1191,7 +1098,7 @@
         "line": 111,
         "startOffset": 2967,
         "endOffset": 3084,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: Nothing needs to be fixed here I just really like this part of the scene, it is both a little tantalizing to some folks but also really cute imagery since Isaac is taller so although Lucas is chubby, Isaac's clothes really can fit him in a cute way :3",
@@ -1208,7 +1115,7 @@
         "line": 121,
         "startOffset": 3787,
         "endOffset": 3803,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 3,
         "footnoteContents": [
           "M: Actually, what grades are highschool in france? I sometimes forget that the ways we discuss certain levels of schooling is different and I want to make sure I understand the context well. When we finish highschool, we say that we graduated highschool (age 18 usually, after our 13th year of schooling, or the end of public schooling for most.)",
@@ -1226,7 +1133,7 @@
         "line": 121,
         "startOffset": 3830,
         "endOffset": 3838,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: do you think using the world follow instead of come with could be more evocative :3? I think this part reads just fine without it otherwise, just a minor thought. \"He didn't follow me to the same college.\"/\"He didn't follow me to college.\"",
@@ -1243,7 +1150,7 @@
         "line": 121,
         "startOffset": 3932,
         "endOffset": 4029,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 3,
         "footnoteContents": [
           "M: Alternative turn of phrase \"He managed to get into one within driving distance.\"/\"He managed to find one within driving distance.\"",
@@ -1261,7 +1168,7 @@
         "line": 121,
         "startOffset": 4278,
         "endOffset": 4400,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: Alt. phrase: \"[...]certainly not my father-- we don't even look alike!\" if it's meant to feel more exasperated, if it's meant to be more dry/normal tone then it works perfectly fine as is :3",
@@ -1278,7 +1185,7 @@
         "line": 123,
         "startOffset": 5041,
         "endOffset": 5054,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: \"Normally, they'd just hang limply.\" I didn't mark this one as a normal mark up because both work just fine, your preference for which is used (\"normally\"/\"otherwise\") :3!",
@@ -1295,7 +1202,7 @@
         "line": 131,
         "startOffset": 5386,
         "endOffset": 5424,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M:  wow lucas......how insensitive hehehehe >:3",
@@ -1312,7 +1219,7 @@
         "line": 144,
         "startOffset": 6191,
         "endOffset": 6391,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "M: I think I would just structure this a little different for english, depending on the meaning: \"Lucas is on the floor, groaning in pain, trying to life himself up.\" if he's meant to be like fallen forward and sorta onto his face/using his arms to get up. If he's meant to have hurt his arm I might say: \"Lucas is on the floor, holding his arms and groaning. He looks like he's trying to get up.\""
@@ -1328,7 +1235,7 @@
         "line": 147,
         "startOffset": 6433,
         "endOffset": 6524,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: Alt punctuation: \"Oh my god, Lucas! Are you okay???\", I quite like the triple punctuation :3 so I'd like for us to keep it throughout",
@@ -1345,7 +1252,7 @@
         "line": 150,
         "startOffset": 6551,
         "endOffset": 6632,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "M: Like with hello versus hey, \"Ow, ow, ow...\" might be closer to what you were going for :3"
@@ -1361,7 +1268,7 @@
         "line": 202,
         "startOffset": 8568,
         "endOffset": 8600,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: damn lucas what kinda brothers do you got ,':3 let me see that family reunion",
@@ -1378,7 +1285,7 @@
         "line": 204,
         "startOffset": 8871,
         "endOffset": 8890,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: one way I like that this is sorta a different kind of freaky but still a little freaky in the sorta dynamics kinda way that some people will quite like, like theres an element of taboo to either relationship's indulgences :3 It makes it feel less like Lucas is a super normal route with no hang ups/things stopping you in a way thats texturally interesting.",
@@ -1395,7 +1302,7 @@
         "line": 214,
         "startOffset": 9713,
         "endOffset": 9782,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
           "M: I like how this one ends! Excited for the next part :3",
@@ -1406,7 +1313,166 @@
         "type": "highlight"
       }
     ],
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md": []
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md": [
+      {
+        "id": "7pph3xf8r",
+        "text": "<span style=\"color:rgb(126, 114, 218)\">Hey</span>",
+        "tags": [],
+        "line": 14,
+        "startOffset": 258,
+        "endOffset": 311,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
+        "footnoteCount": 6,
+        "footnoteContents": [
+          "M: question about greetings, are you shortening anything/doing any lingo for greetings/goodbyes?",
+          "S: actually in french when you greet someone in a phone call you say \"Allo\" who is a deformed version of Hello so in the original text they're already saying a kind of lingo",
+          "M: that's what I thought might be happening, it felt like a translater thing hehe",
+          "S: I mean i was thinking of fnaf phone guy also",
+          "M: testing if this works, kind of a weird system",
+          "S: yeah lol"
+        ],
+        "createdAt": 1774362713516,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "agktfgyji",
+        "text": "~~, hehe~~",
+        "tags": [],
+        "line": 29,
+        "startOffset": 550,
+        "endOffset": 564,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
+        "footnoteCount": 6,
+        "footnoteContents": [
+          "M: Should we do more like... **He laughs** type thing or do you prefer typing it out? okay formatting text doesnt work in these things, thats meant to be italicized.",
+          "S: Hmm the thing is as it's destined to be a visual novel, every action verbs used to describe how someone talks can break the flow like the *He laughs* will have to be put into a different dialogue bubble than \"Oh I'm just teasing you\" and i think it's easier to put it inside the dialogue directly than to create another bubble solely to describe an action. I sometimes break this rule for a meaningful action but when an onomatopoeia can be used instead, i don't bother",
+          "M: My biggest concern is that it sort of breaks the established flow within the text itself by swapping betwen onomatopoeia, partially because within english writing rules this is one of those things where we are taught young to \"pick one\" and be consistent with, as far as the flow of creative writing. We can just roll with it how it is, but as for a localization thing, it's something to consider/put a pin in for now and see how it feels in implementation. I was imagining the text bubble for these scene being \"Oh, I'm just teasing you.\" _He laughs_ as one continuous thought and not two separate bubbles.",
+          "Yeah but on the other hand, i think it breaks the flow to make a new bubble just to say he's laughing",
+          "You misunderstand what I'm saying, it wouldn't be two bubbles but 1!",
+          "I don't see how that would work in a vn environment"
+        ],
+        "createdAt": 1774521551779,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "pcromwgfj",
+        "text": "He’d never ~~dare~~ tell me I’m bothering him",
+        "tags": [],
+        "line": 81,
+        "startOffset": 2137,
+        "endOffset": 2186,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
+        "footnoteCount": 2,
+        "footnoteContents": [
+          "M: The usage of the term dare here in english makes it sound like a threat LOL",
+          "S: fair lol"
+        ],
+        "createdAt": 1782745858353,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "e8rmw1ynm",
+        "text": "This house is weird. It’s messing with me. I know it. Things are never where they’re supposed to be. I can never find anything. Or <span style=\"color:rgb(232, 17, 93)\">when </span>I find them, <span style=\"color:rgb(232, 17, 93)\">they're</span>~~but~~ on the other side of the house. In the morning I wake up with stains on the sheets. Colorless. <span style=\"color:rgb(232, 17, 93)\">Water, maybe?</span>~~Water? Maybe.~~ The smell is unbearable. It smells like mold. I had Lucas smell it so he could tell me what it was. He told me it smelled like nothing",
+        "tags": [],
+        "line": 92,
+        "startOffset": 2372,
+        "endOffset": 2932,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
+        "footnoteCount": 2,
+        "footnoteContents": [
+          "M: I changed the order of the question mark/uncertainty emphasis to better flow with english speaking patterns. more of a localization thing",
+          "S: sure thanks!"
+        ],
+        "createdAt": 1782745858577,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/01 - Grandma - First Draft.md": [
+      {
+        "id": "9cln51d9e",
+        "text": "toujours",
+        "tags": [],
+        "line": 12,
+        "startOffset": 534,
+        "endOffset": 546,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/01 - Grandma - First Draft.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1775209474197,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md": [
+      {
+        "id": "c8k8ygv89",
+        "text": " FR ",
+        "tags": [],
+        "line": 0,
+        "startOffset": 0,
+        "endOffset": 8,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " FR "
+        ],
+        "createdAt": 1783207733422,
+        "isNativeComment": true,
+        "type": "comment"
+      },
+      {
+        "id": "9mkox8o36",
+        "text": " bl ",
+        "tags": [],
+        "line": 0,
+        "startOffset": 83,
+        "endOffset": 91,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " bl "
+        ],
+        "createdAt": 1783207791434,
+        "isNativeComment": true,
+        "type": "comment"
+      },
+      {
+        "id": "ku9od0287",
+        "text": " bl ",
+        "tags": [],
+        "line": 0,
+        "startOffset": 176,
+        "endOffset": 184,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " bl "
+        ],
+        "createdAt": 1783207796405,
+        "isNativeComment": true,
+        "type": "comment"
+      },
+      {
+        "id": "2veuwluq8",
+        "text": " EN ",
+        "tags": [],
+        "line": 1,
+        "startOffset": 203,
+        "endOffset": 211,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " EN "
+        ],
+        "createdAt": 1783207813889,
+        "isNativeComment": true,
+        "type": "comment"
+      }
+    ]
   },
   "collections": {},
   "groupingMode": "none",

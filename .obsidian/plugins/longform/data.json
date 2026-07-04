@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md",
+  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
   "userScriptFolder": "Scripts",
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-07-04T22:40:50.111Z",
-      "total": 0,
+      "total": 4092,
       "drafts": {
         "Evangelique/Index.md": {
           "total": 0,
@@ -49,6 +49,16 @@
         "HI/Index.md": {
           "total": 0,
           "scenes": {}
+        },
+        "Exhibitionist Priest/Script/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md": {
+          "total": 4092,
+          "scenes": {
+            "03 Before the Party": 4092
+          }
         }
       }
     },
@@ -1328,8 +1338,8 @@
         }
       ]
     },
-    "English": {
-      "name": "English",
+    "Custom": {
+      "name": "Custom",
       "description": "",
       "steps": [
         {

@@ -51,13 +51,13 @@
             }
           },
           {
-            "id": "c18b82dd2812fee2",
+            "id": "97dde141d2a7633e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
-                "mode": "preview",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03 - The before party - First Draft"
+              "title": "03 Before the Party"
             }
           }
         ],
@@ -138,7 +138,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -273,28 +274,32 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "bf0b3ee1b6bbdaef",
+  "active": "97dde141d2a7633e",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/03 Before the Party - Second Draft 1.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives",
+    "Evangelique/03 - The before party.md",
+    "Exhibitionist Priest/Script/Index.md.edtz",
+    "Exhibitionist Priest/Script/Index.md",
+    "Exhibitionist Priest/Script",
     "HI/Index.md.edtz",
     "HI/Index.md",
     "HI",
     "Evangelique/Manuscript/Evangelique manuscript.md",
-    "Evangelique/03 - The before party.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Scripts/remove-english-localisation.js",
     "Scripts/add-break-lines - Copy.js",
-    "Scripts/add-break-lines.js",
-    "Scripts/remove-color-tags - Copy.js",
-    "Evangelique/03 - The before party.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md.edtz",
     "Evangelique/02 - Lucas’ Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/03 - The before party - First Draft.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/02 - Lucas’ Call English - First draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
-    "Evangelique/Manuscript/Evangelique manuscript.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Evangelique/Evangelique manuscript.md",
@@ -309,11 +314,7 @@
     "Evangelique/04 - Why did you quit.md",
     "Evangelique/03_B - Flee.md",
     "Exhibitionist Priest/03 - Index/Characters/Luke.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_B - Flee.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03_A - Stay in the room.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/02 - Attachments/Icons/shush.png",
