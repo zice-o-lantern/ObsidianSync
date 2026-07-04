@@ -1,13 +1,4 @@
----
-created: 2026-03-13T22:32:00
-characters:
-  - "[[Isaac]]"
-  - "[[Lucas]]"
-done:
----
 # L’appel de [[Lucas]]
-
-À ce moment-là, mon téléphone sonne ~~alors~~<span style="color:rgb(126, 114, 218)">. Une sonnerie  J</span>e le sors. C’est [[Lucas]]. Je décroche.
 
 [[Lucas|LUCAS]]
 Allo ? Allo alloooooooo !
