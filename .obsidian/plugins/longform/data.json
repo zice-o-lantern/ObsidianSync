@@ -1299,7 +1299,7 @@
         {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": "\\n\\n---\\n\\n"
+            "separator": "\n\n"
           }
         },
         {
@@ -1307,19 +1307,6 @@
           "optionValues": {
             "target": "manuscript.md",
             "open-after": true
-          }
-        }
-      ]
-    },
-    "Test": {
-      "name": "Test",
-      "description": "",
-      "steps": [
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$1",
-            "separator": "\n\n"
           }
         }
       ]
