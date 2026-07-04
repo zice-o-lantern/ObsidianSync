@@ -1,4 +1,4 @@
-Il 
+
 
 Finalement il est arrivé au bout de dix minutes au lieu de trente minutes. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
 

@@ -7,7 +7,7 @@ done:
 ---
 # L’appel de [[Lucas]]
 
-À ce moment-là, mon téléphone sonne alors je le sors. C’est [[Lucas]]. Je décroche.
+À ce moment-là, mon téléphone sonne ~~alors~~ je le sors. C’est [[Lucas]]. Je décroche.
 
 [[Lucas|LUCAS]]
 Allo ? Allo alloooooooo !
