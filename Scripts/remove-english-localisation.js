@@ -1,5 +1,5 @@
 compile = (input, context) => {
-  const EN_REGEX = /%% EN %%(.*?)\W/gm;
+  const EN_REGEX = /%% EN %%(.*?)\n/gm;
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       return {

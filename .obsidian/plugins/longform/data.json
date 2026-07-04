@@ -1,24 +1,17 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Evangelique/Index.md",
+  "selectedDraftVaultPath": "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md",
   "userScriptFolder": "Scripts",
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-07-04T22:40:50.111Z",
-      "total": 1,
+      "total": 0,
       "drafts": {
         "Evangelique/Index.md": {
-          "total": 1,
+          "total": 0,
           "scenes": {
-            "00 - Incipit": 0,
-            "01 - Grandma": 0,
-            "02 - Lucas’ Call": 0,
-            "03 - The before party": 1,
-            "03_A - Stay in the room": 0,
-            "03_B - Flee": 0,
-            "04 - Why did you quit": 0,
             "Cafe": 0
           }
         },
@@ -52,6 +45,10 @@
             "Dîner ensemble": 0,
             "Menace à l'Appart'": 0
           }
+        },
+        "HI/Index.md": {
+          "total": 0,
+          "scenes": {}
         }
       }
     },
@@ -1340,10 +1337,6 @@
           "optionValues": {}
         },
         {
-          "id": "Scripts/remove-english-localisation.js",
-          "optionValues": {}
-        },
-        {
           "id": "remove-links",
           "optionValues": {
             "remove-wikilinks": true,
@@ -1359,15 +1352,19 @@
           "optionValues": {}
         },
         {
+          "id": "Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Scripts/remove-english-localisation.js",
+          "optionValues": {}
+        },
+        {
           "id": "remove-comments",
           "optionValues": {
             "remove-markdown-comments": true,
             "remove-html-comments": true
           }
-        },
-        {
-          "id": "Scripts/remove-color-tags.js",
-          "optionValues": {}
         },
         {
           "id": "prepend-title",
