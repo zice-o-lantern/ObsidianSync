@@ -505,3 +505,9 @@ Une fois de plus, mes bras restent brinque-ballants, figés, de pierre ; incapab
 Lorsqu’il m’a pris dans les bras, ma jambe s’est retrouvé dans son entrejambe. Le sang me monte… aux joues
 
 Je me retire de son étreinte, le regard au sol, mes mains tirant mon haut le plus bas possible.
+
+##### Rester dans la chambre
+**$\quad$ Jump to [[03_A - Stay in the room]]
+
+##### Fuir
+**$\quad$ Jump to [[03_B - Flee]]

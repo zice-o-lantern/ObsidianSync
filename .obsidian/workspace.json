@@ -54,24 +54,17 @@
             "id": "a5ea40a27d79cc10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                "viewState": {
+                  "x": -110.41157089836933,
+                  "y": 1590.720438583752,
+                  "zoom": 0.030788327191666354
                 }
               },
-              "icon": "lucide-file",
-              "title": "03 Before the Party - Second Draft"
+              "icon": "lucide-layout-dashboard",
+              "title": "Outline of the story"
             }
           },
           {
@@ -298,8 +291,12 @@
   },
   "active": "a5ea40a27d79cc10",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas.edtz",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md.edtz",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
@@ -332,7 +329,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/03 - The before party.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md",
     "1 - Rough Notes/façon de projeter texture depuis une camera mais de façon permanente.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
     "Exhibitionist Priest/02 - Attachments/Icons/shush.png",
     "Exhibitionist Priest/02 - Attachments/Icons/question-mark.png",
@@ -347,8 +343,6 @@
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011012.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516010751.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516010601.png",
-    "Exhibitionist Priest/01 - Zettelkastem/Renpy Export",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
     "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
