@@ -1,4 +1,3 @@
-<<<<<<<-HEAD
 Finalement il est arrivé au bout de dix minutes au lieu de trente minutes. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
 
 [[Luke|LUCAS]]
@@ -404,5 +403,4 @@ Je me retire de son étreinte, le regard au sol, mes mains tirant mon haut le pl
 [[Isaac|ISAAC]]
 Oui, frères hein… je pense que je vais quand même y aller. La maison va pas se nettoyer toute seule. Change toi vite, il ne reste plus qu’une heure et demie avant que tout le monde arrive.
 
->>>>>>> main
 Je marche d’une foulée rapide vers la porte et la ferme avant qu’il ne puisse parler.
