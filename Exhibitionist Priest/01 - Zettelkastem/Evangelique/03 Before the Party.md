@@ -1,16 +1,16 @@
 %% FR %%Finalement il est arrivé au bout de dix minutes au lieu de trente minutes. %% bl %%Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. %% bl %%Il ouvre la porte.
-%% EN %%<span style="color:rgb(255, 222, 0)">After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. He opens the door</span>
+%% EN %%<span style="color:rgb(255, 222, 0)">After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. %% bl %%He opens the door</span>
 
 [[Luke|LUCAS]]
-Ah oui en effet c’est un peu… poussiéreux 
-<span style="color:rgb(255, 222, 0)">Oh it's a little...dusty in here.</span>
+%% FR %%Ah oui en effet c’est un peu… poussiéreux 
+%% EN %%<span style="color:rgb(255, 222, 0)">Oh <span style="color:rgb(126, 114, 218)">yeah</span> it's a little...dusty in here.</span>
 
-Je croise les bras.
-<span style="color:rgb(255, 222, 0)">I cross my arms.</span>
+%% FR %%Je croise les bras.
+%% EN %%<span style="color:rgb(255, 222, 0)">I cross my arms.</span>
 
 [[Isaac|ISAAC]]
-Je te l’avais dit.
-<span style="color:rgb(255, 222, 0)">I already told you that.</span>
+%% FR %%Je te l’avais dit.
+%% EN %%==<span style="color:rgb(255, 222, 0)">I ~~already~~ told you ~~that~~.</span>==%% <span style="color:rgb(126, 114, 218)">Here it's a more stern "I told you..." like when you tell someone to no do something and they do it anyway</span> %%
 
 Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
 <span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.</span>
