@@ -1409,12 +1409,60 @@
     "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md": [],
     "Evangelique/03 - The before party.md": [
       {
+        "id": "d1vn3g9ki",
+        "text": " EN ",
+        "tags": [],
+        "line": 5,
+        "startOffset": 197,
+        "endOffset": 205,
+        "filePath": "Evangelique/03 - The before party.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " EN "
+        ],
+        "createdAt": 1783205820331,
+        "isNativeComment": true,
+        "type": "comment"
+      },
+      {
+        "id": "cl5w8sosk",
+        "text": " EN ",
+        "tags": [],
+        "line": 7,
+        "startOffset": 249,
+        "endOffset": 257,
+        "filePath": "Evangelique/03 - The before party.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " EN "
+        ],
+        "createdAt": 1783205939157,
+        "isNativeComment": true,
+        "type": "comment"
+      },
+      {
+        "id": "cp04ws2ec",
+        "text": " EN ",
+        "tags": [],
+        "line": 10,
+        "startOffset": 294,
+        "endOffset": 302,
+        "filePath": "Evangelique/03 - The before party.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " EN "
+        ],
+        "createdAt": 1783205940331,
+        "isNativeComment": true,
+        "type": "comment"
+      },
+      {
         "id": "vdnp4hnjz",
         "text": " bl ",
         "tags": [],
         "line": 33,
-        "startOffset": 795,
-        "endOffset": 803,
+        "startOffset": 819,
+        "endOffset": 827,
         "filePath": "Evangelique/03 - The before party.md",
         "footnoteCount": 1,
         "footnoteContents": [
@@ -1429,8 +1477,8 @@
         "text": " bl ",
         "tags": [],
         "line": 33,
-        "startOffset": 907,
-        "endOffset": 915,
+        "startOffset": 930,
+        "endOffset": 938,
         "filePath": "Evangelique/03 - The before party.md",
         "footnoteCount": 1,
         "footnoteContents": [
@@ -1445,8 +1493,8 @@
         "text": " bl ",
         "tags": [],
         "line": 111,
-        "startOffset": 2511,
-        "endOffset": 2519,
+        "startOffset": 2532,
+        "endOffset": 2540,
         "filePath": "Evangelique/03 - The before party.md",
         "footnoteCount": 1,
         "footnoteContents": [
@@ -1461,8 +1509,8 @@
         "text": " bl ",
         "tags": [],
         "line": 111,
-        "startOffset": 2557,
-        "endOffset": 2565,
+        "startOffset": 2577,
+        "endOffset": 2585,
         "filePath": "Evangelique/03 - The before party.md",
         "footnoteCount": 1,
         "footnoteContents": [

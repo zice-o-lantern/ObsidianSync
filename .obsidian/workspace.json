@@ -73,33 +73,9 @@
               "icon": "lucide-file",
               "title": "03 - The before party"
             }
-          },
-          {
-            "id": "15b5681abe7ef89d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evangelique/Manuscript/Evangelique manuscript.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Evangelique manuscript"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -298,10 +274,12 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "15b5681abe7ef89d",
+  "active": "d93ac4a9a188550f",
   "lastOpenFiles": [
-    "Evangelique/03 - The before party.md",
+    "Scripts/remove-english-localisation.js",
+    "Scripts/add-break-lines - Copy.js",
     "Evangelique/Manuscript/Evangelique manuscript.md",
+    "Evangelique/03 - The before party.md",
     "Scripts/add-break-lines.js",
     "Scripts/remove-color-tags - Copy.js",
     "Evangelique/03 - The before party.md.edtz",
@@ -320,7 +298,6 @@
     "Scripts/tes - Copy.js",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Evangelique/Evangelique manuscript.md",
-    "Scripts/remove-color-tags.js",
     "Scripts/tes.js.md",
     "Evangelique/Cafe.md",
     "Evangelique/02 - Lucas’ Call.md.md",
