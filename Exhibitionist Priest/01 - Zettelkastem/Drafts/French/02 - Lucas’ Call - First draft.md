@@ -24,6 +24,8 @@ Il glousse doucement à ses pitreries.
 [[Lucas|LUCAS]]
 Tout se passe bien avec le déménagement ?
 
+<span style="color:rgb(126, 114, 218)">J'ouvre la porte d'entrée pour fuir l'air poussiéreux et miséreux de l'intérieur et je descends doucement les escaliers, puis je m'affale sur l'une des marches</span> 
+
 [[Isaac|ISAAC]]
 Plus ou moins. Je viens de finir.
 
