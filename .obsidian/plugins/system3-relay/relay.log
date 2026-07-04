@@ -13191,3 +13191,1664 @@ Queue size: 0
     at at cc.render (plugin:system3-relay:54:48279)
 [2026-07-04T14:57:08.869Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md
     at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T14:57:56.583Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T14:57:56.584Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 8m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9ee627cd-95ef-4faa-b796-38513f5cbe4d (/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:fd048ec1-31aa-42f1-a8df-36d53cb6619e (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 21m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b7532be9-41c9-42e6-ada9-870edccea634 (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 21m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 21m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:123f602e-d020-48ae-b6d0-ee24a1c41c46 (/01 - Zettelkastem/Saccharine Translations/Untitled.md): 0 attempts, (expires in 22m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T14:58:22.651Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "filter": "id=\"7cm9jf7qvjo05mx\"",
+    "expand": "relay_roles_via_user,relay_roles_via_user.relay,relay_roles_via_user.relay.storage_quota,relay_roles_via_user.role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T14:58:22.651Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T14:58:22.651Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/providers/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T14:58:22.651Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/relay_invitations/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T14:58:22.651Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folders/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,creator"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T14:58:22.651Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/shared_folder_roles/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "user,role"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T14:58:22.651Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/subscriptions/records {
+  "method": "GET",
+  "query": {
+    "page": 1,
+    "perPage": 500,
+    "skipTotal": 1,
+    "expand": "relay,user"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T14:58:22.657Z] [WARN] [System 3][Relay]: Webviewer plugin not found or not initialized
+    at at su.patchWebviewer (plugin:system3-relay:130:15884)
+[2026-07-04T14:58:22.657Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/collections/users/auth-methods {
+  "method": "GET",
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T14:58:22.668Z] [DEBUG] [postie]: send Zt q=>t(20,r=q)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.668Z] [DEBUG] [postie]: send Cl de=>t(5,u=de)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.668Z] [DEBUG] [postie]: send n de=>t(45,i=de)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.668Z] [DEBUG] [postie]: send n y=>{c[g]=y,u&=~(1<<g),l&&d()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.668Z] [DEBUG] [postie]: send n y=>{c[g]=y,u&=~(1<<g),l&&d()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.668Z] [DEBUG] [postie]: send n y=>{c[g]=y,u&=~(1<<g),l&&d()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.668Z] [DEBUG] [postie]: send Zt oe=>t(7,o=oe)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.668Z] [DEBUG] [postie]: send Zt oe=>t(8,a=oe)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.668Z] [DEBUG] [postie]: send Wl oe=>t(6,r=oe)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.814Z] [LOG] [Cl]: Warning: unable to find provider: oidc
+    at at Cl.initiateManualOAuth2CodeFlow (plugin:system3-relay:33:16413)
+[2026-07-04T14:58:22.837Z] [DEBUG] [postie]: send Zt y=>{c[g]=y,u&=~(1<<g),l&&d()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.900Z] [DEBUG] [postie]: send Zt async I=>{let C=I.find(L=>{var S;return L.id===((S=this._remote)==null?void 0:S.relay.storageQuotaId)});C!==void 0&&this.storageQuota!==C.quota&&(this.storageQuota!==void 0&&C.quota!==void 0&&C.quota>this.storageQuota&&(this.debug("storage quota increase",this.storageQuota,C.quota),await this.netSync()),this.debug("storage quota update",this.storageQuota,C.quota),this.storageQuota=C.quota)}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.900Z] [DEBUG] [postie]: send _d o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.901Z] [DEBUG] [postie]: send Zt y=>{c[g]=y,u&=~(1<<g),l&&d()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.901Z] [DEBUG] [postie]: send Zt q=>t(20,r=q)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:22.901Z] [DEBUG] [postie]: send Zt oe=>t(7,o=oe)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.027Z] [DEBUG] [postie]: send Zt i=>{let a=!1;this.items().forEach(l=>{let c=i.find(u=>u.guid==l.guid);l.remote!=c&&(a=!0),l.remote=c}),a&&this.update()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.027Z] [DEBUG] [postie]: send Zt I=>{this.remote=I.find(C=>C.guid==this.guid)}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.027Z] [DEBUG] [postie]: send _d o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.027Z] [DEBUG] [postie]: send Zt y=>{c[g]=y,u&=~(1<<g),l&&d()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.027Z] [DEBUG] [postie]: send Zt q=>t(20,r=q)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.027Z] [DEBUG] [postie]: send Zt oe=>t(7,o=oe)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.068Z] [DEBUG] [postie]: send _d o=>{o.guid===this.relayId&&(this.server=o.providerId)}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.068Z] [DEBUG] [postie]: send Zt y=>{c[g]=y,u&=~(1<<g),l&&d()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.068Z] [DEBUG] [postie]: send Zt q=>t(20,r=q)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.068Z] [DEBUG] [postie]: send Zt oe=>t(7,o=oe)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:23.068Z] [DEBUG] [postie]: send Zt oe=>t(8,a=oe)
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T14:58:56.587Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T14:58:56.588Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 7m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9ee627cd-95ef-4faa-b796-38513f5cbe4d (/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:fd048ec1-31aa-42f1-a8df-36d53cb6619e (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b7532be9-41c9-42e6-ada9-870edccea634 (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 20m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:123f602e-d020-48ae-b6d0-ee24a1c41c46 (/01 - Zettelkastem/Saccharine Translations/Untitled.md): 0 attempts, (expires in 21m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T14:59:56.588Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T14:59:56.589Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 6m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9ee627cd-95ef-4faa-b796-38513f5cbe4d (/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:fd048ec1-31aa-42f1-a8df-36d53cb6619e (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b7532be9-41c9-42e6-ada9-870edccea634 (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 19m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:123f602e-d020-48ae-b6d0-ee24a1c41c46 (/01 - Zettelkastem/Saccharine Translations/Untitled.md): 0 attempts, (expires in 20m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:00:56.589Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:00:56.589Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 5m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 5m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9ee627cd-95ef-4faa-b796-38513f5cbe4d (/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md): 0 attempts, (expires in 17m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:fd048ec1-31aa-42f1-a8df-36d53cb6619e (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b7532be9-41c9-42e6-ada9-870edccea634 (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 18m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:123f602e-d020-48ae-b6d0-ee24a1c41c46 (/01 - Zettelkastem/Saccharine Translations/Untitled.md): 0 attempts, (expires in 19m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:01:24.663Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T15:01:24.663Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:01:24.663Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:01:24.663Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:01:24.663Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:01:24.664Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]: dispatch (incremental + 131)
+    at at Ap._observer (plugin:system3-relay:54:54086)
+[2026-07-04T15:01:25.547Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T15:01:25.547Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:01:25.547Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:01:25.547Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:01:25.547Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:01:25.547Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]: dispatch (incremental + 132)
+    at at Ap._observer (plugin:system3-relay:54:54086)
+[2026-07-04T15:01:34.361Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "rgXSq6HVEhiVVZ0DguUK9NagVOLYmgStONY8NwuG",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T15:01:34.407Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T15:01:34.407Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:01:34.407Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:01:34.407Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:01:34.407Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:01:34.407Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]: dispatch (incremental + 133)
+    at at Ap._observer (plugin:system3-relay:54:54086)
+[2026-07-04T15:01:36.432Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T15:01:56.578Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:01:56.579Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 4m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 4m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9ee627cd-95ef-4faa-b796-38513f5cbe4d (/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:fd048ec1-31aa-42f1-a8df-36d53cb6619e (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 17m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b7532be9-41c9-42e6-ada9-870edccea634 (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 17m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 17m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:123f602e-d020-48ae-b6d0-ee24a1c41c46 (/01 - Zettelkastem/Saccharine Translations/Untitled.md): 0 attempts, (expires in 18m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:02:56.582Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:02:56.582Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 3m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 3m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9ee627cd-95ef-4faa-b796-38513f5cbe4d (/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md): 0 attempts, (expires in 15m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:fd048ec1-31aa-42f1-a8df-36d53cb6619e (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b7532be9-41c9-42e6-ada9-870edccea634 (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 16m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:123f602e-d020-48ae-b6d0-ee24a1c41c46 (/01 - Zettelkastem/Saccharine Translations/Untitled.md): 0 attempts, (expires in 17m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:03:56.578Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:03:56.579Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 2m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 2m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9ee627cd-95ef-4faa-b796-38513f5cbe4d (/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md): 0 attempts, (expires in 14m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:fd048ec1-31aa-42f1-a8df-36d53cb6619e (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 15m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b7532be9-41c9-42e6-ada9-870edccea634 (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 15m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 15m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:123f602e-d020-48ae-b6d0-ee24a1c41c46 (/01 - Zettelkastem/Saccharine Translations/Untitled.md): 0 attempts, (expires in 16m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:04:56.580Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:04:56.581Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 42s)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 42s)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9ee627cd-95ef-4faa-b796-38513f5cbe4d (/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md): 0 attempts, (expires in 13m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:fd048ec1-31aa-42f1-a8df-36d53cb6619e (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 14m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b7532be9-41c9-42e6-ada9-870edccea634 (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 14m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 14m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:123f602e-d020-48ae-b6d0-ee24a1c41c46 (/01 - Zettelkastem/Saccharine Translations/Untitled.md): 0 attempts, (expires in 15m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:34.858Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: destroyed
+    at at xn.destroy (plugin:system3-relay:54:51279)
+[2026-07-04T15:05:34.858Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: destroyed
+    at at lc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T15:05:34.859Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md]]: destroyed
+    at at cc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T15:05:34.903Z] [LOG] [Live][Workspace]: file-open
+    at at eval (plugin:system3-relay:130:17305)
+[2026-07-04T15:05:34.903Z] [DEBUG] [LiveViews][file-open]: Refresh
+    at at Cc._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T15:05:34.903Z] [DEBUG] [LiveViews][file-open]: Releasing Views [
+  {
+    "type": "wn",
+    "file": "/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:05:34.903Z] [LOG] [[AwarenessView](/01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md)]: Awareness component destroyed
+    at at _c.destroy (plugin:system3-relay:80:15342)
+[2026-07-04T15:05:34.904Z] [DEBUG] [LiveTokenStore]: removing 123f602e-d020-48ae-b6d0-ee24a1c41c46 from refresh queue
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:34.904Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Saccharine Translations/Untitled.md)]: [Provider State] /01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:05:34.909Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:130:17419)
+[2026-07-04T15:05:34.909Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Cc._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T15:05:34.909Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:05:45.814Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Saccharine Translations/Untitled.md)]: [Provider State] /01 - Zettelkastem/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:05:56.577Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.578Z] [DEBUG] [LiveTokenStore]: adding to refresh queue
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.578Z] [DEBUG] [LiveTokenStore]: immediate refresh of s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.578Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b
+    at at II (plugin:system3-relay:34:5323)
+[2026-07-04T15:05:56.578Z] [DEBUG] [LiveTokenStore]: adding to refresh queue
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.578Z] [DEBUG] [LiveTokenStore]: immediate refresh of s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.578Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85
+    at at II (plugin:system3-relay:34:5323)
+[2026-07-04T15:05:56.578Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in -18380ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in -18378ms)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9ee627cd-95ef-4faa-b796-38513f5cbe4d (/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:fd048ec1-31aa-42f1-a8df-36d53cb6619e (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 13m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b7532be9-41c9-42e6-ada9-870edccea634 (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 13m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 13m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:123f602e-d020-48ae-b6d0-ee24a1c41c46 (/01 - Zettelkastem/Saccharine Translations/Untitled.md): 0 attempts, (expires in 14m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.742Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783179356969
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.743Z] [LOG] [[SharedFile](Exhibitionist Priest)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-0f8c49e0-c43c-441b-9b17-5f23457faa85/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-0f8c49e0-c43c-441b-9b17-5f23457faa85?token=[REDACTED]
+    at at zl.refreshProvider (plugin:system3-relay:34:10113)
+[2026-07-04T15:05:56.743Z] [DEBUG] [LiveTokenStore]: Token refreshed for Exhibitionist Priest (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85)
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.743Z] [DEBUG] [LiveTokenStore]: getting next item in queue
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.863Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783179357090
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.863Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-e711afbc-293d-4dd5-9849-5774c4bef58b/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-e711afbc-293d-4dd5-9849-5774c4bef58b?token=[REDACTED]
+    at at It.refreshProvider (plugin:system3-relay:34:10113)
+[2026-07-04T15:05:56.863Z] [DEBUG] [LiveTokenStore]: Token refreshed for /01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b)
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:05:56.863Z] [DEBUG] [LiveTokenStore]: getting next item in queue
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:06.982Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "disconnected",
+  "intent": "connected"
+}
+    at at zl.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:07.087Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at zl.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:07.852Z] [DEBUG] [[SharedFile](Exhibitionist Priest)]: [Provider State] Exhibitionist Priest {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at zl.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.869Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.870Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:07.871Z] [DEBUG] [postie]: send gn ()=>{this.setText()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:14.750Z] [LOG] [Live][Workspace]: file-open
+    at at eval (plugin:system3-relay:130:17305)
+[2026-07-04T15:06:14.750Z] [DEBUG] [LiveViews][file-open]: Refresh
+    at at Cc._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T15:06:14.750Z] [DEBUG] [LiveViews][file-open]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:14.750Z] [DEBUG] [LiveViews][file-open]: Ready Views [
+  {
+    "type": "wn",
+    "file": "/03 - Index/Exhibitionist Priest.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:14.751Z] [LOG] [[AwarenessView](/03 - Index/Exhibitionist Priest.md)]: Installing awareness component for Exhibitionist Priest/03 - Index/Exhibitionist Priest.md
+    at at _c.install (plugin:system3-relay:80:14136)
+[2026-07-04T15:06:14.752Z] [LOG] [[AwarenessView](/03 - Index/Exhibitionist Priest.md)]: Awareness component successfully mounted
+    at at _c.mountAwarenessComponent (plugin:system3-relay:80:15101)
+[2026-07-04T15:06:14.752Z] [LOG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:14.752Z] [DEBUG] [LiveTokenStore]: getting token /03 - Index/Exhibitionist Priest.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:14.753Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:980b5a55-f012-4d55-8a9a-51f82e4b3bf4
+    at at II (plugin:system3-relay:34:5323)
+[2026-07-04T15:06:14.753Z] [DEBUG] [LiveViews][file-open]: Attached Views [
+  {
+    "type": "wn",
+    "file": "/03 - Index/Exhibitionist Priest.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:14.753Z] [DEBUG] [LiveViews][file-open]: loading plugins
+    at at Cc._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T15:06:14.777Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: created
+    at at new xn (plugin:system3-relay:54:48625)
+[2026-07-04T15:06:14.777Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: created
+    at at new lc (plugin:system3-relay:54:46967)
+[2026-07-04T15:06:14.777Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: created
+    at at new cc (plugin:system3-relay:54:47784)
+[2026-07-04T15:06:14.777Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.777Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.778Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.778Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:14.778Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:14.778Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:14.781Z] [DEBUG] [LiveCMPluginValue][/03 - Index/Exhibitionist Priest.md]: created
+    at at new Ap (plugin:system3-relay:54:52645)
+[2026-07-04T15:06:14.781Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at So.patch (plugin:system3-relay:54:44286)
+[2026-07-04T15:06:14.781Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.781Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]: created
+    at at new Rp (plugin:system3-relay:56:7044)
+[2026-07-04T15:06:14.782Z] [DEBUG] [LiveViews][file-open]: refresh completed in 32ms [LiveViews][file-open]
+    at at Cc._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T15:06:14.797Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:14.797Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:14.797Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:14.798Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: ViewHookPlugin initialized
+    at at xn.initialize (plugin:system3-relay:54:51204)
+[2026-07-04T15:06:14.798Z] [LOG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:14.798Z] [DEBUG] [LiveTokenStore]: getting token /03 - Index/Exhibitionist Priest.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:14.805Z] [DEBUG] [postie]: send Zt y=>{c[g]=y,u&=~(1<<g),l&&d()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:14.812Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: destroyed
+    at at xn.destroy (plugin:system3-relay:54:51279)
+[2026-07-04T15:06:14.812Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: destroyed
+    at at lc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T15:06:14.812Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: destroyed
+    at at cc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T15:06:14.813Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: created
+    at at new xn (plugin:system3-relay:54:48625)
+[2026-07-04T15:06:14.813Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: created
+    at at new lc (plugin:system3-relay:54:46967)
+[2026-07-04T15:06:14.813Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: created
+    at at new cc (plugin:system3-relay:54:47784)
+[2026-07-04T15:06:14.813Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.813Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.813Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.813Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:14.813Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:14.813Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:14.815Z] [DEBUG] [LiveCMPluginValue][/03 - Index/Exhibitionist Priest.md]: created
+    at at new Ap (plugin:system3-relay:54:52645)
+[2026-07-04T15:06:14.815Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at So.patch (plugin:system3-relay:54:44286)
+[2026-07-04T15:06:14.815Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.815Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]: created
+    at at new Rp (plugin:system3-relay:56:7044)
+[2026-07-04T15:06:14.841Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:14.841Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:14.841Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:14.842Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: ViewHookPlugin initialized
+    at at xn.initialize (plugin:system3-relay:54:51204)
+[2026-07-04T15:06:14.843Z] [LOG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:14.843Z] [DEBUG] [LiveTokenStore]: getting token /03 - Index/Exhibitionist Priest.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:14.843Z] [LOG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:14.843Z] [DEBUG] [LiveTokenStore]: getting token /03 - Index/Exhibitionist Priest.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:14.878Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:130:17419)
+[2026-07-04T15:06:14.878Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Cc._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T15:06:14.878Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:14.878Z] [LOG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:14.878Z] [DEBUG] [LiveTokenStore]: getting token /03 - Index/Exhibitionist Priest.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:14.878Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "wn",
+    "file": "/03 - Index/Exhibitionist Priest.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:14.879Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Cc._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T15:06:14.879Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: destroyed
+    at at xn.destroy (plugin:system3-relay:54:51279)
+[2026-07-04T15:06:14.879Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: destroyed
+    at at lc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T15:06:14.879Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: destroyed
+    at at cc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T15:06:14.905Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: created
+    at at new xn (plugin:system3-relay:54:48625)
+[2026-07-04T15:06:14.905Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: created
+    at at new lc (plugin:system3-relay:54:46967)
+[2026-07-04T15:06:14.905Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: created
+    at at new cc (plugin:system3-relay:54:47784)
+[2026-07-04T15:06:14.905Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.905Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.905Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.905Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:14.905Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:14.905Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:14.907Z] [DEBUG] [LiveCMPluginValue][/03 - Index/Exhibitionist Priest.md]: created
+    at at new Ap (plugin:system3-relay:54:52645)
+[2026-07-04T15:06:14.907Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at So.patch (plugin:system3-relay:54:44286)
+[2026-07-04T15:06:14.907Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:14.907Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]: created
+    at at new Rp (plugin:system3-relay:56:7044)
+[2026-07-04T15:06:14.909Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 31ms [LiveViews][layout-change]
+    at at Cc._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T15:06:14.909Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:14.909Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:14.909Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:14.910Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: ViewHookPlugin initialized
+    at at xn.initialize (plugin:system3-relay:54:51204)
+[2026-07-04T15:06:14.910Z] [LOG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:14.910Z] [DEBUG] [LiveTokenStore]: getting token /03 - Index/Exhibitionist Priest.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:14.917Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783179375119
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:14.918Z] [LOG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-980b5a55-f012-4d55-8a9a-51f82e4b3bf4/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-980b5a55-f012-4d55-8a9a-51f82e4b3bf4?token=[REDACTED]
+    at at It.refreshProvider (plugin:system3-relay:34:10113)
+[2026-07-04T15:06:14.918Z] [DEBUG] [LiveTokenStore]: Token refreshed for /03 - Index/Exhibitionist Priest.md (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:980b5a55-f012-4d55-8a9a-51f82e4b3bf4)
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:14.918Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:14.918Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:14.918Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:14.918Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:14.918Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:14.918Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:14.918Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:15.928Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:31.348Z] [DEBUG] [[ViewHookPlugin][/03 - Index/Exhibitionist Priest.md]]: destroyed
+    at at xn.destroy (plugin:system3-relay:54:51279)
+[2026-07-04T15:06:31.348Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: destroyed
+    at at lc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T15:06:31.348Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/03 - Index/Exhibitionist Priest.md]]: destroyed
+    at at cc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T15:06:31.358Z] [LOG] [Live][Workspace]: file-open
+    at at eval (plugin:system3-relay:130:17305)
+[2026-07-04T15:06:31.358Z] [DEBUG] [LiveViews][file-open]: Refresh
+    at at Cc._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T15:06:31.359Z] [DEBUG] [LiveViews][file-open]: Releasing Views [
+  {
+    "type": "wn",
+    "file": "/03 - Index/Exhibitionist Priest.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:31.359Z] [LOG] [[AwarenessView](/03 - Index/Exhibitionist Priest.md)]: Awareness component destroyed
+    at at _c.destroy (plugin:system3-relay:80:15342)
+[2026-07-04T15:06:31.359Z] [DEBUG] [LiveTokenStore]: removing 980b5a55-f012-4d55-8a9a-51f82e4b3bf4 from refresh queue
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:31.359Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:31.359Z] [DEBUG] [LiveViews][file-open]: Ready Views [
+  {
+    "type": "wn",
+    "file": "/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:31.360Z] [LOG] [[AwarenessView](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: Installing awareness component for Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at _c.install (plugin:system3-relay:80:14136)
+[2026-07-04T15:06:31.361Z] [LOG] [[AwarenessView](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: Awareness component successfully mounted
+    at at _c.mountAwarenessComponent (plugin:system3-relay:80:15101)
+[2026-07-04T15:06:31.361Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:31.361Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:31.361Z] [DEBUG] [TokenStore][Refresh]: s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d
+    at at II (plugin:system3-relay:34:5323)
+[2026-07-04T15:06:31.361Z] [DEBUG] [LiveViews][file-open]: Attached Views [
+  {
+    "type": "wn",
+    "file": "/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:31.361Z] [DEBUG] [LiveViews][file-open]: loading plugins
+    at at Cc._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T15:06:31.377Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new xn (plugin:system3-relay:54:48625)
+[2026-07-04T15:06:31.377Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new lc (plugin:system3-relay:54:46967)
+[2026-07-04T15:06:31.377Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new cc (plugin:system3-relay:54:47784)
+[2026-07-04T15:06:31.378Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.378Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.378Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.378Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:31.378Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:31.378Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:31.378Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:31.378Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: created
+    at at new Ap (plugin:system3-relay:54:52645)
+[2026-07-04T15:06:31.378Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at So.patch (plugin:system3-relay:54:44286)
+[2026-07-04T15:06:31.378Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.378Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: created
+    at at new Rp (plugin:system3-relay:56:7044)
+[2026-07-04T15:06:31.379Z] [DEBUG] [LiveViews][file-open]: refresh completed in 21ms [LiveViews][file-open]
+    at at Cc._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T15:06:31.383Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:31.383Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:31.383Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:31.383Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:31.383Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: ViewHookPlugin initialized
+    at at xn.initialize (plugin:system3-relay:54:51204)
+[2026-07-04T15:06:31.383Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:31.383Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:31.385Z] [DEBUG] [postie]: send Zt y=>{c[g]=y,u&=~(1<<g),l&&d()}
+    at at gt.deliver (plugin:system3-relay:20:36478)
+[2026-07-04T15:06:31.393Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at xn.destroy (plugin:system3-relay:54:51279)
+[2026-07-04T15:06:31.393Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at lc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T15:06:31.393Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at cc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T15:06:31.393Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new xn (plugin:system3-relay:54:48625)
+[2026-07-04T15:06:31.393Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new lc (plugin:system3-relay:54:46967)
+[2026-07-04T15:06:31.393Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new cc (plugin:system3-relay:54:47784)
+[2026-07-04T15:06:31.393Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.393Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.393Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.393Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:31.394Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:31.394Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:31.394Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:31.394Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: created
+    at at new Ap (plugin:system3-relay:54:52645)
+[2026-07-04T15:06:31.394Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at So.patch (plugin:system3-relay:54:44286)
+[2026-07-04T15:06:31.394Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.394Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: created
+    at at new Rp (plugin:system3-relay:56:7044)
+[2026-07-04T15:06:31.411Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:31.411Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:31.411Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:31.411Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:31.412Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: ViewHookPlugin initialized
+    at at xn.initialize (plugin:system3-relay:54:51204)
+[2026-07-04T15:06:31.412Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:31.412Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:31.412Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:31.412Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:31.427Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:130:17419)
+[2026-07-04T15:06:31.427Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Cc._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T15:06:31.428Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:31.428Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:31.428Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:31.428Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "wn",
+    "file": "/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:31.428Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Cc._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T15:06:31.431Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at xn.destroy (plugin:system3-relay:54:51279)
+[2026-07-04T15:06:31.431Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at lc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T15:06:31.431Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at cc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T15:06:31.438Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new xn (plugin:system3-relay:54:48625)
+[2026-07-04T15:06:31.438Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new lc (plugin:system3-relay:54:46967)
+[2026-07-04T15:06:31.438Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new cc (plugin:system3-relay:54:47784)
+[2026-07-04T15:06:31.438Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.438Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.438Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.438Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:31.438Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:31.438Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:31.438Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:31.438Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: created
+    at at new Ap (plugin:system3-relay:54:52645)
+[2026-07-04T15:06:31.438Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at So.patch (plugin:system3-relay:54:44286)
+[2026-07-04T15:06:31.438Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:31.438Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: created
+    at at new Rp (plugin:system3-relay:56:7044)
+[2026-07-04T15:06:31.440Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 13ms [LiveViews][layout-change]
+    at at Cc._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T15:06:31.443Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:31.443Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:31.443Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:31.443Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:31.443Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: ViewHookPlugin initialized
+    at at xn.initialize (plugin:system3-relay:54:51204)
+[2026-07-04T15:06:31.443Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:31.443Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:31.513Z] [DEBUG] [LiveTokenStore]: new expiry time is 1783179391740
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:31.513Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: Token Refreshed: setting new provider url, wss://auth.system3.md/d/c4c85ea1-b405-44d6-8561-1b4f1da5211c-1caa0114-ceee-40fd-8d1d-fee71dacfe6d/ws/c4c85ea1-b405-44d6-8561-1b4f1da5211c-1caa0114-ceee-40fd-8d1d-fee71dacfe6d?token=[REDACTED]
+    at at It.refreshProvider (plugin:system3-relay:34:10113)
+[2026-07-04T15:06:31.513Z] [DEBUG] [LiveTokenStore]: Token refreshed for /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md (s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d)
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:31.514Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:31.514Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:31.514Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:31.514Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:31.514Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:31.514Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:31.514Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md {
+  "status": "connecting",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:32.015Z] [DEBUG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: [Provider State] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md {
+  "status": "connected",
+  "intent": "connected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:32.015Z] [WARN] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: ytext and editor buffer need syncing
+    at at Ap.getKeyFrame (plugin:system3-relay:55:61)
+[2026-07-04T15:06:32.018Z] [LOG] [Hl]: [downloadItem] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d
+    at at Hl.downloadItem (plugin:system3-relay:45:48376)
+[2026-07-04T15:06:32.018Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:32.018Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:32.018Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:32.372Z] [DEBUG] [Hl]: [downloadItem] 1caa0114-ceee-40fd-8d1d-fee71dacfe6d 200
+    at at Hl.downloadItem (plugin:system3-relay:45:48701)
+[2026-07-04T15:06:34.403Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T15:06:34.729Z] [DEBUG] [Pocketbase]: https://auth.system3.md/api/realtime {
+  "method": "POST",
+  "body": {
+    "clientId": "8pQ0e81bnqD65lLszdioilfnAGQXI5ELyanB7Xfq",
+    "subscriptions": [
+      "relays/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay_invitations_via_relay%2Cshared_folders_via_relay%2Cshared_folders_via_relay.creator%2Csubscriptions_via_relay%2Csubscriptions_via_relay.relay%2Csubscriptions_via_relay.relay.storage_quota%2Ccreator%22%7D%7D",
+      "relay_invitations/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%22%7D%7D",
+      "providers/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D",
+      "relay_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "shared_folders/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22relay%2Ccreator%22%7D%7D",
+      "shared_folder_roles/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Cshared_folder%22%7D%7D",
+      "subscriptions/*?options=%7B%22query%22%3A%7B%22expand%22%3A%22user%2Crelay%22%7D%7D",
+      "storage_quotas/6jser4wq1crcym5?options=%7B%22query%22%3A%7B%22expand%22%3A%22%22%7D%7D"
+    ]
+  },
+  "query": {},
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US",
+    "Authorization": "[REDACTED]"
+  },
+  "signal": {}
+}
+    at at Cl.pb.beforeSend (plugin:system3-relay:33:12200)
+[2026-07-04T15:06:35.395Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T15:06:35.395Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:35.395Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:35.395Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:35.395Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:37.409Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T15:06:41.563Z] [DEBUG] [[SharedDoc](/03 - Index/Exhibitionist Priest.md)]: [Provider State] /03 - Index/Exhibitionist Priest.md {
+  "status": "disconnected",
+  "intent": "disconnected"
+}
+    at at It.notifyListeners (plugin:system3-relay:34:9335)
+[2026-07-04T15:06:50.292Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T15:06:50.292Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:50.292Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:50.292Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:50.292Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:51.435Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T15:06:51.435Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:51.435Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:51.435Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:51.435Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:52.313Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T15:06:56.414Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T15:06:56.414Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:56.414Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:56.414Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:56.414Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:56.584Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:56.584Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:9ee627cd-95ef-4faa-b796-38513f5cbe4d (/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md): 0 attempts, (expires in 11m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:fd048ec1-31aa-42f1-a8df-36d53cb6619e (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:b7532be9-41c9-42e6-ada9-870edccea634 (/01 - Zettelkastem/Script/French/03 - The before party 1.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:cff1b570-8322-4b9a-a3bf-67d5f0921ec1 (/01 - Zettelkastem/Script/French/03 - The before party.md): 0 attempts, (expires in 12m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:123f602e-d020-48ae-b6d0-ee24a1c41c46 (/01 - Zettelkastem/Saccharine Translations/Untitled.md): 0 attempts, (expires in 13m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85 (Exhibitionist Priest): 0 attempts, (expires in 24m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:e711afbc-293d-4dd5-9849-5774c4bef58b (/01 - Zettelkastem/Drafts/French/02 - Lucas’ Call - First draft.md): 0 attempts, (expires in 24m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:980b5a55-f012-4d55-8a9a-51f82e4b3bf4 (/03 - Index/Exhibitionist Priest.md): 0 attempts, (expires in 24m)
+s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d (/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md): 0 attempts, (expires in 25m)
+Stale Tokens:
+Queue size: 0
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:57.870Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T15:06:57.870Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:57.870Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:57.870Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:57.870Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:58.434Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T15:06:58.607Z] [LOG] [Hl]: [downloadItem] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d
+    at at Hl.downloadItem (plugin:system3-relay:45:48376)
+[2026-07-04T15:06:58.607Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:58.607Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:58.607Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:58.729Z] [DEBUG] [Hl]: [downloadItem] 1caa0114-ceee-40fd-8d1d-fee71dacfe6d 200
+    at at Hl.downloadItem (plugin:system3-relay:45:48701)
+[2026-07-04T15:06:58.749Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:130:17419)
+[2026-07-04T15:06:58.749Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Cc._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T15:06:58.749Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:58.749Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "wn",
+    "file": "/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:06:58.749Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Cc._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T15:06:58.749Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at xn.destroy (plugin:system3-relay:54:51279)
+[2026-07-04T15:06:58.749Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at lc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T15:06:58.749Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at cc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T15:06:58.752Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new xn (plugin:system3-relay:54:48625)
+[2026-07-04T15:06:58.752Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new lc (plugin:system3-relay:54:46967)
+[2026-07-04T15:06:58.752Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new cc (plugin:system3-relay:54:47784)
+[2026-07-04T15:06:58.752Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:58.752Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:58.752Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:58.752Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:58.752Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:58.752Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:58.752Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:58.752Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: created
+    at at new Ap (plugin:system3-relay:54:52645)
+[2026-07-04T15:06:58.752Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at So.patch (plugin:system3-relay:54:44286)
+[2026-07-04T15:06:58.752Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:06:58.753Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: created
+    at at new Rp (plugin:system3-relay:56:7044)
+[2026-07-04T15:06:58.754Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 5ms [LiveViews][layout-change]
+    at at Cc._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T15:06:58.754Z] [WARN] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: ytext and editor buffer need syncing
+    at at Ap.getKeyFrame (plugin:system3-relay:55:61)
+[2026-07-04T15:06:58.754Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:06:58.754Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:06:58.754Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:06:58.754Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:06:58.754Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: ViewHookPlugin initialized
+    at at xn.initialize (plugin:system3-relay:54:51204)
+[2026-07-04T15:06:58.758Z] [LOG] [Hl]: [downloadItem] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d
+    at at Hl.downloadItem (plugin:system3-relay:45:48376)
+[2026-07-04T15:06:58.758Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:06:58.758Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:58.758Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:06:58.877Z] [DEBUG] [Hl]: [downloadItem] 1caa0114-ceee-40fd-8d1d-fee71dacfe6d 200
+    at at Hl.downloadItem (plugin:system3-relay:45:48701)
+[2026-07-04T15:07:00.896Z] [LOG] [System 3][Relay][Vault]: Modify Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at eval (plugin:system3-relay:130:18874)
+[2026-07-04T15:07:16.244Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Document changed, updating all renderers
+    at at Array.observer (plugin:system3-relay:54:50112)
+[2026-07-04T15:07:16.244Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:07:16.244Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:07:16.244Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:07:16.244Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:07:16.244Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: dispatch (incremental + 1)
+    at at Ap._observer (plugin:system3-relay:54:54086)
+[2026-07-04T15:07:16.246Z] [LOG] [vc]: byte level difference with differ equivalence 2593 2581
+    at at vc.updateState (plugin:system3-relay:76:145)
+[2026-07-04T15:07:16.274Z] [LOG] [Live][Workspace]: layout-change
+    at at eval (plugin:system3-relay:130:17419)
+[2026-07-04T15:07:16.274Z] [DEBUG] [LiveViews][layout-change]: Refresh
+    at at Cc._refreshViews (plugin:system3-relay:80:35538)
+[2026-07-04T15:07:16.274Z] [DEBUG] [LiveViews][layout-change]: Releasing Views []
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:07:16.274Z] [DEBUG] [LiveViews][layout-change]: Attached Views [
+  {
+    "type": "wn",
+    "file": "/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
+    "canConnect": true
+  }
+]
+    at at s (plugin:system3-relay:80:35415)
+[2026-07-04T15:07:16.274Z] [DEBUG] [LiveViews][layout-change]: loading plugins
+    at at Cc._refreshViews (plugin:system3-relay:80:36400)
+[2026-07-04T15:07:16.275Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at xn.destroy (plugin:system3-relay:54:51279)
+[2026-07-04T15:07:16.275Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at lc.destroy (plugin:system3-relay:54:47544)
+[2026-07-04T15:07:16.275Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: destroyed
+    at at cc.destroy (plugin:system3-relay:54:48406)
+[2026-07-04T15:07:16.277Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new xn (plugin:system3-relay:54:48625)
+[2026-07-04T15:07:16.277Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new lc (plugin:system3-relay:54:46967)
+[2026-07-04T15:07:16.277Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: created
+    at at new cc (plugin:system3-relay:54:47784)
+[2026-07-04T15:07:16.277Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "saveFrontmatter"
+  ],
+  "patchCount": 3
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:07:16.277Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "save"
+  ],
+  "patchCount": 4
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:07:16.277Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "edit"
+  ],
+  "patchCount": 5
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:07:16.277Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:07:16.277Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:07:16.277Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:07:16.277Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:07:16.277Z] [DEBUG] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: created
+    at at new Ap (plugin:system3-relay:54:52645)
+[2026-07-04T15:07:16.277Z] [WARN] [Patcher]: Methods [saveFrontmatter] already patched on t, skipping duplicates
+    at at So.patch (plugin:system3-relay:54:44286)
+[2026-07-04T15:07:16.277Z] [DEBUG] [Patcher]: Applied monkeypatch {
+  "target": "t",
+  "methods": [
+    "setViewData",
+    "requestSave"
+  ],
+  "patchCount": 6
+}
+    at at So.patch (plugin:system3-relay:54:44772)
+[2026-07-04T15:07:16.277Z] [DEBUG] [InvalidLinkPluginValue][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: created
+    at at new Rp (plugin:system3-relay:56:7044)
+[2026-07-04T15:07:16.279Z] [DEBUG] [LiveViews][layout-change]: refresh completed in 5ms [LiveViews][layout-change]
+    at at Cc._refreshViews (plugin:system3-relay:80:36462)
+[2026-07-04T15:07:16.279Z] [WARN] [LiveCMPluginValue][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]: ytext and editor buffer need syncing
+    at at Ap.getKeyFrame (plugin:system3-relay:55:61)
+[2026-07-04T15:07:16.279Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering all components for mode: source
+    at at xn.renderAll (plugin:system3-relay:54:50412)
+[2026-07-04T15:07:16.279Z] [DEBUG] [[PreviewRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Skipping render - not in preview mode
+    at at lc.render (plugin:system3-relay:54:47196)
+[2026-07-04T15:07:16.279Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: Rendering metadata from document
+    at at cc.render (plugin:system3-relay:54:47993)
+[2026-07-04T15:07:16.279Z] [DEBUG] [[MetadataRenderer][Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: No frontmatter found in document
+    at at cc.render (plugin:system3-relay:54:48279)
+[2026-07-04T15:07:16.279Z] [DEBUG] [[ViewHookPlugin][/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md]]: ViewHookPlugin initialized
+    at at xn.initialize (plugin:system3-relay:54:51204)
+[2026-07-04T15:07:16.285Z] [LOG] [Hl]: [downloadItem] /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md s3rn:relay:relay:c4c85ea1-b405-44d6-8561-1b4f1da5211c:folder:0f8c49e0-c43c-441b-9b17-5f23457faa85:doc:1caa0114-ceee-40fd-8d1d-fee71dacfe6d
+    at at Hl.downloadItem (plugin:system3-relay:45:48376)
+[2026-07-04T15:07:16.285Z] [LOG] [[SharedDoc](/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md)]: get provider token
+    at at It.getProviderToken (plugin:system3-relay:34:9574)
+[2026-07-04T15:07:16.285Z] [DEBUG] [LiveTokenStore]: getting token /01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:07:16.285Z] [DEBUG] [LiveTokenStore]: token was valid, cache hit!
+    at at Ml.log (plugin:system3-relay:33:19797)
+[2026-07-04T15:07:16.412Z] [DEBUG] [Hl]: [downloadItem] 1caa0114-ceee-40fd-8d1d-fee71dacfe6d 200
+    at at Hl.downloadItem (plugin:system3-relay:45:48701)

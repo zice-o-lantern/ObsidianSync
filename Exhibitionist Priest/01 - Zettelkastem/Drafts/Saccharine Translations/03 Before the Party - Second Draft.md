@@ -1,4 +1,5 @@
 Finalement il est arrivé au bout de dix minutes au lieu de trente minutes. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
+
 [[Old Stuff/03 - Index/Characters/Luke|LUCAS]]
 Ah oui en effet c’est un peu… poussiéreux 
 
