@@ -16,4 +16,5 @@ longform:
   ignoredFiles:
     - Evangelique manuscript
     - 
+    - 03 - The before party.md
 ---

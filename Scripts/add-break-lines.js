@@ -1,16 +1,16 @@
 compile = (input, context) => {
-  const COLORTAGS_REGEX = /<(.*?)>/gm;
+  const BREAKLINE_REGEX = /%% bl %%/gm;
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       return {
         ...sceneInput,
-        contents: sceneInput.contents.replace(COLORTAGS_REGEX, () => "")
+        contents: sceneInput.contents.replace(BREAKLINE_REGEX, () => "\n")
       };
     });
   } else {
     return {
       ...input,
-      contents: input.contents.replace(COLORTAGS_REGEX, () => "")
+      contents: input.contents.replace(BREAKLINE_REGEX, () => "\n")
     };
   }
 }
@@ -19,10 +19,10 @@ module.exports = {
   // object that describes the step and its configuration
   description: {
     // the name of your step
-    name: "Remove Color Tags",
+    name: "Add Break Lines",
 
     // short description of what it does
-    description: "Remove color tags of the text",
+    description: "Add break lines for the renpy export",
 
     // array. valid options are "Scene", "Manuscript", "Join". "Join" must be the only member if present.
     availableKinds: ["Scene", "Manuscript"],

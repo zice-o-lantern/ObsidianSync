@@ -31,7 +31,7 @@ Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
 [[Luke|LUCAS]]
 On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
 
-Je regarde de haut en bas Lucas. Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
+Je regarde de haut en bas Lucas.%% bl %% Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur.%% bl %%  Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
 
 [[Isaac|ISAAC]]
 Tu viens directement du travail ?
@@ -109,7 +109,7 @@ Je le traine par le bras à travers la maison dans la salle de bain.
 
 [[Isaac|ISAAC]]
 Je t’en supplie, prends une douche.
-Tu peux prendre des vêtements dans ma chambre s’il y’en a pas dans la chambre d’amis. T’en trouveras sûrement qui t’iront. Je vais nettoyer pendant que tu te douches.
+Tu peux prendre des vêtements dans ma chambre s’il y’en a pas dans la chambre d’amis. %% bl %% T’en trouveras sûrement qui t’iront. %% bl %% Je vais nettoyer pendant que tu te douches.
 
 [[Luke|LUCAS]]
 Mais-
