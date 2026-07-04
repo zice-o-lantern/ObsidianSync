@@ -1327,6 +1327,17 @@
           "optionValues": {}
         },
         {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
           "id": "prepend-title",
           "optionValues": {
             "format": "$3{#} $1",
@@ -1342,7 +1353,7 @@
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "manuscript.md",
+            "target": "Manuscript/$1 manuscript.md",
             "open-after": true
           }
         }
