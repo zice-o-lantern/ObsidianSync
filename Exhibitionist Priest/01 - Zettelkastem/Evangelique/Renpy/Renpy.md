@@ -52,8 +52,6 @@ Until... I am observed.
 pause 1.0 
 --->
 
-Le Chat ne doit pas être observé.
- Il est heureux là où il se trouve, dans ses plaisirs et ses travers.<
 Look at me, God or Schrödinger-- who knows! 
 To You, so obsessed with the idea of opening the box without touching it. 
 I have finally discovered how to do it.
