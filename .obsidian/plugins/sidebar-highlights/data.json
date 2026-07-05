@@ -745,7 +745,6 @@
         "type": "highlight"
       }
     ],
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/French/03 - The before party - First Draft.md": [],
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md": [
       {
         "id": "nmky1h3jw",
@@ -1319,8 +1318,8 @@
         "text": "<span style=\"color:rgb(126, 114, 218)\">Hey</span>",
         "tags": [],
         "line": 14,
-        "startOffset": 258,
-        "endOffset": 311,
+        "startOffset": 244,
+        "endOffset": 297,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
         "footnoteCount": 6,
         "footnoteContents": [
@@ -1340,8 +1339,8 @@
         "text": "~~, hehe~~",
         "tags": [],
         "line": 29,
-        "startOffset": 550,
-        "endOffset": 564,
+        "startOffset": 521,
+        "endOffset": 535,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
         "footnoteCount": 6,
         "footnoteContents": [
@@ -1361,8 +1360,8 @@
         "text": "He’d never ~~dare~~ tell me I’m bothering him",
         "tags": [],
         "line": 81,
-        "startOffset": 2137,
-        "endOffset": 2186,
+        "startOffset": 2056,
+        "endOffset": 2105,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
@@ -1378,8 +1377,8 @@
         "text": "This house is weird. It’s messing with me. I know it. Things are never where they’re supposed to be. I can never find anything. Or <span style=\"color:rgb(232, 17, 93)\">when </span>I find them, <span style=\"color:rgb(232, 17, 93)\">they're</span>~~but~~ on the other side of the house. In the morning I wake up with stains on the sheets. Colorless. <span style=\"color:rgb(232, 17, 93)\">Water, maybe?</span>~~Water? Maybe.~~ The smell is unbearable. It smells like mold. I had Lucas smell it so he could tell me what it was. He told me it smelled like nothing",
         "tags": [],
         "line": 92,
-        "startOffset": 2372,
-        "endOffset": 2932,
+        "startOffset": 2280,
+        "endOffset": 2840,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
         "footnoteCount": 2,
         "footnoteContents": [
@@ -1407,7 +1406,8 @@
         "type": "highlight"
       }
     ],
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md": [
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Manuscript/Evangelique manuscript.md": [],
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md": [
       {
         "id": "c8k8ygv89",
         "text": " FR ",
@@ -1415,7 +1415,7 @@
         "line": 0,
         "startOffset": 0,
         "endOffset": 8,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1431,7 +1431,7 @@
         "line": 0,
         "startOffset": 168,
         "endOffset": 176,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " bl "
@@ -1447,7 +1447,7 @@
         "line": 1,
         "startOffset": 195,
         "endOffset": 203,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1463,7 +1463,7 @@
         "line": 1,
         "startOffset": 386,
         "endOffset": 394,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " bl "
@@ -1476,10 +1476,10 @@
         "id": "4376tnbg0",
         "text": " FR ",
         "tags": [],
-        "line": 4,
-        "startOffset": 435,
-        "endOffset": 443,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 5,
+        "startOffset": 466,
+        "endOffset": 474,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1492,10 +1492,10 @@
         "id": "9yu7xa0ng",
         "text": " EN ",
         "tags": [],
-        "line": 5,
-        "startOffset": 486,
-        "endOffset": 494,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 6,
+        "startOffset": 517,
+        "endOffset": 525,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1508,10 +1508,10 @@
         "id": "pvqk13mt2",
         "text": " FR ",
         "tags": [],
-        "line": 7,
-        "startOffset": 624,
-        "endOffset": 632,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 8,
+        "startOffset": 655,
+        "endOffset": 663,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1524,10 +1524,10 @@
         "id": "c7izd9kmt",
         "text": " EN ",
         "tags": [],
-        "line": 8,
-        "startOffset": 652,
-        "endOffset": 660,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 9,
+        "startOffset": 683,
+        "endOffset": 691,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1540,10 +1540,10 @@
         "id": "ygipizmry",
         "text": " FR ",
         "tags": [],
-        "line": 11,
-        "startOffset": 738,
-        "endOffset": 746,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 12,
+        "startOffset": 769,
+        "endOffset": 777,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1556,10 +1556,10 @@
         "id": "6c4h03qnx",
         "text": " EN ",
         "tags": [],
-        "line": 12,
-        "startOffset": 765,
-        "endOffset": 773,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 13,
+        "startOffset": 796,
+        "endOffset": 804,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1572,13 +1572,13 @@
         "id": "q9w5li558",
         "text": "<span style=\"color:rgb(255, 222, 0)\">I ~~already~~ told you ~~that~~.</span>",
         "tags": [],
-        "line": 12,
-        "startOffset": 773,
-        "endOffset": 853,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 13,
+        "startOffset": 804,
+        "endOffset": 884,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
-          "<span style=\"color:rgb(126, 114, 218)\">Here it's a more stern \"I told you...\" like when you tell someone to no do something and they do it anyway</span>"
+          "<span style=\"color:rgb(126, 114, 218)\">Here it's more of a stern \"I told you...\" like when you tell someone to no do something and they do it anyway</span>"
         ],
         "createdAt": 1783208565025,
         "isNativeComment": false,
@@ -1588,10 +1588,10 @@
         "id": "uea93dq9t",
         "text": " FR ",
         "tags": [],
-        "line": 14,
-        "startOffset": 1013,
-        "endOffset": 1021,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 15,
+        "startOffset": 1047,
+        "endOffset": 1055,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1604,10 +1604,10 @@
         "id": "392w86i3g",
         "text": " EN ",
         "tags": [],
-        "line": 15,
-        "startOffset": 1104,
-        "endOffset": 1112,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 16,
+        "startOffset": 1138,
+        "endOffset": 1146,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1620,10 +1620,10 @@
         "id": "l09j7mxq7",
         "text": " FR ",
         "tags": [],
-        "line": 18,
-        "startOffset": 1258,
-        "endOffset": 1266,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 19,
+        "startOffset": 1292,
+        "endOffset": 1300,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1636,10 +1636,10 @@
         "id": "0503e1kkg",
         "text": " EN ",
         "tags": [],
-        "line": 19,
-        "startOffset": 1292,
-        "endOffset": 1300,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 20,
+        "startOffset": 1326,
+        "endOffset": 1334,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1652,10 +1652,10 @@
         "id": "qbtqppxzk",
         "text": " FR ",
         "tags": [],
-        "line": 21,
-        "startOffset": 1376,
-        "endOffset": 1384,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 22,
+        "startOffset": 1410,
+        "endOffset": 1418,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1668,10 +1668,10 @@
         "id": "iv2v0tq3v",
         "text": " EN ",
         "tags": [],
-        "line": 22,
-        "startOffset": 1415,
-        "endOffset": 1423,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 23,
+        "startOffset": 1449,
+        "endOffset": 1457,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1684,10 +1684,10 @@
         "id": "xypb4peyy",
         "text": " FR ",
         "tags": [],
-        "line": 25,
-        "startOffset": 1503,
-        "endOffset": 1511,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 26,
+        "startOffset": 1537,
+        "endOffset": 1545,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1700,10 +1700,10 @@
         "id": "z9id2vggs",
         "text": " EN ",
         "tags": [],
-        "line": 26,
-        "startOffset": 1546,
-        "endOffset": 1554,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 27,
+        "startOffset": 1580,
+        "endOffset": 1588,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1716,10 +1716,10 @@
         "id": "tvovgk6zm",
         "text": " FR ",
         "tags": [],
-        "line": 29,
-        "startOffset": 1652,
-        "endOffset": 1660,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 30,
+        "startOffset": 1686,
+        "endOffset": 1694,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1732,10 +1732,10 @@
         "id": "bug6udv21",
         "text": " EN ",
         "tags": [],
-        "line": 30,
-        "startOffset": 1669,
-        "endOffset": 1677,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 31,
+        "startOffset": 1703,
+        "endOffset": 1711,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1748,10 +1748,10 @@
         "id": "yspf7m6mx",
         "text": " FR ",
         "tags": [],
-        "line": 33,
-        "startOffset": 1747,
-        "endOffset": 1755,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 34,
+        "startOffset": 1781,
+        "endOffset": 1789,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1764,10 +1764,10 @@
         "id": "pnavpe8fm",
         "text": " EN ",
         "tags": [],
-        "line": 34,
-        "startOffset": 1773,
-        "endOffset": 1781,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 35,
+        "startOffset": 1807,
+        "endOffset": 1815,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1780,10 +1780,10 @@
         "id": "fn5cykilo",
         "text": " FR ",
         "tags": [],
-        "line": 36,
-        "startOffset": 1847,
-        "endOffset": 1855,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 37,
+        "startOffset": 1881,
+        "endOffset": 1889,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " FR "
@@ -1796,10 +1796,10 @@
         "id": "5mhk525ql",
         "text": " EN ",
         "tags": [],
-        "line": 37,
-        "startOffset": 1936,
-        "endOffset": 1944,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 38,
+        "startOffset": 1970,
+        "endOffset": 1978,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " EN "
@@ -1809,13 +1809,29 @@
         "type": "comment"
       },
       {
+        "id": "kunjayc4l",
+        "text": " <span style=\"color:rgb(126, 114, 218)\">(it's more \"He \"violently\" (can't find the right word sorry) opens the closet and grabs the broom in a swift motion\")</span> ",
+        "tags": [],
+        "line": 38,
+        "startOffset": 2106,
+        "endOffset": 2275,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " <span style=\"color:rgb(126, 114, 218)\">(it's more \"He \"violently\" (can't find the right word sorry) opens the closet and grabs the broom in a swift motion\")</span> "
+        ],
+        "createdAt": 1783209079385,
+        "isNativeComment": true,
+        "type": "comment"
+      },
+      {
         "id": "csj2tcq7i",
         "text": " bl ",
         "tags": [],
-        "line": 42,
-        "startOffset": 2394,
-        "endOffset": 2402,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 43,
+        "startOffset": 2433,
+        "endOffset": 2441,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " bl "
@@ -1828,10 +1844,10 @@
         "id": "9y25qet1w",
         "text": " bl ",
         "tags": [],
-        "line": 42,
-        "startOffset": 2506,
-        "endOffset": 2514,
-        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+        "line": 43,
+        "startOffset": 2545,
+        "endOffset": 2553,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " bl "
@@ -1841,7 +1857,24 @@
         "type": "comment"
       }
     ],
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Manuscript/Evangelique manuscript.md": []
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md": [
+      {
+        "id": "mui42235w",
+        "text": " FR ",
+        "tags": [],
+        "line": 7,
+        "startOffset": 88,
+        "endOffset": 96,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " FR "
+        ],
+        "createdAt": 1783258854169,
+        "isNativeComment": true,
+        "type": "comment"
+      }
+    ]
   },
   "collections": {},
   "groupingMode": "none",

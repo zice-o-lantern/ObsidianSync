@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-07-04T22:40:50.111Z",
-      "total": 4121,
+      "total": 4619,
       "drafts": {
         "Evangelique/Index.md": {
           "total": 0,
@@ -55,9 +55,10 @@
           "scenes": {}
         },
         "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md": {
-          "total": 4121,
+          "total": 4619,
           "scenes": {
-            "03 Before the Party": 4121
+            "00 - Incipit": 547,
+            "03 - Before the Party": 4072
           }
         }
       }

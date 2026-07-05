@@ -5,6 +5,8 @@ longform:
   workflow: Custom
   sceneFolder: /
   scenes:
-    - 03 Before the Party
-  ignoredFiles: []
+    - 00 - Incipit
+    - 03 - Before the Party
+  ignoredFiles:
+    - 03 - Before the Party.md
 ---

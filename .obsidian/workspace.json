@@ -56,8 +56,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
-                "mode": "preview",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -71,7 +71,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03 Before the Party"
+              "title": "00 - Incipit"
+            }
+          },
+          {
+            "id": "1e770e848a1504b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00 - Incipit"
             }
           },
           {
@@ -99,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,8 +186,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -298,9 +321,15 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "115ac3df4e6e4cae",
+  "active": "97dde141d2a7633e",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/00 - Incipit Second Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/00 - Incipit Second Draft.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Manuscript/Evangelique manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Manuscript/Evangelique manuscript.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Manuscript",
@@ -310,12 +339,10 @@
     "Scripts/remove-french-localisation.js",
     "Scripts/remove-english-localisation - Copy.js",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/03 Before the Party - Second Draft 1.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique",
     "Evangelique/03 - The before party.md",
     "Exhibitionist Priest/Script/Index.md",
     "HI/Index.md",
@@ -334,9 +361,6 @@
     "Evangelique/Index.md",
     "Evangelique/manuscript.md",
     "Evangelique/01 - Grandma.md",
-    "Evangelique/00 - Incipit.md",
-    "Evangelique/03_A - Stay in the room.md",
-    "Evangelique/04 - Why did you quit.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
