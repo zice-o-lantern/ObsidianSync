@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-07-04T22:40:50.111Z",
-      "total": 5108,
+      "total": 5110,
       "drafts": {
         "Evangelique/Index.md": {
           "total": 0,
@@ -55,9 +55,9 @@
           "scenes": {}
         },
         "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md": {
-          "total": 5108,
+          "total": 5110,
           "scenes": {
-            "00 - Incipit": 1032,
+            "00 - Incipit": 1034,
             "03 - Before the Party": 4076
           }
         }
@@ -1378,7 +1378,7 @@
           "id": "remove-comments",
           "optionValues": {
             "remove-markdown-comments": true,
-            "remove-html-comments": true
+            "remove-html-comments": false
           }
         },
         {
@@ -1397,7 +1397,7 @@
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "Manuscript/$1 manuscript.md",
+            "target": "Renpy/$1 manuscript.md",
             "open-after": true
           }
         }
