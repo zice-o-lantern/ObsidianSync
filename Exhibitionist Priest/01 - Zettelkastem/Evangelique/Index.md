@@ -9,4 +9,5 @@ longform:
     - 03 - Before the Party
   ignoredFiles:
     - 03 - Before the Party.md
+    - 00 - Incipit.md
 ---

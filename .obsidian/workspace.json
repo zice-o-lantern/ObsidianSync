@@ -51,30 +51,6 @@
             }
           },
           {
-            "id": "97dde141d2a7633e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Template/English.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "English"
-            }
-          },
-          {
             "id": "1e770e848a1504b0",
             "type": "leaf",
             "state": {
@@ -121,9 +97,33 @@
               "icon": "lucide-file",
               "title": "00 - Incipit"
             }
+          },
+          {
+            "id": "f6814de7519e0c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00 - Incipit"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,12 +186,12 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "39311cd363b301ea",
@@ -322,10 +322,12 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "1e770e848a1504b0",
+  "active": "f6814de7519e0c47",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/00 - Incipit Second Draft.md",
     "5 - Template/English.md",
     "5 - Template/English.md.edtz",
@@ -356,11 +358,9 @@
     "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Evangelique/Evangelique manuscript.md",
     "Scripts/tes.js.md",
     "Evangelique/Cafe.md",
-    "Evangelique/02 - Lucas’ Call.md.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
