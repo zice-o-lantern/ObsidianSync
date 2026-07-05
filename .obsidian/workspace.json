@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03_A - Stay in the room"
+              "title": "03 - Before the Party"
+            }
+          },
+          {
+            "id": "6a4d78155247c1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Renpy/Renpy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Renpy"
             }
           },
           {
@@ -97,33 +121,9 @@
               "icon": "lucide-file",
               "title": "00 - Incipit"
             }
-          },
-          {
-            "id": "678b38977be9ba65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Renpy/Renpy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Renpy"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -322,8 +322,10 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "678b38977be9ba65",
+  "active": "6a4d78155247c1a4",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Renpy/Renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Renpy/Renpy.md.edtz",
@@ -334,7 +336,6 @@
     "5 - Template/HTML Comments.md",
     "5 - Template/HTML Comments.md.edtz",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/00 - Incipit Second Draft.md",
     "5 - Template/English.md",
     "5 - Template/English.md.edtz",
@@ -342,7 +343,6 @@
     "5 - Template/French.md.edtz",
     "5 - Template/Break Line.md",
     "5 - Template/Break Line.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/00 - Incipit Second Draft.md.edtz",

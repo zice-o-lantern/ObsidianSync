@@ -10,4 +10,5 @@ longform:
   ignoredFiles:
     - 03 - Before the Party.md
     - 00 - Incipit.md
+    - 
 ---

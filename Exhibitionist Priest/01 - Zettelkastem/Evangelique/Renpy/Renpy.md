@@ -62,8 +62,10 @@ The cat mustn't be observed. They are content where they are, submerged in their
 After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. 
 He opens the door
 
-<!--- show lucas disgusted 
-show lucas at right --->
+<!---
+show lucas disgusted
+show lucas at right
+--->
 LUCAS
 Oh yeah it's a little...dusty in here.
 
