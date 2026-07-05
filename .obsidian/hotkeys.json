@@ -83,5 +83,13 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-hotkeys-for-templates:HTML Comments.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
   ]
 }
