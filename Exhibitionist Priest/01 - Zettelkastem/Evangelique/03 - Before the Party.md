@@ -1,7 +1,8 @@
-%% FR %%Finalement il est arrivé au bout de dix minutes au lieu de trente minutes. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. %% bl %%Il ouvre la porte.
+%% FR %%Finalement il est arrivé au bout de dix minutes au lieu de trente ~~minutes~~. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. %% bl %%Il ouvre la porte.
 %% EN %%<span style="color:rgb(255, 222, 0)">After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. %% bl %%He opens the door</span>
 
-<!--- show lucas disgusted--->
+<!--- show lucas disgusted 
+show lucas at right --->
 [[Luke|LUCAS]]
 %% FR %%Ah oui en effet c’est un peu… poussiéreux 
 %% EN %%<span style="color:rgb(255, 222, 0)">Oh <span style="color:rgb(126, 114, 218)">yeah</span> it's a little...dusty in here.</span>
@@ -11,7 +12,7 @@
 
 [[Isaac|ISAAC]]
 %% FR %%Je te l’avais dit.
-%% EN %%==<span style="color:rgb(255, 222, 0)">I ~~already~~ told you ~~that~~.</span>==%% <span style="color:rgb(126, 114, 218)">Here it's more of a stern "I told you..." like when you tell someone to no do something and they do it anyway</span> %%
+%% EN %%==<span style="color:rgb(255, 222, 0)">I ~~already~~told you~~that~~.</span>==%% <span style="color:rgb(126, 114, 218)">Here it's more of a stern "I told you..." like when you tell someone to no do something and they do it anyway</span> %%
 
 %% FR %%Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
 %% EN %%<span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.</span>
@@ -28,12 +29,12 @@
 %% EN %%<span style="color:rgb(255, 222, 0)">In the back closet under the stairs.</span> 
 
 [[Luke|LUCAS]]
-%% FR %%<Merci !
-%% EN %%<<span style="color:rgb(255, 222, 0)">Thanks!</span>
+%% FR %%Merci !
+%% EN %%<span style="color:rgb(255, 222, 0)">Thanks!</span>
 
 [[Isaac|ISAAC]]
-%% FR %%<Y’a pas de quoi…
-%% EN %%<<span style="color:rgb(255, 222, 0)">Don't mention it...</span>
+%% FR %%Y’a pas de quoi…
+%% EN %%<span style="color:rgb(255, 222, 0)">Don't mention it...</span>
 
 %% FR %%Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
 %% EN %%<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span>%% <span style="color:rgb(126, 114, 218)">(it's more "He "violently" (can't find the right word sorry) opens the closet and grabs the broom in a swift motion")</span> %%
