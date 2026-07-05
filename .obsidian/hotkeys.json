@@ -59,5 +59,29 @@
       ],
       "key": "U"
     }
+  ],
+  "obsidian-hotkeys-for-templates:Break Line.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:French.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:English.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
   ]
 }

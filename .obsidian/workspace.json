@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
+                "file": "5 - Template/English.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00 - Incipit"
+              "title": "English"
             }
           },
           {
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -321,10 +321,16 @@
       "edit-history:Open edit history": false
     }
   },
-  "active": "97dde141d2a7633e",
+  "active": "1e770e848a1504b0",
   "lastOpenFiles": [
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md",
+    "5 - Template/English.md",
+    "5 - Template/English.md.edtz",
+    "5 - Template/French.md",
+    "5 - Template/French.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
+    "5 - Template/Break Line.md",
+    "5 - Template/Break Line.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md.edtz",
@@ -335,9 +341,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Manuscript",
     "Scripts/remove-highlights.js",
     "Scripts/remove-color-tags - Copy.js",
-    "Scripts/remove-french-localisation - Copy.js",
-    "Scripts/remove-french-localisation.js",
-    "Scripts/remove-english-localisation - Copy.js",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Script/03 Before the Party - Second Draft 1.md",
@@ -357,9 +360,6 @@
     "Scripts/tes.js.md",
     "Evangelique/Cafe.md",
     "Evangelique/02 - Lucas’ Call.md.md",
-    "Evangelique/Index.md",
-    "Evangelique/manuscript.md",
-    "Evangelique/01 - Grandma.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
