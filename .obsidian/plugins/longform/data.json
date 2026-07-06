@@ -7,44 +7,44 @@
   "sessions": [
     {
       "start": "2026-07-06T10:05:34.125Z",
-      "total": 14933,
+      "total": 30296,
       "drafts": {
         "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
+          "total": 948,
           "scenes": {
-            "Squelette sous le it": 0,
-            "Cours Barbant": 0,
-            "Kris rencontre": 0,
-            "Wolfg rencontre": 0,
-            "Dans le tramway": 0,
-            "Déjeuner": 0,
-            "Dîner ensemble": 0,
-            "Menace à l'Appart'": 0
+            "Squelette sous le it": 635,
+            "Cours Barbant": 281,
+            "Kris rencontre": 5,
+            "Wolfg rencontre": 5,
+            "Dans le tramway": 5,
+            "Déjeuner": 3,
+            "Dîner ensemble": 5,
+            "Menace à l'Appart'": 9
           }
         },
         "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
-          "total": 0,
+          "total": 3,
           "scenes": {
-            "Rails Putrides": 0
+            "Rails Putrides": 3
           }
         },
         "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
-          "total": 0,
+          "total": 14221,
           "scenes": {
-            "Nuit éclatante": 0,
-            "Cabine Téléphonique": 0,
-            "Folie tout seul": 0,
-            "Je lui saute à la gorge": 0,
-            "Forest": 0,
-            "La Plage aux Merveilles": 0,
-            "Je ne t'oublierai pas": 0
+            "Nuit éclatante": 7191,
+            "Cabine Téléphonique": 506,
+            "Folie tout seul": 1004,
+            "Je lui saute à la gorge": 45,
+            "Forest": 3280,
+            "La Plage aux Merveilles": 1532,
+            "Je ne t'oublierai pas": 663
           }
         },
         "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md": {
-          "total": 14933,
+          "total": 15124,
           "scenes": {
             "00 - Incipit": 2077,
-            "01 - Grandma": 4545,
+            "01 - Grandma": 4736,
             "03 - Before the Party": 8311
           }
         },
