@@ -42,9 +42,11 @@ show lucas at right
 %% EN %%<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span>%% <span style="color:rgb(126, 114, 218)">(it's more "He "violently" (can't find the right word sorry) opens the closet and grabs the broom in a swift motion")</span> %%
 
 [[Luke|LUCAS]]
-On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
+%% FR %%On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
+%% EN %%<span style="color:rgb(126, 114, 218)">We should focus on the living room since most of the evening will be spent here. Is that alright with you?</span>
 
-Je regarde de haut en bas Lucas. %% bl %%Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. %% bl %%Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
+%% FR %%~~Je regarde de haut en bas Lucas. %% bl %%~~Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. %% bl %%Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
+%% EN %%<span style="color:rgb(126, 114, 218)">~~I look Lucas up and down.~~ He’s still wearing his suit, though his tie is starting to come undone, his shirt soaked in sweat. His shoulders are speckled with leaves, and the bottoms of his pants and his shoes are covered in dirt.</span>
 
 [[Isaac|ISAAC]]
 Tu viens directement du travail ?
