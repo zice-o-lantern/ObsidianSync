@@ -60,14 +60,6 @@
       "key": "U"
     }
   ],
-  "obsidian-hotkeys-for-templates:Break Line.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "B"
-    }
-  ],
   "obsidian-hotkeys-for-templates:French.md": [
     {
       "modifiers": [
@@ -90,6 +82,14 @@
         "Mod"
       ],
       "key": "."
+    }
+  ],
+  "obsidian-hotkeys-for-templates:Break Line.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
     }
   ]
 }
