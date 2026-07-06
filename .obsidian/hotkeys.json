@@ -91,5 +91,13 @@
       ],
       "key": "D"
     }
+  ],
+  "obsidian-hotkeys-for-templates:Pause.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }

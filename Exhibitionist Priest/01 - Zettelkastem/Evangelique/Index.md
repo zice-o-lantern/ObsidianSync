@@ -6,8 +6,8 @@ longform:
   sceneFolder: /
   scenes:
     - 00 - Incipit
-    - 03 - Before the Party
     - 01 - Grandma
+    - 03 - Before the Party
   ignoredFiles:
     - 03 - Before the Party.md
     - 00 - Incipit.md
