@@ -14,7 +14,7 @@ show lucas at right
 
 [[Isaac|ISAAC]]
 %% FR %%Je te l’avais dit.
-%% EN %%==<span style="color:rgb(255, 222, 0)">I ~~already~~told you~~that~~.</span>==%% <span style="color:rgb(126, 114, 218)">Here it's more of a stern "I told you..." like when you tell someone to no do something and they do it anyway</span> %%
+%% EN %%==<span style="color:rgb(255, 222, 0)">I ~~already~~told you <span style="color:rgb(126, 114, 218)">so</span>~~that~~.</span>==%% <span style="color:rgb(126, 114, 218)">Here it's more of a stern "I told you..." like when you tell someone to no do something and they do it anyway</span> %%
 
 %% FR %%Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
 %% EN %%<span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.</span>
@@ -297,10 +297,10 @@ Ah bah voilààààà, on vous entend enfin. Comment vous vous appelez monsieur 
 [[Judas|???]]
 … Je préfère ne pas dire.
 
-à travers la qualité pitoyable de la radio, on peut toujours entendre la pluie clapoter sur des parois de verre. L’homme avait la voix calme mais déraillante comme s’il allait craquer d’un moment à l’autre. Ses silences sont entrecoupées par des raclements de gorge. Même sous tous ces couches de paranoïas et de crises, cette voix m’est familière, même je la reconnaîtrais d’entre tous.
+À travers la qualité pitoyable de la radio, on peut toujours entendre la pluie clapoter sur des parois de verre. L’homme avait la voix calme mais déraillante comme s’il allait craquer d’un moment à l’autre. Ses silences sont entrecoupées par des raclements de gorge. Même sous tous ces couches de paranoïas et de crises, cette voix m’est familière, même je la reconnaîtrais d’entre tous.
 
 [[Martin|MARTIN]]
-Comment ça vous ne préférez pas dire
+Comment ça vous ne préférez pas dire ?
 
 [[Judas|???]]
 … Vous m’avez bien entendu
@@ -518,3 +518,4 @@ Je me retire de son étreinte, le regard au sol, mes mains tirant mon haut le pl
 
 ##### Fuir
 **$\quad$ Jump to [[03_B - Flee]]
+

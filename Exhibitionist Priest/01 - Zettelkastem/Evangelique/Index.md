@@ -7,6 +7,7 @@ longform:
   scenes:
     - Incipit
     - Grandma
+    - Lucas’ Call
     - Before the Party
   ignoredFiles:
     - 03 - Before the Party.md

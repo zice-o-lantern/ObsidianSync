@@ -1,198 +1,193 @@
-# L’appel de [[Lucas]]
+---
+created: 2026-03-13T22:32:00
+characters:
+  - "[[Isaac]]"
+  - "[[Luke]]"
+done:
+---
+À ce moment-là, mon téléphone sonne ~~alors~~<span style="color:rgb(126, 114, 218)">. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  </span><span style="color:rgb(126, 114, 218)">J</span>e le sors. <span style="color:rgb(126, 114, 218)"> Sur le petit écran de ce clapet, il est marqué Luke.Je déplie le clapet soigneusement. Une image d'un homme enroulant par le cou une personne qui regarde sur le côté, visiblement agacé, souhaitant être n'importe où mais ici. L'homme sourit à pleine dents montrant fièrement un signe V avec ses doigts. </span> ~~C’est [[Luke]].~~ Je décroche.
 
-À ce moment-là, mon téléphone sonne ~~alors~~<span style="color:rgb(126, 114, 218)">. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  </span><span style="color:rgb(126, 114, 218)">J</span>e le sors. <span style="color:rgb(126, 114, 218)"> Sur le petit écran de ce clapet, il est marqué Luke.Je déplie le clapet soigneusement. Une image d'un homme enroulant par le cou une personne qui regarde sur le côté, visiblement agacé, souhaitant être n'importe où mais ici. L'homme sourit à pleine dents montrant fièrement un signe V avec ses doigts. </span> ~~C’est [[Old Stuff/03 - Index/Characters/Luke]].~~ Je décroche.
-
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Allo ? Allo alloooooooo !
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 … Allo.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Oh enfin te voilà ! Tu m’as manqué tu sais ?
 
 Je lève ma montre.
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Tu m’as appelé durant ta pause déjeuner.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Roooh je te taquine
 
 Il glousse doucement à ses pitreries.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Tout se passe bien avec le déménagement ?
 
-<span style="color:rgb(126, 114, 218)">J'ouvre la porte d'entrée pour fuir l'air poussiéreux et miséreux de l'intérieur et je descends doucement les escaliers, puis je m'affale sur l'une des marches</span> 
-
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Plus ou moins. Je viens de finir.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Bah enfin ! Tu traînais ça au bout de la patte depuis des lustres !
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 C’était qu’un mois.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Et tout ça pour quoi, trois cartons ?
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Quatre.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Quand même ! T’es vraiment sûr d’aimer la maison ? Je te comprendrais si tu ne l’aimais pas.
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 … pourquoi ?
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Elle est tellement vieille, il y a tellement de travaux à y faire. Puis tout ça, ce doit être nostalgique. Après tout, jusqu’à récemment, elle appartenait à…
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Oui…
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Puis, avec le nombre de fois que je t’ai laissé crécher chez moi, on aurait dit que tu évitais l’endroit comme la peste. À ce stade, tu pourrais même venir vivre chez moi. T’es sûr que tu veux pas rester là-bas ?
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Plus que sûr même. C’est ma maison donc je dois y rester. J’ai assez abusé de ton hospitalité. Je ne veux pas te déranger plus longtemps.
 
-[[Lucas|LUCAS]]
-Jamais tu me dérangerais, [[Old Stuff/03 - Index/Characters/Isaac]] ! Si un ami a besoin d’aide, je l’aide, et surtout toi. Arrête de t’en faire !
+[[Luke|LUCAS]]
+Jamais tu me dérangerais, [[Isaac]] ! Si un ami a besoin d’aide, je l’aide, et surtout toi. Arrête de t’en faire !
 
-La vision de [[Lucas]] est réellement admirable mais naïf et niais. J’aimerais bien qu’il comprenne d’autres personnes ne seraient pas aussi généreuses que lui. Puis tout ça, c’est de la politesse. Jamais il n’oserait me dire que je le dérange.
+La vision de [[Luke]] est réellement admirable mais naïf et niais. J’aimerais bien qu’il comprenne d’autres personnes ne seraient pas aussi généreuses que lui. Puis tout ça, c’est de la politesse. Jamais il n’oserait me dire que je le dérange.
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Plus facile à dire qu’à faire.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Essaie plus alors, eheh. Tu as pu régler le souci des tâches d’ailleurs ?
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Non pas vraiment…
 
 Cette maison est bizarre. Elle me souille. Je le sais. Les objets ne sont jamais à leur place. Je retrouve jamais rien. Ou alors je les retrouve mais à l’autre de bout de la maison. Le matin je me réveillais avec des tâches sur les draps. Incolores. De l’eau ? Peut-être. L’odeur est insoutenable. On dirait de la moisissure. Je l’ai fait sentir à Lucas pour qu’il me dise ce que c’était. Il m’a dit que ça ne sentait rien. 
 Ce qui m’effraie le plus, c’est que je la sens maintenant partout : sur mes pantalons, dans mon sac, dans mon portefeuille et j’ai beau laver, ça ne part pas. Je me surprends à frotter frénétiquement ma peau, espérant l’arracher, juste pour faire partir l odeur. Les traces teintent toute ma vie, infectant tout ce que je possède. Je ne possède plus, la Maison possède désormais. Je me couche le soir, souillé, sans que personne ne puisse y faire et je dois m’y faire. Elle m’est familière, cette souillure, je crois. 
 De toute façon, ce n’est pas nouveau que je me fasse emparer par ces traces. C’est ici-même, dans cette maison, il y a 20 ans, que c’est arrivé pour la première fois.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Je suis sûr que ça partira.
 
 Oui en quelques sortes. Plus les jours passeront, moins ça me dérangera et finalement je ne ferai plus attention aux traces. Elles feront partie de moi.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Puis si ça part, on trouvera une solution, ensemble, d’accord ?
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 D’accord…
 J’imagine que tu as bientôt terminé le travail, alors ?
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Ouaip c’est ça !
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Je vois…
 Eh bien, rentre bien, alors.
 
 Je vais pour raccrocher 
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Wow wow wow, attends attends. Vu que t’as fini de déménager, ça te dirait pas de faire une petite soirée pour fêter ça ?
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Quand ça ?
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Ce soir ! Ne me dis pas que t’es pas disponible, je sais que tu l’es !
 Et tu dormiras chez moi !
 
 Argh, il m’a coincé.
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Je ne sais pas… Je me sens pas très en forme ces derniers temps.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Alleeez ! Ça fait longtemps qu’on s’est pas pas amusé,  et puis quand on travaille un samedi, on a envie de se changer les idées le soir !
 
 Mais ça va encore empester l’alcool.
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Je n’ai pas très envie de boire, Lucas.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 On boira pas beaucoup d’alcool, je te le promets !
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 T’es sûr ?
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Sûr de sûr.
 
 Je n’ai pas vraiment foi en lui, pour être honnête. Tant qu’il me met pas la bouteille sous le nez.
 Puis une image de mon lit apparaît dans mon esprit et de cette tâche qui ne part pas avec, incolore et inodore.
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 D’accord. Faisons cette soirée.
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Youpiiii !!
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Je viens à quelle heure chez toi ?
 
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Hein ? Chez moi ? De quoi tu parles ? La soirée elle est pas chez toi, elle est chez toi. 
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Chez moi ???
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Bah oui. Une soirée pour célébrer ta maison et on la fait pas à la maison, c’est pas logique.
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Mais je suis pas prêt ! J’ai encore pleins de choses à faire ! La maison n’est pas prête !!
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Pas grave, je vais t’aider.
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Mais c’est ce soir !!!
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Ça me donnera une excuse pour traîner avec toi ! 
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Qui viendra ?
 
-[[Lucas|LUCAS]]
-[[Exhibitionist Priest/03 - Index/Characters/Nick|Nick]] et [[Old Stuff/03 - Index/Characters/Simone]].
+[[Luke|LUCAS]]
+[[Exhibitionist Priest/03 - Index/Characters/Nick|Nick]] et [[Simone]].
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
+[[Isaac|ISAAC]]
 Donc seulement nous quatre ?
 
-[[Lucas|LUCAS]]
+[[Luke|LUCAS]]
 Seulement nous quatre.
 
 Je souffle de soulagement.
 
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
-~~Dans combien de temps alors ?~~ <span style="color:rgb(126, 114, 218)">Quelle heure ?</span>
+[[Isaac|ISAAC]]
+Dans combien de temps alors ?
 
-[[Lucas|LUCAS]]
-~~Dans deux heures. J’arrive dans trente minutes !~~ <span style="color:rgb(126, 114, 218)">À vingt heures !</span>
+[[Luke|LUCAS]]
+Dans deux heures. J’arrive dans trente minutes !
 
-<span style="color:rgb(126, 114, 218)">Je lève ma montre. Il est dix-huit heures passée</span>
-
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
-<span style="color:rgb(126, 114, 218)">C'est dans deux heures</span>...
-
-[[Lucas|LUCAS]]
-<span style="color:rgb(126, 114, 218)">Ah merde j'avais pas réalisé ! Faut que je me dépêche !!! J'arrive dans trente minutes !</span>
-
-[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
-~~Deux heures…~~ Lucas tu sais bien ce n’est pas assez de temps pour organiser tout ça. Et si [[Old Stuff/03 - Index/Characters/Simone]] et [[Old Stuff/03 - Index/Characters/Nick]] ne sont pas disponibles ? Et puis la maison sera dégueu-
+[[Isaac|ISAAC]]
+Deux heures… Lucas tu sais bien ce n’est pas assez de temps pour organiser tout ça. Et si [[Simone]] et [[Nick]] ne sont pas disponibles ? Et puis la maison sera dégueu-
 
 Il a raccroché 
