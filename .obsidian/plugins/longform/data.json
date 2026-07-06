@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Script/French/Index.md",
+  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-07-06T10:05:34.125Z",
-      "total": 5189,
+      "total": 7042,
       "drafts": {
         "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
           "total": 0,
@@ -41,10 +41,11 @@
           }
         },
         "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md": {
-          "total": 5189,
+          "total": 7042,
           "scenes": {
             "00 - Incipit": 1033,
-            "03 - Before the Party": 4156
+            "03 - Before the Party": 4156,
+            "01 - Grandma": 1853
           }
         },
         "Exhibitionist Priest/Script/Index.md": {

@@ -80,8 +80,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
-                "mode": "preview",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -95,11 +95,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00 - Incipit"
+              "title": "01 - Grandma"
+            }
+          },
+          {
+            "id": "b7a6c756d172b767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/01 - Grandma.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01 - Grandma"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +186,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -296,15 +321,17 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "bf0b3ee1b6bbdaef",
+  "active": "b7a6c756d172b767",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Renpy/Renpy.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Renpy/Renpy.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Renpy/Evangelique manuscript.md",
@@ -321,7 +348,6 @@
     "5 - Template/Break Line.md",
     "5 - Template/Break Line.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Manuscript/Evangelique manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 Before the Party.md.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
@@ -334,7 +360,6 @@
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Evangelique/02 - Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
-    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",

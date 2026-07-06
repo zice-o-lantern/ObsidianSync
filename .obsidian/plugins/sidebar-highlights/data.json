@@ -3147,44 +3147,78 @@
     ],
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md": [
       {
-        "id": "h9xoruzjj",
+        "id": "xfe4a9k77",
+        "text": " FR ",
+        "tags": [],
+        "line": 10,
+        "startOffset": 114,
+        "endOffset": 122,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " FR "
+        ],
+        "createdAt": 1783362708944,
+        "isNativeComment": true,
+        "type": "comment"
+      },
+      {
+        "id": "r1a1zr5uj",
+        "text": " EN ",
+        "tags": [],
+        "line": 14,
+        "startOffset": 522,
+        "endOffset": 530,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " EN "
+        ],
+        "createdAt": 1783362712255,
+        "isNativeComment": true,
+        "type": "comment"
+      },
+      {
+        "id": "lqgkdghgv",
         "text": "~~Not that there were that many too begin with~~ <span style=\"color:rgb(176, 114, 218)\">It wasn't even that much...like, three boxes, maybe?</span>",
         "tags": [],
         "line": 14,
-        "startOffset": 585,
-        "endOffset": 736,
+        "startOffset": 592,
+        "endOffset": 743,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
         "footnoteCount": 0,
         "footnoteContents": [],
-        "createdAt": 1783362210626,
+        "createdAt": 1783362584325,
         "isNativeComment": false,
         "type": "highlight"
       },
       {
-        "id": "h26rg5z2l",
-        "text": "toujours",
+        "id": "y02726pu5",
+        "text": " {w] ",
         "tags": [],
         "line": 17,
-        "startOffset": 1106,
-        "endOffset": 1118,
+        "startOffset": 1132,
+        "endOffset": 1141,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1783362210147,
-        "isNativeComment": false,
-        "type": "highlight"
+        "footnoteCount": 1,
+        "footnoteContents": [
+          " {w] "
+        ],
+        "createdAt": 1783362757588,
+        "isNativeComment": true,
+        "type": "comment"
       },
       {
-        "id": "4v5wgugeh",
+        "id": "axs93dhm3",
         "text": "~~Plus, it puts all your current activities and projects on hold. If I had any~~  <span style=\"color:rgb(232, 17, 93)\">Plus, it puts your whole life on hold. Not that I had much going on to begin with</span>",
         "tags": [],
         "line": 22,
-        "startOffset": 2720,
-        "endOffset": 2931,
+        "startOffset": 2655,
+        "endOffset": 2866,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
         "footnoteCount": 0,
         "footnoteContents": [],
-        "createdAt": 1783362210761,
+        "createdAt": 1783362584457,
         "isNativeComment": false,
         "type": "highlight"
       }
