@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-07-06T10:05:34.125Z",
-      "total": 32045,
+      "total": 24056,
       "drafts": {
         "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
           "total": 948,
@@ -41,11 +41,11 @@
           }
         },
         "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md": {
-          "total": 16873,
+          "total": 8884,
           "scenes": {
-            "00 - Incipit": 2077,
-            "01 - Grandma": 6485,
-            "03 - Before the Party": 8311
+            "Incipit": 1033,
+            "Grandma": 3696,
+            "Before the Party": 4155
           }
         },
         "Exhibitionist Priest/Script/Index.md": {
@@ -1267,7 +1267,7 @@
   "countDeletionsForGoal": false,
   "keepSessionCount": 30,
   "sessionFile": "longform-sessions.json",
-  "numberScenes": false,
+  "numberScenes": true,
   "sceneTemplate": null,
   "waitForSync": false,
   "fallbackWaitEnabled": true,
