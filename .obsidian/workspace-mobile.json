@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": 0.6267206804881074,
-                  "y": 791.1468537835929,
-                  "zoom": -0.8091387747253488
+                  "x": -1268.7727179094582,
+                  "y": 723.6153861934108,
+                  "zoom": -2.396291675904259
                 }
               },
               "pinned": true,
@@ -75,36 +75,12 @@
             }
           },
           {
-            "id": "cef7910f5286b3ae",
+            "id": "f52d5da16891ec65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Raincoat Man"
-            }
-          },
-          {
-            "id": "8cf127b72b6f4cc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/03 - The before party.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -120,6 +96,30 @@
               },
               "icon": "lucide-file",
               "title": "03 - The before party"
+            }
+          },
+          {
+            "id": "bc94de5e301a6928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "03 - Before the Party"
             }
           }
         ],
@@ -224,7 +224,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+            "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -279,7 +279,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "sidebar-highlights:Open highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -288,61 +287,62 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "8cf127b72b6f4cc1",
+  "active": "bc94de5e301a6928",
   "lastOpenFiles": [
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
-    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
-    "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/02 - Lucas’ Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/Saccharine Edits 00 - Incipit.md",
-    "Exhibitionist Priest/06 - Canvas/Sub plots",
-    "conflict-files-obsidian-git.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit Second Draft.md",
-    "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/03 - Index/Characters/Cesare.md",
-    "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
-    "1 - Rough Notes/le message de TADC.md",
-    "Untitled.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/03 - The before party.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/03 - Before the Party.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/Saccharine Translations/03 Before the Party - Second Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/00 - Incipit.md",
+    "Exhibitionist Priest/Script/Index.md",
     "Exhibitionist Priest/03 - Index/Characters/Jeff.md",
-    "Lucas.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md~HEAD",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/unknown - Cafe.md~HEAD",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/00 - Incipit.md~main",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Approved/00 - Incipit.md~HEAD",
-    "Exhibitionist Priest/05 - Tasks/SFX Music Tasks.md~main",
-    "Untitled Kanban.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/English/Current/unknown - Cafe.md~main",
-    "Exhibitionist Priest/05 - Tasks/SFX Music Tasks.md~HEAD",
-    "Exhibitionist Priest/01 - Zettelkastem/Drafts/English/00 - Incipit English - Murkwater edits 1.md~main",
-    "Exhibitionist Priest/03 - Index/Characters/Martin.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/04 - Why did you quit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/French/Cafe.md",
-    "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/Grandma.md",
-    "Exhibitionist Priest/03 - Index/Exhibitionist Priest.md",
-    "Exhibitionist Priest/03 - Index/Characters/Lucas.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit English.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Script/French/03 - The before party.md",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md.edtz",
+    "5 - Template/French.md.edtz",
+    "5 - Template/HTML Comments.md.edtz",
+    "5 - Template/Break Line.md.edtz",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
+    "5 - Template/Break Line.md",
+    "5 - Template/French.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas.edtz",
+    "Exhibitionist Priest/03 - Index/Characters/Raincoat Man.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas.edtz",
+    "Exhibitionist Priest/03 - Index/Characters/Judas.md",
+    "5 - Template/English.md.edtz",
+    "Exhibitionist Priest/Script/Index.md.edtz",
+    "Exhibitionist Priest/Script",
+    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
+    "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas.edtz",
+    "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
+    "5 - Template/English.md",
+    "5 - Template/HTML Comments.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Manuscript/Evangelique manuscript.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Renpy/Evangelique manuscript.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Renpy/Renpy.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/Saccharine Translations/Saccharine Edits 00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/00 - Incipit Second Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/01 - Grandma - First Draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/03 - The before party - First Draft.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/02 - Attachments/53aea4029ffd87c7927fb3f7aca9087e.jpg",
-    "Exhibitionist Priest/04 - Tags",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
-    "Exhibitionist Priest/01 - Zettelkastem/Script/Index.md",
     "Exhibitionist Priest/02 - Attachments/IMG_0536.jpg",
     "7 - Attachments/IMG_0535.jpg",
-    "Exhibitionist Priest/05 - Tasks/Current/Should the photo Is take be a mistake or on purpose.md",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/02 - Attachments/IMG_0534.jpg",
     "Exhibitionist Priest/02 - Attachments/IMG_0533.jpg",
     "Exhibitionist Priest/02 - Attachments/IMG_0531.jpg",
     "Exhibitionist Priest/02 - Attachments/IMG_0532.jpg",
     "Exhibitionist Priest/02 - Attachments/IMG_0530.jpg",
-    "Exhibitionist Priest/03 - Index/Characters/Simone.md",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260224135618.png",
     "Exhibitionist Priest/02 - Attachments/Chekhovs_Gun_Rifle_on_Wall.jpg",
     "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Outline Chillasque.canvas"

@@ -1,205 +1,60 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
-  "userScriptFolder": "Scripts",
+  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Script/French/Index.md",
+  "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
-      "start": "2026-07-06T09:15:22.932Z",
-      "total": 0,
+      "start": "2026-07-06T10:05:34.125Z",
+      "total": 5189,
       "drafts": {
-        "Exhibitionist Priest/Script/Index.md": {
+        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
           "total": 0,
-          "scenes": {}
+          "scenes": {
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Rails Putrides": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Nuit éclatante": 0,
+            "Cabine Téléphonique": 0,
+            "Folie tout seul": 0,
+            "Je lui saute à la gorge": 0,
+            "Forest": 0,
+            "La Plage aux Merveilles": 0,
+            "Je ne t'oublierai pas": 0
+          }
         },
         "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md": {
-          "total": 0,
+          "total": 5189,
           "scenes": {
-            "00 - Incipit": 0,
-            "03 - Before the Party": 0
+            "00 - Incipit": 1033,
+            "03 - Before the Party": 4156
           }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Rails Putrides": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Nuit éclatante": 0,
-            "Cabine Téléphonique": 0,
-            "Folie tout seul": 0,
-            "Je lui saute à la gorge": 0,
-            "Forest": 0,
-            "La Plage aux Merveilles": 0,
-            "Je ne t'oublierai pas": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Squelette sous le it": 0,
-            "Cours Barbant": 0,
-            "Kris rencontre": 0,
-            "Wolfg rencontre": 0,
-            "Dans le tramway": 0,
-            "Déjeuner": 0,
-            "Dîner ensemble": 0,
-            "Menace à l'Appart'": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-07-04T22:40:50.111Z",
-      "total": 5110,
-      "drafts": {
-        "Evangelique/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Cafe": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Nuit éclatante": 0,
-            "Cabine Téléphonique": 0,
-            "Folie tout seul": 0,
-            "Je lui saute à la gorge": 0,
-            "Forest": 0,
-            "La Plage aux Merveilles": 0,
-            "Je ne t'oublierai pas": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Rails Putrides": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Squelette sous le it": 0,
-            "Cours Barbant": 0,
-            "Kris rencontre": 0,
-            "Wolfg rencontre": 0,
-            "Dans le tramway": 0,
-            "Déjeuner": 0,
-            "Dîner ensemble": 0,
-            "Menace à l'Appart'": 0
-          }
-        },
-        "HI/Index.md": {
-          "total": 0,
-          "scenes": {}
         },
         "Exhibitionist Priest/Script/Index.md": {
           "total": 0,
           "scenes": {}
-        },
-        "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md": {
-          "total": 5110,
-          "scenes": {
-            "00 - Incipit": 1034,
-            "03 - Before the Party": 4076
-          }
         }
       }
     },
     {
-      "start": "2026-07-03T23:11:03.842Z",
-      "total": 10556,
-      "drafts": {
-        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Rails Putrides": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Nuit éclatante": 0,
-            "Cabine Téléphonique": 0,
-            "Folie tout seul": 0,
-            "Je lui saute à la gorge": 0,
-            "Forest": 0,
-            "La Plage aux Merveilles": 0,
-            "Je ne t'oublierai pas": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Squelette sous le it": 0,
-            "Cours Barbant": 0,
-            "Kris rencontre": 0,
-            "Wolfg rencontre": 0,
-            "Dans le tramway": 0,
-            "Déjeuner": 0,
-            "Dîner ensemble": 0,
-            "Menace à l'Appart'": 0
-          }
-        },
-        "Evangelique/Index.md": {
-          "total": 10556,
-          "scenes": {
-            "00 - Incipit": 436,
-            "01 - Grandma": 1640,
-            "02 - Lucas’ Call": 990,
-            "03 - The before party": 4522,
-            "03_A - Stay in the room": 702,
-            "03_B - Flee": 283,
-            "04 - Why did you quit": 1057,
-            "Cafe": 926
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-07-03T01:03:32.378Z",
-      "total": 0,
-      "drafts": {
-        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Squelette sous le it": 0,
-            "Cours Barbant": 0,
-            "Kris rencontre": 0,
-            "Wolfg rencontre": 0,
-            "Dans le tramway": 0,
-            "Déjeuner": 0,
-            "Dîner ensemble": 0,
-            "Menace à l'Appart'": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Rails Putrides": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Nuit éclatante": 0,
-            "Cabine Téléphonique": 0,
-            "Folie tout seul": 0,
-            "Je lui saute à la gorge": 0,
-            "Forest": 0,
-            "La Plage aux Merveilles": 0,
-            "Je ne t'oublierai pas": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-06-30T06:41:45.695Z",
+      "start": "2026-06-30T04:09:50.093Z",
       "total": 0,
       "drafts": {
         "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
@@ -1290,6 +1145,117 @@
           }
         }
       }
+    },
+    {
+      "start": "2026-02-02T17:53:07.601Z",
+      "total": 0,
+      "drafts": {
+        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Nuit éclatante": 0,
+            "Cabine Téléphonique": 0,
+            "Folie tout seul": 0,
+            "Je lui saute à la gorge": 0,
+            "Forest": 0,
+            "La Plage aux Merveilles": 0,
+            "Je ne t'oublierai pas": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Rails Putrides": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-02-01T19:04:58.403Z",
+      "total": 0,
+      "drafts": {
+        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Rails Putrides": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Nuit éclatante": 0,
+            "Cabine Téléphonique": 0,
+            "Folie tout seul": 0,
+            "Je lui saute à la gorge": 0,
+            "Forest": 0,
+            "La Plage aux Merveilles": 0,
+            "Je ne t'oublierai pas": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-01-29T22:28:27.126Z",
+      "total": 0,
+      "drafts": {
+        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Rails Putrides": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Nuit éclatante": 0,
+            "Cabine Téléphonique": 0,
+            "Folie tout seul": 0,
+            "Je lui saute à la gorge": 0,
+            "Forest": 0,
+            "La Plage aux Merveilles": 0,
+            "Je ne t'oublierai pas": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
+          }
+        }
+      }
     }
   ],
   "showWordCountInStatusBar": true,
@@ -1322,13 +1288,6 @@
           }
         },
         {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": true
-          }
-        },
-        {
           "id": "prepend-title",
           "optionValues": {
             "format": "$3{#} $1",
@@ -1338,77 +1297,13 @@
         {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": "\n\n"
+            "separator": "\\n\\n---\\n\\n"
           }
         },
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "$1 manuscript.md",
-            "open-after": true
-          }
-        }
-      ]
-    },
-    "Custom": {
-      "name": "Custom",
-      "description": "",
-      "steps": [
-        {
-          "id": "strip-frontmatter",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
-          "id": "Scripts/remove-highlights.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Scripts/remove-french-localisation.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Scripts/add-break-lines.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Scripts/remove-color-tags.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": false
-          }
-        },
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$3{#} $1",
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "concatenate-text",
-          "optionValues": {
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "write-to-note",
-          "optionValues": {
-            "target": "Renpy/Renpy.md",
+            "target": "manuscript.md",
             "open-after": true
           }
         }
