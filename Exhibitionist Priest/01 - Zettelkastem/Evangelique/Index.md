@@ -2,7 +2,7 @@
 longform:
   format: scenes
   title: Evangelique
-  workflow: Custom
+  workflow: Default Workflow
   sceneFolder: /
   scenes:
     - 00 - Incipit
