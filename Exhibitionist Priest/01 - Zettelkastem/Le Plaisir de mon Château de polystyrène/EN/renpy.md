@@ -214,7 +214,7 @@ Maybe it was my destiny to take a photo here one day.
 I think I’ll keep the camera. 
 I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. 
 Maybe it could become my new passion? Who knows. 
-I strap the bag around my waist and put the camera inside, a fresh roll of film-- ready for all kinds of experiments. 
+I strap the bag around my waist and put the camera inside, a fresh roll of film — ready for all kinds of experiments. 
 
 # Lucas’ Call
 

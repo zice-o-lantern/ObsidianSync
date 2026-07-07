@@ -1348,6 +1348,10 @@
           "optionValues": {}
         },
         {
+          "id": "Scripts/remove-english-localisation.js",
+          "optionValues": {}
+        },
+        {
           "id": "prepend-title",
           "optionValues": {
             "format": "$3{#} $1",
@@ -1360,10 +1364,6 @@
             "remove-wikilinks": true,
             "remove-external-links": true
           }
-        },
-        {
-          "id": "Scripts/remove-english-localisation.js",
-          "optionValues": {}
         },
         {
           "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",

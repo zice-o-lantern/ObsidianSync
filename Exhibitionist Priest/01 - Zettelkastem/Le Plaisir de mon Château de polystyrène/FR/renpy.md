@@ -209,18 +209,7 @@ Peut-être bien que c'était ma destinée de prendre une photo un jour ici.
 Je crois que je vais garder la caméra. 
 Je n'ai pas grand chose à faire donc je suppose que ça ferait pas de mal de quelque photos au quatre coins de la ville. Peut-être que c'est pourrait devenir ma nouvelle passion ? 
 Qui sait.
-J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche — prête pour toute sortes d’expérimentations.
-
-I think it’s actually pretty good. 
-It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.  
-When Uncle used to take these photos at all hours of the day, it looked like fun. 
-It’s as if my uncle were bequeathing it to me. 
-As if it’s my destiny to take photos. 
-Maybe it was my destiny to take a photo here one day. 
-I think I’ll keep the camera. 
-I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. 
-Maybe it could become my new passion? Who knows. 
-I strap the bag around my waist and put the camera inside, a fresh roll of film-- ready for all kinds of experiments. 
+J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche — prête pour toute sortes d’expérimentations. 
 
 # Lucas’ Call
 
