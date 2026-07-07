@@ -1411,7 +1411,7 @@
           "id": "prepend-title",
           "optionValues": {
             "format": "$3{#} $2 - $1",
-            "separator": " "
+            "separator": ""
           }
         },
         {
@@ -1451,7 +1451,7 @@
         {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": " "
+            "separator": "\\n\\n"
           }
         },
         {
@@ -1575,7 +1575,7 @@
         {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": "\n\n"
+            "separator": "\\n\\n"
           }
         },
         {

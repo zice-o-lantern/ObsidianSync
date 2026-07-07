@@ -1,4 +1,4 @@
-# 1 - Incipit 
+# 1 - Incipit
 
 
 Le chat dans la boite a t-il vraiment envie qu'on le révèle ?  Voici ce qui me bloque et m'interloque, affaissé dans le placard. Tu ouvres la porte. 23h40. J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants ! Tes cernes tombantes témoignant de toute tes douceurs et douleurs. Ton visage triste recelant un côté inquiétant et pervers, et surtout à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
@@ -18,7 +18,9 @@ Nous menons une valse. À ton insu. N'est-ce pas ce qui fait la beauté de  ce m
 
 
 Regardez-moi, Dieu ou alors Schrödinger, que sais-je ! À Toi, si obsédé à l’idée d’ouvrir la boite sans y toucher. J’ai enfin découvert comment faire. Le Chat ne doit pas être observé. Il est heureux là où il se trouve, dans ses plaisirs et ses travers.<
-Look at me, God or Schrödinger-- who knows! To You, so obsessed with the idea of opening the box without touching it. I have finally discovered how to do it.The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices.  # 2 - Styrofoam Castle 
+Look at me, God or Schrödinger-- who knows! To You, so obsessed with the idea of opening the box without touching it. I have finally discovered how to do it.The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices. 
+
+# 2 - Styrofoam Castle
 Aujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. J’aime le caca Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Ça fait un mois qu’ils sont là.J’aurais pu demander à Luke mais il est au travail aujourd’hui.
 
 
@@ -83,7 +85,9 @@ J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule 
 
 
 
-I think it’s actually pretty good. It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.   When Uncle used to take these photos at all hours of the day, it looked like fun. It’s as if my uncle were bequeathing it to me. As if it’s my destiny to take photos. Maybe it was my destiny to take a photo here one day. I think I’ll keep the camera. I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. Maybe it could become my new passion? Who knows. I strap the bag around my waist and put the camera inside, a fresh roll of film-- ready for all kinds of experiments.  # 3 - Lucas’ Call 
+I think it’s actually pretty good. It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.   When Uncle used to take these photos at all hours of the day, it looked like fun. It’s as if my uncle were bequeathing it to me. As if it’s my destiny to take photos. Maybe it was my destiny to take a photo here one day. I think I’ll keep the camera. I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. Maybe it could become my new passion? Who knows. I strap the bag around my waist and put the camera inside, a fresh roll of film-- ready for all kinds of experiments. 
+
+# 3 - Lucas’ Call
 À ce moment-là, mon téléphone sonne . La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran de ce clapet, il est marqué Luke.Je déplie le clapet soigneusement. Une image d'un homme enroulant par le cou une personne qui regarde sur le côté, visiblement agacé, souhaitant être n'importe où mais ici. L'homme sourit à pleine dents montrant fièrement un signe V avec ses doigts.   Je décroche.
 
 LUCAS
@@ -269,7 +273,9 @@ Dans deux heures. J’arrive dans trente minutes !
 ISAAC
 Deux heures… Lucas tu sais bien ce n’est pas assez de temps pour organiser tout ça. Et si Simone et Nick ne sont pas disponibles ? Et puis la maison sera dégueu-
 
-Il a raccroché  # 4 - Before the Party Finalement il est arrivé au bout de dix minutes au lieu de trente . Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
+Il a raccroché 
+
+# 4 - Before the PartyFinalement il est arrivé au bout de dix minutes au lieu de trente . Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
 
 
 LUCAS

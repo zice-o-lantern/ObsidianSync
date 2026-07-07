@@ -3,7 +3,7 @@ longform:
   format: scenes
   title: Evangelique
   draftTitle: Le Plaisir de mon Château de polystyrène
-  workflow: Manuscript French
+  workflow: Manuscript English
   sceneFolder: /
   scenes:
     - Incipit
@@ -26,4 +26,5 @@ longform:
     - 
     - 
     - Styrofoam Castle
+    - 
 ---

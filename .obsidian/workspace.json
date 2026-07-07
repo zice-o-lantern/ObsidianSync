@@ -80,6 +80,30 @@
                 }
               },
               {
+                "id": "dbada9b0d601a455",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Incipit"
+                }
+              },
+              {
                 "id": "02e62ea9852c038e",
                 "type": "leaf",
                 "state": {
@@ -128,7 +152,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "fe307ad259572955",
@@ -183,7 +207,8 @@
                   "title": "manuscript"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -384,11 +409,12 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "d4efd65b58b21e51",
+  "active": "a2c54f86a72475d5",
   "lastOpenFiles": [
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/manuscript.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/manuscript.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN",
     "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
     "Exhibitionist Priest/08 - Scripts/remove-highlights - Copy.js",
@@ -400,7 +426,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Confessions/Cafe.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/01 - Grandma.md",
