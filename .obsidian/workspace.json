@@ -56,8 +56,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Incipit.md",
-                "mode": "source",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Styrofoam Castle.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -71,17 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Incipit"
-            }
-          },
-          {
-            "id": "61c1d00516766187",
-            "type": "leaf",
-            "state": {
-              "type": "system3-differences-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "File Diff: Incipit.md and local disk"
+              "title": "Styrofoam Castle"
             }
           },
           {
@@ -109,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -307,8 +297,9 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "61c1d00516766187",
+  "active": "d4efd65b58b21e51",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
@@ -319,7 +310,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/02 - Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Before the Party.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/manuscript.md",
