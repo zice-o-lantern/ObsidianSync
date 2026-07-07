@@ -196,14 +196,10 @@ Je crains qu'elle suspecte le pire.
  C'est pas comme si je lui avais donné une raison de ne pas me douter. 
 Mais malgré le temps passé, elle ne semble pas venir. Tant mieux.
 
-I stay hidden behind the window for a while, afraid she might show up at my door. 
-I’m worried she suspects the worst. It’s not like I gave her a reason not to be suspicious of me. 
-But despite the time that’s passed, she don’t seem to be coming. Good.
 
 La photo mystérieuse dans la galerie me revient à l'esprit. 
 Je l'ouvre. La photo représente une photo d'un merle avec des plumes flous au quatre coins du cadre au premier plan sur un ciel bleu avec en fond la forêt. 
 J'ai dû prendre la photo dans la panique.
-
 
 Je la trouve plutôt pas mal.  C'est un peu poétique en soit. 
 Toutes les conditions et les conséquences qui m'ont amené à ce point, à cette photo.  
@@ -215,10 +211,9 @@ Je n'ai pas grand chose à faire donc je suppose que ça ferait pas de mal de qu
 Qui sait.
 
 J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche — prête pour toute sortes d’expérimentations.
-
 I think it’s actually pretty good. 
 It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.  
- When Uncle used to take these photos at all hours of the day, it looked like fun. 
+When Uncle used to take these photos at all hours of the day, it looked like fun. 
 It’s as if my uncle were bequeathing it to me. 
 As if it’s my destiny to take photos. 
 Maybe it was my destiny to take a photo here one day. 
