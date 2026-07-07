@@ -9,8 +9,8 @@ pause 2.0
 Does the cat in its box really want us to reveal what’s inside? 
 That's what's bothering me-- puzzling me, as I'm slumped in the closet. 
 You open the door. 11:40 p.m. 
-I adore everything about you: your piercing yet warm, intoxicating eyes! 
-Your dark circles revealing all your tenderness and tendencies; Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
+I adore everything about you: your piercing yet warm, intoxi
+cating eyes! Your dark circles revealing all your tenderness and tendencies; Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
 
 <!--- 
 pause 1.0 
@@ -194,15 +194,10 @@ I need to check if the woman is still there.
 I zoom back in on the window.
  She’s not there anymore. Did she see me?
 
-Je reste planqué un temps derrière la fenêtre, de peur qu'elle débarque devant ma porte. 
-Je crains qu'elle suspecte le pire.
- C'est pas comme si je lui avais donné une raison de ne pas me douter. 
-Mais malgré le temps passé, elle ne semble pas venir. Tant mieux.
 
-
-La photo mystérieuse dans la galerie me revient à l'esprit. 
-Je l'ouvre. La photo représente une photo d'un merle avec des plumes flous au quatre coins du cadre au premier plan sur un ciel bleu avec en fond la forêt. 
-J'ai dû prendre la photo dans la panique.
+I stay hidden behind the window for a while, afraid she might show up at my door. 
+I’m worried she suspects the worst. It’s not like I gave her a reason not to be suspicious of me. 
+But despite the time that’s passed, she don’t seem to be coming. Good.
 
 The mysterious photo in the gallery comes back to mind. 
 I open it. 
@@ -210,11 +205,9 @@ The photo shows a  bird with blurry feathers in  all four corners of the frame  
 I must have taken the photo in a panic.
 
 
-J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche — prête pour toute sortes d’expérimentations.
-
 I think it’s actually pretty good. 
 It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.  
- When Uncle used to take these photos at all hours of the day, it looked like fun. 
+When Uncle used to take these photos at all hours of the day, it looked like fun. 
 It’s as if my uncle were bequeathing it to me. 
 As if it’s my destiny to take photos. 
 Maybe it was my destiny to take a photo here one day. 

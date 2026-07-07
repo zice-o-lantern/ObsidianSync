@@ -209,8 +209,8 @@ Peut-être bien que c'était ma destinée de prendre une photo un jour ici.
 Je crois que je vais garder la caméra. 
 Je n'ai pas grand chose à faire donc je suppose que ça ferait pas de mal de quelque photos au quatre coins de la ville. Peut-être que c'est pourrait devenir ma nouvelle passion ? 
 Qui sait.
-
 J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche — prête pour toute sortes d’expérimentations.
+
 I think it’s actually pretty good. 
 It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.  
 When Uncle used to take these photos at all hours of the day, it looked like fun. 
