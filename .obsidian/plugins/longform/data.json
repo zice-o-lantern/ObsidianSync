@@ -1411,7 +1411,7 @@
           "id": "prepend-title",
           "optionValues": {
             "format": "$3{#} $2 - $1",
-            "separator": "\n\n"
+            "separator": " "
           }
         },
         {
@@ -1445,9 +1445,13 @@
           }
         },
         {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
+          "optionValues": {}
+        },
+        {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": "\n\n"
+            "separator": " "
           }
         },
         {
@@ -1530,7 +1534,7 @@
         {
           "id": "prepend-title",
           "optionValues": {
-            "format": "$1",
+            "format": "$3{#} $2 - $1",
             "separator": "\n\n"
           }
         },
@@ -1561,6 +1565,14 @@
           }
         },
         {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
           "id": "concatenate-text",
           "optionValues": {
             "separator": "\n\n"
@@ -1569,8 +1581,8 @@
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "Renpy/manuscript.md",
-            "open-after": true
+            "target": "EN/manuscript.md",
+            "open-after": false
           }
         }
       ]
