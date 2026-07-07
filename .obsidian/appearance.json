@@ -9,6 +9,7 @@
   "enabledCssSnippets": [
     "colored_kanban_lanes",
     "colored_kanban_cards",
-    "Properties"
+    "Properties",
+    "Localization"
   ]
 }

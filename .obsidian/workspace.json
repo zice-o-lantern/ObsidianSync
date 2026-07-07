@@ -57,7 +57,7 @@
               "type": "markdown",
               "state": {
                 "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"due-date\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,8 +186,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -320,7 +319,7 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "6c588a15a6a84825",
+  "active": "d4efd65b58b21e51",
   "lastOpenFiles": [
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
