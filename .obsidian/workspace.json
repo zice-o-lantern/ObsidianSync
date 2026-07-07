@@ -184,6 +184,78 @@
                 }
               },
               {
+                "id": "7ee64a5005ba3f48",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "renpy"
+                }
+              },
+              {
+                "id": "5f1aa797b93f060b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "renpy"
+                }
+              },
+              {
+                "id": "dbd99bc9dcd1ae71",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "renpy"
+                }
+              },
+              {
                 "id": "a2c54f86a72475d5",
                 "type": "leaf",
                 "state": {
@@ -208,7 +280,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -409,11 +481,14 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "a2c54f86a72475d5",
+  "active": "5f1aa797b93f060b",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/manuscript.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN",
     "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
@@ -442,10 +517,7 @@
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/01 - Grandma.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/Renpy.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/Renpy.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/Evangelique manuscript.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",

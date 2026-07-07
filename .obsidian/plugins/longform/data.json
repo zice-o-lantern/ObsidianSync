@@ -1350,7 +1350,7 @@
         {
           "id": "prepend-title",
           "optionValues": {
-            "format": "$1",
+            "format": "$3{#} $1",
             "separator": "\n\n"
           }
         },
@@ -1362,6 +1362,14 @@
           }
         },
         {
+          "id": "Scripts/remove-english-localisation.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
           "id": "remove-strikethroughs",
           "optionValues": {}
         },
@@ -1370,11 +1378,11 @@
           "optionValues": {}
         },
         {
-          "id": "Scripts/remove-english-localisation.js",
+          "id": "Scripts/remove-highlights.js",
           "optionValues": {}
         },
         {
-          "id": "Scripts/remove-highlights.js",
+          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
           "optionValues": {}
         },
         {
@@ -1393,8 +1401,8 @@
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "Renpy/manuscript.md",
-            "open-after": true
+            "target": "FR/renpy.md",
+            "open-after": false
           }
         }
       ]
@@ -1474,7 +1482,7 @@
         {
           "id": "prepend-title",
           "optionValues": {
-            "format": "$1",
+            "format": "$3{} $1",
             "separator": "\n\n"
           }
         },
@@ -1486,6 +1494,10 @@
           }
         },
         {
+          "id": "Scripts/remove-french-localisation.js",
+          "optionValues": {}
+        },
+        {
           "id": "remove-strikethroughs",
           "optionValues": {}
         },
@@ -1494,11 +1506,15 @@
           "optionValues": {}
         },
         {
-          "id": "Scripts/remove-french-localisation.js",
+          "id": "Scripts/remove-highlights.js",
           "optionValues": {}
         },
         {
-          "id": "Scripts/remove-highlights.js",
+          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
           "optionValues": {}
         },
         {
@@ -1517,7 +1533,7 @@
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "Renpy/manuscript.md",
+            "target": "EN/renpy.md",
             "open-after": true
           }
         }
@@ -1535,7 +1551,7 @@
           "id": "prepend-title",
           "optionValues": {
             "format": "$3{#} $2 - $1",
-            "separator": "\n\n"
+            "separator": "\\n\\n"
           }
         },
         {

@@ -3,7 +3,7 @@ longform:
   format: scenes
   title: Evangelique
   draftTitle: Le Plaisir de mon Château de polystyrène
-  workflow: Manuscript English
+  workflow: English Renpy
   sceneFolder: /
   scenes:
     - Incipit

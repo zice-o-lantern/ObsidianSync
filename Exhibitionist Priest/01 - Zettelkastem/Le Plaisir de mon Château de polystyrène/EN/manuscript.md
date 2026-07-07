@@ -47,6 +47,7 @@ Grandma is dead, by the way. I don’t remember when it happened. Probably a few
 I put the photo back down with a sigh. Did I really make the right choice coming to live here? I had just started at my job. Everything was going well. So why, the moment my parents offered for me to move here, did I accept without a second thought and quit on the spot? I must be crazy.  There’s no work for me here. I’m going to have to live off my savings.
 
 
+
 Le jardin est en piteuse état mais récupérable. Les vases brisés jonchent l’allée principale, le lière commençant à les enlacer. Je grimace. Quelqu’un pourrait se blesser dessus. J’aperçois la maison voisine, en face de de la rue. Elle a toujours les rideaux fermés. Il y a seulement une fenêtre à l’étage sans rideau mais difficile d’observer à l’intérieur sans s’approcher donc difficile de savoir ce qu’il s’y passe. Enfin pas que ça m’intéresse tant que ça.
 
 
@@ -56,14 +57,11 @@ The garden is in a sorry state but it's salvageable. Broken vases litter the mai
 
 
 
-
 The sound of something crashing to the floor and shattering snaps me out of my daze and I turn around. I scan the room for the source of the sound and find only the mess I’d knocked over on my way to the window. Broken porcelain lies nearby. I should clean that up. I rub my eyes in exasperation and drag myself over to the pile of objects. As I crouch down, my gaze falls on the bag, which is in pretty good shape compared to the rest of the books it’s resting on. I grab it and pull out a camera. It looks intact despite the fall. I handle it, examining it from every angle-- — it looks like a state-of-the-art camera. I turn it on. No photos. Strange. I would have thought I’d find some information about its owner in the photos. Grandma wasn’t really a photographer. At least I never saw her use a camera. I rummage through the bag. Among the lenses, a crumpled piece of paper is mixed in with everything else. A shopping list. “Buy milk for Marie.” My uncle’s wife. I see. The camera must belong to him. It’s a really good camera, especially for a hobbyist. (Perhaps instead of a period we could do a comma here: "It's a really good camera, especially for a hobbyist.") (I guess it's a taste thing. People told me i tend to put too much periods in my texts)  (I figured as much! I think it probably flows better in french too since you have more rules to control pacing within your punctuation styles, whereas in English it grinds a sentence to a halt.)My uncle must love taking pictures. After all, he took tons of them of me. I’m sure he has an album full of photos of me in every situation.
 
 
 
-
 Curiosity gets the better of me. What if I used the camera to see what’s inside the neighbor’s house? Ever since day one, all those darn curtains have been stressing me out — and I’ve never seen the neighbor’s face.Isn’t that suspicious in and of itself? Plus, I have a camera right here. Why not take a quick peek inside to make sure there's nothing weird  going on?
-
 
 
 
@@ -74,7 +72,9 @@ So I stand at the window, holding the viewfinder up to my eyes, and zoom in as m
 Nevertheless, the woman turns around abruptly and looks in my direction. Panicked, I jerk the lens toward the forest and startle the  sparrow in the process, causing it to crash into the camera. I fall flat on my butt . Dazed, I come to my senses and see the bird flying off into the distance, leaving me a few feathers as a parting gift. I struggle to my feet, brushing the dust and bits of feathers off my shirt and pants.  In my fall, I dropped the camera. It’s lying in the dust now. I hope it’s okay. I examine the camera and, thankfully, it has no visible damage. I turn it on to check if it’s working properly when I notice a recent photo in the gallery. Where did that one come from? No time for that. I need to check if the woman is still there. I zoom back in on the window. She’s not there anymore. Did she see me?
 
 
+
 The mysterious photo in the gallery comes back to mind. I open it. The photo shows a  bird with blurry feathers in  all four corners of the frame  against a blue sky, with the forest in the background. I must have taken the photo in a panic.
+
 
 
 I think it’s actually pretty good. It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.   When Uncle used to take these photos at all hours of the day, it looked like fun. It’s as if my uncle were bequeathing it to me. As if it’s my destiny to take photos. Maybe it was my destiny to take a photo here one day. I think I’ll keep the camera. I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. Maybe it could become my new passion? Who knows. I strap the bag around my waist and put the camera inside, a fresh roll of film-- ready for all kinds of experiments. 
