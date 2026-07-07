@@ -1348,6 +1348,13 @@
           "optionValues": {}
         },
         {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$1",
+            "separator": "\n\n"
+          }
+        },
+        {
           "id": "remove-links",
           "optionValues": {
             "remove-wikilinks": true,
@@ -1367,10 +1374,83 @@
           "optionValues": {}
         },
         {
+          "id": "Scripts/remove-highlights.js",
+          "optionValues": {}
+        },
+        {
           "id": "remove-comments",
           "optionValues": {
             "remove-markdown-comments": true,
             "remove-html-comments": false
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "Manuscript/manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    },
+    "Manuscript French": {
+      "name": "Manuscript French",
+      "description": "",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "remove-strikethroughs",
+          "optionValues": {}
+        },
+        {
+          "id": "Scripts/remove-english-localisation.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Scripts/remove-highlights.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": true
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "Manuscript/manuscript.md",
+            "open-after": true
           }
         }
       ]
