@@ -95,10 +95,12 @@ n mais rien ne vient. Je me promène dans la maison d'un inconnu,
 la mienne désormais. Je descends les miteux escaliers en frémissant à chaque pa
 s, de peur de tomber. Une fois en bas, je déambule pensif, faisant ma ronde et je me pose par inadvertance devant la commode et ma main se saisit d'une photo posée dessus. Une photo de ma grand-mère et moi, prise par mon oncle.
 
+
 D'ailleurs Grand-mère est morte. Je ne sais plus quand. Sûrement il y a quelque mois de cela maintenant. Je crois qu'elle est morte d'une chute. Pour être honnête je ne l'ai jamais vraiment apprécié. Quand j'étais petit et qu'elle était pleine d'énergie, elle était dure et sévère avec moi mais plus âgé, elle devenait sénile. Pas sénile : parfois joublie ton prénom de temps en temps. Sénile, je me mets à pisser dans les casseroles de la cuisine parce que c'est plus rapide. Mon grand-père n'était pas mieux mais au moins il avait toute sa tête. 
 Malheureusement, il est mort peu avant Grand-Mère, une crise cardiaque. 
 Ils avaient tous les deux dans les quatre-vingt-dix ans. 
 Bref suite à leur décès, leur maison resta vacante.
+
 
 Je repose la photo dans un soupir. 
 Ai-je vraiment fait le bon choix de venir m'installer ici ?  
@@ -139,7 +141,6 @@ Its curtains are always drawn.
 There’s only one window upstairs without a curtain but it’s hard to see inside without getting closer, so it’s hard to know what’s going on there. 
 Not that I’m all that interested, anyway.
 
-
 Un bruit de quelque chose se fracassant contre le sol et se briser me sort de ma torpeur et je me retourne. 
 Je sonde la salle à la recherche du son et ne trouve que le bazar que j'ai fait tomber sur le chemin de la fenêtre. 
 De la porcelaine brisée repose à côté. 
@@ -163,6 +164,7 @@ Tonton doit adorer prendre des photos.
 Après tout il en prenait pleins de moi. 
 Je suis sûr qu’il avait un album rempli de moi en toute circonstance.
 
+
 La curiosité s’empare de moi. 
 Et si j’utilisais l’appareil-photo pour savoir ce qu’il y a l’intérieur de la maison du voisin. 
 Depuis jour un, ça me stresse, tous ces fichus rideaux. 
@@ -179,10 +181,11 @@ Cependant j’insiste et reste quelques temps, là, essayant de trouver le bon a
 Elle porte un chemisier. 
 Elle est au téléphone, gesticulant, exaspérée. Impossible d’écouter leur conversation évidemment. Mais elle ne serait pas agréable à écouter, de toute façon.
 
+
 Néanmoins le femme se retourne volte-face et regarde dans ma direction. 
 Paniqué je tourne brusquement l’objectif vers la forêt et effraie le merle au passage, ce qui le contraint à foncer dans l’appareil-photo. 
 Je tombe en plein sur les fesses.
- Étourdi, je reprends mes esprit et aperçois l’oiseau s’en aller au loin, me laissant en cadeau quelques plumes. 
+Étourdi, je reprends mes esprit et aperçois l’oiseau s’en aller au loin, me laissant en cadeau quelques plumes. 
 Je me relève difficilement en essuyant la poussière et des bouts de plumes de ma chemise et de mon pantalon. 
 Dans ma chute, j'ai lâché la caméra. 
 Elle traîne dans la poussière maintenant. J'espère qu'elle n'a rien. 
@@ -190,6 +193,7 @@ J'ausculte la caméra et heureusement, elle n'a pas de dégâts apparents. Je l'
 Faut que je vois si la femme est toujours là. 
 Je rezoome sur la fenêtre. 
 Elle n'est plus là. Est-ce qu'elle m'a vu ?
+
 
 Je reste planqué un temps derrière la fenêtre, de peur qu'elle débarque devant ma porte. 
 Je crains qu'elle suspecte le pire.
@@ -201,6 +205,7 @@ La photo mystérieuse dans la galerie me revient à l'esprit.
 Je l'ouvre. La photo représente une photo d'un merle avec des plumes flous au quatre coins du cadre au premier plan sur un ciel bleu avec en fond la forêt. 
 J'ai dû prendre la photo dans la panique.
 
+
 Je la trouve plutôt pas mal.  C'est un peu poétique en soit. 
 Toutes les conditions et les conséquences qui m'ont amené à ce point, à cette photo.  
 Puis quand Tonton prenait ces photos à toutes heures de la journée, ça avait l’air amusant. 
@@ -209,7 +214,18 @@ Peut-être bien que c'était ma destinée de prendre une photo un jour ici.
 Je crois que je vais garder la caméra. 
 Je n'ai pas grand chose à faire donc je suppose que ça ferait pas de mal de quelque photos au quatre coins de la ville. Peut-être que c'est pourrait devenir ma nouvelle passion ? 
 Qui sait.
-J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche — prête pour toute sortes d’expérimentations. 
+J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche — prête pour toute sortes d’expérimentations.
+
+I think it’s actually pretty good. 
+It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.  
+When Uncle used to take these photos at all hours of the day, it looked like fun. 
+It’s as if my uncle were bequeathing it to me. 
+As if it’s my destiny to take photos. 
+Maybe it was my destiny to take a photo here one day. 
+I think I’ll keep the camera. 
+I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. 
+Maybe it could become my new passion? Who knows. 
+I strap the bag around my waist and put the camera inside, a fresh roll of film — ready for all kinds of experiments. 
 
 # Lucas’ Call
 
