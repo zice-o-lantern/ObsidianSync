@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
+  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md",
   "userScriptFolder": "Scripts",
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-07-07T09:37:04.271Z",
-      "total": 10068,
+      "total": 10994,
       "drafts": {
         "Exhibitionist Priest/Script/Index.md": {
           "total": 0,
@@ -51,6 +51,21 @@
             "Déjeuner": 0,
             "Dîner ensemble": 0,
             "Menace à l'Appart'": 0
+          }
+        },
+        "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md": {
+          "total": 10068,
+          "scenes": {
+            "Incipit": 1044,
+            "Styrofoam Castle": 3784,
+            "Lucas’ Call": 1075,
+            "Before the Party": 4165
+          }
+        },
+        "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md": {
+          "total": 926,
+          "scenes": {
+            "Cafe": 926
           }
         }
       }

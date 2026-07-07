@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"group","id":"82c4e7d23d41835c","x":-1720,"y":-1040,"width":10080,"height":4720,"color":"1","label":"Part 1"},
-		{"type":"group","id":"9e39875d4f64fae0","x":-1120,"y":-180,"width":1600,"height":3420,"color":"#86c0fe","label":"L'Ennui de mon Château de polystirène"},
+		{"type":"group","id":"9e39875d4f64fae0","x":-1120,"y":-180,"width":1600,"height":3420,"color":"#86c0fe","label":"Le Plaisir de mon Château de polystyrène"},
 		{"type":"group","id":"db014035e5aca2c4","x":2880,"y":-620,"width":1350,"height":2980,"color":"4","label":"Confessions"},
 		{"id":"33e7f319f57c436f","type":"group","x":760,"y":-180,"width":1620,"height":2394,"color":"2","label":"Investigation"},
 		{"id":"7ffa45cb9f24e52c","type":"group","x":4360,"y":-620,"width":1480,"height":2230,"color":"#89db6b","label":"Café"},
