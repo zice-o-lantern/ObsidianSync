@@ -1,19 +1,20 @@
- Incipit
+# Incipit
 
 
-<!
+<!---
 scene black
 pause 2.0 
->
+--->
 
 Does the cat in its box really want us to reveal what’s inside? 
 That's what's bothering me-- puzzling me, as I'm slumped in the closet. 
 You open the door. 11:40 p.m. 
-I adore everything about you: your piercing yet warm, intoxicating eyes! Your dark circles revealing all your tenderness and tendencies; Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
+I adore everything about you: your piercing yet warm, intoxicating eyes! 
+Your dark circles revealing all your tenderness and tendencies; Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
 
-<! 
+<!--- 
 pause 1.0 
->
+--->
 
 I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest  hair exposed. 
 I bite my lip, my lord, I even pant. 
@@ -23,9 +24,9 @@ Then you stop, lost in thought.
 I catch my breath. I adjust the lens and fix my glasses back on my nose. 
 Still thinking: how cute.
 
-<! 
+<!--- 
 pause 1.0 
->
+--->
 
 Then  comes the climax , hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. 
 You slip your hands into your boxers. 
@@ -36,9 +37,9 @@ My heart is beating fast, my rib cage can no longer contain it: dancing, ricoche
 I swallow.I must concentrate; I can't miss this moment. 
 His boxers come down. 
 
-<! 
+<!--- 
 pause 1.0 
->
+--->
 
 We're dancing a waltz.  Unbeknownst to you. Doesn't that what make what we have so beautiful? 
 With no one watching, in this forbidden moment, you dance— and I enjoy it. 
@@ -48,18 +49,16 @@ An observer with complete impunity. An observer who does not exist. An observer 
 An observer who is both blind and clairvoyant, that is what I am! 
 Until... I am observed.
 
-<! 
+<!--- 
 pause 1.0 
->
+--->
 
 Look at me, God or Schrödinger-- who knows! 
 To You, so obsessed with the idea of opening the box without touching it. 
 I have finally discovered how to do it.
 The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices. 
 
- Styrofoam Castle
-
-
+# Styrofoam Castle
 
 
 
@@ -71,16 +70,12 @@ They’ve been sitting there for a month.
 I could have asked Luke, but he’s at work today.
 
 
-
-
 I always dread this phase of my life: moving. 
 Having to take apart your living space and put it back together isn’t exactly exciting. 
 You have to carry all these heavy things that wreck your back. 
 All that just to end up in an unfamiliar place. 
 Plus, it puts all your current activities and projects on hold. If I had any. 
 Since I’m done, I’m taking one last look around the house to make sure everything’s in order.
-
-
 
 People are often overwhelmed when they move. They’re sad, happy, anxious, relieved, unsettled, then it’s done. 
 It’s normal, after all. 
@@ -96,8 +91,6 @@ a stranger—my own, now. I descend the shabby stairs, shuddering with every s
 tep, afraid of falling. Once downstairs, I wander thoughtfully, making my rounds,  until I inadvertently stop in front of the dresser, my hand reaching for a photo resting on it. 
 A photo of my  me and my grandmother, taken by my uncle.
 
-
-
 Grandma is dead, by the way. 
 I don’t remember when it happened. 
 Probably a few months ago now. 
@@ -109,8 +102,6 @@ My grandfather wasn’t any better but at least he was still in his right mind.
 Unfortunately, he died shortly before Grandma of a heart attack. They were both in their nineties. 
  I think. 
 Anyway, following their deaths, their house stood empty.
-
-
 
 I put the photo back down with a sigh. 
 Did I really make the right choice coming to live here? 
@@ -128,8 +119,6 @@ J’aperçois la maison voisine, en face de de la rue.
 Elle a toujours les rideaux fermés. 
 Il y a seulement une fenêtre à l’étage sans rideau mais difficile d’observer à l’intérieur sans s’approcher donc difficile de savoir ce qu’il s’y passe. 
 Enfin pas que ça m’intéresse tant que ça.
-
-
 
 I open one of the drawers at random out of curiosity and I'm caught off guard by a sudden cloud of dust. 
 I shouldn’t have opened it so quickly. 
@@ -151,8 +140,6 @@ I spot the neighboring house across the street.
 Its curtains are always drawn. 
 There’s only one window upstairs without a curtain but it’s hard to see inside without getting closer, so it’s hard to know what’s going on there. 
 Not that I’m all that interested, anyway.
-
-
 
 
 The sound of something crashing to the floor and shattering snaps me out of my daze and I turn around. 
@@ -178,15 +165,11 @@ After all, he took tons of them of me.
 I’m sure he has an album full of photos of me in every situation.
 
 
-
-
 Curiosity gets the better of me. 
 What if I used the camera to see what’s inside the neighbor’s house? 
 Ever since day one, all those darn curtains have been stressing me out — and I’ve never seen the neighbor’s face.
 Isn’t that suspicious in and of itself? Plus, I have a camera right here. 
 Why not take a quick peek inside to make sure there's nothing weird  going on?
-
-
 
 So I stand at the window, holding the viewfinder up to my eyes, and zoom in as much as possible onto the window. 
 Unfortunately, the reflections on the window prevent any real attempt to peek inside. 
@@ -196,8 +179,6 @@ A white-throated sparrow.
 Then, after a few seconds, I manage to catch a glimpse of something-- a woman in the room.  At that moment, my brain begs me to lower the camera-- yet my hands stay put, fixed on the person. 
 She’s wearing a blouse. She’s on the phone, gesturing wildly, exasperated. 
 Obviously, it’s impossible to hear their conversation. But it doesn't look pleasant to listen to anyway.
-
-
 
 Nevertheless, the woman turns around abruptly and looks in my direction. 
 Panicked, I jerk the lens toward the forest and startle the  sparrow in the process, causing it to crash into the camera. 
@@ -219,13 +200,9 @@ Je crains qu'elle suspecte le pire.
 Mais malgré le temps passé, elle ne semble pas venir. Tant mieux.
 
 
-
-
 La photo mystérieuse dans la galerie me revient à l'esprit. 
 Je l'ouvre. La photo représente une photo d'un merle avec des plumes flous au quatre coins du cadre au premier plan sur un ciel bleu avec en fond la forêt. 
 J'ai dû prendre la photo dans la panique.
-
-
 
 The mysterious photo in the gallery comes back to mind. 
 I open it. 
@@ -234,8 +211,6 @@ I must have taken the photo in a panic.
 
 
 J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche — prête pour toute sortes d’expérimentations.
-
-
 
 I think it’s actually pretty good. 
 It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.  
@@ -248,7 +223,7 @@ I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots a
 Maybe it could become my new passion? Who knows. 
 I strap the bag around my waist and put the camera inside, a fresh roll of film-- ready for all kinds of experiments. 
 
- Lucas’ Call
+# Lucas’ Call
 
 
 À ce moment-là, mon téléphone sonne . La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran de ce clapet, il est marqué Luke.Je déplie le clapet soigneusement. Une image d'un homme enroulant par le cou une personne qui regarde sur le côté, visiblement agacé, souhaitant être n'importe où mais ici. L'homme sourit à pleine dents montrant fièrement un signe V avec ses doigts.   Je décroche.
@@ -438,15 +413,15 @@ Deux heures… Lucas tu sais bien ce n’est pas assez de temps pour organiser t
 
 Il a raccroché 
 
- Before the Party
+# Before the Party
 
 After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. 
 He opens the door
 
-<! 
+<!--- 
 show lucas disgusted 
 show lucas at right 
->
+--->
 LUCAS
 Oh yeah it's a little...dusty in here.
 

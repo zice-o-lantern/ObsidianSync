@@ -1482,7 +1482,7 @@
         {
           "id": "prepend-title",
           "optionValues": {
-            "format": "$3{} $1",
+            "format": "$3{#} $1",
             "separator": "\n\n"
           }
         },
@@ -1534,7 +1534,7 @@
           "id": "write-to-note",
           "optionValues": {
             "target": "EN/renpy.md",
-            "open-after": true
+            "open-after": false
           }
         }
       ]

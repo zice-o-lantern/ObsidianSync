@@ -73,8 +73,6 @@ Pas comme s’il y’en avait énormément de toute façon.
 Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Ça fait un mois qu’ils sont là.
 J’aurais pu demander à Luke mais il est au travail aujourd’hui.
 
----
-
 
 Je redoute cette phase de ma vie, le déménagement. 
 Devoir défaire et refaire son lieu de vie , c'est pas très excitant. 
@@ -82,8 +80,6 @@ Il faut transporter pleins de choses lourdes qui ruinent ton dos.
 Tout ça pour finir dans un lieu non-familier . 
 Puis ça met en pause toutes les activités et projets en cours. Si j'en avais. 
 Vu que j'ai terminé, je fais un dernier tour dans la maison histoire de vérifier que j'ai rien oublié. 
-
----
 
 
 Les gens sont des livres à image quand ils déménagent. Ils sont tristes, heureux, tracassés, soulagés, chamboulés, et pu
@@ -99,14 +95,10 @@ n mais rien ne vient. Je me promène dans la maison d'un inconnu,
 la mienne désormais. Je descends les miteux escaliers en frémissant à chaque pa
 s, de peur de tomber. Une fois en bas, je déambule pensif, faisant ma ronde et je me pose par inadvertance devant la commode et ma main se saisit d'une photo posée dessus. Une photo de ma grand-mère et moi, prise par mon oncle.
 
----
-
 D'ailleurs Grand-mère est morte. Je ne sais plus quand. Sûrement il y a quelque mois de cela maintenant. Je crois qu'elle est morte d'une chute. Pour être honnête je ne l'ai jamais vraiment apprécié. Quand j'étais petit et qu'elle était pleine d'énergie, elle était dure et sévère avec moi mais plus âgé, elle devenait sénile. Pas sénile : parfois joublie ton prénom de temps en temps. Sénile, je me mets à pisser dans les casseroles de la cuisine parce que c'est plus rapide. Mon grand-père n'était pas mieux mais au moins il avait toute sa tête. 
 Malheureusement, il est mort peu avant Grand-Mère, une crise cardiaque. 
 Ils avaient tous les deux dans les quatre-vingt-dix ans. 
 Bref suite à leur décès, leur maison resta vacante.
-
----
 
 Je repose la photo dans un soupir. 
 Ai-je vraiment fait le bon choix de venir m'installer ici ?  
@@ -116,8 +108,6 @@ Alors pourquoi, à l'instant où mes parents m'ont proposé d'emménager ici, j'
 Je dois être fou. 
 Il n'y a aucun travail, aucune carrière, aucun avenir pour moi, ici. 
 Je vais devoir vivre sur mes économies.
-
----
 
 
 J'ouvre l'un des tiroirs au hasard par curiosité et je suis pris de court par une bouffée de poussière. 
@@ -139,8 +129,6 @@ J’aperçois la maison voisine, en face de de la rue.
 Elle a toujours les rideaux fermés. 
 Il y a seulement une fenêtre à l’étage sans rideau mais difficile d’observer à l’intérieur sans s’approcher donc difficile de savoir ce qu’il s’y passe. 
 Enfin pas que ça m’intéresse tant que ça.
-
----
 
 The garden is in a sorry state but it's salvageable. 
 Broken vases litter the main path, ivy beginning to entwine around them. 
@@ -175,8 +163,6 @@ Tonton doit adorer prendre des photos.
 Après tout il en prenait pleins de moi. 
 Je suis sûr qu’il avait un album rempli de moi en toute circonstance.
 
----
-
 La curiosité s’empare de moi. 
 Et si j’utilisais l’appareil-photo pour savoir ce qu’il y a l’intérieur de la maison du voisin. 
 Depuis jour un, ça me stresse, tous ces fichus rideaux. 
@@ -185,8 +171,6 @@ N’est-ce pas suspicieux en tant que tel, en soit ?
 Puis j’ai une caméra sous la main. 
 Pourquoi pas jeter un coup d’œil rapide à l’intérieur pour être sûr que rien de bizarre ne s’y passe.
 
----
-
 
 Je me mets à la fenêtre,  porte l’aperçu à mes yeux et zoome le plus possible sur la fenêtre. 
 Malheureusement les reflets sur la fenêtre empêchent toute réel tentative d’épier à l’intérieur. 
@@ -194,8 +178,6 @@ Cependant j’insiste et reste quelques temps, là, essayant de trouver le bon a
 À ce moment, mon cerveau me supplie de baisser la caméra, cependant, mes mains restent en place, fixées sur la personne. 
 Elle porte un chemisier. 
 Elle est au téléphone, gesticulant, exaspérée. Impossible d’écouter leur conversation évidemment. Mais elle ne serait pas agréable à écouter, de toute façon.
-
----
 
 Néanmoins le femme se retourne volte-face et regarde dans ma direction. 
 Paniqué je tourne brusquement l’objectif vers la forêt et effraie le merle au passage, ce qui le contraint à foncer dans l’appareil-photo. 
@@ -209,14 +191,10 @@ Faut que je vois si la femme est toujours là.
 Je rezoome sur la fenêtre. 
 Elle n'est plus là. Est-ce qu'elle m'a vu ?
 
----
-
 Je reste planqué un temps derrière la fenêtre, de peur qu'elle débarque devant ma porte. 
 Je crains qu'elle suspecte le pire.
  C'est pas comme si je lui avais donné une raison de ne pas me douter. 
 Mais malgré le temps passé, elle ne semble pas venir. Tant mieux.
-
----
 
 I stay hidden behind the window for a while, afraid she might show up at my door. 
 I’m worried she suspects the worst. It’s not like I gave her a reason not to be suspicious of me. 
@@ -225,8 +203,6 @@ But despite the time that’s passed, she don’t seem to be coming. Good.
 La photo mystérieuse dans la galerie me revient à l'esprit. 
 Je l'ouvre. La photo représente une photo d'un merle avec des plumes flous au quatre coins du cadre au premier plan sur un ciel bleu avec en fond la forêt. 
 J'ai dû prendre la photo dans la panique.
-
----
 
 
 Je la trouve plutôt pas mal.  C'est un peu poétique en soit. 
@@ -239,8 +215,6 @@ Je n'ai pas grand chose à faire donc je suppose que ça ferait pas de mal de qu
 Qui sait.
 
 J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche — prête pour toute sortes d’expérimentations.
-
----
 
 I think it’s actually pretty good. 
 It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.  

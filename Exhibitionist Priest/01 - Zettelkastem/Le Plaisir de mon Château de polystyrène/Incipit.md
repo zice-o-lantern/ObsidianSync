@@ -11,7 +11,7 @@ pause 2.0
 --->
 
 %% FR %%Le chat dans la boite a t-il vraiment envie qu'on le révèle ?  %% bl %%Voici ce qui me bloque et m'interloque, affaissé dans le placard. %% bl %%Tu ouvres la porte. 23h40. %% bl %%J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants ! %% bl %%Tes cernes tombantes témoignant de toute tes douceurs et douleurs. %% {w} %%Ton visage triste recelant un côté inquiétant et pervers, et surtout à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
-<span style="color:rgb(126, 114, 218)">%% EN %%Does the cat in its box really want us to reveal what’s inside? %% bl %%That's what's bothering me-- puzzling me, as I'm slumped in the closet. %% bl %%You open the door. 11:40 p.m. %% bl %%I adore everything about you: your piercing yet warm, intoxicating eyes! Your dark circles revealing all your tenderness and tendencies~~.~~<span style="color:rgb(255, 222, 0)">;</span> %% {w} %%Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. </span>
+<span style="color:rgb(126, 114, 218)">%% EN %%Does the cat in its box really want us to reveal what’s inside? %% bl %%That's what's bothering me-- puzzling me, as I'm slumped in the closet. %% bl %%You open the door. 11:40 p.m. %% bl %%I adore everything about you: your piercing yet warm, intoxi%% bl %%cating eyes! Your dark circles revealing all your tenderness and tendencies~~.~~<span style="color:rgb(255, 222, 0)">;</span> %% {w} %%Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. </span>
 
 <!--- 
 pause 1.0 

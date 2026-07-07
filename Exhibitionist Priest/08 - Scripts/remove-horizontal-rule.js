@@ -1,5 +1,5 @@
 compile = (input, context) => {
-  const HORIZONTAL_RULE_REGEX = /---/gm;
+  const HORIZONTAL_RULE_REGEX = /\n---\n/gm;
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       return {
