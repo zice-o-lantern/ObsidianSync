@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": 2486.861828440966,
-                  "y": 1147.100882625211,
-                  "zoom": -2.333333333333333
+                  "x": 261.35550952758945,
+                  "y": 272.1098242713023,
+                  "zoom": -1.3333333333333333
                 }
               },
               "pinned": true,
@@ -56,8 +56,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Styrofoam Castle.md",
-                "mode": "preview",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Lucas’ Call.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Styrofoam Castle"
+              "title": "Lucas’ Call"
             }
           },
           {
@@ -98,8 +98,7 @@
               "title": "02 - Lucas’ Call - First draft"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "d4efd65b58b21e51",
+  "active": "57af6ce7728439ed",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Styrofoam Castle.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/03 - The before party - First Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
