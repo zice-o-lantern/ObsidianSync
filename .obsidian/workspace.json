@@ -75,6 +75,30 @@
             }
           },
           {
+            "id": "729f65799117c092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "02e62ea9852c038e",
             "type": "leaf",
             "state": {
@@ -123,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -319,13 +343,14 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "d4efd65b58b21e51",
+  "active": "729f65799117c092",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
+    "Untitled.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions/Cafe.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
@@ -354,7 +379,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy",
     "5 - Template/HTML Comments.md",
     "5 - Template/HTML Comments.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/00 - Incipit Second Draft.md",
     "5 - Template/English.md.edtz",
     "5 - Template/French.md.edtz",
     "5 - Template/Break Line.md.edtz",
