@@ -3,7 +3,7 @@ longform:
   format: scenes
   title: Evangelique
   draftTitle: Confessions
-  workflow: French Renpy
+  workflow: English Renpy
   sceneFolder: /
   scenes:
     - Cafe
