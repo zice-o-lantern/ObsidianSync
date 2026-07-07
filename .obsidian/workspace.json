@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Styrofoam Castle.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Incipit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Styrofoam Castle"
+              "title": "Incipit"
+            }
+          },
+          {
+            "id": "61c1d00516766187",
+            "type": "leaf",
+            "state": {
+              "type": "system3-differences-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "File Diff: Incipit.md and local disk"
             }
           },
           {
@@ -99,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -297,13 +307,13 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "d4efd65b58b21e51",
+  "active": "61c1d00516766187",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Styrofoam Castle.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/03 - The before party - First Draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/02 - Lucas’ Call.md",
