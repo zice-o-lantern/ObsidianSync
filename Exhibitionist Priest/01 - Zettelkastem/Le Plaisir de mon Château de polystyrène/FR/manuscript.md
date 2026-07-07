@@ -25,7 +25,7 @@ Look at me, God or Schrödinger-- who knows! To You, so obsessed with the idea o
 # 2 - Styrofoam Castle
 
 
-Aujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Ça fait un mois qu’ils sont là.J’aurais pu demander à Luke mais il est au travail aujourd’hui.
+Aujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. J’aime le caca Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Ça fait un mois qu’ils sont là.J’aurais pu demander à Luke mais il est au travail aujourd’hui.
 
 ---
 
@@ -38,7 +38,6 @@ Je redoute cette phase de ma vie, le déménagement. Devoir défaire et refaire 
 Les gens sont des livres à image quand ils déménagent. Ils sont tristes, heureux, tracassés, soulagés, chamboulés, et puis c’est fini. C'est normal après tout. C'est à prévoir. C'est un nouveau départ. Moi ça ne me fait rien. Ni chaud, ni froid. Plus l'odeur de renfermé. C'est comme si je marchais dans un château de polystyrène. Engourdi au toucher et dénué de toute chaleur. Je fais de mon mieux pour ressentir quelque chose que ce soit de l'excitation ou du chagrin mais rien ne vient. Je me promène dans la maison d'un inconnu, la mienne désormais. Je descends les miteux escaliers en frémissant à chaque pas, de peur de tomber. Une fois en bas, je déambule pensif, faisant ma ronde et je me pose par inadvertance devant la commode et ma main se saisit d'une photo posée dessus. Une photo de ma grand-mère et moi, prise par mon oncle.
 
 ---
-an>, taken by my uncle.
 
 D'ailleurs Grand-mère est morte. Je ne sais plus quand. Sûrement il y a quelque mois de cela maintenant. Je crois qu'elle est morte d'une chute. Pour être honnête je ne l'ai jamais vraiment apprécié. Quand j'étais petit et qu'elle était pleine d'énergie, elle était dure et sévère avec moi mais plus âgé, elle devenait sénile. Pas sénile : parfois joublie ton prénom de temps en temps. Sénile, je me mets à pisser dans les casseroles de la cuisine parce que c'est plus rapide. Mon grand-père n'était pas mieux mais au moins il avait toute sa tête. Malheureusement, il est mort peu avant Grand-Mère, une crise cardiaque. Ils avaient tous les deux dans les quatre-vingt-dix ans. Bref suite à leur décès, leur maison resta vacante.
 

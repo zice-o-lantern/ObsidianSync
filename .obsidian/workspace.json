@@ -223,7 +223,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -357,8 +358,10 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "bf0b3ee1b6bbdaef",
+  "active": "d93ac4a9a188550f",
   "lastOpenFiles": [
+    "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
+    "Exhibitionist Priest/08 - Scripts/remove-highlights - Copy.js",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR",
@@ -390,12 +393,10 @@
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/Renpy.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/00 - Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/Evangelique manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/Evangelique manuscript.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy",
     "5 - Template/HTML Comments.md.edtz",
     "5 - Template/English.md.edtz",
-    "5 - Template/French.md.edtz",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
