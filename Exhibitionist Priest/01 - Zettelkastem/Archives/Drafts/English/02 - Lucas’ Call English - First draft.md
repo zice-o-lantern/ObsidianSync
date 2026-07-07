@@ -1,7 +1,7 @@
 ---
 created: 2026-03-13T22:32:00
 characters:
-  - "[[Isaac]]"
+  - "[[Old Stuff/03 - Index/Characters/Isaac]]"
   - "[[Lucas]]"
 done:
 completion (%): 75
@@ -11,7 +11,7 @@ Just then, my phone rings, so I pull it out. It’s [[Lucas]]. I answer.
 [[Lucas|LUCAS]]
 Hello? Hello, hello!
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 … ~~Hello~~ ==<span style="color:rgb(126, 114, 218)">Hey</span>==[^1][^2][^3][^4][^11][^12].
 
   
@@ -22,7 +22,7 @@ I missed you, you know?
 
 I look at my watch.
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 You called me during your lunch break...
   
 
@@ -36,7 +36,7 @@ Is everything going well with the move?
 
   
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 More or less.
 I just finished.
 
@@ -45,13 +45,13 @@ Well, finally! You’ve been dragging your feet on this for ages!
 
   
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 It was only a month.
 
 [[Lucas|LUCAS]]
 And all that for what, three boxes?
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 Four.
 
   
@@ -59,7 +59,7 @@ Four.
 [[Lucas|LUCAS]]
 Still! Are you really sure you like the house? I’d understand if you didn’t.
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 …why?
 
 [[Lucas|LUCAS]]
@@ -67,27 +67,27 @@ It’s so old, there’s so much work to do on it. And all those things—it mus
 
 <span style="color:rgb(232, 17, 93)">He trails off.</span>
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 Yeah…
 
 [[Lucas|LUCAS]]
 And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you ~~don’t~~ want to stay there?
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 More than sure. It’s my house, so I have to stay there. I’ve taken advantage of your hospitality enough. I don’t want to bother you any longer.
   
 [[Lucas|LUCAS]]
-You’d never bother me, [[Isaac]]! If a friend needs help, I help them—especially you. Stop worrying about it!
+You’d never bother me, [[Old Stuff/03 - Index/Characters/Isaac]]! If a friend needs help, I help them—especially you. Stop worrying about it!
 
 [[Lucas]]’s outlook is truly admirable, but naive and simple-minded. I wish he’d understand that other people wouldn’t be as generous as he is. Besides, all <span style="color:rgb(232, 17, 93)">of </span>this is just politeness. ==He’d never ~~dare~~ tell me I’m bothering him==[^7][^8].
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 Easier said than done.
 
 [[Lucas|LUCAS]]
 Try harder then, heh. By the way, did you manage to sort out the stain issue?
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 Not really…
 
 ==This house is weird. It’s messing with me. I know it. Things are never where they’re supposed to be. I can never find anything. Or <span style="color:rgb(232, 17, 93)">when </span>I find them, <span style="color:rgb(232, 17, 93)">they're</span>~~but~~ on the other side of the house. In the morning I wake up with stains on the sheets. Colorless. <span style="color:rgb(232, 17, 93)">Water, maybe?</span>~~Water? Maybe.~~ The smell is unbearable. It smells like mold. I had Lucas smell it so he could tell me what it was. He told me it smelled like nothing==[^9][^10].
@@ -110,14 +110,14 @@ Yeah, sort of. The more days go by, the less it’ll bother me, ~~and~~<span sty
 [[Lucas|LUCAS]]
 And if it does<span style="color:rgb(232, 17, 93)">n't</span> go away, we’ll find a solution together, okay?
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 Okay…
 I guess you’ll be done with ~~the~~ work soon, then?
 
 [[Lucas|LUCAS]]
 Yep, that’s right!
 
-[[Isaac|ISAAC]]
+[[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 I see.
 
 [^1]: M: question about greetings, are you shortening anything/doing any lingo for greetings/goodbyes?
