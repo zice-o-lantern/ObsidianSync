@@ -1,1 +1,1 @@
-<en>test</en>
+<span class=”fr”>Test</span>
