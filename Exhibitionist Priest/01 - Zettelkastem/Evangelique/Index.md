@@ -6,7 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Incipit
-    - Grandma
+    - Styrofoam Castle
     - Lucas’ Call
     - Before the Party
   ignoredFiles:
