@@ -1,0 +1,16 @@
+{
+  "wrapperTags": [
+    {
+      "id": "w1783432416377",
+      "name": "English",
+      "startTag": "<en>",
+      "endTag": "</en>"
+    },
+    {
+      "id": "underline",
+      "name": "Underline",
+      "startTag": "<u>",
+      "endTag": "</u>"
+    }
+  ]
+}
