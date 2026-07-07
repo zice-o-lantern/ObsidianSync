@@ -1323,6 +1323,42 @@
           }
         }
       ]
+    },
+    "French Renpy": {
+      "name": "French Renpy",
+      "description": "Renpy Export French",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "remove-strikethroughs",
+          "optionValues": {}
+        },
+        {
+          "id": "Scripts/add-break-lines.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Scripts/remove-english-localisation.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": false
+          }
+        }
+      ]
     }
   }
 }

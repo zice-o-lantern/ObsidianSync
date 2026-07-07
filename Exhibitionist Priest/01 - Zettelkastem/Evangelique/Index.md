@@ -2,7 +2,7 @@
 longform:
   format: scenes
   title: Evangelique
-  workflow: Default Workflow
+  workflow: French Renpy
   sceneFolder: /
   scenes:
     - Incipit
