@@ -1434,6 +1434,10 @@
           "optionValues": {}
         },
         {
+          "id": "Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
           "id": "remove-comments",
           "optionValues": {
             "remove-markdown-comments": true,
@@ -1449,7 +1453,7 @@
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "Renpy/manuscript.md",
+            "target": "FR/manuscript.md",
             "open-after": true
           }
         }
