@@ -56,7 +56,7 @@ pause 1.0
 Look at me, God or Schrödinger-- who knows! 
 To You, so obsessed with the idea of opening the box without touching it. 
 I have finally discovered how to do it.
-The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices. 
+The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices.
 
 # Styrofoam Castle
 
@@ -77,6 +77,7 @@ All that just to end up in an unfamiliar place.
 Plus, it puts all your current activities and projects on hold. If I had any. 
 Since I’m done, I’m taking one last look around the house to make sure everything’s in order.
 
+
 People are often overwhelmed when they move. They’re sad, happy, anxious, relieved, unsettled, then it’s done. 
 It’s normal, after all. 
 It’s to be expected. 
@@ -91,6 +92,7 @@ a stranger—my own, now. I descend the shabby stairs, shuddering with every s
 tep, afraid of falling. Once downstairs, I wander thoughtfully, making my rounds,  until I inadvertently stop in front of the dresser, my hand reaching for a photo resting on it. 
 A photo of my  me and my grandmother, taken by my uncle.
 
+
 Grandma is dead, by the way. 
 I don’t remember when it happened. 
 Probably a few months ago now. 
@@ -103,6 +105,7 @@ Unfortunately, he died shortly before Grandma of a heart attack. They were both 
  I think. 
 Anyway, following their deaths, their house stood empty.
 
+
 I put the photo back down with a sigh. 
 Did I really make the right choice coming to live here? 
 I had just started at my job. 
@@ -110,7 +113,6 @@ Everything was going well.
 So why, the moment my parents offered for me to move here, did I accept without a second thought and quit on the spot? I must be crazy.  
 There’s no work for me here. 
 I’m going to have to live off my savings.
-
 
 Le jardin est en piteuse état mais récupérable. 
 Les vases brisés jonchent l’allée principale, le lière commençant à les enlacer. 
@@ -171,6 +173,7 @@ Ever since day one, all those darn curtains have been stressing me out — and I
 Isn’t that suspicious in and of itself? Plus, I have a camera right here. 
 Why not take a quick peek inside to make sure there's nothing weird  going on?
 
+
 So I stand at the window, holding the viewfinder up to my eyes, and zoom in as much as possible onto the window. 
 Unfortunately, the reflections on the window prevent any real attempt to peek inside. 
 However, I persist and stay there for a while, trying to find the right angle to avoid the reflections. 
@@ -179,6 +182,7 @@ A white-throated sparrow.
 Then, after a few seconds, I manage to catch a glimpse of something-- a woman in the room.  At that moment, my brain begs me to lower the camera-- yet my hands stay put, fixed on the person. 
 She’s wearing a blouse. She’s on the phone, gesturing wildly, exasperated. 
 Obviously, it’s impossible to hear their conversation. But it doesn't look pleasant to listen to anyway.
+
 
 Nevertheless, the woman turns around abruptly and looks in my direction. 
 Panicked, I jerk the lens toward the forest and startle the  sparrow in the process, causing it to crash into the camera. 
@@ -199,6 +203,7 @@ I stay hidden behind the window for a while, afraid she might show up at my door
 I’m worried she suspects the worst. It’s not like I gave her a reason not to be suspicious of me. 
 But despite the time that’s passed, she don’t seem to be coming. Good.
 
+
 The mysterious photo in the gallery comes back to mind. 
 I open it. 
 The photo shows a  bird with blurry feathers in  all four corners of the frame  against a blue sky, with the forest in the background. 
@@ -215,4 +220,3 @@ I think I’ll keep the camera.
 I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. 
 Maybe it could become my new passion? Who knows. 
 I strap the bag around my waist and put the camera inside, a fresh roll of film — ready for all kinds of experiments. 
-
