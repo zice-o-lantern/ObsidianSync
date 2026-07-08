@@ -5,15 +5,14 @@
 scene black
 pause 2.0 
 --->
-
 Does the cat in its box really want us to reveal what’s inside? 
 That's what's bothering me-- puzzling me, as I'm slumped in the closet. 
 You open the door. 11:40 p.m. 
 I adore everything about you: your piercing yet warm, intoxicating eyes! 
-Your dark circles revealing all your tenderness and tendencies; Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
-
+Your dark circles revealing all your tenderness and tendencies; {w}Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
 <!--- 
-pause 1.0 
+show bg bedroom intro with fade
+pause 1.0
 --->
 
 I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest hair exposed. 
@@ -23,7 +22,6 @@ I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I
 Then you stop, lost in thought. 
 I catch my breath. I adjust the lens and fix my glasses back on my nose. 
 Still thinking: {w}how cute.
-
 <!--- 
 pause 1.0 
 --->
@@ -37,7 +35,6 @@ My heart is beating fast, my rib cage can no longer contain it: dancing, ricoche
 I swallow.
 I must concentrate; I can't miss this moment. 
 His boxers come down. 
-
 <!--- 
 pause 1.0 
 --->
@@ -49,7 +46,6 @@ An observer who perceives with his thirst, his desire.
 An observer with complete impunity. An observer who does not exist. An observer from another world. 
 An observer who is both blind and clairvoyant, that is what I am! 
 Until... I am observed.
-
 <!--- 
 pause 1.0 
 ---> 
@@ -87,7 +83,7 @@ I do my best to feel something—anything, whether excitement or sorrow—but no
 I wander through the house of a stranger—my own now. 
 I descend the shabby stairs, shuddering with every step, afraid of falling. 
 Once downstairs, I wander thoughtfully, making my rounds,  until I inadvertently stop in front of the dresser, my hand reaching for a photo resting on it. 
-A photo of my  me and my grandmother, taken by my uncle.
+A photo of me and my grandmother, taken by my uncle.
 
 
 Grandma is dead, by the way. 

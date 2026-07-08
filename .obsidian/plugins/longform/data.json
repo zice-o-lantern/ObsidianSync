@@ -1315,20 +1315,17 @@
   "fallbackWaitEnabled": true,
   "fallbackWaitTime": 5,
   "workflows": {
-    "Default Workflow": {
-      "name": "Default Workflow",
-      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+    "Englsih Renpy": {
+      "name": "Englsih Renpy",
+      "description": "ta mère",
       "steps": [
         {
           "id": "strip-frontmatter",
           "optionValues": {}
         },
         {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
+          "id": "Exhibitionist Priest/08 - Scripts/remove-french-localisation.js",
+          "optionValues": {}
         },
         {
           "id": "prepend-title",
@@ -1338,9 +1335,47 @@
           }
         },
         {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/add-break-lines.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-strikethroughs",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/replace-tagse.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": false
+          }
+        },
+        {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": "\\n\\n---\\n\\n"
+            "separator": "\n\n"
           }
         },
         {
@@ -1348,270 +1383,6 @@
           "optionValues": {
             "target": "manuscript.md",
             "open-after": true
-          }
-        }
-      ]
-    },
-    "French Renpy": {
-      "name": "French Renpy",
-      "description": "Renpy Export French",
-      "steps": [
-        {
-          "id": "strip-frontmatter",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$3{#} $1",
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": false
-          }
-        },
-        {
-          "id": "concatenate-text",
-          "optionValues": {
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "write-to-note",
-          "optionValues": {
-            "target": "FR/renpy.md",
-            "open-after": false
-          }
-        }
-      ]
-    },
-    "Manuscript French": {
-      "name": "Manuscript French",
-      "description": "",
-      "steps": [
-        {
-          "id": "strip-frontmatter",
-          "optionValues": {}
-        },
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$3{#} $2 - $1",
-            "separator": ""
-          }
-        },
-        {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": true
-          }
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
-          "optionValues": {}
-        },
-        {
-          "id": "concatenate-text",
-          "optionValues": {
-            "separator": "\\n\\n"
-          }
-        },
-        {
-          "id": "write-to-note",
-          "optionValues": {
-            "target": "FR/manuscript.md",
-            "open-after": false
-          }
-        }
-      ]
-    },
-    "English Renpy": {
-      "name": "English Renpy",
-      "description": "Renpy Export English",
-      "steps": [
-        {
-          "id": "strip-frontmatter",
-          "optionValues": {}
-        },
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$3{#} $1",
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": false
-          }
-        },
-        {
-          "id": "concatenate-text",
-          "optionValues": {
-            "separator": "\\n"
-          }
-        },
-        {
-          "id": "write-to-note",
-          "optionValues": {
-            "target": "EN/renpy.md",
-            "open-after": false
-          }
-        }
-      ]
-    },
-    "Manuscript English": {
-      "name": "Manuscript French",
-      "description": "",
-      "steps": [
-        {
-          "id": "strip-frontmatter",
-          "optionValues": {}
-        },
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$3{#} $2 - $1",
-            "separator": "\\n\\n"
-          }
-        },
-        {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": true
-          }
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
-          "optionValues": {}
-        },
-        {
-          "id": "concatenate-text",
-          "optionValues": {
-            "separator": "\\n\\n"
-          }
-        },
-        {
-          "id": "write-to-note",
-          "optionValues": {
-            "target": "EN/manuscript.md",
-            "open-after": false
           }
         }
       ]
