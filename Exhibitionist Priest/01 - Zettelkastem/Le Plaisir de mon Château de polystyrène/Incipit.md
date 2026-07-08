@@ -15,6 +15,7 @@ pause 2.0
 
 %% EN %%Does the cat in its box really want us to reveal what’s inside? %% bl %%That's what's bothering me-- puzzling me, %% {w} %%as I'm slumped in the closet.
 <!--- 
+pause 1.0
 show bg bedroom intro with slow_dissolve
 pause 1.0
 --->
