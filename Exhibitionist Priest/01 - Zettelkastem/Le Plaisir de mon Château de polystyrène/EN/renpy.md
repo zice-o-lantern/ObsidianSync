@@ -9,20 +9,20 @@ pause 2.0
 Does the cat in its box really want us to reveal what’s inside? 
 That's what's bothering me-- puzzling me, as I'm slumped in the closet. 
 You open the door. 11:40 p.m. 
-I adore everything about you: your piercing yet warm, intoxi
-cating eyes! Your dark circles revealing all your tenderness and tendencies; Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
+I adore everything about you: your piercing yet warm, intoxicating eyes! 
+Your dark circles revealing all your tenderness and tendencies; Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
 
 <!--- 
 pause 1.0 
 --->
 
-I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest  hair exposed. 
+I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest hair exposed. 
 I bite my lip, my lord, I even pant. 
 Then you take off your pants in one go, exhausted from the long day you've had. 
 I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I saying, I devour it. 
 Then you stop, lost in thought. 
 I catch my breath. I adjust the lens and fix my glasses back on my nose. 
-Still thinking: how cute.
+Still thinking: {w}how cute.
 
 <!--- 
 pause 1.0 
@@ -34,16 +34,17 @@ I breathe through my teeth.
 I wipe my mouth. 
 Drool drips from my hand. 
 My heart is beating fast, my rib cage can no longer contain it: dancing, ricocheting off my ribs and leaping into my throat. 
-I swallow.I must concentrate; I can't miss this moment. 
+I swallow.
+I must concentrate; I can't miss this moment. 
 His boxers come down. 
 
 <!--- 
 pause 1.0 
 --->
 
-We're dancing a waltz.  Unbeknownst to you. Doesn't that what make what we have so beautiful? 
+We're dancing a waltz.  {w}Unbeknownst to you. Doesn't that what make what we have so beautiful? 
 With no one watching, in this forbidden moment, you dance— and I enjoy it. 
-I revel in the thrill that at any moment I could get caught.  Be seen.  I am just an  observer. 
+I revel in the thrill that at any moment I could get caught,  {w}be seen.  I am just an  observer. 
 An observer who perceives with his thirst, his desire. 
 An observer with complete impunity. An observer who does not exist. An observer from another world. 
 An observer who is both blind and clairvoyant, that is what I am! 
@@ -51,14 +52,16 @@ Until... I am observed.
 
 <!--- 
 pause 1.0 
---->
-
+---> 
+ 
 Look at me, God or Schrödinger-- who knows! 
 To You, so obsessed with the idea of opening the box without touching it. 
 I have finally discovered how to do it.
 The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices.
 
+
 # Styrofoam Castle
+
 
 
 
@@ -72,24 +75,18 @@ I could have asked Luke, but he’s at work today.
 
 I always dread this phase of my life: moving. 
 Having to take apart your living space and put it back together isn’t exactly exciting. 
-You have to carry all these heavy things that wreck your back. 
-All that just to end up in an unfamiliar place. 
+You have to carry all these heavy things that wreck your back, and all that just to end up in an unfamiliar place. 
 Plus, it puts all your current activities and projects on hold. If I had any. 
 Since I’m done, I’m taking one last look around the house to make sure everything’s in order.
 
 
 People are often overwhelmed when they move. They’re sad, happy, anxious, relieved, unsettled, then it’s done. 
-It’s normal, after all. 
-It’s to be expected. 
-It’s a fresh start. 
-It doesn’t do anything for me. 
-I feel neither hot nor cold. 
-Just the musty smell. 
-It’s as if I were walking through a Styrofoam castle. Dead to the touch and devoid of any warmth. 
-I do my best to feel something—anything, whether excitement or so
-rrow—but nothing comes. I wander through the house of 
-a stranger—my own, now. I descend the shabby stairs, shuddering with every s
-tep, afraid of falling. Once downstairs, I wander thoughtfully, making my rounds,  until I inadvertently stop in front of the dresser, my hand reaching for a photo resting on it. 
+It’s normal, after all. It’s to be expected. It’s a fresh start. It doesn’t do anything for me. I feel neither hot nor cold, just the musty smell. 
+It’s as if I were walking through a Styrofoam castle :Dead to the touch and devoid of any warmth. 
+I do my best to feel something—anything, whether excitement or sorrow—but nothing comes. 
+I wander through the house of a stranger—my own now. 
+I descend the shabby stairs, shuddering with every step, afraid of falling. 
+Once downstairs, I wander thoughtfully, making my rounds,  until I inadvertently stop in front of the dresser, my hand reaching for a photo resting on it. 
 A photo of my  me and my grandmother, taken by my uncle.
 
 
@@ -114,13 +111,6 @@ So why, the moment my parents offered for me to move here, did I accept without 
 There’s no work for me here. 
 I’m going to have to live off my savings.
 
-Le jardin est en piteuse état mais récupérable. 
-Les vases brisés jonchent l’allée principale, le lière commençant à les enlacer. 
-Je grimace. Quelqu’un pourrait se blesser dessus. 
-J’aperçois la maison voisine, en face de de la rue. 
-Elle a toujours les rideaux fermés. 
-Il y a seulement une fenêtre à l’étage sans rideau mais difficile d’observer à l’intérieur sans s’approcher donc difficile de savoir ce qu’il s’y passe. 
-Enfin pas que ça m’intéresse tant que ça.
 
 I open one of the drawers at random out of curiosity and I'm caught off guard by a sudden cloud of dust. 
 I shouldn’t have opened it so quickly. 
@@ -133,8 +123,7 @@ Objects fall.
 No time. 
 I reach the window. 
 I throw it open. 
-The fresh country air rushes in and I finally breathe.
-The garden is in a sorry state but it's salvageable. 
+The fresh country air rushes in and I finally breathe. The garden is in a sorry state but it's salvageable. 
 Broken vases litter the main path, ivy beginning to entwine around them. 
 I grimace. 
 Someone could get hurt on them. 
@@ -153,7 +142,7 @@ I grab it and pull out a camera.
 It looks intact despite the fall. 
 I handle it, examining it from every angle-- — it looks like a state-of-the-art camera. 
 I turn it on. 
-No photos. Strange. 
+No photos. {w}Strange. 
 I would have thought I’d find some information about its owner in the photos. 
 Grandma wasn’t really a photographer. 
 At least I never saw her use a camera. 
@@ -161,8 +150,8 @@ I rummage through the bag.
 Among the lenses, a crumpled piece of paper is mixed in with everything else. 
 A shopping list. 
 “Buy milk for Marie.” 
-My uncle’s wife. I see. The camera must belong to him. 
-It’s a really good camera, especially for a hobbyist. (Perhaps instead of a period we could do a comma here: "It's a really good camera, especially for a hobbyist.") (I guess it's a taste thing. People told me i tend to put too much periods in my texts)  (I figured as much! I think it probably flows better in french too since you have more rules to control pacing within your punctuation styles, whereas in English it grinds a sentence to a halt.)My uncle must love taking pictures. 
+My uncle’s wife. I see. {w}The camera must belong to him. 
+It’s a really good camera{w}, especially for a hobbyist. (Perhaps instead of a period we could do a comma here: "It's a really good camera, especially for a hobbyist.") (I guess it's a taste thing. People told me i tend to put too much periods in my texts)  (I figured as much! I think it probably flows better in french too since you have more rules to control pacing within your punctuation styles, whereas in English it grinds a sentence to a halt.)My uncle must love taking pictures. 
 After all, he took tons of them of me. 
 I’m sure he has an album full of photos of me in every situation.
 
@@ -181,7 +170,7 @@ A bird lands on  my windowsill.
 A white-throated sparrow. 
 Then, after a few seconds, I manage to catch a glimpse of something-- a woman in the room.  At that moment, my brain begs me to lower the camera-- yet my hands stay put, fixed on the person. 
 She’s wearing a blouse. She’s on the phone, gesturing wildly, exasperated. 
-Obviously, it’s impossible to hear their conversation. But it doesn't look pleasant to listen to anyway.
+Obviously, it’s impossible to hear their conversation. {w}But it doesn't look pleasant to listen to anyway.
 
 
 Nevertheless, the woman turns around abruptly and looks in my direction. 
@@ -193,15 +182,15 @@ In my fall, I dropped the camera. It’s lying in the dust now.
 I hope it’s okay. 
 I examine the camera and, thankfully, it has no visible damage. 
 I turn it on to check if it’s working properly when I notice a recent photo in the gallery. 
-Where did that one come from? No time for that. 
+Where did that one come from? {w}No time for that. 
 I need to check if the woman is still there. 
 I zoom back in on the window.
- She’s not there anymore. Did she see me?
+ She’s not there anymore. {w}Did she see me?
 
 
 I stay hidden behind the window for a while, afraid she might show up at my door. 
-I’m worried she suspects the worst. It’s not like I gave her a reason not to be suspicious of me. 
-But despite the time that’s passed, she don’t seem to be coming. Good.
+I’m worried she suspects the worst. {w}It’s not like I gave her a reason not to be suspicious of me. 
+But despite the time that’s passed, she don’t seem to be coming. {w}Good.
 
 
 The mysterious photo in the gallery comes back to mind. 
@@ -218,5 +207,5 @@ As if it’s my destiny to take photos.
 Maybe it was my destiny to take a photo here one day. 
 I think I’ll keep the camera. 
 I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. 
-Maybe it could become my new passion? Who knows. 
+Maybe it could become my new passion? {w}Who knows. 
 I strap the bag around my waist and put the camera inside, a fresh roll of film — ready for all kinds of experiments. 

@@ -8,8 +8,6 @@ longform:
   scenes:
     - Incipit
     - Styrofoam Castle
-    - Lucas’ Call
-    - Before the Party
   ignoredFiles:
     - 03 - Before the Party.md
     - 00 - Incipit.md
@@ -27,4 +25,7 @@ longform:
     - 
     - Styrofoam Castle
     - 
+    - Before the Party
+    - Lucas’ Call
+    - Incipit.md
 ---

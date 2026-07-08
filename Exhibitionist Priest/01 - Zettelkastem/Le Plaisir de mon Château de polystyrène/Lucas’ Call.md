@@ -19,7 +19,7 @@ Oh enfin te voilà ! Tu m’as manqué tu sais ?
 Je lève ma montre.
 
 [[Isaac|ISAAC]]
-Tu m’as appelé durant ta pause déjeuner.
+Tu m’as appelé ~~durant~~ <span style="color:rgb(126, 114, 218)">à</span> ta pause déjeuner.
 
 [[Luke|LUCAS]]
 Roooh je te taquine
@@ -57,7 +57,7 @@ Elle est tellement vieille, il y a tellement de travaux à y faire. Puis tout ç
 Oui…
 
 [[Luke|LUCAS]]
-Puis, avec le nombre de fois que je t’ai laissé crécher chez moi, on aurait dit que tu évitais l’endroit comme la peste. À ce stade, tu pourrais même venir vivre chez moi. T’es sûr que tu veux pas rester là-bas ?
+Puis, avec le nombre de fois que je t’ai laissé crécher chez moi, on aurait dit que tu évitais l’endroit comme la peste. À ce stade, tu pourrais même venir vivre chez moi. T’es sûr que tu veux pas rester chez moi ?
 
 [[Isaac|ISAAC]]
 Plus que sûr même. C’est ma maison donc je dois y rester. J’ai assez abusé de ton hospitalité. Je ne veux pas te déranger plus longtemps.
@@ -77,7 +77,7 @@ Essaie plus alors, eheh. Tu as pu régler le souci des tâches d’ailleurs ?
 Non pas vraiment…
 
 Cette maison est bizarre. Elle me souille. Je le sais. Les objets ne sont jamais à leur place. Je retrouve jamais rien. Ou alors je les retrouve mais à l’autre de bout de la maison. Le matin je me réveillais avec des tâches sur les draps. Incolores. De l’eau ? Peut-être. L’odeur est insoutenable. On dirait de la moisissure. Je l’ai fait sentir à Lucas pour qu’il me dise ce que c’était. Il m’a dit que ça ne sentait rien. 
-Ce qui m’effraie le plus, c’est que je la sens maintenant partout : sur mes pantalons, dans mon sac, dans mon portefeuille et j’ai beau laver, ça ne part pas. Je me surprends à frotter frénétiquement ma peau, espérant l’arracher, juste pour faire partir l odeur. Les traces teintent toute ma vie, infectant tout ce que je possède. Je ne possède plus, la Maison possède désormais. Je me couche le soir, souillé, sans que personne ne puisse y faire et je dois m’y faire. Elle m’est familière, cette souillure, je crois. 
+Ce qui m’effraie le plus, c’est que je la sens ~~maintenant~~ partout <span style="color:rgb(126, 114, 218)">maintenant</span> : sur mes pantalons, dans mon sac, dans mon portefeuille et j’ai beau laver, ça ne part pas. Je me surprends à frotter frénétiquement ma peau, espérant l’arracher, juste pour faire partir l odeur. ~~L~~<span style="color:rgb(126, 114, 218)">C</span>es traces teintent toute ma vie, infectant tout ce que je possède. Je ne possède plus, la Maison possède désormais. Je me couche le soir, souillé, sans que personne n’y puisse rien et je dois m’y faire. Elle m’est familière, cette souillure~~, je crois~~. 
 De toute façon, ce n’est pas nouveau que je me fasse emparer par ces traces. C’est ici-même, dans cette maison, il y a 20 ans, que c’est arrivé pour la première fois.
 
 [[Luke|LUCAS]]
@@ -86,7 +86,7 @@ Je suis sûr que ça partira.
 Oui en quelques sortes. Plus les jours passeront, moins ça me dérangera et finalement je ne ferai plus attention aux traces. Elles feront partie de moi.
 
 [[Luke|LUCAS]]
-Puis si ça part, on trouvera une solution, ensemble, d’accord ?
+Puis si ça part, on trouvera une solution ensemble, d’accord ?
 
 [[Isaac|ISAAC]]
 D’accord…
@@ -147,16 +147,16 @@ Je viens à quelle heure chez toi ?
 
 
 [[Luke|LUCAS]]
-Hein ? Chez moi ? De quoi tu parles ? La soirée elle est pas chez toi, elle est chez toi. 
+Hein ? Chez moi ? De quoi tu parles ? La soirée elle est pas chez moi, elle est chez toi. 
 
 [[Isaac|ISAAC]]
 Chez moi ???
 
 [[Luke|LUCAS]]
-Bah oui. Une soirée pour célébrer ta maison et on la fait pas à la maison, c’est pas logique.
+Bah oui. Une crémaillère ça se fait dans la maison dans laquelle on vient d'emménager, pas celle du voisin sinon c’est pas logique.
 
 [[Isaac|ISAAC]]
-Mais je suis pas prêt ! J’ai encore pleins de choses à faire ! La maison n’est pas prête !!
+Mais je suis pas prêt ! J’ai encore plein de choses à faire ! La maison n’est pas prête !!
 
 [[Luke|LUCAS]]
 Pas grave, je vais t’aider.

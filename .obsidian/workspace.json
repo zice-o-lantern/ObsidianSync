@@ -4,275 +4,126 @@
     "type": "split",
     "children": [
       {
-        "id": "317881f4b2b349e3",
-        "type": "split",
+        "id": "b2d53c32ebbdd31b",
+        "type": "tabs",
         "children": [
           {
-            "id": "b2d53c32ebbdd31b",
-            "type": "tabs",
-            "dimension": 58.13725490196079,
-            "children": [
-              {
-                "id": "57af6ce7728439ed",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-                    "viewState": {
-                      "x": -277.89069982741614,
-                      "y": -126.86512359575525,
-                      "zoom": -1.9999999999999998
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Outline of the story"
+            "id": "57af6ce7728439ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                "viewState": {
+                  "x": -277.89069982741614,
+                  "y": -126.86512359575525,
+                  "zoom": -1.9999999999999998
                 }
               },
-              {
-                "id": "0aa843b4a6cf9ef9",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-                    "kanbanViewState": {
-                      "kanban-plugin": "board",
-                      "list-collapse": [
-                        false,
-                        false,
-                        false,
-                        false,
-                        false
-                      ]
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-trello",
-                  "title": "Writing tasks"
-                }
-              },
-              {
-                "id": "d4efd65b58b21e51",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Styrofoam Castle"
-                }
-              },
-              {
-                "id": "dbada9b0d601a455",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Incipit"
-                }
-              },
-              {
-                "id": "02e62ea9852c038e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "02 - Lucas’ Call - First draft"
-                }
-              },
-              {
-                "id": "4aae35a2a1047d5b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Lucas’ Call.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Lucas’ Call"
-                }
-              }
-            ],
-            "currentTab": 2
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Outline of the story"
+            }
           },
           {
-            "id": "aa74d9040df10e71",
-            "type": "split",
-            "dimension": 41.86274509803922,
-            "children": [
-              {
-                "id": "fe307ad259572955",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f5e60f5cb0968eb3",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/manuscript.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "manuscript"
-                    }
-                  },
-                  {
-                    "id": "a2c54f86a72475d5",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/manuscript.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "manuscript"
-                    }
-                  },
-                  {
-                    "id": "dbd99bc9dcd1ae71",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "renpy"
-                    }
-                  }
-                ],
-                "currentTab": 2
+            "id": "0aa843b4a6cf9ef9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              {
-                "id": "1faf7642ac88ee62",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "65b637fa3841c2f8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "renpy"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Writing tasks"
+            }
+          },
+          {
+            "id": "d4efd65b58b21e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Lucas’ Call.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lucas’ Call"
+            }
+          },
+          {
+            "id": "dbada9b0d601a455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Incipit"
+            }
+          },
+          {
+            "id": "02e62ea9852c038e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02 - Lucas’ Call - First draft"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -457,7 +308,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -467,15 +317,22 @@
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
       "system3-relay:Relay": false,
-      "sidebar-highlights:Open highlights": false
+      "sidebar-highlights:Open highlights": false,
+      "edit-history:Open edit history": false
     }
   },
-  "active": "dbd99bc9dcd1ae71",
+  "active": "d93ac4a9a188550f",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
+    "Exhibitionist Priest/08 - Scripts/replace-tagse.js",
+    "Exhibitionist Priest/08 - Scripts/replace-pause.js",
+    "Exhibitionist Priest/08 - Scripts/remove-color-tags - Copy.js",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/manuscript.md",
@@ -484,13 +341,11 @@
     "Exhibitionist Priest/08 - Scripts/remove-highlights - Copy.js",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR",
     "Untitled.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions/Cafe.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/01 - Grandma.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/03 - The before party - First Draft.md",
@@ -503,12 +358,8 @@
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/01 - Grandma.md",
     "5 - Template/Pause.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Evangelique/01 - Grandma.md.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/01 - Grandma.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/Renpy.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/Evangelique manuscript.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
