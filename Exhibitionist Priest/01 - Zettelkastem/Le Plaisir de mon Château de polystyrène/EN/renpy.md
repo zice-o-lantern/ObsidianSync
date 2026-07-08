@@ -7,10 +7,17 @@ pause 2.0
 --->
 
 Does the cat in its box really want us to reveal what’s inside? 
-That's what's bothering me-- puzzling me, as I'm slumped in the closet.
+That's what's bothering me-- puzzling me, {w}as I'm slumped in the closet.
 <!--- 
 show bg bedroom intro with slow_dissolve
 pause 1.0
+--->
+11:40 p.m. {w}You open the door.  
+I adore everything about you: your piercing yet warm, intoxicating eyes. 
+Your dark circles revealing all your tenderness and tendencies. 
+Your sad face concealing a disturbing and perverse side, and above all{w}, how much better you look through my viewfinder. 
+<!---
+pause 2.0
 --->
 
 

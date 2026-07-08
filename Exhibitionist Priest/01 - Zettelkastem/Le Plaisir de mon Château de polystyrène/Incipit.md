@@ -9,18 +9,22 @@ done: true
 scene black
 pause 2.0 
 --->
-%% FR %%Le chat dans la boite a t-il vraiment envie qu'on le révèle ?  %% bl %%Voici ce qui me bloque et m'interloque, affaissé dans le placard.
+%% FR %%Le chat dans la boite a t-il vraiment envie qu'on le révèle ?  %% bl %%Voici ce qui me bloque et m'interloque, %% {w} %%affaissé dans le placard.
 
 ---
 
-%% EN %%Does the cat in its box really want us to reveal what’s inside? %% bl %%That's what's bothering me-- puzzling me, as I'm slumped in the closet.
+%% EN %%Does the cat in its box really want us to reveal what’s inside? %% bl %%That's what's bothering me-- puzzling me, %% {w} %%as I'm slumped in the closet.
 <!--- 
 show bg bedroom intro with slow_dissolve
 pause 1.0
 --->
-%% FR %%Tu ouvres la porte. 23 h 40. %% bl %%J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants ! %% bl %%Tes cernes tombantes témoignant de toute tes douceurs et douleurs. %% {w} %%Ton visage triste recelant un côté inquiétant et pervers, et surtout %% {w} %%à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
+%% FR %%23 h 40. %% {w} %%Tu ouvres la porte. %% bl %%J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants. %% bl %%Tes cernes tombantes témoignant de toute tes douceurs et douleurs. %% {w} %%Ton visage triste recelant un côté inquiétant et pervers, et surtout %% {w} %%à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
 
 ---
+%% EN %%11:40 p.m. %% {w} %%You open the door.  %% bl %%I adore everything about you: your piercing yet warm, intoxicating eyes. %% bl %%Your dark circles revealing all your tenderness and tendencies. %% bl %%Your sad face concealing a disturbing and perverse side, and above all%% {w} %%, how much better you look through my viewfinder. 
+<!---
+pause 2.0
+--->
 
 %% FR %%Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. %% bl %%Je m'en mords la lèvre, même, mon seigneur, j'en halète. %% bl %%Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. %% bl %%Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! Que dis-je, je le dévore. %% bl %%Puis tu t'arrêtes pensif. %% bl %%~~J'en profite pour reprendre~~<span style="color:rgb(126, 114, 218)">%% bl %%Je reprends</span> mon souffle et ajuste ~~les lamelles~~<span style="color:rgb(126, 114, 218)">l’appareil-photo</span> et je replace mes lunettes sur le nez. %% bl %%Toujours à penser%% {w} %% : que c'est mignon.
 
