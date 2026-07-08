@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/07 - Rough Notes/Title Ideas.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,31 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Title Ideas"
-            }
-          },
-          {
-            "id": "02e62ea9852c038e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "02 - Lucas’ Call - First draft"
+              "title": "Incipit"
             }
           }
         ],
@@ -186,7 +162,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -323,13 +300,16 @@
   },
   "active": "dbada9b0d601a455",
   "lastOpenFiles": [
+    "Exhibitionist Priest/07 - Rough Notes/fourre-tout.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
+    "Exhibitionist Priest/07 - Rough Notes/fourre-tout.md.edtz",
+    "Exhibitionist Priest/07 - Rough Notes/Title Ideas.md",
     "Exhibitionist Priest/07 - Rough Notes/Title Ideas.md.edtz",
     "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
     "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/manuscript.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/manuscript.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md.edtz",
@@ -342,8 +322,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN",
-    "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
-    "Exhibitionist Priest/08 - Scripts/remove-highlights - Copy.js",
     "Untitled.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md",
@@ -359,7 +337,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/murky waters/Grandma English - Murkwater edits 1.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Evangelique/manuscript.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/01 - Grandma.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
