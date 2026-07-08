@@ -28,7 +28,7 @@ pause 1.0
 pause 1.0
 --->
 
-%% FR %%Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. %% bl %%Je m'en mords la lèvre, même, mon seigneur, j'en halète. %% bl %%Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. %% bl %%Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! Que dis-je, je le dévore. %% bl %%Puis tu t'arrêtes pensif. %% bl %%~~J'en profite pour reprendre~~<span style="color:rgb(126, 114, 218)">%% bl %%Je reprends</span> mon souffle et ajuste ~~les lamelles~~<span style="color:rgb(126, 114, 218)">l’appareil-photo</span> et je replace mes lunettes sur le nez. %% bl %%Il est toujours à penser%% {w} %% : que c'est mignon.
+%% FR %%Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. %% bl %%Je m'en mords la lèvre, même, mon seigneur, j'en halète. %% bl %%Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. %% bl %%Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! ~~Que dis-je,~~je le dévore. Puis tu t'arrêtes pensif. %% bl %%~~J'en profite pour reprendre~~<span style="color:rgb(126, 114, 218)">%% bl %%Je reprends</span> mon souffle et ajuste ~~les lamelles~~<span style="color:rgb(126, 114, 218)">l’appareil-photo</span> et je replace mes lunettes sur le nez. %% bl %%Il est toujours à penser%% {w} %% : que c'est mignon.
 
 ---
 
