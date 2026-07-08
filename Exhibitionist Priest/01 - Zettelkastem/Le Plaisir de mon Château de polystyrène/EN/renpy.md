@@ -9,7 +9,7 @@ pause 2.0
 Does the cat in its box really want us to reveal what’s inside? 
 That's what's bothering me-- puzzling me, as I'm slumped in the closet.
 <!--- 
-show bg bedroom intro with fade
+show bg bedroom intro with slow_dissolve
 pause 1.0
 --->
 
@@ -22,6 +22,7 @@ Then you stop, lost in thought.
 I catch my breath. I adjust the lens and fix my glasses back on my nose. 
 Still thinking: {w}how cute.
 <!--- 
+show bg bedroom intro person with slow_dissolve
 pause 1.0 
 --->
 Then  comes the climax , hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. 
@@ -32,11 +33,15 @@ Drool drips from my hand.
 My heart is beating fast, my rib cage can no longer contain it: dancing, ricocheting off my ribs and leaping into my throat. 
 I swallow.
 I must concentrate; I can't miss this moment. 
-His boxers come down. 
+ 
 <!--- 
-pause 1.0 
+scene black
 --->
 
+His boxers come down.
+<!--- 
+pause 1.0
+--->
 We're dancing a waltz.  {w}Unbeknownst to you. Doesn't that what make what we have so beautiful? 
 With no one watching, in this forbidden moment, you dance— and I enjoy it. 
 I revel in the thrill that at any moment I could get caught,  {w}be seen.  I am just an  observer. 
