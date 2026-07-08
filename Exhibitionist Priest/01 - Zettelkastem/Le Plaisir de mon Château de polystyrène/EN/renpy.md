@@ -18,7 +18,7 @@ I adore everything about you: your piercing yet warm, intoxicating eyes.
 Your dark circles revealing all your tenderness and tendencies. 
 Your sad face concealing a disturbing and perverse side, and above all{w}, how much better you look through my viewfinder. 
 <!---
-pause 2.0
+pause 1.0
 --->
 
 
@@ -41,12 +41,13 @@ Drool drips from my hand.
 My heart is beating fast, my rib cage can no longer contain it: dancing, ricocheting off my ribs and leaping into my throat. 
 I swallow.
 I must concentrate; I can't miss this moment. 
- 
 <!--- 
 scene black
+pause 1.0
 --->
 
-His boxers come down.
+His boxers come down. 
+My hands are even stickier, and it's… {w}not saliva.
 <!--- 
 pause 1.0
 --->

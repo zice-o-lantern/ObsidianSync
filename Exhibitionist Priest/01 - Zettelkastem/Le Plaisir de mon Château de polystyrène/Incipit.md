@@ -9,7 +9,7 @@ done: true
 scene black
 pause 2.0 
 --->
-%% FR %%Le chat dans la boite a t-il vraiment envie qu'on le révèle ?  %% bl %%Voici ce qui me bloque et m'interloque, %% {w} %%affaissé dans le placard.
+%% FR %%Le chat dans la boite a t-il vraiment envie qu'on le révèle ?  %% bl %%Voici ce qui me bloque et m'interloque, %% {w} %%affaissé dans ma petite boite à moi.
 
 ---
 
@@ -37,16 +37,16 @@ show bg bedroom intro person with slow_dissolve
 pause 1.0 
 --->
 %% FR %%Après cela, se situe, ci-dessous, le point culminant de l’attente dissimulé par ce fin exquis tissu qui peine à couvrir ce buisson délaissé et dessine l’engin à l’origine de tous les désirs. %% bl %%Tu enfiles tes mains dans ton caleçon. %% bl %%Je respire à travers les dents. %% bl %%Je m'essuie la bouche. %% bl %%Ma main est couvert de salive. %% bl %%Mon cœur bat à toute vitesse, ma cage thoracique ne peut plus le contenir, se dansant, ricochant sur ces côtes et bondissant dans ma gorge. %% bl %%Je déglutis. %% bl %%~~je dois me concentrer, je peux pas rater ce moment.~~<span style="color:rgb(126, 114, 218)">Je ne peux m'arrêter ; Je ne peux fermer les yeux.</span>%% bl %%~~Mon souffle se coupe.~~
-%% EN %%<span style="color:rgb(126, 114, 218)"><span style="color:rgb(255, 222, 0)">Then </span>~~After that~~ comes the climax ~~of the wait~~, hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. %% bl %%You slip your hands into your boxers. %% bl %%I breathe through my teeth. %% bl %%I wipe my mouth. %% bl %%Drool drips from my hand. %% bl %%My heart is beating fast, my rib cage can no longer contain it~~;~~<span style="color:rgb(255, 222, 0)">:</span> dancing, ricocheting off my ribs and leaping into my throat. %% bl %%I swallow.%% bl %%I <span style="color:rgb(255, 222, 0)">must</span>~~have to~~ concentrate~~,~~<span style="color:rgb(255, 222, 0)">;</span> I can't miss this moment. %% bl %% ~~My breath catches.~~</span>
+%% EN %%<span style="color:rgb(126, 114, 218)"><span style="color:rgb(255, 222, 0)">Then </span>~~After that~~ comes the climax ~~of the wait~~, hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. %% bl %%You slip your hands into your boxers. %% bl %%I breathe through my teeth. %% bl %%I wipe my mouth. %% bl %%Drool drips from my hand. %% bl %%My heart is beating fast, my rib cage can no longer contain it~~;~~<span style="color:rgb(255, 222, 0)">:</span> dancing, ricocheting off my ribs and leaping into my throat. %% bl %%I swallow.%% bl %%I <span style="color:rgb(255, 222, 0)">must</span>~~have to~~ concentrate~~,~~<span style="color:rgb(255, 222, 0)">;</span> I can't miss this moment. ~~My breath catches.~~</span>
 <!--- 
 scene black
 pause 1.0
 --->
-%% FR %%Son caleçon se baisse.
+%% FR %%Son caleçon se baisse. %% bl %%Mes mains sont encore plus visqueuses, et ce n’est… %% {w} %%pas de la bave.
 
 ---
 
-%% EN %%His boxers come down.
+%% EN %%His boxers come down. %% bl %%My hands are even stickier, and it's… %% {w} %%not saliva.
 <!--- 
 pause 1.0
 --->
