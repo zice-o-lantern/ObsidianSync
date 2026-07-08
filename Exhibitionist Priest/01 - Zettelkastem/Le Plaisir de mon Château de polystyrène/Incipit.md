@@ -20,10 +20,10 @@ show bg bedroom intro with slow_dissolve
 pause 1.0
 --->
 
-%% FR %%23 h 40. %% {w} %%Tu ouvres la porte. %% bl %%J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants. %% bl %%Tes cernes tombantes témoignant de toute tes douceurs et douleurs. %% {w} %%Ton visage triste recelant un côté inquiétant et pervers, et surtout %% {w} %%à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
+%% FR %%23 h 40. %% {w} %%Tu ouvres la porte. %% bl %%J’adore tout chez toi : %% {w} %%tes yeux perçant mais chaleureux, enivrants. %% bl %%Tes cernes tombantes témoignant de toute tes douceurs et douleurs. %% {w} %%Ton visage triste recelant un côté inquiétant et pervers, et surtout %% {w} %%à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
 
 ---
-%% EN %%11:40 p.m. %% {w} %%You open the door.  %% bl %%I adore everything about you: your piercing yet warm, intoxicating eyes. %% bl %%Your dark circles revealing all your tenderness and tendencies. %% bl %%Your sad face concealing a disturbing and perverse side, and above all%% {w} %%, how much better you look through my viewfinder. 
+%% EN %%11:40 p.m. %% {w} %%You open the door.  %% bl %%I adore everything about you: %% {w} %%your piercing yet warm, intoxicating eyes. %% bl %%Your dark circles revealing all your tenderness and tendencies. %% bl %%Your sad face concealing a disturbing and perverse side, and above all%% {w} %%, how much better you look through my viewfinder. 
 <!---
 pause 1.0
 --->
