@@ -28,11 +28,20 @@ pause 1.0
 pause 1.0
 --->
 
-%% FR %%Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. %% bl %%Je m'en mords la lèvre, même, mon seigneur, j'en halète. %% bl %%Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. %% bl %%Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! ~~Que dis-je,~~je le dévore. Puis tu t'arrêtes pensif. %% bl %%~~J'en profite pour reprendre~~<span style="color:rgb(126, 114, 218)">%% bl %%Je reprends</span> mon souffle et ajuste ~~les lamelles~~<span style="color:rgb(126, 114, 218)">l’appareil-photo</span> et je replace mes lunettes sur le nez. %% bl %%Il est toujours à penser%% {w} %% : que c'est mignon.
+%% FR %%Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. %% bl %%Je m'en mords la lèvre, même, mon seigneur, j'en halète. %% bl %%Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. %% bl %%Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! ~~Que dis-je,~~je le dévore.
 
 ---
 
-%% EN %%I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest ~~fur~~hair exposed. %% bl %%I bite my lip, my lord, I even pant. %% bl %%Then you take off your pants in one go, exhausted from the long day you've had. %% bl %%I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I saying, I devour it. %% bl %%Then you stop, lost in thought. %% bl %%I ~~take the opportunity to~~catch my breath. I adjust the lens and fix my glasses back on my nose. %% bl %%He’s still thinking<span style="color:rgb(255, 222, 0)">: %% {w} %%h</span>ow cute.
+%% EN %%I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest ~~fur~~hair exposed. %% bl %%I bite my lip, my lord, I even pant. %% bl %%Then you take off your pants in one go, exhausted from the long day you've had. %% bl %%I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I saying, I devour it.
+<!---
+pause 1.0
+--->
+
+%% FR %%Puis tu t'arrêtes pensif. %% bl %%~~J'en profite pour reprendre~~<span style="color:rgb(126, 114, 218)">%% bl %%Je reprends</span> mon souffle et ajuste ~~les lamelles~~<span style="color:rgb(126, 114, 218)">l’appareil-photo</span> et je replace mes lunettes sur le nez. %% bl %%Il est toujours à penser%% {w} %% : que c'est mignon.
+
+---
+%% EN %%Then you stop, lost in thought. %% bl %%I ~~take the opportunity to~~catch my breath. I adjust the lens and fix my glasses back on my nose. %% bl %%He’s still thinking<span style="color:rgb(255, 222, 0)">: %% {w} %%h</span>ow cute.
+
 <!--- 
 show bg bedroom intro person with slow_dissolve
 pause 1.0 
@@ -65,3 +74,7 @@ pause 1.0
  
 %% FR %%Regardez-moi, Dieu ou alors Schrödinger, que sais-je ! %% bl %%À Toi, si obsédé à l’idée d’ouvrir la boite sans ~~la~~<span style="color:rgb(126, 114, 218)">y</span> toucher. J’ai enfin découvert comment faire. %% bl %%Le Chat ne doit pas être observé.%% bl %% Il est heureux là où il se trouve, dans ses plaisirs et ses travers.
 %% EN %%<span style="color:rgb(126, 114, 218)">Look at me, God or Schrödinger-- who knows! %% bl %%To You, so obsessed with the idea of opening the box without touching it. %% bl %%I have finally discovered how to do it.%% bl %%The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices.</span>
+
+<!---
+## TO
+--->
