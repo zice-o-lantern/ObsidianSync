@@ -24,7 +24,7 @@ pause 1.0
 ---
 %% EN %%11:40 p.m. %% {w} %%You open the door.  %% bl %%I adore everything about you: your piercing yet warm, intoxicating eyes. %% bl %%Your dark circles revealing all your tenderness and tendencies. %% bl %%Your sad face concealing a disturbing and perverse side, and above all%% {w} %%, how much better you look through my viewfinder. 
 <!---
-pause 2.0
+pause 1.0
 --->
 
 %% FR %%Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. %% bl %%Je m'en mords la lèvre, même, mon seigneur, j'en halète. %% bl %%Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. %% bl %%Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! Que dis-je, je le dévore. %% bl %%Puis tu t'arrêtes pensif. %% bl %%~~J'en profite pour reprendre~~<span style="color:rgb(126, 114, 218)">%% bl %%Je reprends</span> mon souffle et ajuste ~~les lamelles~~<span style="color:rgb(126, 114, 218)">l’appareil-photo</span> et je replace mes lunettes sur le nez. %% bl %%Toujours à penser%% {w} %% : que c'est mignon.
@@ -40,6 +40,7 @@ pause 1.0
 %% EN %%<span style="color:rgb(126, 114, 218)"><span style="color:rgb(255, 222, 0)">Then </span>~~After that~~ comes the climax ~~of the wait~~, hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. %% bl %%You slip your hands into your boxers. %% bl %%I breathe through my teeth. %% bl %%I wipe my mouth. %% bl %%Drool drips from my hand. %% bl %%My heart is beating fast, my rib cage can no longer contain it~~;~~<span style="color:rgb(255, 222, 0)">:</span> dancing, ricocheting off my ribs and leaping into my throat. %% bl %%I swallow.%% bl %%I <span style="color:rgb(255, 222, 0)">must</span>~~have to~~ concentrate~~,~~<span style="color:rgb(255, 222, 0)">;</span> I can't miss this moment. %% bl %% ~~My breath catches.~~</span>
 <!--- 
 scene black
+pause 1.0
 --->
 %% FR %%Son caleçon se baisse.
 
