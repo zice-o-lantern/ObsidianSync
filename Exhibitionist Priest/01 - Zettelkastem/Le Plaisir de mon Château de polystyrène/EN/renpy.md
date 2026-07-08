@@ -5,15 +5,14 @@
 scene black
 pause 2.0 
 --->
+
 Does the cat in its box really want us to reveal what’s inside? 
-That's what's bothering me-- puzzling me, as I'm slumped in the closet. 
-You open the door. 11:40 p.m. 
-I adore everything about you: your piercing yet warm, intoxicating eyes! 
-Your dark circles revealing all your tenderness and tendencies; {w}Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
+That's what's bothering me-- puzzling me, as I'm slumped in the closet.
 <!--- 
 show bg bedroom intro with fade
 pause 1.0
 --->
+
 
 I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest hair exposed. 
 I bite my lip, my lord, I even pant. 
@@ -25,7 +24,6 @@ Still thinking: {w}how cute.
 <!--- 
 pause 1.0 
 --->
-
 Then  comes the climax , hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. 
 You slip your hands into your boxers. 
 I breathe through my teeth. 

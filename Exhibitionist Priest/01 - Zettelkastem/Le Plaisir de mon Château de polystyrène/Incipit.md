@@ -9,19 +9,27 @@ done: true
 scene black
 pause 2.0 
 --->
-%% FR %%Le chat dans la boite a t-il vraiment envie qu'on le révèle ?  %% bl %%Voici ce qui me bloque et m'interloque, affaissé dans le placard. %% bl %%Tu ouvres la porte. 23h40. %% bl %%J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants ! %% bl %%Tes cernes tombantes témoignant de toute tes douceurs et douleurs. %% {w} %%Ton visage triste recelant un côté inquiétant et pervers, et surtout à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
-<span style="color:rgb(126, 114, 218)">%% EN %%Does the cat in its box really want us to reveal what’s inside? %% bl %%That's what's bothering me-- puzzling me, as I'm slumped in the closet. %% bl %%You open the door. 11:40 p.m. %% bl %%I adore everything about you: your piercing yet warm, intoxicating eyes! %% bl %%Your dark circles revealing all your tenderness and tendencies~~.~~<span style="color:rgb(255, 222, 0)">;</span> %% {w} %%Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. </span>
+%% FR %%Le chat dans la boite a t-il vraiment envie qu'on le révèle ?  %% bl %%Voici ce qui me bloque et m'interloque, affaissé dans le placard.
+
+---
+
+%% EN %%Does the cat in its box really want us to reveal what’s inside? %% bl %%That's what's bothering me-- puzzling me, as I'm slumped in the closet.
 <!--- 
 show bg bedroom intro with fade
 pause 1.0
 --->
+%% FR %%Tu ouvres la porte. 23 h 40. %% bl %%J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants ! %% bl %%Tes cernes tombantes témoignant de toute tes douceurs et douleurs. %% {w} %%Ton visage triste recelant un côté inquiétant et pervers, et surtout %% {w} %%à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
+
+---
 
 %% FR %%Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. %% bl %%Je m'en mords la lèvre, même, mon seigneur, j'en halète. %% bl %%Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. %% bl %%Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! Que dis-je, je le dévore. %% bl %%Puis tu t'arrêtes pensif. %% bl %%~~J'en profite pour reprendre~~<span style="color:rgb(126, 114, 218)">%% bl %%Je reprends</span> mon souffle et ajuste ~~les lamelles~~<span style="color:rgb(126, 114, 218)">l’appareil-photo</span> et je replace mes lunettes sur le nez. %% bl %%Toujours à penser%% {w} %% : que c'est mignon.
+
+---
+
 %% EN %%<span style="color:rgb(126, 114, 218)">I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest ~~fur~~hair exposed. %% bl %%I bite my lip, my lord, I even pant. %% bl %%Then you take off your pants in one go, exhausted from the long day you've had. %% bl %%I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I saying, I devour it. %% bl %%Then you stop, lost in thought. %% bl %%I ~~take the opportunity to~~catch my breath. I adjust the lens and fix my glasses back on my nose. %% bl %%Still thinking<span style="color:rgb(255, 222, 0)">: %% {w} %%h</span>ow cute.</span>
 <!--- 
 pause 1.0 
 --->
-
 %% FR %%Après cela, se situe, ci-dessous, le point culminant de l’attente dissimulé par ce fin exquis tissu qui peine à couvrir ce buisson délaissé et dessine l’engin à l’origine de tous les désirs. %% bl %%Tu enfiles tes mains dans ton caleçon. %% bl %%Je respire à travers les dents. %% bl %%Je m'essuie la bouche. %% bl %%Ma main est couvert de salive. %% bl %%Mon cœur bat à toute vitesse, ma cage thoracique ne peut plus le contenir, se dansant, ricochant sur ces côtes et bondissant dans ma gorge. %% bl %%Je déglutis. %% bl %%~~je dois me concentrer, je peux pas rater ce moment.~~<span style="color:rgb(126, 114, 218)">Je ne peux m'arrêter ; Je ne peux fermer les yeux.</span>%% bl %%Son caleçon se baisse. ~~Mon souffle se coupe.~~
 %% EN %%<span style="color:rgb(126, 114, 218)"><span style="color:rgb(255, 222, 0)">Then </span>~~After that~~ comes the climax ~~of the wait~~, hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. %% bl %%You slip your hands into your boxers. %% bl %%I breathe through my teeth. %% bl %%I wipe my mouth. %% bl %%Drool drips from my hand. %% bl %%My heart is beating fast, my rib cage can no longer contain it~~;~~<span style="color:rgb(255, 222, 0)">:</span> dancing, ricocheting off my ribs and leaping into my throat. %% bl %%I swallow.%% bl %%I <span style="color:rgb(255, 222, 0)">must</span>~~have to~~ concentrate~~,~~<span style="color:rgb(255, 222, 0)">;</span> I can't miss this moment. %% bl %%His boxers come down. ~~My breath catches.~~</span>
 <!--- 
