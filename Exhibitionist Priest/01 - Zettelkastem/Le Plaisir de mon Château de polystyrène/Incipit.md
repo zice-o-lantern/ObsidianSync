@@ -76,5 +76,5 @@ pause 1.0
 %% EN %%<span style="color:rgb(126, 114, 218)">Look at me, God or Schrödinger-- who knows! %% bl %%To You, so obsessed with the idea of opening the box without touching it. %% bl %%I have finally discovered how to do it.%% bl %%The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices.</span>
 
 <!---
-## TO
+## TODO: add an animation of the closet being open and title screen
 --->
