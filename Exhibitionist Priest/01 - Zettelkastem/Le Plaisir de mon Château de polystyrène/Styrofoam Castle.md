@@ -48,8 +48,12 @@ pause 1.0
 ---
 
 %% EN %%I open one of the drawers at random out of curiosity and ~~am~~<span style="color:rgb(232, 17, 93)">I'm</span> caught off guard by a sudden cloud of dust. %% bl %%I shouldn’t have opened it so quickly. %% bl %%I cough. %% bl %%The dust seeps into my throat. %% bl %%I need air. %% bl %%I rush toward the window. %% bl %%I bump into the sideboard on the way. %% bl %%Objects fall. %% bl %%No time. %% bl %%I reach the window. %% bl %%I throw it open~~, starting to choke in this suffocating house~~.
-
-
+<!---
+scene bg house garden at:
+   yalign = 1.0
+with Dissolve(2.0)
+pause 1.0
+--->
 
 %% FR %%La bon air de la campagne rentre et je respire enfin. Le jardin est en piteuse état mais ~~sauvable~~<span style="color:rgb(126, 114, 218)">récupérable</span>. %% bl %%Les vases brisés jonchent l’allée principale, le lière commençant à les enlacer. %% bl %%Je grimace. %% {w} %%Quelqu’un pourrait se blesser dessus. %% bl %%J’aperçois la maison voisine, en face de de la rue. %% bl %%Elle a toujours les rideaux fermés. %% bl %%Il y a seulement une fenêtre à l’étage sans rideau mais difficile d’observer à l’intérieur sans s’approcher donc difficile de savoir ce qu’il s’y passe. %% bl %%Enfin pas que ça m’intéresse tant que ça.
 

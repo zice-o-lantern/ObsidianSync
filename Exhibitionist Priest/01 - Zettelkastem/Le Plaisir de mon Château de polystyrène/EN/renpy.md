@@ -157,7 +157,15 @@ I bump into the sideboard on the way.
 Objects fall. 
 No time. 
 I reach the window. 
-I throw it open. 
+I throw it open.
+<!---
+scene bg house garden at:
+   yalign = 1.0
+with Dissolve(2.0)
+pause 1.0
+--->
+
+
 The fresh country air rushes in and I finally breathe. The garden is in a sorry state but it's salvageable. 
 Broken vases litter the main path, ivy beginning to entwine around them. 
 I grimace. 
@@ -166,6 +174,7 @@ I spot the neighboring house across the street.
 Its curtains are always drawn. 
 There’s only one window upstairs without a curtain but it’s hard to see inside without getting closer, so it’s hard to know what’s going on there. 
 Not that I’m all that interested, anyway.
+
 
 
 The sound of something crashing to the floor and shattering snaps me out of my daze and I turn around. 
