@@ -81,7 +81,7 @@
               "type": "markdown",
               "state": {
                 "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -325,7 +325,8 @@
       "system3-relay:Relay": false,
       "sidebar-highlights:Open highlights": false,
       "edit-history:Open edit history": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "c164396e10813992",

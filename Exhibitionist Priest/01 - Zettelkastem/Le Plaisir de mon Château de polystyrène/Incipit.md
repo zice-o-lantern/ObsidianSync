@@ -13,7 +13,7 @@ pause 2.0
 
 ---
 
-%% EN %%Hpoopey if you’re seeing that, it’s that iDoes the cat in the box really want us to reveal what’s inside? %% bl %%That's what's bothering me-- puzzling me, %% {w} %%as I'm slumped in my little box of my own.
+%% EN %%Does the cat in the box really want us to reveal what’s inside? %% bl %%That's what's bothering me-- puzzling me, %% {w} %%as I'm slumped in my little box of my own.
 <!--- 
 pause 1.0
 show bg bedroom intro with slow_dissolve
@@ -67,13 +67,19 @@ pause 1.0
 --->
 
 %% FR %%Nous menons une valse %% {w} %%à ton insu. %% {w} %%N'est-ce pas ce qui fait la beauté de ~~ce que nous avons~~<span style="color:rgb(126, 114, 218)">ce moment</span> ? %% bl %%En absence de tout regard, tu danses et moi je me rince, en ce instant~~,~~ interdit. %% bl %%Je me délecte de ce trépidement qu’à tout moment, je pourrais me faire attraper,%% {w} %%me faire voir. %% bl %%~~En cet instant, j~~<span style="color:rgb(126, 114, 218)">J</span>e ne suis qu’un observateur ~~aveugle~~. Un observateur qui constate sa soif, son désir. Un observateur en toute impunité. %% bl %%Un observateur qui n’existe pas, d’un autre monde. %% bl %%Un observateur à la fois aveugle et clairvoyant, voilà ce que je suis ! %% bl %%Jusqu’à ce que…  %% {w} %%l’on m’observe%% {w} %% <span style="color:rgb(126, 114, 218)">à mon tour</span>.
-%% EN %%<span style="color:rgb(126, 114, 218)">We're dancing a waltz.  %% {w} %%Unbeknownst to you. ~~Isn't~~<span style="color:rgb(255, 222, 0)">Doesn't</span> that what make~~s~~ what we have so beautiful? %% bl %%With no one watching, in this forbidden moment, you dance— and I enjoy it. %% bl %%I revel in the thrill that at any moment~~,~~ I could get caught,  %% {w} %%be seen. ~~In this moment,~~ I am just a<span style="color:rgb(126, 114, 218)">n</span> ~~blind~~ observer. %% bl %%An observer who perceives with his thirst, his desire. %% bl %%An observer with complete impunity. An observer who does not exist. An observer from another world. %% bl %%An observer who is both blind and clairvoyant, that is what I am! %% bl %%Until... I am observed.</span>
+
+---
+
+%% EN %%We're dancing a waltz.  %% {w} %%Unbeknownst to you. ~~Isn't~~<span style="color:rgb(255, 222, 0)">Doesn't</span> that what make~~s~~ what we have so beautiful? %% bl %%With no one watching, in this forbidden moment, you dance— and I enjoy it. %% bl %%I revel in the thrill that at any moment~~,~~ I could get caught,  %% {w} %%be seen. ~~In this moment,~~ I am just a<span style="color:rgb(126, 114, 218)">n</span> ~~blind~~ observer. %% bl %%An observer who perceives with his thirst, his desire. %% bl %%An observer with complete impunity. An observer who does not exist. An observer from another world. %% bl %%An observer who is both blind and clairvoyant, that is what I am! %% bl %%Until... I am observed.
 <!--- 
 pause 1.0 
 ---> 
  
 %% FR %%Regardez-moi, Dieu ou alors Schrödinger, que sais-je ! %% bl %%À Toi, si obsédé à l’idée d’ouvrir la boite sans ~~la~~<span style="color:rgb(126, 114, 218)">y</span> toucher. J’ai enfin découvert comment faire. %% bl %%Le Chat ne doit pas être observé.%% bl %% Il est heureux là où il se trouve, dans ses plaisirs et ses travers.
-%% EN %%<span style="color:rgb(126, 114, 218)">Look at me, God or Schrödinger-- who knows! %% bl %%To You, so obsessed with the idea of opening the box without touching it. %% bl %%I have finally discovered how to do it.%% bl %%The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices.</span>
+
+---
+
+%% EN %%Look at me, God or Schrödinger-- who knows! %% bl %%To You, so obsessed with the idea of opening the box without touching it. %% bl %%I have finally discovered how to do it.%% bl %%The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices.
 
 <!---
 ## TODO: add an animation of the closet being open and title screen
