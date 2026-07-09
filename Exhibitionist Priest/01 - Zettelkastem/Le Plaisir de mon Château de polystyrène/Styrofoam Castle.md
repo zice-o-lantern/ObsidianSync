@@ -49,8 +49,8 @@ pause 1.0
 
 %% EN %%I open one of the drawers at random out of curiosity and ~~am~~<span style="color:rgb(232, 17, 93)">I'm</span> caught off guard by a sudden cloud of dust. %% bl %%I shouldn’t have opened it so quickly. %% bl %%I cough. %% bl %%The dust seeps into my throat. %% bl %%I need air. %% bl %%I rush toward the window. %% bl %%I bump into the sideboard on the way. %% bl %%Objects fall. %% bl %%No time. %% bl %%I reach the window. %% bl %%I throw it open~~, starting to choke in this suffocating house~~.
 <!---
-scene bg house garden at:
-   yalign = 1.0
+scene bg house garden:
+    yalign 0.5
 with Dissolve(2.0)
 pause 1.0
 --->

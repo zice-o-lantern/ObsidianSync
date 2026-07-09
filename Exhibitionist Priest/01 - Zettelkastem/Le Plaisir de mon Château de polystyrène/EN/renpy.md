@@ -159,8 +159,8 @@ No time.
 I reach the window. 
 I throw it open.
 <!---
-scene bg house garden at:
-   yalign = 1.0
+scene bg house garden:
+    yalign 0.5
 with Dissolve(2.0)
 pause 1.0
 --->
