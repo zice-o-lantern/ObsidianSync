@@ -6,6 +6,56 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-07-09T14:03:17.177Z",
+      "total": 1,
+      "drafts": {
+        "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md": {
+          "total": 1,
+          "scenes": {
+            "Incipit": 1,
+            "Styrofoam Castle": 0
+          }
+        },
+        "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Cafe": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Rails Putrides": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Nuit éclatante": 0,
+            "Cabine Téléphonique": 0,
+            "Folie tout seul": 0,
+            "Je lui saute à la gorge": 0,
+            "Forest": 0,
+            "La Plage aux Merveilles": 0,
+            "Je ne t'oublierai pas": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-07-08T17:10:13.182Z",
       "total": 34,
       "drafts": {
@@ -1262,43 +1312,6 @@
           }
         }
       }
-    },
-    {
-      "start": "2026-02-02T17:53:07.601Z",
-      "total": 0,
-      "drafts": {
-        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Nuit éclatante": 0,
-            "Cabine Téléphonique": 0,
-            "Folie tout seul": 0,
-            "Je lui saute à la gorge": 0,
-            "Forest": 0,
-            "La Plage aux Merveilles": 0,
-            "Je ne t'oublierai pas": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Squelette sous le it": 0,
-            "Cours Barbant": 0,
-            "Kris rencontre": 0,
-            "Wolfg rencontre": 0,
-            "Dans le tramway": 0,
-            "Déjeuner": 0,
-            "Dîner ensemble": 0,
-            "Menace à l'Appart'": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Rails Putrides": 0
-          }
-        }
-      }
     }
   ],
   "showWordCountInStatusBar": true,
@@ -1315,7 +1328,7 @@
   "fallbackWaitEnabled": true,
   "fallbackWaitTime": 5,
   "workflows": {
-    "Englsih Renpy": {
+    "English Renpy": {
       "name": "Englsih Renpy",
       "description": "ta mère",
       "steps": [
@@ -1370,6 +1383,206 @@
           "optionValues": {
             "remove-markdown-comments": true,
             "remove-html-comments": false
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "EN/renpy.md",
+            "open-after": false
+          }
+        }
+      ]
+    },
+    "French Renpy": {
+      "name": "French Renpy",
+      "description": "ta mère",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-english-localisation.js",
+          "optionValues": {}
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/add-break-lines.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-strikethroughs",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/replace-tagse.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": false
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "EN/renpy.md",
+            "open-after": false
+          }
+        }
+      ]
+    },
+    "English Manuscript": {
+      "name": "Englsih Manuscript",
+      "description": "ta mère",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-french-localisation.js",
+          "optionValues": {}
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $2 $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "remove-strikethroughs",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": true
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "EN/mauscript.md",
+            "open-after": false
+          }
+        }
+      ]
+    },
+    "French Manuscript": {
+      "name": "French Manuscript",
+      "description": "ta mère",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-english-localisation.js",
+          "optionValues": {}
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $2 $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "remove-strikethroughs",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": true
           }
         },
         {
