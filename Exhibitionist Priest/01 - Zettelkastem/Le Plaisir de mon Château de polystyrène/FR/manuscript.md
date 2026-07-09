@@ -2,7 +2,7 @@
 
 
 
-Le chat dans la boite a t-il envie qu'on ouvre le coffre ?  Je me le suis toujours demandé. Jamais personne n’a demandé son avis à lui : on ne peut pas, après tout. Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus. ce qui me bloque et m'interloque, affaissé dans ma petite boite à moi.
+Le chat dans la boite a t-il envie qu'on ouvre le coffre ?  J’y ai souvent réfléchi, à ce paradoxe. Jamais personne n’a demandé son avis à lui : on ne peut pas, après tout. Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus car c’est un nouveau chat. Alors, je me demande :  qu’adviendra de moi lorsqu’on défoncera la porte, affaissé dans ma petite boite de ma propre création ?
 
 
 
