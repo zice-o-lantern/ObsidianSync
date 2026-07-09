@@ -13,7 +13,7 @@ pause 2.0
 --->
 
 
-Does the cat in the box want us to open the box? {w}I’ve often thought about this paradox. No one has ever asked the cat for its opinion {w}—after all, we can’t. 
+Does the cat in the box want us to open the box? {w}I’ve often thought about it. No one has ever asked the cat for its opinion {w}—after all, we can’t. 
 It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer {w} because it’s a new cat. 
 So I wonder: {w} what will become of me when they break down the door, {w} slumped in my little box of my own making?
 <!--- 
@@ -81,7 +81,7 @@ Until... I am observed.
 <!--- 
 pause 1.0 
 ---> 
- 
+
 
 Look at me, God or Schrödinger-- who knows! 
 To You, so obsessed with the idea of opening the box without touching it. 
@@ -96,7 +96,8 @@ The cat mustn't be observed. They are content where they are, submerged in their
 
 
 <!---
-scene bg house living room with fade
+pause 5.0
+scene bg house living room with Dissolve(3.0)
 --->
 
 

@@ -85,7 +85,7 @@ pause 1.0
 <!--- 
 pause 1.0 
 ---> 
- 
+
 %% FR %%Regardez-moi, Dieu ou alors Schrödinger, que sais-je ! %% bl %%À Toi, si obsédé à l’idée d’ouvrir la boite sans ~~la~~<span style="color:rgb(126, 114, 218)">y</span> toucher. J’ai enfin découvert comment faire. %% bl %%Le Chat ne doit pas être observé.%% bl %% Il est heureux là où il se trouve, dans ses plaisirs et ses travers.
 
 ---

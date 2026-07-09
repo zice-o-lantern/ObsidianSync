@@ -8,7 +8,8 @@ done: true
 cssclasses:
 ---
 <!---
-scene bg house living room with fade
+pause 5.0
+scene bg house living room with Dissolve(3.0)
 --->
 
 %% FR %%J’ouvre le dernier carton grossièrement en perforant le ruban adhésif marron avec mes dents. ~~Aujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement.~~%% bl %%Après avoir craché Pas comme s’il y’en avait énormément de toute façon. %% bl %%Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait~~absolument~~ que je les déballe car ~~je n’arrêtais pas de trébucher sur ces fichus cartons~~je n’arrêtais pas de me prendre les pattes dedans. %% bl %%Déjà un mois qu’ils sont là. %% bl %%%% {w=1.0} %%J’aurais pu demander à [[Luke]] mais il est au travail aujourd’hui.
