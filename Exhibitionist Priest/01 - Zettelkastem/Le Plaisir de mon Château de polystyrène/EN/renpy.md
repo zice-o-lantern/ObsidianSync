@@ -125,7 +125,6 @@ When I was little and she was full of energy, she was harsh and strict with me--
 Senile—I start peeing in the kitchen pots because it’s faster. 
 My grandfather wasn’t any better but at least he was still in his right mind. 
 Unfortunately, he died shortly before Grandma of a heart attack. They were both in their nineties. 
-  I think. 
 Anyway, following their deaths, their house stood empty.
 
 
