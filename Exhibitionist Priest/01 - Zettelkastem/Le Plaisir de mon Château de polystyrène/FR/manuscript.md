@@ -1,12 +1,18 @@
-# 1 - Incipit
+# 01 - Incipit
 
 
+
+
+CENTER
+Cette histoire est une œuvre de fiction et ne se repose pas sur des faits réels. Tout ressemblance est 
+Caca
 
 Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  J’y ai souvent réfléchi, à ce paradoxe. Jamais personne n’a demandé son avis à lui : on ne peut pas, après tout. Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus car c’est un nouveau chat. Alors, je me demande :  qu’adviendra de moi lorsqu’on défoncera la porte, affaissé dans ma petite boite de ma propre création ?
 
 
 
 23 h 40. Tu ouvres la porte. J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants. Tes cernes tombantes témoignant de toute tes douceurs et douleurs. Ton visage triste recelant un côté inquiétant et pervers, et surtout à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
+
 
 
 Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. Je m'en mords la lèvre, même, mon seigneur, j'en halète. Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! je le dévore.
@@ -34,11 +40,11 @@ Regardez-moi, Dieu ou alors Schrödinger, que sais-je ! À Toi, si obsédé à l
 
 
 
-# 2 - Styrofoam Castle
+# 02 - Styrofoam Castle
 
 
 
-Aujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Ça fait un mois qu’ils sont là.J’aurais pu demander à Luke mais il est au travail aujourd’hui.
+J’ouvre le cartonAujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Ça fait un mois qu’ils sont là.J’aurais pu demander à Luke mais il est au travail aujourd’hui.
 
 
 Je redoute cette phase de ma vie, le déménagement. Devoir défaire et refaire son lieu de vie , c'est pas très excitant. Il faut transporter pleins de choses lourdes qui ruinent ton dos,tout ça pour finir dans un lieu non-familier . Puis ça met en pause toutes les activités et projets en cours. Si j'en avais. Vu que j'ai terminé, je fais un dernier tour dans la maison histoire de vérifier que j'ai rien oublié. 

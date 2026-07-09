@@ -8,7 +8,7 @@ done: true
 cssclasses:
 ---
 
-%% FR %%Aujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. %% bl %%Pas comme s’il y’en avait énormément de toute façon. %% bl %%Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait~~absolument~~ que je les déballe car ~~je n’arrêtais pas de trébucher sur ces fichus cartons~~<span style="color:rgb(126, 114, 218)">je n’arrêtais pas de me prendre les pattes dedans</span>. Ça fait un mois qu’ils sont là.%% bl %%%% {w=1.0} %%J’aurais pu demander à [[Luke]] mais il est au travail aujourd’hui.
+%% FR %%J’ouvre le cartonAujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. %% bl %%Pas comme s’il y’en avait énormément de toute façon. %% bl %%Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait~~absolument~~ que je les déballe car ~~je n’arrêtais pas de trébucher sur ces fichus cartons~~<span style="color:rgb(126, 114, 218)">je n’arrêtais pas de me prendre les pattes dedans</span>. Ça fait un mois qu’ils sont là.%% bl %%%% {w=1.0} %%J’aurais pu demander à [[Luke]] mais il est au travail aujourd’hui.
 
 ---
 

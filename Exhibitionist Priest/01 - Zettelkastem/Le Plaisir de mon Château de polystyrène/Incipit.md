@@ -11,7 +11,14 @@ pause 2.0
 --->
 
 CENTER
-Cette histoire est une œuvre de fiction et ne se repose pas sur des faits réels. Tout ressemblance est fortuite
+%% FR %%Cette histoire est une œuvre de fiction et ne se repose pas sur des faits réels. Tout ressemblance est 
+
+---
+%% EN %%This story is a work of fiction and is not based on real events. Any resemblance to actual persons, places, or events is purely coincidental.
+%% FR %%Caca
+
+---
+%% EN %%Caca
 
 %% FR %%Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  %% {w} %%J’y ai souvent réfléchi, à ce paradoxe. Jamais personne n’a demandé son avis à lui %% {w} %%: on ne peut pas, après tout. %% bl %%Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus %% {w} %%car c’est un nouveau chat. %% bl %%Alors, je me demande : %% {w} %% qu’adviendra de moi lorsqu’on défoncera la porte, %% {w} %%affaissé dans ma petite boite de ma propre création ?
 
@@ -27,6 +34,7 @@ pause 1.0
 %% FR %%23 h 40. %% {w} %%Tu ouvres la porte. %% bl %%J’adore tout chez toi : %% {w} %%tes yeux perçant mais chaleureux, enivrants. %% bl %%Tes cernes tombantes témoignant de toute tes douceurs et douleurs. %% {w} %%Ton visage triste recelant un côté inquiétant et pervers, et surtout %% {w} %%à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
 
 ---
+
 %% EN %%11:40 p.m. %% {w} %%You open the door.  %% bl %%I adore everything about you: %% {w} %%your piercing yet warm, intoxicating eyes. %% bl %%Your dark circles revealing all your tenderness and tendencies. %% bl %%Your sad face concealing a disturbing and perverse side, and above all%% {w} %%, how much better you look through my viewfinder. 
 <!---
 pause 1.0

@@ -6,13 +6,20 @@ scene black
 pause 2.0 
 --->
 
-Hpoopey if you’re seeing that, it’s that iDoes the cat in the box really want us to reveal what’s inside? 
-That's what's bothering me-- puzzling me, {w}as I'm slumped in my little box of my own.
+CENTER
+This story is a work of fiction and is not based on real events. Any resemblance to actual persons, places, or events is purely coincidental.
+Caca
+
+
+Does the cat in the box want us to open the box? {w}I’ve often thought about this paradox. No one has ever asked the cat for its opinion {w}—after all, we can’t. 
+It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer {w} because it’s a new cat. 
+So I wonder: {w} what will become of me when they break down the door, {w} slumped in my little box of my own making?
 <!--- 
 pause 1.0
 show bg bedroom intro with slow_dissolve
 pause 1.0
 --->
+
 
 11:40 p.m. {w}You open the door.  
 I adore everything about you: {w}your piercing yet warm, intoxicating eyes. 
@@ -61,6 +68,7 @@ My hands are even stickier, and it's… {w}not saliva.
 pause 1.0
 --->
 
+
 We're dancing a waltz.  {w}Unbeknownst to you. Doesn't that what make what we have so beautiful? 
 With no one watching, in this forbidden moment, you dance— and I enjoy it. 
 I revel in the thrill that at any moment I could get caught,  {w}be seen.  I am just an  observer. 
@@ -72,6 +80,7 @@ Until... I am observed.
 pause 1.0 
 ---> 
  
+
 Look at me, God or Schrödinger-- who knows! 
 To You, so obsessed with the idea of opening the box without touching it. 
 I have finally discovered how to do it.

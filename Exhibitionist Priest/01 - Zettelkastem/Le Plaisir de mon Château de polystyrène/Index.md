@@ -28,4 +28,5 @@ longform:
     - Before the Party
     - Lucas’ Call
     - Incipit.md
+    - Styrofoam Castle.md
 ---
