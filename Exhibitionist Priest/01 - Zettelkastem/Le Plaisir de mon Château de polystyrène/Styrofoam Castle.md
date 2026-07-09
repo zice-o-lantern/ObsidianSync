@@ -18,7 +18,9 @@ pause 1.0
 ---
 
 %% EN %%Today, I finally unpacked the last box from my old apartment. %% bl %%==~~Not that there were that many too begin with~~<span style="color:rgb(176, 114, 218)">It wasn't even that much...like, three boxes, maybe?</span>==. %% bl %%I collapse into the armchair and sigh, my back aching. %% bl %%I really ~~had~~<span style="color:rgb(232, 17, 93)">needed</span> to unpack ~~them because~~<span style="color:rgb(232, 17, 93)">,</span> I kept tripping over those darn boxes. %% bl %%They’ve been sitting there for a month. %% bl %%%% {w=1.0} %%I could have asked [[Luke]], but he’s at work today.
-<!--- --->
+<!---
+pause 2.0
+--->
 
 %% FR %%Les gens sont des livres à image quand ils déménagent. Ils sont tristes, heureux, tracassés, soulagés, chamboulés, ~~ou alors euphoriques~~<span style="color:rgb(126, 114, 218)">et puis c’est fini</span>. C'est normal après tout. C'est à prévoir. C'est un nouveau départ.%% bl %%Moi ça <span style="color:rgb(126, 114, 218)">ne</span> me fait rien. Ni chaud, ni froid, Plus l'odeur de renfermé. %% bl %%C'est comme si je marchais dans un château de polystyrène%% {w} %% : engourdi au toucher et dénué de toute chaleur. %% bl %%je fais de mon mieux pour ressentir quelque chose que ce soit de l'excitation ou du chagrin mais rien ne vient. %% bl %%Je me promène ~~chez~~<span style="color:rgb(126, 114, 218)">dans</span> la maison d'un inconnu, %% bl %%la mienne désormais. Je descends les miteux escaliers en frémissant à chaque pas, de peur de tomber. %% bl %%Une fois en bas, je déambule pensif, faisant ma ronde et je me pose par inadvertance devant la commode et ma main se saisit d'une photo posée dessus. %% bl %%Une photo de ma grand-mère et moi, prise par mon oncle.
 
