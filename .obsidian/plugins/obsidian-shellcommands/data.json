@@ -26,7 +26,7 @@
     {
       "id": "9hszre86z0",
       "platform_specific_commands": {
-        "default": "\npy \"D:\\shin\\Documents\\Renpy\\Exhibitionist Priest\\renpy_parser\\main.py\" \"D:\\shin\\Documents\\ObsidianSync\\Exhibitionist Priest\\01 - Zettelkastem\\Le Plaisir de mon Château de polystyrène\\EN\\renpy.md\" \"D:\\shin\\Documents\\Renpy\\Exhibitionist Priest\\game\\story\\styrofoam_castle.rpy\""
+        "default": "name=\"renpy\"\n\nif test {{event_title}} = \"$name\"\nthen\n    py \"D:\\shin\\Documents\\Renpy\\Exhibitionithest Priest\\renpy_parser\\main.py\" \"D:\\shin\\Documents\\ObsidianSync\\Exhibitionist Priest\\01 - Zettelkastem\\Le Plaisir de mon Château de polystyrène\\EN\\renpy.md\" \"D:\\shin\\Documents\\Renpy\\Exhibitionist Priest\\game\\story\\styrofoam_castle.rpy\""
       },
       "shells": {},
       "alias": "",
