@@ -93,6 +93,9 @@ The cat mustn't be observed. They are content where they are, submerged in their
 # Styrofoam Castle
 
 
+<!---
+scene bg house living room with fade
+--->
 
 
 Today, I finally unpacked the last box from my old apartment. 
@@ -101,13 +104,6 @@ I collapse into the armchair and sigh, my back aching.
 I really needed to unpack , I kept tripping over those darn boxes. 
 They’ve been sitting there for a month. 
 I could have asked Luke, but he’s at work today.
-
-
-I always dread this phase of my life: moving. 
-Having to take apart your living space and put it back together isn’t exactly exciting. 
-You have to carry all these heavy things that wreck your back, and all that just to end up in an unfamiliar place. 
-Plus, it puts all your current activities and projects on hold. If I had any. 
-Since I’m done, I’m taking one last look around the house to make sure everything’s in order.
 
 
 People are often overwhelmed when they move. They’re sad, happy, anxious, relieved, unsettled, then it’s done. 
