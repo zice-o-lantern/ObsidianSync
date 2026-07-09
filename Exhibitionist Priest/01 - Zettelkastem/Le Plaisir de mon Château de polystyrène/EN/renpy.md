@@ -6,9 +6,11 @@ scene black
 pause 2.0 
 --->
 
-CENTER
-This story is a work of fiction and is not based on real events. Any resemblance to actual persons, places, or events is purely coincidental.
-Caca
+CENTERED
+This story is a work of fiction and is not based on real events. \nAny resemblance to actual persons, places, or events is purely coincidental.
+<!---
+pause 2.0
+--->
 
 
 Does the cat in the box want us to open the box? {w}I’ve often thought about this paradox. No one has ever asked the cat for its opinion {w}—after all, we can’t. 

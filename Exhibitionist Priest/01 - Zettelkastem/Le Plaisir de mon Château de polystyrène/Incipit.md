@@ -10,21 +10,20 @@ scene black
 pause 2.0 
 --->
 
-CENTER
-%% FR %%Cette histoire est une œuvre de fiction et ne se repose pas sur des faits réels. Tout ressemblance est 
+CENTERED
+%% FR %%Cette histoire est une œuvre de fiction et ne se repose pas sur des faits réels. \nTout ressemblance est fortuite ou une coïncidence
 
 ---
-%% EN %%This story is a work of fiction and is not based on real events. Any resemblance to actual persons, places, or events is purely coincidental.
-%% FR %%Caca
+%% EN %%This story is a work of fiction and is not based on real events. \nAny resemblance to actual persons, places, or events is purely coincidental.
+<!---
+pause 2.0
+--->
+
+%% FR %%Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  %% {w} %%J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui %% {w} %%: on ne peut pas, après tout. %% bl %%Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus %% {w} %%car c’est un nouveau chat. %% bl %%Alors, je me demande : %% {w} %% qu’adviendra de moi lorsqu’on défoncera la porte, %% {w} %%affaissé dans ma petite boite de ma propre création ?
 
 ---
-%% EN %%Caca
 
-%% FR %%Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  %% {w} %%J’y ai souvent réfléchi, à ce paradoxe. Jamais personne n’a demandé son avis à lui %% {w} %%: on ne peut pas, après tout. %% bl %%Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus %% {w} %%car c’est un nouveau chat. %% bl %%Alors, je me demande : %% {w} %% qu’adviendra de moi lorsqu’on défoncera la porte, %% {w} %%affaissé dans ma petite boite de ma propre création ?
-
----
-
-%% EN %%Does the cat in the box want us to open the box? %% {w} %%I’ve often thought about this paradox. No one has ever asked the cat for its opinion %% {w} %%—after all, we can’t. %% bl %%It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer %% {w} %% because it’s a new cat. %% bl %%So I wonder: %% {w} %% what will become of me when they break down the door, %% {w} %% slumped in my little box of my own making?
+%% EN %%Does the cat in the box want us to open the box? %% {w} %%I’ve often thought about it. No one has ever asked the cat for its opinion %% {w} %%—after all, we can’t. %% bl %%It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer %% {w} %% because it’s a new cat. %% bl %%So I wonder: %% {w} %% what will become of me when they break down the door, %% {w} %% slumped in my little box of my own making?
 <!--- 
 pause 1.0
 show bg bedroom intro with slow_dissolve
