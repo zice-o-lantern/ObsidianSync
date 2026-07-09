@@ -44,10 +44,10 @@ Regardez-moi, Dieu ou alors Schrödinger, que sais-je ! À Toi, si obsédé à l
 
 
 
-J’ouvre le dernier carton grossièrement en perforant le ruban adhésif marron avec mes dents. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Déjà un mois qu’ils sont là. J’aurais pu demander à Luke mais il est au travail aujourd’hui.
+J’ouvre le dernier carton grossièrement en perforant le ruban adhésif marron avec mes dents. Après avoir craché Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Déjà un mois qu’ils sont là. J’aurais pu demander à Luke mais il est au travail aujourd’hui.
 
 
-Je redoute cette phase de ma vie, le déménagement. Devoir défaire et refaire son lieu de vie , c'est pas très excitant. Il faut transporter pleins de choses lourdes qui ruinent ton dos,tout ça pour finir dans un lieu non-familier . Puis ça met en pause toutes les activités et projets en cours. Si j'en avais. Vu que j'ai terminé, je fais un dernier tour dans la maison histoire de vérifier que j'ai rien oublié. 
+ Le déménagement, vraiment ça craint. Devoir défaire et refaire son lieu de vie , c'est pas très excitant. Il faut transporter pleins de choses lourdes qui ruinent ton dos,tout ça pour finir dans un lieu non-familier . Puis ça met en pause toutes les activités et projets en cours. Si j'en avais. Vu que j'ai terminé, je fais un dernier tour dans la maison histoire de vérifier que j'ai rien oublié. 
 
 
 Les gens sont des livres à image quand ils déménagent. Ils sont tristes, heureux, tracassés, soulagés, chamboulés, et puis c’est fini. C'est normal après tout. C'est à prévoir. C'est un nouveau départ.Moi ça ne me fait rien. Ni chaud, ni froid, Plus l'odeur de renfermé. C'est comme si je marchais dans un château de polystyrène : engourdi au toucher et dénué de toute chaleur. je fais de mon mieux pour ressentir quelque chose que ce soit de l'excitation ou du chagrin mais rien ne vient. Je me promène dans la maison d'un inconnu, la mienne désormais. Je descends les miteux escaliers en frémissant à chaque pas, de peur de tomber. Une fois en bas, je déambule pensif, faisant ma ronde et je me pose par inadvertance devant la commode et ma main se saisit d'une photo posée dessus. Une photo de ma grand-mère et moi, prise par mon oncle.
