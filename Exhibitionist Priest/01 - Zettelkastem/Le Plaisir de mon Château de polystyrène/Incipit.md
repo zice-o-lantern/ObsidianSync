@@ -9,7 +9,7 @@ done: true
 scene black
 pause 2.0 
 --->
-%% FR %%Le chat dans la boite a t-il envie qu'on ouvre le coffre ?  %% {w} %%Je me le suis toujours demandé. Jamais personne n’a demandé son avis %% {w} %%: on ne peut pas, après tout. ce qui me bloque et m'interloque, %% {w} %%affaissé dans ma petite boite à moi.
+%% FR %%Le chat dans la boite a t-il envie qu'on ouvre le coffre ?  %% {w} %%Je me le suis toujours demandé. Jamais personne n’a demandé son avis à lui %% {w} %%: on ne peut pas, après tout. %% bl %%Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus.%% bl %% Alors qu’adviendra à moim'interloque, %% {w} %%affaissé dans ma petite boite à moi.
 
 ---
 

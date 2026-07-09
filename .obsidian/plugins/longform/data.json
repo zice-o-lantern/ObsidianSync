@@ -7,12 +7,12 @@
   "sessions": [
     {
       "start": "2026-07-09T14:03:17.177Z",
-      "total": 9,
+      "total": 21,
       "drafts": {
         "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md": {
-          "total": 9,
+          "total": 21,
           "scenes": {
-            "Incipit": 9,
+            "Incipit": 21,
             "Styrofoam Castle": 0
           }
         },
@@ -1551,7 +1551,7 @@
         {
           "id": "prepend-title",
           "optionValues": {
-            "format": "$3{#} $2 $1",
+            "format": "$3{#} $2 - $1",
             "separator": "\n\n"
           }
         },
@@ -1594,7 +1594,7 @@
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "EN/renpy.md",
+            "target": "FR/manuscript.md",
             "open-after": false
           }
         }
