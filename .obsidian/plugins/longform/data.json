@@ -1,25 +1,25 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md",
-  "userScriptFolder": "Exhibitionist Priest/08 - Scripts",
+  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Script/French/Index.md",
+  "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
-      "start": "2026-07-09T14:03:17.177Z",
-      "total": 162,
+      "start": "2026-07-09T20:54:53.480Z",
+      "total": 5772,
       "drafts": {
-        "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md": {
-          "total": 162,
-          "scenes": {
-            "Incipit": 139,
-            "Styrofoam Castle": 23
-          }
-        },
-        "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md": {
+        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
           "total": 0,
           "scenes": {
-            "Cafe": 0
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
           }
         },
         "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
@@ -40,126 +40,15 @@
             "Je ne t'oublierai pas": 0
           }
         },
-        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Squelette sous le it": 0,
-            "Cours Barbant": 0,
-            "Kris rencontre": 0,
-            "Wolfg rencontre": 0,
-            "Dans le tramway": 0,
-            "Déjeuner": 0,
-            "Dîner ensemble": 0,
-            "Menace à l'Appart'": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-07-08T17:10:13.182Z",
-      "total": 34,
-      "drafts": {
-        "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md": {
-          "total": 34,
-          "scenes": {
-            "Incipit": 34,
-            "Styrofoam Castle": 0
-          }
-        },
-        "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Cafe": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Rails Putrides": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Nuit éclatante": 0,
-            "Cabine Téléphonique": 0,
-            "Folie tout seul": 0,
-            "Je lui saute à la gorge": 0,
-            "Forest": 0,
-            "La Plage aux Merveilles": 0,
-            "Je ne t'oublierai pas": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Squelette sous le it": 0,
-            "Cours Barbant": 0,
-            "Kris rencontre": 0,
-            "Wolfg rencontre": 0,
-            "Dans le tramway": 0,
-            "Déjeuner": 0,
-            "Dîner ensemble": 0,
-            "Menace à l'Appart'": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-07-07T09:37:04.271Z",
-      "total": 11015,
-      "drafts": {
         "Exhibitionist Priest/Script/Index.md": {
           "total": 0,
           "scenes": {}
         },
-        "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md": {
-          "total": 10068,
-          "scenes": {
-            "Incipit": 1044,
-            "Styrofoam Castle": 3784,
-            "Lucas’ Call": 1075,
-            "Before the Party": 4165
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Rails Putrides": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Nuit éclatante": 0,
-            "Cabine Téléphonique": 0,
-            "Folie tout seul": 0,
-            "Je lui saute à la gorge": 0,
-            "Forest": 0,
-            "La Plage aux Merveilles": 0,
-            "Je ne t'oublierai pas": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Squelette sous le it": 0,
-            "Cours Barbant": 0,
-            "Kris rencontre": 0,
-            "Wolfg rencontre": 0,
-            "Dans le tramway": 0,
-            "Déjeuner": 0,
-            "Dîner ensemble": 0,
-            "Menace à l'Appart'": 0
-          }
-        },
         "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md": {
-          "total": 10089,
+          "total": 4846,
           "scenes": {
-            "Incipit": 1044,
-            "Styrofoam Castle": 3805,
-            "Lucas’ Call": 1075,
-            "Before the Party": 4165
+            "Incipit": 1217,
+            "Styrofoam Castle": 3629
           }
         },
         "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md": {
@@ -172,46 +61,44 @@
     },
     {
       "start": "2026-07-06T10:05:34.125Z",
-      "total": 25242,
+      "total": 5189,
       "drafts": {
         "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 948,
+          "total": 0,
           "scenes": {
-            "Squelette sous le it": 635,
-            "Cours Barbant": 281,
-            "Kris rencontre": 5,
-            "Wolfg rencontre": 5,
-            "Dans le tramway": 5,
-            "Déjeuner": 3,
-            "Dîner ensemble": 5,
-            "Menace à l'Appart'": 9
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
           }
         },
         "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
-          "total": 3,
+          "total": 0,
           "scenes": {
-            "Rails Putrides": 3
+            "Rails Putrides": 0
           }
         },
         "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
-          "total": 14221,
+          "total": 0,
           "scenes": {
-            "Nuit éclatante": 7191,
-            "Cabine Téléphonique": 506,
-            "Folie tout seul": 1004,
-            "Je lui saute à la gorge": 45,
-            "Forest": 3280,
-            "La Plage aux Merveilles": 1532,
-            "Je ne t'oublierai pas": 663
+            "Nuit éclatante": 0,
+            "Cabine Téléphonique": 0,
+            "Folie tout seul": 0,
+            "Je lui saute à la gorge": 0,
+            "Forest": 0,
+            "La Plage aux Merveilles": 0,
+            "Je ne t'oublierai pas": 0
           }
         },
         "Exhibitionist Priest/01 - Zettelkastem/Evangelique/Index.md": {
-          "total": 10070,
+          "total": 5189,
           "scenes": {
-            "Incipit": 1033,
-            "Grandma": 3696,
-            "Lucas’ Call": 1081,
-            "Before the Party": 4260
+            "00 - Incipit": 1033,
+            "03 - Before the Party": 4156
           }
         },
         "Exhibitionist Priest/Script/Index.md": {
@@ -1312,6 +1199,80 @@
           }
         }
       }
+    },
+    {
+      "start": "2026-02-02T17:53:07.601Z",
+      "total": 0,
+      "drafts": {
+        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Nuit éclatante": 0,
+            "Cabine Téléphonique": 0,
+            "Folie tout seul": 0,
+            "Je lui saute à la gorge": 0,
+            "Forest": 0,
+            "La Plage aux Merveilles": 0,
+            "Je ne t'oublierai pas": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Rails Putrides": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-02-01T19:04:58.403Z",
+      "total": 0,
+      "drafts": {
+        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Rails Putrides": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Nuit éclatante": 0,
+            "Cabine Téléphonique": 0,
+            "Folie tout seul": 0,
+            "Je lui saute à la gorge": 0,
+            "Forest": 0,
+            "La Plage aux Merveilles": 0,
+            "Je ne t'oublierai pas": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
+          }
+        }
+      }
     }
   ],
   "showWordCountInStatusBar": true,
@@ -1322,23 +1283,26 @@
   "countDeletionsForGoal": false,
   "keepSessionCount": 30,
   "sessionFile": "longform-sessions.json",
-  "numberScenes": true,
+  "numberScenes": false,
   "sceneTemplate": null,
   "waitForSync": false,
   "fallbackWaitEnabled": true,
   "fallbackWaitTime": 5,
   "workflows": {
-    "English Renpy": {
-      "name": "Englsih Renpy",
-      "description": "ta mère",
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
       "steps": [
         {
           "id": "strip-frontmatter",
           "optionValues": {}
         },
         {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-french-localisation.js",
-          "optionValues": {}
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
         },
         {
           "id": "prepend-title",
@@ -1348,254 +1312,16 @@
           }
         },
         {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/add-break-lines.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/replace-tagse.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": false
-          }
-        },
-        {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": "\n\n"
+            "separator": "\\n\\n---\\n\\n"
           }
         },
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "EN/renpy.md",
-            "open-after": false
-          }
-        }
-      ]
-    },
-    "French Renpy": {
-      "name": "French Renpy",
-      "description": "ta mère",
-      "steps": [
-        {
-          "id": "strip-frontmatter",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-english-localisation.js",
-          "optionValues": {}
-        },
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$3{#} $1",
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/add-break-lines.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/replace-tagse.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": false
-          }
-        },
-        {
-          "id": "concatenate-text",
-          "optionValues": {
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "write-to-note",
-          "optionValues": {
-            "target": "EN/renpy.md",
-            "open-after": false
-          }
-        }
-      ]
-    },
-    "English Manuscript": {
-      "name": "Englsih Manuscript",
-      "description": "ta mère",
-      "steps": [
-        {
-          "id": "strip-frontmatter",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-french-localisation.js",
-          "optionValues": {}
-        },
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$3{#} $2 $1",
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": true
-          }
-        },
-        {
-          "id": "concatenate-text",
-          "optionValues": {
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "write-to-note",
-          "optionValues": {
-            "target": "EN/manuscript.md",
-            "open-after": false
-          }
-        }
-      ]
-    },
-    "French Manuscript": {
-      "name": "French Manuscript",
-      "description": "ta mère",
-      "steps": [
-        {
-          "id": "strip-frontmatter",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-english-localisation.js",
-          "optionValues": {}
-        },
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$3{#} 0$2 - $1",
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": true
-          }
-        },
-        {
-          "id": "concatenate-text",
-          "optionValues": {
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "write-to-note",
-          "optionValues": {
-            "target": "FR/manuscript.md",
-            "open-after": false
+            "target": "manuscript.md",
+            "open-after": true
           }
         }
       ]
