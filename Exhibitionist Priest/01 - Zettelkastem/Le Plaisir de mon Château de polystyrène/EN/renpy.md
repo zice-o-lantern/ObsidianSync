@@ -99,7 +99,7 @@ scene bg house living room with fade
 
 
 Today, I finally unpacked the last box from my old apartment. 
- It wasn't even that much...like, three boxes, maybe?. 
+It wasn't even that much...like, three boxes, maybe?. 
 I collapse into the armchair and sigh, my back aching. 
 I really needed to unpack , I kept tripping over those darn boxes. 
 They’ve been sitting there for a month. 
