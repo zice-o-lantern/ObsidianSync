@@ -7,12 +7,12 @@
   "sessions": [
     {
       "start": "2026-07-09T14:03:17.177Z",
-      "total": 1,
+      "total": 9,
       "drafts": {
         "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md": {
-          "total": 1,
+          "total": 9,
           "scenes": {
-            "Incipit": 1,
+            "Incipit": 9,
             "Styrofoam Castle": 0
           }
         },
@@ -1397,6 +1397,13 @@
             "target": "EN/renpy.md",
             "open-after": false
           }
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/example-user-script.js",
+          "optionValues": {
+            "to-add": "\n\nText added in user script.",
+            "append": true
+          }
         }
       ]
     },
@@ -1530,7 +1537,7 @@
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "EN/mauscript.md",
+            "target": "EN/manuscript.md",
             "open-after": false
           }
         }

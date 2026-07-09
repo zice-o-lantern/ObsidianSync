@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "dbada9b0d601a455",
+            "id": "c164396e10813992",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,6 +100,36 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "e5e85f4c33c39efd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d28772198ac3de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "renpy"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,13 +328,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbada9b0d601a455",
+  "active": "c164396e10813992",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/mauscript.md",
     "Exhibitionist Priest/08 - Scripts/example-user-script.js",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
     "Exhibitionist Priest/07 - Rough Notes/fourre-tout.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
     "Exhibitionist Priest/07 - Rough Notes/fourre-tout.md.edtz",
@@ -312,17 +345,14 @@
     "Exhibitionist Priest/07 - Rough Notes/Title Ideas.md.edtz",
     "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
     "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/manuscript.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
     "Exhibitionist Priest/08 - Scripts/replace-tagse.js",
     "Exhibitionist Priest/08 - Scripts/replace-pause.js",
-    "Exhibitionist Priest/08 - Scripts/remove-color-tags - Copy.js",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/manuscript.md",
     "Untitled.md",

@@ -6,15 +6,16 @@ scene black
 pause 2.0 
 --->
 
-Does the cat in its box really want us to reveal what’s inside? 
-That's what's bothering me-- puzzling me, {w}as I'm slumped in the closet.
+Hpoopey if you’re seeing that, it’s that iDoes the cat in the box really want us to reveal what’s inside? 
+That's what's bothering me-- puzzling me, {w}as I'm slumped in my little box of my own.
 <!--- 
 pause 1.0
 show bg bedroom intro with slow_dissolve
 pause 1.0
 --->
+
 11:40 p.m. {w}You open the door.  
-I adore everything about you: your piercing yet warm, intoxicating eyes. 
+I adore everything about you: {w}your piercing yet warm, intoxicating eyes. 
 Your dark circles revealing all your tenderness and tendencies. 
 Your sad face concealing a disturbing and perverse side, and above all{w}, how much better you look through my viewfinder. 
 <!---
@@ -25,14 +26,21 @@ pause 1.0
 I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest hair exposed. 
 I bite my lip, my lord, I even pant. 
 Then you take off your pants in one go, exhausted from the long day you've had. 
-I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I saying, I devour it. 
+I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I saying, I devour it.
+<!---
+pause 1.0
+--->
+
 Then you stop, lost in thought. 
 I catch my breath. I adjust the lens and fix my glasses back on my nose. 
-Still thinking: {w}how cute.
+He’s still thinking: {w}how cute.
+
 <!--- 
 show bg bedroom intro person with slow_dissolve
 pause 1.0 
 --->
+
+
 Then  comes the climax , hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. 
 You slip your hands into your boxers. 
 I breathe through my teeth. 
@@ -46,11 +54,13 @@ scene black
 pause 1.0
 --->
 
+
 His boxers come down. 
 My hands are even stickier, and it's… {w}not saliva.
 <!--- 
 pause 1.0
 --->
+
 We're dancing a waltz.  {w}Unbeknownst to you. Doesn't that what make what we have so beautiful? 
 With no one watching, in this forbidden moment, you dance— and I enjoy it. 
 I revel in the thrill that at any moment I could get caught,  {w}be seen.  I am just an  observer. 
@@ -67,6 +77,9 @@ To You, so obsessed with the idea of opening the box without touching it.
 I have finally discovered how to do it.
 The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices.
 
+<!---
+## TODO: add an animation of the closet being open and title screen
+--->
 
 # Styrofoam Castle
 
