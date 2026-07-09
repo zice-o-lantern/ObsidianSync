@@ -44,7 +44,7 @@ Regardez-moi, Dieu ou alors Schrödinger, que sais-je ! À Toi, si obsédé à l
 
 
 
-J’ouvre le cartonAujourd’hui, j’ai enfin déballé le dernier carton de mon ancienne appartement. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Ça fait un mois qu’ils sont là.J’aurais pu demander à Luke mais il est au travail aujourd’hui.
+J’ouvre le dernier carton grossièrement en perforant le ruban adhésif marron avec mes dents. Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Déjà un mois qu’ils sont là. J’aurais pu demander à Luke mais il est au travail aujourd’hui.
 
 
 Je redoute cette phase de ma vie, le déménagement. Devoir défaire et refaire son lieu de vie , c'est pas très excitant. Il faut transporter pleins de choses lourdes qui ruinent ton dos,tout ça pour finir dans un lieu non-familier . Puis ça met en pause toutes les activités et projets en cours. Si j'en avais. Vu que j'ai terminé, je fais un dernier tour dans la maison histoire de vérifier que j'ai rien oublié. 

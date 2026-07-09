@@ -7,13 +7,13 @@
   "sessions": [
     {
       "start": "2026-07-09T14:03:17.177Z",
-      "total": 138,
+      "total": 158,
       "drafts": {
         "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md": {
-          "total": 138,
+          "total": 158,
           "scenes": {
             "Incipit": 135,
-            "Styrofoam Castle": 3
+            "Styrofoam Castle": 23
           }
         },
         "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md": {
@@ -1551,7 +1551,7 @@
         {
           "id": "prepend-title",
           "optionValues": {
-            "format": "$3{#} $2 - $1",
+            "format": "$3{#} 0$2 - $1",
             "separator": "\n\n"
           }
         },
