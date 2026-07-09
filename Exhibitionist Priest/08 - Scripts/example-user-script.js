@@ -6,6 +6,7 @@ async function compile(input, context) {
   if (context.kind != "Manuscript") {
     throw new Error("Cannot Use it in non-manuscript mode");
   } else {
+    // context.
     sh('py "D:\shin\Documents\Renpy\Exhibitionist Priest\renpy_parser\main.py" "D:\shin\Documents\ObsidianSync\Exhibitionist Priest\01 - Zettelkastem\Le Plaisir de mon Château de polystyrène\EN\renpy.md" "D:\shin\Documents\Renpy\Exhibitionist Priest\game\story\styrofoam_castle.rpy"');
     // return {
     //   ...input,

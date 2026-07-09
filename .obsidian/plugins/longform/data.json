@@ -1397,13 +1397,6 @@
             "target": "EN/renpy.md",
             "open-after": false
           }
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/example-user-script.js",
-          "optionValues": {
-            "to-add": "\n\nText added in user script.",
-            "append": true
-          }
         }
       ]
     },
