@@ -96,8 +96,9 @@ The cat mustn't be observed. They are content where they are, submerged in their
 
 
 <!---
-pause 5.0
+scene black with Dissolve(2.0)
 scene bg house living room with Dissolve(3.0)
+pause 1.0
 --->
 
 
