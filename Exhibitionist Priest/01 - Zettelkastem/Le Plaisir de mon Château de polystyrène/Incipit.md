@@ -9,11 +9,11 @@ done: true
 scene black
 pause 2.0 
 --->
-%% FR %%Le chat dans la boite a t-il envie qu'on le révèle ?  %% bl %%Voici ce qui me bloque et m'interloque, %% {w} %%affaissé dans ma petite boite à moi.
+%% FR %%Le chat dans la boite a t-il envie qu'on ouvre le coffre ?  %% {w} %%Je me le suis toujours demandé. Jamais personne n’a demandé son avis %% {w} %%: on ne peut pas, après tout. ce qui me bloque et m'interloque, %% {w} %%affaissé dans ma petite boite à moi.
 
 ---
 
-%% EN %%Does the cat in the box really want us to reveal what’s inside? %% bl %%That's what's bothering me-- puzzling me, %% {w} %%as I'm slumped in my little box of my own.
+%% EN %%Does the cat in the box really want us to open the case? %% bl %%That's what's bothering me-- puzzling me, %% {w} %%as I'm slumped in my little box of my own.
 <!--- 
 pause 1.0
 show bg bedroom intro with slow_dissolve
