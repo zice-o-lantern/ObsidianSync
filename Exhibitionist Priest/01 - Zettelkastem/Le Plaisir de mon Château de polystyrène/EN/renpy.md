@@ -108,9 +108,12 @@ I collapse into the armchair and sigh, my back aching.
 I really needed to unpack , I kept tripping over those darn boxes. 
 They’ve been sitting there for a month. 
 I could have asked Luke, but he’s at work today.
+<!---
+pause 2.0
+--->
 
 
-People are often overwhelmed when they move. They’re sad, happy, anxious, relieved, unsettled, then it’s done. 
+People are often overwhelmed when they move. {w}They’re sad, happy, anxious, relieved, unsettled, then it’s done. 
 It’s normal, after all. It’s to be expected. It’s a fresh start. It doesn’t do anything for me. I feel neither hot nor cold, just the musty smell. 
 It’s as if I were walking through a Styrofoam castle :Dead to the touch and devoid of any warmth. 
 I do my best to feel something—anything, whether excitement or sorrow—but nothing comes. 
