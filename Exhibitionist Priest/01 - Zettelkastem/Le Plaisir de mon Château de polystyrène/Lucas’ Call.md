@@ -9,14 +9,16 @@ done:
 %% EN %%Just then, my phone rings, so I pull it out. It’s [[Luke]]. I answer.
 
 [[Luke|LUCAS]]
-%%DR Allo ? Allo alloooooooo !
-Hello? Hello, hello!
+%% FR %%Allo ? Allo alloooooooo !
+%% EN %%Hello? Hello, hello!
 
 [[Isaac|ISAAC]]
-… Allo.
+%% FR %%… Allo.
+%% EN %%… Hey.
 
 [[Luke|LUCAS]]
-Oh enfin te voilà ! Tu m’as manqué tu sais ?
+%%Oh enfin te voilà ! Tu m’as manqué tu sais ?
+Oh, finally, there you are! I missed you, you know
 
 Je lève ma montre.
 
