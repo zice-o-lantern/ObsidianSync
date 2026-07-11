@@ -18,23 +18,29 @@ done:
 
 [[Luke|LUCAS]]
 %%FR%%Oh enfin te voilà ! Tu m’as manqué tu sais ?
-%%EN Oh, finally, there you are! I missed you, you know
+%%EN %%Oh, finally, there you are! I missed you, you know
 
-Je lève ma montre.
-
-[[Isaac|ISAAC]]
-Tu m’as appelé ~~durant~~ <span style="color:rgb(126, 114, 218)">à</span> ta pause déjeuner.
-
-[[Luke|LUCAS]]
-Roooh je te taquine
-
-Il glousse doucement à ses pitreries.
-
-[[Luke|LUCAS]]
-Tout se passe bien avec le déménagement ?
+%% FR %%Je lève ma montre.
+%% EN %%I look at my watch.
 
 [[Isaac|ISAAC]]
-Plus ou moins. Je viens de finir.
+%% FR %%Tu m’as appelé ~~durant~~ <span style="color:rgb(126, 114, 218)">à</span> ta pause déjeuner.
+%% EN %%You called me during your lunch break...
+
+[[Luke|LUCAS]]
+%%FR%%Roooh je te taquine
+%%EN%%Oh, I’m just teasing you
+
+%% FR %%Il glousse doucement à ses pitreries.
+%% EN %%He giggles at his own tomfoolery.
+
+[[Luke|LUCAS]]
+%% FR %%Tout se passe bien avec le déménagement ?
+%% EN%% Is everything going well with the move?
+
+[[Isaac|ISAAC]]
+%% FR %%Plus ou moins. Je viens de finir.
+%% EN %%More or less. I just finished.
 
 [[Luke|LUCAS]]
 Bah enfin ! Tu traînais ça au bout de la patte depuis des lustres !
