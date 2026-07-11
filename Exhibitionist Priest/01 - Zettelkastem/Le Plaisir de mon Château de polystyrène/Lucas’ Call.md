@@ -5,10 +5,12 @@ characters:
   - "[[Luke]]"
 done:
 ---
-À ce moment-là, mon téléphone sonne ~~alors~~<span style="color:rgb(126, 114, 218)">. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  </span><span style="color:rgb(126, 114, 218)">J</span>e le sors. <span style="color:rgb(126, 114, 218)"> Sur le petit écran de ce clapet, il est marqué Luke.Je déplie le clapet soigneusement. Une image d'un homme enroulant par le cou une personne qui regarde sur le côté, visiblement agacé, souhaitant être n'importe où mais ici. L'homme sourit à pleine dents montrant fièrement un signe V avec ses doigts. </span> ~~C’est [[Luke]].~~ Je décroche.
+%% FR %%À ce moment-là, mon téléphone sonne ~~alors~~<span style="color:rgb(126, 114, 218)">. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  </span><span style="color:rgb(126, 114, 218)">J</span>e le sors. <span style="color:rgb(126, 114, 218)"> Sur le petit écran de ce clapet, il est marqué Luke.Je déplie le clapet soigneusement. Une image d'un homme enroulant par le cou une personne qui regarde sur le côté, visiblement agacé, souhaitant être n'importe où mais ici. L'homme sourit à pleine dents montrant fièrement un signe V avec ses doigts. </span> ~~C’est [[Luke]].~~ Je décroche.
+%% EN %%Just then, my phone rings, so I pull it out. It’s [[Luke]]. I answer.
 
 [[Luke|LUCAS]]
-Allo ? Allo alloooooooo !
+%%DR Allo ? Allo alloooooooo !
+Hello? Hello, hello!
 
 [[Isaac|ISAAC]]
 … Allo.
