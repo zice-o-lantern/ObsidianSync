@@ -17,8 +17,8 @@ done:
 %% EN %%… Hey.
 
 [[Luke|LUCAS]]
-%%Oh enfin te voilà ! Tu m’as manqué tu sais ?
-Oh, finally, there you are! I missed you, you know
+%%FR%%Oh enfin te voilà ! Tu m’as manqué tu sais ?
+%%EN Oh, finally, there you are! I missed you, you know
 
 Je lève ma montre.
 
