@@ -174,7 +174,10 @@ I spot the neighboring house across the street.
 Its curtains are always drawn. 
 There’s only one window upstairs without a curtain but it’s hard to see inside without getting closer, so it’s hard to know what’s going on there. 
 Not that I’m all that interested, anyway.
-
+<!---
+scene bg house living room
+pause 1.0
+--->
 
 
 The sound of something crashing to the floor and shattering snaps me out of my daze and I turn around. 
