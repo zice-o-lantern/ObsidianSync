@@ -82,31 +82,36 @@ I%% EN %%<span style="color:rgb(146, 208, 80)">It’s so old, there’s so much 
 %% EN %%<span style="color:rgb(146, 208, 80)">And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you ~~don’t~~ want to stay there?</span>
 
 [[Isaac|ISAAC]]
-Plus que sûr. C’est ma maison donc je devrais y rester, tu sais ? J’ai assez abusé de ton hospitalité et je ne veux pas te déranger plus longtemps.
-Most definitely. It's my home, so I should stay there, you know? I've taken advantage of your hospitality long enough, and I don't want to bother you any longer.
+<span style="color:rgb(0, 176, 240)">Plus que sûr. C’est ma maison donc je devrais y rester, tu sais ? J’ai assez abusé de ton hospitalité et je ne veux pas te déranger plus longtemps.</span>
+<span style="color:rgb(146, 208, 80)">Most definitely. It's my home, so I should stay there, you know? I've taken advantage of your hospitality long enough, and I don't want to bother you any longer.</span>
 
 [[Luke|LUCAS]]
-Jamais tu me dérangerais, [[Isaac]] ! Si un ami a besoin d’aide, je l’aide, et surtout toi. Arrête de t’en faire !
+<span style="color:rgb(0, 176, 240)">Jamais tu me dérangerais, [[Isaac]] ! Si un ami a besoin d’aide, je l’aide, et surtout toi. Arrête de t’en faire !</span>
+<span style="color:rgb(146, 208, 80)">You’d never bother me, [[Isaac]]! If a friend needs help, I help them—especially you. Stop worrying about it!</span>
 
-La vision de [[Luke]] est réellement admirable mais naïf et niais. J’aimerais bien qu’il comprenne d’autres personnes ne seraient pas aussi généreuses que lui. Puis tout ça, c’est de la politesse. Jamais il n’oserait me dire que je le dérange.
+<span style="color:rgb(0, 176, 240)">La vision de [[Luke]] est réellement admirable mais naïf et niais. J’aimerais bien qu’il comprenne d’autres personnes ne seraient pas aussi généreuses que lui. Puis tout ça, c’est de la politesse. Jamais il n’oserait me dire que je le dérange.</span>
+<span style="color:rgb(146, 208, 80)">[[Luke]]’s outlook is truly admirable, but naive and simple-minded. I wish he’d understand that other people wouldn’t be as generous as he is. <br>Besides, all of this is just politeness. He’d never tell me I’m bothering him.</span>
 
 [[Isaac|ISAAC]]
-Plus facile à dire qu’à faire.
+<span style="color:rgb(0, 176, 240)">Plus facile à dire qu’à faire.</span>
+<span style="color:rgb(146, 208, 80)">Easier said than done.</span>
 
 [[Luke|LUCAS]]
-Essaie plus alors, eheh. Tu as pu régler le souci des tâches d’ailleurs ?
+<span style="color:rgb(0, 176, 240)">Essaie plus alors, eheh. Tu as pu régler le souci des tâches d’ailleurs ?</span>
+<span style="color:rgb(146, 208, 80)">Try harder then, heh. By the way, did you manage to sort out the stain issue?</span>
 
 [[Isaac|ISAAC]]
 Non pas vraiment…
 
-Cette maison est bizarre. Elle me souille. Je le sais. Les objets ne sont jamais à leur place. Je retrouve jamais rien. Ou alors je les retrouve mais à l’autre de bout de la maison. Le matin je me réveillais avec des tâches sur les draps. Incolores. De l’eau ? Peut-être. L’odeur est insoutenable. On dirait de la moisissure. Je l’ai fait sentir à Lucas pour qu’il me dise ce que c’était. Il m’a dit que ça ne sentait rien. 
+
+%% ==Cette maison est bizarre. Elle me souille. Je le sais. Les objets ne sont jamais à leur place. Je retrouve jamais rien. Ou alors je les retrouve mais à l’autre de bout de la maison. Le matin je me réveillais avec des tâches sur les draps. Incolores. De l’eau ? Peut-être. L’odeur est insoutenable. On dirait de la moisissure. Je l’ai fait sentir à Lucas pour qu’il me dise ce que c’était. Il m’a dit que ça ne sentait rien. 
 Ce qui m’effraie le plus, c’est que je la sens ~~maintenant~~ partout <span style="color:rgb(126, 114, 218)">maintenant</span> : sur mes pantalons, dans mon sac, dans mon portefeuille et j’ai beau laver, ça ne part pas. Je me surprends à frotter frénétiquement ma peau, espérant l’arracher, juste pour faire partir l odeur. ~~L~~<span style="color:rgb(126, 114, 218)">C</span>es traces teintent toute ma vie, infectant tout ce que je possède. Je ne possède plus, la Maison possède désormais. Je me couche le soir, souillé, sans que personne n’y puisse rien et je dois m’y faire. Elle m’est familière, cette souillure~~, je crois~~. 
-De toute façon, ce n’est pas nouveau que je me fasse emparer par ces traces. C’est ici-même, dans cette maison, il y a 20 ans, que c’est arrivé pour la première fois.
+De toute façon, ce n’est pas nouveau que je me fasse emparer par ces traces. C’est ici-même, dans cette maison, il y a 20 ans, que c’est arrivé pour la première fois.==[^1] %%
 
 [[Luke|LUCAS]]
 Je suis sûr que ça partira.
 
-Oui en quelques sortes. Plus les jours passeront, moins ça me dérangera et finalement je ne ferai plus attention aux traces. Elles feront partie de moi.
+%% ==Oui en quelques sortes. Plus les jours passeront, moins ça me dérangera et finalement je ne ferai plus attention aux traces. Elles feront partie de moi.==[^2] %%
 
 [[Luke|LUCAS]]
 Puis si ça part, on trouvera une solution ensemble, d’accord ?
@@ -214,3 +219,7 @@ Dans deux heures. J’arrive dans trente minutes !
 Deux heures… Lucas tu sais bien ce n’est pas assez de temps pour organiser tout ça. Et si [[Simone]] et [[Nick]] ne sont pas disponibles ? Et puis la maison sera dégueu-
 
 Il a raccroché 
+
+[^1]: Sh: I’m moving this to another chapter because too much information at once
+
+[^2]: Sh: this too
