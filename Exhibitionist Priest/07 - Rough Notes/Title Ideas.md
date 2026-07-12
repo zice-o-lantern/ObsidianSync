@@ -19,8 +19,9 @@ titles that i like:
 Remember the flowers
 The cry of the seagulls
 Night on the Galactic Railroad
-Hygiène de l'assassin
-En attendant Bojangles
+HEniène de l'assassin
+ (the restaurant)
+The Smoke Room (the restaurant)En attendant Bojangles
 Before you depart
 dawn chorus
 dawntide

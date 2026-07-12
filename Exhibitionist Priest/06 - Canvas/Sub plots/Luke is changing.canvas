@@ -8,10 +8,10 @@
 		{"id":"6fdf2b8e648b2705","type":"text","text":"[[Isaac]] interrogates [[Luke]] about the voice he heard in the radio","x":145,"y":660,"width":250,"height":120,"color":"1"},
 		{"id":"bbcf9bc518cf44ae","type":"text","text":"[[Luke]] knows nothing about what he's talking about but is subtly uncomfortable at the mention of the [[Raincoat Man]]\n","x":145,"y":840,"width":250,"height":200,"color":"1"},
 		{"id":"e49a2a58f9b41d58","type":"text","text":"[[Isaac]] leaves the room","x":-105,"y":1200,"width":250,"height":60,"color":"1"},
-		{"id":"e722a7bc39c57425","type":"text","text":"[[Luke]] invites him to sit down aside from him and him pick what he should wear[[Isaac]] interrogates [[Luke]] about the voice he heard in the radio","x":145,"y":470,"width":250,"height":120,"color":"1"},
-		{"id":"e465829f124161bf","x":576,"y":-146,"width":400,"height":400,"color":"4","type":"file","file":"Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md"},
+		{"id":"e722a7bc39c57425","type":"text","text":"[[Luke]] invites him to sit down aside from him and him pick what he should wear[[Isaac]] interrogates [[Luke]] about the voice he heard in the radio","x":145,"y":470,"width":250,"height":150,"color":"1"},
+		{"id":"e465829f124161bf","type":"file","file":"Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md","x":576,"y":-146,"width":400,"height":400,"color":"4"},
 		{"id":"831a36c9994e945c","type":"text","text":"Sets [[Isaac]] asked about the radio *variable* to **true**","x":576,"y":292,"width":192,"height":116,"color":"2"},
-		{"id":"a1d537a89badb3ff","x":-920,"y":148,"width":400,"height":400,"color":"4","type":"file","file":"Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_B - Flee.md"}
+		{"id":"a1d537a89badb3ff","type":"file","file":"Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_B - Flee.md","x":-920,"y":148,"width":400,"height":400,"color":"4"}
 	],
 	"edges":[
 		{"id":"5977fff6abe351a9","fromNode":"4ba091d8ecadcb6a","fromSide":"bottom","toNode":"8eafbe21d82921a7","toSide":"top","color":"1"},

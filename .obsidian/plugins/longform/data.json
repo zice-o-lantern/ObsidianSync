@@ -1,10 +1,66 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md",
+  "selectedDraftVaultPath": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Index.md",
   "userScriptFolder": "Exhibitionist Priest/08 - Scripts",
   "sessionStorage": "data",
   "sessions": [
+    {
+      "start": "2026-07-11T00:22:56.245Z",
+      "total": 11136,
+      "drafts": {
+        "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Cafe": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Rails Putrides": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Nuit éclatante": 0,
+            "Cabine Téléphonique": 0,
+            "Folie tout seul": 0,
+            "Je lui saute à la gorge": 0,
+            "Forest": 0,
+            "La Plage aux Merveilles": 0,
+            "Je ne t'oublierai pas": 0
+          }
+        },
+        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Squelette sous le it": 0,
+            "Cours Barbant": 0,
+            "Kris rencontre": 0,
+            "Wolfg rencontre": 0,
+            "Dans le tramway": 0,
+            "Déjeuner": 0,
+            "Dîner ensemble": 0,
+            "Menace à l'Appart'": 0
+          }
+        },
+        "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Index.md": {
+          "total": 11136,
+          "scenes": {
+            "Incipit": 1238,
+            "Styrofoam Castle": 3629,
+            "Lucas’ Call": 1304,
+            "Before the Party": 4965
+          }
+        }
+      }
+    },
     {
       "start": "2026-07-09T14:03:17.177Z",
       "total": 162,
@@ -1275,43 +1331,6 @@
           }
         }
       }
-    },
-    {
-      "start": "2026-02-05T13:27:18.962Z",
-      "total": 0,
-      "drafts": {
-        "6 - Zettelkastem/Visual Novel Projects/En Attendant Le Cri des Goélands/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Nuit éclatante": 0,
-            "Cabine Téléphonique": 0,
-            "Folie tout seul": 0,
-            "Je lui saute à la gorge": 0,
-            "Forest": 0,
-            "La Plage aux Merveilles": 0,
-            "Je ne t'oublierai pas": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/The disappearance/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Rails Putrides": 0
-          }
-        },
-        "6 - Zettelkastem/Visual Novel Projects/Chillasque VN/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Squelette sous le it": 0,
-            "Cours Barbant": 0,
-            "Kris rencontre": 0,
-            "Wolfg rencontre": 0,
-            "Dans le tramway": 0,
-            "Déjeuner": 0,
-            "Dîner ensemble": 0,
-            "Menace à l'Appart'": 0
-          }
-        }
-      }
     }
   ],
   "showWordCountInStatusBar": true,
@@ -1375,7 +1394,7 @@
           "optionValues": {}
         },
         {
-          "id": "Exhibitionist Priest/08 - Scripts/replace-tagse.js",
+          "id": "placeholder-missing-step",
           "optionValues": {}
         },
         {
@@ -1447,7 +1466,7 @@
           "optionValues": {}
         },
         {
-          "id": "Exhibitionist Priest/08 - Scripts/replace-tagse.js",
+          "id": "placeholder-missing-step",
           "optionValues": {}
         },
         {
@@ -1466,7 +1485,7 @@
         {
           "id": "write-to-note",
           "optionValues": {
-            "target": "EN/renpy.md",
+            "target": "FR/renpy.md",
             "open-after": false
           }
         }
@@ -1487,7 +1506,7 @@
         {
           "id": "prepend-title",
           "optionValues": {
-            "format": "$3{#} $2 $1",
+            "format": "$3{#} 0$2 - $1",
             "separator": "\n\n"
           }
         },
