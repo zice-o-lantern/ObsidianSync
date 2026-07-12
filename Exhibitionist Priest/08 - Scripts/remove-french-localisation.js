@@ -1,5 +1,5 @@
 compile = (input, context) => {
-  const FR_REGEX = /\n<span\s+style="color:rgb\(0, 176, 240\)">(.*?)<\/span>\n/gm;
+  const FR_REGEX = /<span\s+style="color:rgb\(0, 176, 240\)">(.*?)<\/span>\n/gm;
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       return {

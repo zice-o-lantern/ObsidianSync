@@ -1385,7 +1385,7 @@
           "optionValues": {}
         },
         {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
+          "id": "Exhibitionist Priest/08 - Scripts/replace-tags.js",
           "optionValues": {}
         },
         {
@@ -1578,6 +1578,10 @@
         },
         {
           "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-footnotes.js",
           "optionValues": {}
         },
         {

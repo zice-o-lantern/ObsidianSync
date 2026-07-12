@@ -5,18 +5,21 @@
 scene black
 pause 2.0 
 --->
-CENTEREDThis story is a work of fiction and is not based on real events. \nAny resemblance to actual persons, places, or events is purely coincidental.
+CENTERED
+This story is a work of fiction and is not based on real events. \nAny resemblance to actual persons, places, or events is purely coincidental.
 <!---
 pause 2.0
 --->
+
 Does the cat in the box want us to open the box? I’ve often thought about it. No one has ever asked the cat for its opinion —after all, we can’t. 
-It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer  because it’s a new cat. 
-So I wonder:  what will become of me when they break down the door, slumped in my little box of my own making?
+It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer  because it’s a new cat. So I wonder:  what will become of me when they break down the door, slumped in my little box of my own making?
+
 <!--- 
 pause 1.0
 show bg bedroom intro with slow_dissolve
 pause 1.0
 --->
+
 11:40 p.m. You open the door.  
 I adore everything about you: your piercing yet warm, intoxicating eyes. 
 Your dark circles revealing all your tenderness and tendencies. 
@@ -25,6 +28,7 @@ Your sad face concealing a disturbing and perverse side, and above all, how much
 <!---
 pause 1.0
 --->
+
 I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest hair exposed. 
 I bite my lip, my lord, I even pant. 
 Then you take off your pants in one go, exhausted from the long day you've had. 
@@ -33,6 +37,7 @@ I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I
 <!---
 pause 1.0
 --->
+
 Then you stop, lost in thought. 
 I catch my breath. I adjust the lens and fix my glasses back on my nose. 
 He’s still thinking: how cute.
@@ -41,6 +46,7 @@ He’s still thinking: how cute.
 show bg bedroom intro person with slow_dissolve
 pause 1.0 
 --->
+
 Then comes the climax, hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. 
 You slip your hands into your boxers. 
 I breathe through my teeth. 
@@ -54,6 +60,7 @@ I must concentrate ; I can't miss this moment.
 scene black
 pause 1.0
 --->
+
 His boxers come down. 
 My hands are even stickier, and it's… not saliva.
 
@@ -79,6 +86,7 @@ Until... I am observed.
 <!--- 
 pause 1.0 
 ---> 
+
 Look at me, God or Schrödinger-- who knows! 
 To You, so obsessed with the idea of opening the box without touching it. 
 I have finally discovered how to do it.
@@ -97,6 +105,7 @@ scene black with Dissolve(2.0)
 scene bg house living room with Dissolve(3.0)
 pause 1.0
 --->
+
 Today, I finally unpacked the last box from my old apartment. 
 It wasn't even that much...like, three boxes, maybe?. 
 I collapse into the armchair and sigh, my back aching. 
@@ -107,6 +116,7 @@ I could have asked [[Luke]], but he’s at work today.
 <!---
 pause 2.0
 --->
+
 People are often overwhelmed when they move. They’re sad, happy, anxious, relieved, unsettled, then it’s the end. 
 It’s normal, after all. It’s to be expected. It’s a fresh start. It doesn’t do anything for me. I feel neither hot nor cold, just the musty smell. 
 It’s as if I were walking through a Styrofoam castle :Dead to the touch and devoid of any warmth. 
@@ -120,6 +130,8 @@ A photo of me and my grandmother, taken by my uncle.
 pause 1.0
 --->
 
+
+
 I put the photo back down with a sigh. 
 Did I really make the right choice coming to live here? 
 I had just started at my job. 
@@ -127,6 +139,7 @@ Everything was going well.
 So why, the moment my parents offered for me to move here, did I accept without a second thought and quit on the spot? I must be crazy. 
 There’s no work for me here. 
 I’m going to have to live off my savings.
+
 
 I open one of the drawers at random out of curiosity and I'm caught off guard by a sudden cloud of dust. 
 I shouldn’t have opened it so quickly. 
@@ -146,6 +159,7 @@ scene bg house garden:
 with Dissolve(2.0)
 pause 1.0
 --->
+
 The fresh country air rushes in and I finally breathe. The garden is in a sorry state but it's salvageable. 
 Broken vases litter the main path, ivy beginning to entwine around them. 
 I grimace. 
@@ -154,6 +168,7 @@ I spot the neighboring house across the street.
 Its curtains are always drawn. 
 There’s only one window upstairs without a curtain but it’s hard to see inside without getting closer, so it’s hard to know what’s going on there. 
 Not that I’m all that interested, anyway.
+
 
 The sound of something crashing to the floor and shattering snaps me out of my daze and I turn around. 
 I scan the room for the source of the sound and find only the mess I’d knocked over on my way to the window. 
@@ -176,11 +191,13 @@ My uncle’s wife. I see. The camera must belong to him.
 It’s a really good camera, especially for a hobbyist. My uncle must love taking pictures. 
 After all, he took tons of them of me. 
 I’m sure he has an album full of photos of me in every situation.
+
 Curiosity gets the better of me. 
 What if I used the camera to see what’s inside the neighbor’s house? 
 Ever since day one, all those darn curtains have been stressing me out — and I’ve never seen the neighbor’s face. 
 Isn’t that suspicious in and of itself? Plus, I have a camera right here. 
 Why not take a quick peek inside to make sure there's nothing weird going on?
+
 So I stand at the window, holding the viewfinder up to my eyes, and zoom in as much as possible onto the window. 
 Unfortunately, the reflections on the window prevent any real attempt to peek inside. 
 However, I persist and stay there for a while, trying to find the right angle to avoid the reflections. 
@@ -188,6 +205,7 @@ A bird—a white-throated—sparrow lands on my windowsill.
 Then, after a few seconds, I manage to catch a glimpse of something— a woman in the room. At that moment, my brain begs me to lower the camera— yet my hands stay put, fixed on the person. 
 She’s wearing a blouse. She’s on the phone, gesturing wildly, exasperated. 
 Obviously, it’s impossible to hear their conversation. But it doesn't look pleasant to listen to anyway.
+
 Nevertheless, the woman turns around abruptly and looks in my direction. 
 Panicked, I jerk the lens toward the forest and startle the sparrow in the process, causing it to crash into the camera. 
 I fall flat on my butt . 
@@ -201,13 +219,16 @@ Where did that one come from? No time for that.
 I need to check if the woman is still there. 
 I zoom back in on the window.
  She’s not there anymore. Did she see me?
+
 I stay hidden behind the window for a while, afraid she might show up at my door. 
 I’m worried she suspects the worst. It’s not like I gave her a reason not to be suspicious of me. 
 But despite the time that’s passed, she don’t seem to be coming. Good.
+
 The mysterious photo in the gallery comes back to mind. 
 I open it. 
 The photo shows a bird with blurry feathers in all four corners of the frame against a blue sky, with the forest in the background. 
 I must have taken the photo in a panic.
+
 I think it’s actually pretty good. 
 It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.
 When Uncle used to take these photos at all hours of the day, it looked like fun. 
@@ -222,61 +243,83 @@ I strap the bag around my waist and put the camera inside, a fresh roll of film 
 
 # Lucas’ Call
 
+
 Just then, my phone rings. The series of beeps and rings—enough to drive even the wisest of monks crazy—echoes through my thigh. I pull it out. On the small screen of the flip phone, it says “Luke.” I carefully open it. A picture of Luke wrapping his arms around my neck, while I look away, clearly annoyed, wishing I were buried a thousand feet underground rather than standing here. The big dog is grinning from ear to ear, proudly flashing a V-sign with his fingers. I answer the call
 
-[[Luke|LUKE]]Hello? Hello, hello!
+[[Luke|LUKE]]
+Hello? Hello, hello!
 
-[[Isaac|ISAAC]]… Hey.
+[[Isaac|ISAAC]]
+… Hey.
 
 [[Luke|LUKE]]
-Aaaah enfin te voilà ! Tu m’as manqué tu sais ?
 Oh, finally, there you are! I missed you, you know
+
 I look at my watch.
 
-[[Isaac|ISAAC]]You called me during your lunch break.
+[[Isaac|ISAAC]]
+You called me during your lunch break.
 
 [[Luke|LUKE]]
-Roooh je te taquine
 Oh, I’m just teasing you
+
 He giggles at his own tomfoolery.
 
-[[Luke|LUKE]] Is everything going well with the move?
+[[Luke|LUKE]]
+ Is everything going well with the move?
 
-[[Isaac|ISAAC]]More or less. I just finished.
+[[Isaac|ISAAC]]
+More or less. I just finished.
 
-[[Luke|LUKE]]Oh, thank god! You’ve been dragging your feet on this for ages!
+[[Luke|LUKE]]
+Oh, thank god! You’ve been dragging your feet on this for ages!
 
-[[Isaac|ISAAC]]It was only a month.
-[[Luke|LUKE]]And all that for what, three boxes?
+[[Isaac|ISAAC]]
+It was only a month.
+[[Luke|LUKE]]
+And all that for what, three boxes?
 
-[[Isaac|ISAAC]]Four.
+[[Isaac|ISAAC]]
+Four.
 
-[[Luke|LUKE]]Still! Are you really sure you like the house? I’d understand if you didn’t.
+[[Luke|LUKE]]
+Still! Are you really sure you like the house? I’d understand if you didn’t.
 
-[[Isaac|ISAAC]]…why?
+[[Isaac|ISAAC]]
+…why?
 
-[[Luke|LUKE]]IIt’s so old, there’s so much work to do on it. And all those things—it must be bittersweet. Until recently, it belonged to… 
+[[Luke|LUKE]]
+IIt’s so old, there’s so much work to do on it. And all those things—it must be bittersweet. Until recently, it belonged to… 
+
 
 He trails off.
 
-[[Isaac|ISAAC]]Yes…
+[[Isaac|ISAAC]]
+Yes…
 
-[[Luke|LUKE]]And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you  want to stay there?
+[[Luke|LUKE]]
+And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you  want to stay there?
 
-[[Isaac|ISAAC]]Most definitely. It's my home, so I should stay there, you know? I've taken advantage of your hospitality long enough, and I don't want to bother you any longer.
+[[Isaac|ISAAC]]
+Most definitely. It's my home, so I should stay there, you know? I've taken advantage of your hospitality long enough, and I don't want to bother you any longer.
 
-[[Luke|LUKE]]You’d never bother me, [[Isaac]]! If a friend needs help, I help them—especially you. Stop worrying about it!
+[[Luke|LUKE]]
+You’d never bother me, [[Isaac]]! If a friend needs help, I help them—especially you. Stop worrying about it!
+
 [[Luke]]’s outlook is truly admirable, but naive and simple-minded. I wish he’d understand that other people wouldn’t be as generous as he is. Besides, all of this is just politeness. He’d never tell me I’m bothering him.
 
-[[Isaac|ISAAC]]Easier said than done.
+[[Isaac|ISAAC]]
+Easier said than done.
 
-[[Luke|LUKE]]Try harder then, heh. By the way, did you manage to sort out the stain issue?
+[[Luke|LUKE]]
+Try harder then, heh. By the way, did you manage to sort out the stain issue?
 
-[[Isaac|ISAAC]]No, not really…
+[[Isaac|ISAAC]]
+No, not really…
 
 
 
-[[Luke|LUKE]]Puis si ça part, on trouvera une solution ensemble, d’accord ?
+[[Luke|LUKE]]
 I’m sure it’ll go away.
 And if it doesn't, we’ll find a solution together, okay?
 
@@ -289,69 +332,104 @@ D’accord…
 J’imagine que tu as bientôt terminé le travail, alors ?
 Okay… I guess you’ll be done with work soon, then?
 
-[[Luke|LUKE]]Yep that’s it!
+[[Luke|LUKE]]
+Yep that’s it!
 
-[[Isaac|ISAAC]]I see…Well, get home safe, then.
+[[Isaac|ISAAC]]
+I see…Well, get home safe, then.
 
-[[Luke|LUKE]]Whoa, whoa, whoa, hang on a sec. Now that you’ve finished unpacking, fancy throwing a little party to celebrate?
+[[Luke|LUKE]]
+Whoa, whoa, whoa, hang on a sec. Now that you’ve finished unpacking, fancy throwing a little party to celebrate?
 
-[[Isaac|ISAAC]]When?
+[[Isaac|ISAAC]]
+When?
 
-[[Luke|LUKE]]Tonight! Don’t tell me you’re not free, I know you are!And you can sleep overnight
+[[Luke|LUKE]]
+Tonight! Don’t tell me you’re not free, I know you are!And you can sleep overnight
 
-[[Isaac|ISAAC]]I don’t know… I haven’t been feeling very well lately.
+[[Isaac|ISAAC]]
+I don’t know… I haven’t been feeling very well lately.
 
-[[Luke|LUKE]]Come oooooon! It’s been ages since we’ve had a bit of fun, Even if you have to work, Saturdays are for partying!
+[[Luke|LUKE]]
+Come oooooon! It’s been ages since we’ve had a bit of fun, Even if you have to work, Saturdays are for partying!
+
 But it’s going to stink of booze again.
 
-[[Isaac|ISAAC]]I don’t really feel like drinking, [[Luke|Lucas]].
+[[Isaac|ISAAC]]
+I don’t really feel like drinking, [[Luke|Lucas]].
 
-[[Luke|LUKE]]We won't drink much alcohol—I promise!
+[[Luke|LUKE]]
+We won't drink much alcohol—I promise!
 
-[[Isaac|ISAAC]]You’re sure?
+[[Isaac|ISAAC]]
+You’re sure?
 
-[[Luke|LUKE]]100% sure.
+[[Luke|LUKE]]
+100% sure.
+
 I don’t really take him at his word, to be honest. As long as he doesn’t shove the bottle under my nose.Then an image of my bed pops into my mind, along with that stain that won’t come out, colourless and odourless.
 
-[[Isaac|ISAAC]]Alright. Let’s have a party.
+[[Isaac|ISAAC]]
+Alright. Let’s have a party.
 
-[[Luke|LUKE]]Yayyyy!!
+[[Luke|LUKE]]
+Yayyyy!!
 
-[[Isaac|ISAAC]]What time should I come 'round to your place?
+[[Isaac|ISAAC]]
+What time should I come 'round to your place?
 
-[[Luke|LUKE]]Eh? My place? What are you on about? The party isn’t at my place, it’s at your place. 
+[[Luke|LUKE]]
+Eh? My place? What are you on about? The party isn’t at my place, it’s at your place. 
 
-[[Isaac|ISAAC]]At my place???
+[[Isaac|ISAAC]]
+At my place???
 
-[[Luke|LUKE]]Well, yeah. A housewarming party is held in the house you've just moved into, not your neighbor's—otherwise, it doesn't make sense.
+[[Luke|LUKE]]
+Well, yeah. A housewarming party is held in the house you've just moved into, not your neighbor's—otherwise, it doesn't make sense.
 
-[[Isaac|ISAAC]]But I’m not ready! I’ve still got loads to do! The house isn’t ready!!
+[[Isaac|ISAAC]]
+But I’m not ready! I’ve still got loads to do! The house isn’t ready!!
 
-[[Luke|LUKE]]No problem, I’ll help you.
+[[Luke|LUKE]]
+No problem, I’ll help you.
 
-[[Isaac|ISAAC]]But it’s tonight!!!
+[[Isaac|ISAAC]]
+But it’s tonight!!!
 
-[[Luke|LUKE]]It’ll give me an excuse to hang out with you! 
+[[Luke|LUKE]]
+It’ll give me an excuse to hang out with you! 
 
-[[Isaac|ISAAC]]Who’s coming?
+[[Isaac|ISAAC]]
+Who’s coming?
 
-[[Luke|LUKE]][[Nick]] and [[Simone]].
+[[Luke|LUKE]]
+[[Nick]] and [[Simone]].
 
-[[Isaac|ISAAC]]So just the four of us?
+[[Isaac|ISAAC]]
+So just the four of us?
 
-[[Luke|LUKE]]Just the four of us.
+[[Luke|LUKE]]
+Just the four of us.
+
 I breathe a sigh of relief.
 
-[[Isaac|ISAAC]]What time?
+[[Isaac|ISAAC]]
+What time?
 
-[[Luke|LUKE]]Hmmmm, 8 p.m.! I'll be there in thirty minutes—in a jiffy-diffy!
+[[Luke|LUKE]]
+Hmmmm, 8 p.m.! I'll be there in thirty minutes—in a jiffy-diffy!
+
 I raise my watch. it's six past.
 
-[[Isaac|ISAAC]]It's in two hours…
+[[Isaac|ISAAC]]
+It's in two hours…
 
-[[Luke|LUKE]]Oh shit, I didn't realize! I have to hurry then. I’ll be there!
+[[Luke|LUKE]]
+Oh shit, I didn't realize! I have to hurry then. I’ll be there!
 
-[[Isaac|ISAAC]]Luke, you know that’s not enough time to organise all this. What if [[Simone]] and [[Nick]] aren’t available? And the house will be a hot mess—
+[[Isaac|ISAAC]]
+Luke, you know that’s not enough time to organise all this. What if [[Simone]] and [[Nick]] aren’t available? And the house will be a hot mess—
+
 He’s hung up
 
 [^1]: Sh: I’m moving this to another chapter because too much information at once
