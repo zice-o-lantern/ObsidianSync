@@ -16,9 +16,9 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": -277.89069982741614,
-                  "y": -126.86512359575525,
-                  "zoom": -1.9999999999999998
+                  "x": -252.50730557747488,
+                  "y": 280.3437061717543,
+                  "zoom": -0.3333333333333334
                 }
               },
               "pinned": true,
@@ -27,24 +27,79 @@
             }
           },
           {
-            "id": "d4efd65b58b21e51",
+            "id": "756a624f5cf216cc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
-                "viewState": {
-                  "x": -343.2923576041416,
-                  "y": 311.94535490542114,
-                  "zoom": -0.3333333333333332
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Outline of the story"
+              "icon": "lucide-file",
+              "title": "manuscript"
+            }
+          },
+          {
+            "id": "0b83d080b3c948d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Translate Before the party.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Translate Before the party"
+            }
+          },
+          {
+            "id": "9767db506c943dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Template/Kanban Card Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kanban Card Template"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,7 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 577.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,15 +301,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "1a35d723ac2ef755",
+        "id": "0232175de7c1a731",
         "type": "window",
         "children": [
           {
-            "id": "f31a4dca5458122b",
+            "id": "8aeb9da21041cddf",
             "type": "tabs",
             "children": [
               {
-                "id": "0aa843b4a6cf9ef9",
+                "id": "5bb6f436e891c566",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -276,87 +331,28 @@
                   "icon": "lucide-trello",
                   "title": "Writing tasks"
                 }
-              },
-              {
-                "id": "bfda142c31505231",
-                "type": "leaf",
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
-                    "kanbanViewState": {
-                      "kanban-plugin": "board",
-                      "list-collapse": [
-                        false,
-                        false,
-                        false,
-                        false
-                      ]
-                    }
-                  },
-                  "icon": "lucide-trello",
-                  "title": "Coding Tasks"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 568,
-        "y": -1240,
-        "width": 986,
-        "height": 986,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "0232175de7c1a731",
-        "type": "window",
-        "children": [
-          {
-            "id": "8aeb9da21041cddf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5bb6f436e891c566",
-                "type": "leaf",
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-                    "kanbanViewState": {
-                      "kanban-plugin": "board",
-                      "list-collapse": [
-                        false,
-                        false,
-                        false,
-                        false,
-                        false
-                      ]
-                    }
-                  },
-                  "icon": "lucide-trello",
-                  "title": "Writing tasks"
-                }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 12,
-        "y": -1312,
-        "width": 1486,
-        "height": 982,
+        "x": -65,
+        "y": -1197,
+        "width": 909,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "5bb6f436e891c566",
+  "active": "9767db506c943dc5",
   "lastOpenFiles": [
-    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
+    "Translate Before the party.md",
+    "5 - Template/Kanban Card Template.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
+    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas.edtz",
     "5 - Template/Pause.md",
     "Untitled.md",
@@ -366,7 +362,6 @@
     "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md.edtz",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/08 - Scripts/remove-footnotes.js",
     "Exhibitionist Priest/08 - Scripts/replace-tags - Copy.js",
     "Exhibitionist Priest/08 - Scripts/replace-tags.js",
@@ -390,8 +385,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Confessions/Cafe.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",

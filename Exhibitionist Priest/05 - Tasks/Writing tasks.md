@@ -10,7 +10,6 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] Redirect Canvas to specific chapters
 - [ ] Write why did you quit
 - [ ] Write Poker night
 
@@ -23,6 +22,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [x] Redirect Canvas to specific chapters
 - [x] Write Lucas Call
 - [x] Finish [[Luke]] sheet
 - [x] Finish [[Cesare]] sheet
