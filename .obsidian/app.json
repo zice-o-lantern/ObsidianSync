@@ -24,5 +24,7 @@
     "editor:configure-toolbar",
     "colored-text:color-text"
   ],
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showLineNumber": false,
+  "readableLineLength": true
 }

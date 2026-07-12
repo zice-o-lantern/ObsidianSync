@@ -16,10 +16,9 @@ CENTERED
 pause 2.0
 --->
 
-<span style="color:rgb(0, 176, 240)">Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  %% {w} %%J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui %% {w} %%: on ne peut pas, après tout. %% bl %%Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus %% {w} %%car c’est un nouveau chat. 
-Alors, je me demande : %% {w} %% qu’adviendra de moi lorsqu’on défoncera la porte, %% {w} %%affaissé dans ma petite boite de ma propre création ?</span>
+<span style="color:rgb(0, 176, 240)">Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  %% {w} %%J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui %% {w} %%: on ne peut pas, après tout. %% bl %%Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus %% {w} %%car c’est un nouveau chat. <br>Alors, je me demande : %% {w} %% qu’adviendra de moi lorsqu’on défoncera la porte, %% {w} %%affaissé dans ma petite boite de ma propre création ?</span>
 <span style="color:rgb(255, 192, 0)">Does the cat in the box want us to open the box? %% {w} %%I’ve often thought about it. No one has ever asked the cat for its opinion %% {w} %%—after all, we can’t. %% bl %%It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer %% {w} %% because it’s a new cat. 
-So I wonder: %% {w} %% what will become of me when they break down the door, %% {w} %% slumped in my little box of my own making?</span>
+So I wonder: %% {w} %% what will become of me when they break down the door, %% {w} %%slumped in my little box of my own making?</span>
 <!--- 
 pause 1.0
 show bg bedroom intro with slow_dissolve
@@ -48,7 +47,7 @@ show bg bedroom intro person with slow_dissolve
 pause 1.0 
 --->
 
-<span style="color:rgb(0, 176, 240)">Après cela, se situe, ci-dessous, le point culminant de l’attente dissimulé par ce fin exquis tissu qui peine à couvrir ce buisson délaissé et dessine l’engin à l’origine de tous les désirs. %% bl %%Tu enfiles tes mains dans ton caleçon. %% bl %%Je respire à travers les dents. %% bl %%Je m'essuie la bouche. %% bl %%Ma main est couvert de salive. %% bl %%Mon cœur bat à toute vitesse, ma cage thoracique ne peut plus le contenir, se dansant, ricochant sur ces côtes et bondissant dans ma gorge. %% bl %%Je déglutis. <bl>Je ne peux m'arrêter ; Je ne peux fermer les yeux.</span>
+<span style="color:rgb(0, 176, 240)">Après cela, se situe, ci-dessous, le point culminant de l’attente dissimulé par ce fin exquis tissu qui peine à couvrir ce buisson délaissé et dessine l’engin à l’origine de tous les désirs. %% bl %%Tu enfiles tes mains dans ton caleçon. %% bl %%Je respire à travers les dents. %% bl %%Je m'essuie la bouche. %% bl %%Ma main est couvert de salive. %% bl %%Mon cœur bat à toute vitesse, ma cage thoracique ne peut plus le contenir, se dansant, ricochant sur ces côtes et bondissant dans ma gorge. %% bl %%Je déglutis. Je ne peux m'arrêter ; Je ne peux fermer les yeux.</span>
 <span style="color:rgb(255, 192, 0)">Then comes the climax, hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. %% bl %%You slip your hands into your boxers. %% bl %%I breathe through my teeth. %% bl %%I wipe my mouth. %% bl %%Drool drips from my hand. %% bl %%My heart is beating fast, my rib cage can no longer contain it: dancing, ricocheting off my ribs and leaping into my throat. %% bl %%I swallow.%% bl %%I must concentrate ; I can't miss this moment.</span>
 
 <!--- 

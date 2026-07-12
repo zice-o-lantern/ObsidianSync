@@ -13,7 +13,6 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] replace markdown comments with html tags
 - [ ] find how to ignore markdown comments in sidebar highlights
 - [ ] remove footnotes from export
 - [ ] script styrofoam scene

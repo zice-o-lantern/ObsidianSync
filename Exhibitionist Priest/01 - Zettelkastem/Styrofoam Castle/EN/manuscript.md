@@ -6,10 +6,8 @@ CENTERED
 This story is a work of fiction and is not based on real events. \nAny resemblance to actual persons, places, or events is purely coincidental.
 
 
-Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui : on ne peut pas, après tout. Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus car c’est un nouveau chat. 
-Alors, je me demande :  qu’adviendra de moi lorsqu’on défoncera la porte, affaissé dans ma petite boite de ma propre création ?
 Does the cat in the box want us to open the box? I’ve often thought about it. No one has ever asked the cat for its opinion —after all, we can’t. It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer  because it’s a new cat. 
-So I wonder:  what will become of me when they break down the door,  slumped in my little box of my own making?
+So I wonder:  what will become of me when they break down the door, slumped in my little box of my own making?
 
 
 11:40 p.m. You open the door.  I adore everything about you: your piercing yet warm, intoxicating eyes. Your dark circles revealing all your tenderness and tendencies. Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 

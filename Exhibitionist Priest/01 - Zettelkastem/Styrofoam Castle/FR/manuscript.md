@@ -6,10 +6,9 @@ CENTERED
 Cette histoire est une œuvre de fiction et ne se repose pas sur des faits réels. \nTout ressemblance est fortuite ou une coïncidence
 
 
-Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui : on ne peut pas, après tout. Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus car c’est un nouveau chat. 
-Alors, je me demande :  qu’adviendra de moi lorsqu’on défoncera la porte, affaissé dans ma petite boite de ma propre création ?
+Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  J’y ai souvent réfléchi. Jamais personne n’a \ndemandé son avis à lui : on ne peut pas, après tout. Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus car c’est un nouveau chat. Alors, je me demande :  qu’adviendra de moi lorsqu’on défoncera la porte, affaissé dans ma petite boite de ma propre création ?
 Does the cat in the box want us to open the box? I’ve often thought about it. No one has ever asked the cat for its opinion —after all, we can’t. It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer  because it’s a new cat. 
-So I wonder:  what will become of me when they break down the door,  slumped in my little box of my own making?
+So I wonder:  what will become of me when they break down the door, slumped in my little box of my own making?
 
 
 23 h 40. Tu ouvres la porte. J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants. Tes cernes tombantes témoignant de toute tes douceurs et douleurs. Ton visage triste recelant un côté inquiétant et pervers, et surtout à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.

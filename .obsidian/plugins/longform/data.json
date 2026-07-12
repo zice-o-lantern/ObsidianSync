@@ -1342,67 +1342,6 @@
   "fallbackWaitEnabled": true,
   "fallbackWaitTime": 5,
   "workflows": {
-    "Default Workflow": {
-      "name": "Default Workflow",
-      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
-      "steps": [
-        {
-          "id": "strip-frontmatter",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/add-break-lines.js",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-strikethroughs",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
-          "optionValues": {}
-        },
-        {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-horizontal-rule.js",
-          "optionValues": {}
-        },
-        {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
-          "id": "remove-comments",
-          "optionValues": {
-            "remove-markdown-comments": true,
-            "remove-html-comments": false
-          }
-        },
-        {
-          "id": "concatenate-text",
-          "optionValues": {
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "write-to-note",
-          "optionValues": {
-            "target": "EN/renpy.md",
-            "open-after": false
-          }
-        }
-      ]
-    },
     "French Renpy": {
       "name": "French Renpy",
       "description": "ta mère",
@@ -1534,7 +1473,7 @@
           "id": "write-to-note",
           "optionValues": {
             "target": "EN/manuscript.md",
-            "open-after": true
+            "open-after": false
           }
         }
       ]
@@ -1598,6 +1537,63 @@
           "id": "write-to-note",
           "optionValues": {
             "target": "FR/manuscript.md",
+            "open-after": false
+          }
+        }
+      ]
+    },
+    "English Renpy": {
+      "name": "English Renpy",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-french-localisation.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": false,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/add-break-lines.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-strikethroughs",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": false
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "EN/renpy.md",
             "open-after": false
           }
         }
