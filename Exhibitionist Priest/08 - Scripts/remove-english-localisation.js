@@ -1,5 +1,5 @@
 compile = (input, context) => {
-  const EN_REGEX = /%% EN %%(.*?)\n/gm;
+  const EN_REGEX = /<span\s+style="color:rgb\(255, 192, 0\)">(.*?)<\/span>\n/gm;;
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       return {
@@ -22,7 +22,7 @@ module.exports = {
     name: "Remove The English Localisation",
 
     // short description of what it does
-    description: "Remove the English Localisation with %% EN %%",
+    description: "Remove the English Localisation with <span\s+style=\"color:rgb\(255, 192, 0\)\">",
 
     // array. valid options are "Scene", "Manuscript", "Join". "Join" must be the only member if present.
     availableKinds: ["Scene", "Manuscript"],
