@@ -30,24 +30,17 @@
             "id": "d4efd65b58b21e51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+                "viewState": {
+                  "x": -343.2923576041416,
+                  "y": 311.94535490542114,
+                  "zoom": -0.3333333333333332
                 }
               },
-              "icon": "lucide-file",
-              "title": "Before the Party"
+              "icon": "lucide-layout-dashboard",
+              "title": "Outline of the story"
             }
           }
         ],
@@ -244,7 +237,8 @@
       "obsidian-kanban:Create new board": false,
       "system3-relay:Relay": false,
       "sidebar-highlights:Open highlights": false,
-      "edit-history:Open edit history": false
+      "edit-history:Open edit history": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -350,19 +344,23 @@
           }
         ],
         "direction": "vertical",
-        "x": 130,
-        "y": -1175,
-        "width": 1484,
-        "height": 981,
+        "x": 12,
+        "y": -1312,
+        "width": 1486,
+        "height": 982,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "bf0b3ee1b6bbdaef",
+  "active": "5bb6f436e891c566",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/06 - Canvas/Character Design.canvas.edtz",
+    "5 - Template/Pause.md",
+    "Untitled.md",
+    "Untitled 2.md",
     "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
     "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
@@ -380,7 +378,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/mauscript.md",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
@@ -391,13 +388,10 @@
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Renpy/manuscript.md",
-    "Untitled.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Confessions/Cafe.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/01 - Grandma.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/03 - The before party - First Draft.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
@@ -405,7 +399,6 @@
     "Exhibitionist Priest/02 - Attachments/Icons/shush.png",
     "Exhibitionist Priest/02 - Attachments/Icons/question-mark.png",
     "Exhibitionist Priest/02 - Attachments/Icons/pin.png",
-    "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011224.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011200.png",
     "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011151.png",
