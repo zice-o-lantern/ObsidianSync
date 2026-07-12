@@ -101,24 +101,27 @@ I%% EN %%<span style="color:rgb(146, 208, 80)">It’s so old, there’s so much 
 <span style="color:rgb(146, 208, 80)">Try harder then, heh. By the way, did you manage to sort out the stain issue?</span>
 
 [[Isaac|ISAAC]]
-Non pas vraiment…
-
+<span style="color:rgb(0, 176, 240)">Non pas vraiment…</span>
+<span style="color:rgb(146, 208, 80)">No, not really…</span>
 
 %% ==Cette maison est bizarre. Elle me souille. Je le sais. Les objets ne sont jamais à leur place. Je retrouve jamais rien. Ou alors je les retrouve mais à l’autre de bout de la maison. Le matin je me réveillais avec des tâches sur les draps. Incolores. De l’eau ? Peut-être. L’odeur est insoutenable. On dirait de la moisissure. Je l’ai fait sentir à Lucas pour qu’il me dise ce que c’était. Il m’a dit que ça ne sentait rien. 
 Ce qui m’effraie le plus, c’est que je la sens ~~maintenant~~ partout <span style="color:rgb(126, 114, 218)">maintenant</span> : sur mes pantalons, dans mon sac, dans mon portefeuille et j’ai beau laver, ça ne part pas. Je me surprends à frotter frénétiquement ma peau, espérant l’arracher, juste pour faire partir l odeur. ~~L~~<span style="color:rgb(126, 114, 218)">C</span>es traces teintent toute ma vie, infectant tout ce que je possède. Je ne possède plus, la Maison possède désormais. Je me couche le soir, souillé, sans que personne n’y puisse rien et je dois m’y faire. Elle m’est familière, cette souillure~~, je crois~~. 
 De toute façon, ce n’est pas nouveau que je me fasse emparer par ces traces. C’est ici-même, dans cette maison, il y a 20 ans, que c’est arrivé pour la première fois.==[^1] %%
 
 [[Luke|LUCAS]]
-Je suis sûr que ça partira.
+<span style="color:rgb(0, 176, 240)">Je suis sûr que ça partira.</span>
+<span style="color:rgb(0, 176, 240)">Puis si ça part, on trouvera une solution ensemble, d’accord ?</span>
+<span style="color:rgb(146, 208, 80)">I’m sure it’ll go away.</span>
+<span style="color:rgb(146, 208, 80)">And if it doesn't, we’ll find a solution together, okay?</span>
+
 
 %% ==Oui en quelques sortes. Plus les jours passeront, moins ça me dérangera et finalement je ne ferai plus attention aux traces. Elles feront partie de moi.==[^2] %%
 
-[[Luke|LUCAS]]
-Puis si ça part, on trouvera une solution ensemble, d’accord ?
 
 [[Isaac|ISAAC]]
 D’accord…
 J’imagine que tu as bientôt terminé le travail, alors ?
+<span style="color:rgb(146, 208, 80)">Okay…<br>I guess you’ll be done with ~~the~~ work soon, then?</span>
 
 [[Luke|LUCAS]]
 Ouaip c’est ça !

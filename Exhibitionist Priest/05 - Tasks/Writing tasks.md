@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] [[Rewrite Lucas' Call]]
 - [ ] [[Rewrite Styrofoam Castle]]
 - [ ] [[Rewrite Incipit]]
+- [ ] Replace LUCAS by LUKE
 
 
 ## DOING
