@@ -1,5 +1,5 @@
-Finalement il est arrivé au bout de dix minutes au lieu de trente ~~minutes~~. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. %% bl %%Il ouvre la porte.
-<span style="color:rgb(255, 222, 0)">After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. %% bl %%He opens the door</span>
+Finalement il est arrivé au bout de dix minutes au lieu de trente ~~minutes~~. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. <bl>Il ouvre la porte.
+<span style="color:rgb(255, 222, 0)">After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. <bl>He opens the door</span>
 
 [[Luke|LUKE]]
 Ah oui en effet c’est un peu… poussiéreux 
@@ -41,7 +41,7 @@ Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
 On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
 <span style="color:rgb(126, 114, 218)">We should focus on the living room since most of the evening will be spent here. Is that alright with you?</span>
 
-~~Je regarde de haut en bas Lucas. %% bl %%~~Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. %% bl %%Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
+~~Je regarde de haut en bas Lucas. <bl>~~Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. <bl>Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
 <span style="color:rgb(126, 114, 218)">~~I look Lucas up and down.~~ He’s still wearing his suit, though his tie is starting to come undone, his shirt soaked in sweat. His shoulders are speckled with leaves, and the bottoms of his pants and his shoes are covered in dirt.</span>
 
 [[Isaac|ISAAC]]
@@ -144,8 +144,8 @@ Je lui traine par le bras à travers la maison dans la salle de bain.
 
 [[Isaac|ISAAC]]
 Je t’en supplie, prends une douche.
-%% bl %%Tu peux prendre mes vêtements dans ma chambre. T’en trouveras sûrement qui t’iront. %% bl %%Je vais nettoyer pendant que tu te douches.
-<span style="color:rgb(255, 222, 0)">I beg you, take a shower.</span>%% bl %%<span style="color:rgb(255, 222, 0)">You can take some of my clothes from my bedroom. You can take whatever you want.</span>%% bl %%<span style="color:rgb(255, 222, 0)">I'm going to clean while you shower</span>
+<bl>Tu peux prendre mes vêtements dans ma chambre. T’en trouveras sûrement qui t’iront. <bl>Je vais nettoyer pendant que tu te douches.
+<span style="color:rgb(255, 222, 0)">I beg you, take a shower.</span><bl><span style="color:rgb(255, 222, 0)">You can take some of my clothes from my bedroom. You can take whatever you want.</span><bl><span style="color:rgb(255, 222, 0)">I'm going to clean while you shower</span>
 
 [[Luke|LUKE]]
 Mais-
@@ -155,11 +155,11 @@ Je lui claque la porte au nez avant qu’il puisse en placer une.
 <span style="color:rgb(255, 222, 0)">I close slam the door in his face before he can get a word in edgewise.</span>
 
 Je m’appuie sur la porte, dos au mur, reprenant mon souffle. Après quelques temps j’entends l’eau de la douche couler donc je saisis le signal et m’en vais attraper le balai qui gît au sol et je commence à dépoussiérer, le temps qu’il revienne.
-<span style="color:rgb(255, 222, 0)">I lean against the door, my back to the wall, catching my breath.</span>%% bl %%<span style="color:rgb(255, 222, 0)">After a bit, I hear the shower water, taking that as my queue, and go to grab the broom lying on the ground the begin to sweep, while waiting for him to come back.</span>
+<span style="color:rgb(255, 222, 0)">I lean against the door, my back to the wall, catching my breath.</span><bl><span style="color:rgb(255, 222, 0)">After a bit, I hear the shower water, taking that as my queue, and go to grab the broom lying on the ground the begin to sweep, while waiting for him to come back.</span>
 
 Quand je le vois comme ça, se plier en quatre, juste pour moi ça m’énerve. Ce n’est pas la première fois. Ce ne sera pas la dernière. Ça a toujours été comme ça avec lui. Toujours à débouler, sans rien demander. Je ne veux pas de son aide. Je ne suis pas son enfant sur lequel il doit veiller.
 Je pensais que ça allait s’arrêter après nos études. Il est pas venu avec moi pour l’université. Il a réussi à en trouver une assez proche pour pouvoir faire le trajet en voiture.  Moi j’ai préféré déménager dans un logement étudiant miteux. Et même là, il venait me voir et m’apporter des choses. J’ai dû éclaircir plusieurs fois à mes camarades et colocataires, que non c’est pas mon frère et c’est encore moins mon père, alors qu’on ne se ressemble pas vraiment. À chaque fois je refusais ses offres, mais étant donné ma situation, je me retrouvais à accepter. En fait, je dois l’admettre, il a beau m’énerver, j’aime bien qu’il prenne soin de moi. Avec lui, je n’ai jamais à me soucier de manquer de quoi que ce soit. Mon souhait, une réalité. Puis quand il me prend dans ses bras, je sens que je peux enfin respirer. La chaleur de son corps me submerge. Le poids du monde se lève. 
-<span style="color:rgb(255, 222, 0)">When I see him like that, bending over backwards, just for me it frustrates me.</span> %% bl %%<span style="color:rgb(255, 222, 0)">This isn't the first time. It won't be the last time. It's always like this with him.</span>%% bl %%<span style="color:rgb(255, 222, 0)">He's moving, without ever being asked. I don't want his help. I'm not some baby he needs to look after.</span>%% bl %%<span style="color:rgb(255, 222, 0)">I thought all this would stop after we left school. He didnt follow me for University. He managed to find on close enough to make the commute by car</span>%% bl %%<span style="color:rgb(255, 222, 0)">I chose to move into a shitty student apartment. He still came to see me and bring me things. I had to tell my roommates and friends over and over that he wasn't my brother or my dad even though we look nothing alike.</span>%% bl %%<span style="color:rgb(255, 222, 0)">Every time I tried to reject his gifts, but given my situation, i couldn't help but accept. Really, I have to admit, he may annoy me, i like that he takes care of me.</span>%% bl %%<span style="color:rgb(255, 222, 0)">With him, I never have to worry about needing anything. My wish 
+<span style="color:rgb(255, 222, 0)">When I see him like that, bending over backwards, just for me it frustrates me.</span> <bl><span style="color:rgb(255, 222, 0)">This isn't the first time. It won't be the last time. It's always like this with him.</span><bl><span style="color:rgb(255, 222, 0)">He's moving, without ever being asked. I don't want his help. I'm not some baby he needs to look after.</span><bl><span style="color:rgb(255, 222, 0)">I thought all this would stop after we left school. He didnt follow me for University. He managed to find on close enough to make the commute by car</span><bl><span style="color:rgb(255, 222, 0)">I chose to move into a shitty student apartment. He still came to see me and bring me things. I had to tell my roommates and friends over and over that he wasn't my brother or my dad even though we look nothing alike.</span><bl><span style="color:rgb(255, 222, 0)">Every time I tried to reject his gifts, but given my situation, i couldn't help but accept. Really, I have to admit, he may annoy me, i like that he takes care of me.</span><bl><span style="color:rgb(255, 222, 0)">With him, I never have to worry about needing anything. My wish 
 Mais du coin de ma tête, je peine à apprécier tout ce qu’il fait. Je sais que je ne peux rendre tout ce qu’il me fait. Quand il m’enlace je force mes bras autour de sa taille en retour. Ils resteraient ballants sinon. Je sais que je devrais faire plus. J’en suis incapable. Je ne pourrais jamais retourner sa bonté et son affection. Puis s’il creusait plus loin…
 
 La porte de la salle de bain claque et [[Luke]] marche d’un pas lourd vers les escaliers. Il les monte avec un fracas

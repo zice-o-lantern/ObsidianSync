@@ -1,5 +1,5 @@
 compile = (input, context) => {
-  const COLORTAGS_REGEX = /<(.*?)>/gm;
+  const COLORTAGS_REGEX = /<span(.*?)>(.*?)<\/span>/gm;
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       return {

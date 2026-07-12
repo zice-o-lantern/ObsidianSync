@@ -186,7 +186,7 @@ J’imagine que tu as bientôt terminé le travail, alors ?</span>
 <span style="color:rgb(255, 192, 0)">What time should I come 'round to your place?</span>
 
 [[Luke|LUKE]]
-<span style="color:rgb(0, 176, 240)">Hein ? Chez moi ? De quoi tu parles ? %% bl %%La soirée elle est pas chez moi, elle est chez toi.</span>
+<span style="color:rgb(0, 176, 240)">Hein ? Chez moi ? De quoi tu parles ? <bl>La soirée elle est pas chez moi, elle est chez toi.</span>
 <span style="color:rgb(255, 192, 0)">Eh? My place? What are you on about? The party isn’t at my place, it’s at your place</span>. 
 
 [[Isaac|ISAAC]]
