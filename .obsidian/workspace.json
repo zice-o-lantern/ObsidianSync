@@ -358,9 +358,81 @@
                   "icon": "lucide-trello",
                   "title": "Coding Tasks"
                 }
+              },
+              {
+                "id": "43d742b6135b00a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/manuscript.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "manuscript"
+                }
+              },
+              {
+                "id": "7e825a9f91891d93",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "renpy"
+                }
+              },
+              {
+                "id": "a9bfd64575d84cc5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/renpy.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "renpy"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -373,20 +445,20 @@
       }
     ]
   },
-  "active": "d93ac4a9a188550f",
+  "active": "ab9180f94f260422",
   "lastOpenFiles": [
-    "Exhibitionist Priest/08 - Scripts/StartMonitoring.ps1",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/manuscript.md",
+    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
+    "Exhibitionist Priest/08 - Scripts/StartMonitoring.ps1",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
     "Exhibitionist Priest/08 - Scripts/remove-tags.js",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md",
-    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
@@ -414,7 +486,6 @@
     "Untitled.md",
     "Untitled 2.md",
     "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md.edtz",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
