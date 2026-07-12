@@ -1,11 +1,11 @@
 compile = (input, context) => {
-  const NUMBER_FOOTNOTES_REGEX = /%%\s+{/g
-  const COMMENT_FOOTNOTES_REGEX = /}\s+%%/g
+  const NUMBER_FOOTNOTES_REGEX = /\[\^\d\]/g
+  const COMMENT_FOOTNOTES_REGEX = /\[\^\d\]:(.*?)/gm
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       let content = sceneInput.contents;
-      content = content.replace(NUMBER_FOOTNOTES_REGEX, "{");
-      content = content.replace(COMMENT_FOOTNOTES_REGEX, "}");
+      content = content.replace(NUMBER_FOOTNOTES_REGEX, "");
+      content = content.replace(COMMENT_FOOTNOTES_REGEX, "");
       
       return {
         contents: content
@@ -31,10 +31,10 @@ module.exports = {
   // object that describes the step and its configuration
   description: {
     // the name of your step
-    name: "Replace Tags",
+    name: "Remove footnotes",
 
     // short description of what it does
-    description: "Replace Tags like {w}",
+    description: "Remove Footntoes of the document",
 
     // array. valid options are "Scene", "Manuscript", "Join". "Join" must be the only member if present.
     availableKinds: ["Scene", "Manuscript"],
