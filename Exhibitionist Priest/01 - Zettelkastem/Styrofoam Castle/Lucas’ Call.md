@@ -129,33 +129,37 @@ J’imagine que tu as bientôt terminé le travail, alors ?</span>
 
 [[Isaac|ISAAC]]
 <span style="color:rgb(0, 176, 240)">Je vois…<br>Eh bien, rentre bien, alors.</span>
-<span style="color:rgb(146, 208, 80)">I see…<br>Well, get home safely, then.</span>
+<span style="color:rgb(146, 208, 80)">I see…<br>Well, get home safe, then.</span>
 
 [[Luke|LUCAS]]
-Wow wow wow, attends attends. Vu que t’as fini de déménager, ça te dirait pas de faire une petite soirée pour fêter ça ?
+<span style="color:rgb(0, 176, 240)">Wow wow wow, attends attends. Vu que t’as fini de déménager, ça te dirait pas de faire une petite soirée pour fêter ça ?</span>
+<span style="color:rgb(146, 208, 80)">Whoa, whoa, whoa, hang on a sec. Now that you’ve finished unpacking, fancy throwing a little party to celebrate?</span>
 
 [[Isaac|ISAAC]]
-Quand ça ?
+<span style="color:rgb(0, 176, 240)">Quand ça ?</span>
+<span style="color:rgb(146, 208, 80)">When?</span>
 
 [[Luke|LUCAS]]
-Ce soir ! Ne me dis pas que t’es pas disponible, je sais que tu l’es !
-Et tu dormiras chez moi !
-
-Argh, il m’a coincé.
+<span style="color:rgb(0, 176, 240)">Ce soir ! Ne me dis pas que t’es pas disponible, je sais que tu l’es !<br>Et tu dormiras chez moi !</span>
+<span style="color:rgb(146, 208, 80)">Tonight! Don’t tell me you’re not free, I know you are!<br>And you can sleep overnight</span>
 
 [[Isaac|ISAAC]]
-Je ne sais pas… Je me sens pas très en forme ces derniers temps.
+<span style="color:rgb(0, 176, 240)">Je ne sais pas… Je me sens pas très en forme ces derniers temps.</span>
+<span style="color:rgb(146, 208, 80)">I don’t know… I haven’t been feeling very well lately.</span>
 
 [[Luke|LUCAS]]
-Alleeez ! Ça fait longtemps qu’on s’est pas pas amusé,  et puis quand on travaille un samedi, on a envie de se changer les idées le soir !
+<span style="color:rgb(0, 176, 240)">Alleeez ! Ça fait longtemps qu’on s’est pas pas amusé,  et puis quand on travaille un samedi, on a envie de se changer les idées le soir !</span>
+<span style="color:rgb(146, 208, 80)">Come oooooon! It’s been ages since we’ve had a bit of fun, Even if you have to work, Saturdays are for partying</span>!
 
-Mais ça va encore empester l’alcool.
+<span style="color:rgb(0, 176, 240)">Mais ça va encore empester l’alcool.</span>
+<span style="color:rgb(146, 208, 80)">But it’s going to stink of booze again.</span>
 
 [[Isaac|ISAAC]]
-Je n’ai pas très envie de boire, Lucas.
+<span style="color:rgb(0, 176, 240)">Je n’ai pas très envie de boire, [[Luke|Lucas]].</span>
+<span style="color:rgb(146, 208, 80)">I don’t really feel like drinking, [[Luke|Lucas]].</span>
 
 [[Luke|LUCAS]]
-On boira pas beaucoup d’alcool, je te le promets !
+On boira pas beaucoup d’alcool, promis !
 
 [[Isaac|ISAAC]]
 T’es sûr ?
