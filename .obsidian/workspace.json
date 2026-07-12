@@ -49,9 +49,33 @@
               "icon": "lucide-file",
               "title": "Translate Lucas' Call"
             }
+          },
+          {
+            "id": "37a2e2fad122b05b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lucas’ Call"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,10 +313,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 392,
-        "y": -1040,
+        "x": -907,
+        "y": -823,
         "width": 911,
-        "height": 802,
+        "height": 803,
         "maximize": false,
         "zoom": 0
       }
@@ -300,6 +324,8 @@
   },
   "active": "5bb6f436e891c566",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md.edtz",
@@ -307,7 +333,6 @@
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Lucas' Call.md",
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Styrofoam Castle.md",
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Incipit.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Current/Write why did you quit.md",
     "Exhibitionist Priest/02 - Attachments/writing_icon.png",
     "Exhibitionist Priest/05 - Tasks/Current/Write why did you quit.md.edtz",
