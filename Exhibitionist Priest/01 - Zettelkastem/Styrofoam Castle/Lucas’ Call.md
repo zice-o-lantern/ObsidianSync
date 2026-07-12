@@ -5,8 +5,8 @@ characters:
   - "[[Luke]]"
 done:
 ---
-%% FR %%<span style="color:rgb(0, 176, 240)">À ce moment-là, mon téléphone sonne ~~alors~~. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran du clapet, il est marqué Luke. Je le déplie soigneusement. Une image de Luke m’enroulant par le cou et moi qui regarde sur le côté, visiblement agacé, préférant être enterré mille pieds sous terre plutôt que de me tenir ici. Le gros chienchien sourit à pleine dents montrant fièrement un signe V avec ses doigts.  ~~C’est [[Luke]].~~ Je décroche.</span>
-%% EN %%<span style="color:rgb(146, 208, 80)">Just then, my phone rings. The series of beeps and rings—enough to drive even the wisest of monks crazy—echoes through my thigh. I pull it out. On the small screen of the flip phone, it says “Luke.” I carefully open it. A picture of Luke wrapping his arms around my neck, while I look away, clearly annoyed, wishing I were buried a thousand feet underground rather than standing here. The big dog is grinning from ear to ear, proudly flashing a V-sign with his fingers. I answer the call</span>
+%% FR %%<span style="color:rgb(0, 176, 240)">À ce moment-là, mon téléphone sonne ~~alors~~. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran du clapet, il est marqué Luke. Je le déplie soigneusement.<br> Une image de Luke m’enroulant par le cou et moi qui regarde sur le côté, visiblement agacé, préférant être enterré mille pieds sous terre plutôt que de me tenir ici. Le gros chienchien sourit à pleine dents montrant fièrement un signe V avec ses doigts.  ~~C’est [[Luke]].~~ Je décroche.</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">Just then, my phone rings. The series of beeps and rings—enough to drive even the wisest of monks crazy—echoes through my thigh. I pull it out. On the small screen of the flip phone, it says “Luke.” I carefully open it. <br>A picture of Luke wrapping his arms around my neck, while I look away, clearly annoyed, wishing I were buried a thousand feet underground rather than standing here. The big dog is grinning from ear to ear, proudly flashing a V-sign with his fingers. I answer the call</span>
 
 [[Luke|LUCAS]]
 %% FR %%<span style="color:rgb(0, 176, 240)">Allo ? Allo alloooooooo !</span>
@@ -20,23 +20,23 @@ done:
 %%FR%%<span style="color:rgb(0, 176, 240)">Aaaah enfin te voilà ! Tu m’as manqué tu sais ?</span>
 %%EN %%<span style="color:rgb(146, 208, 80)">Oh, finally, there you are! I missed you, you know</span>
 
-%% FR %%Je lève ma montre.
-%% EN %%I look at my watch.
+%% FR %%<span style="color:rgb(0, 176, 240)">Je lève ma montre.</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">I look at my watch.</span>
 
 [[Isaac|ISAAC]]
-%% FR %%Tu m’as appelé ~~durant~~ <span style="color:rgb(126, 114, 218)">à</span> ta pause déjeuner.
-%% EN %%You called me during your lunch break...
+%% FR %%<span style="color:rgb(0, 176, 240)">Tu m’as appelé à ta pause déjeuner.</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">You called me during your lunch break.</span>
 
 [[Luke|LUCAS]]
-%%FR%%Roooh je te taquine
-%%EN%%Oh, I’m just teasing you
+%%FR%%<span style="color:rgb(0, 176, 240)">Roooh je te taquine</span>
+%%EN%%<span style="color:rgb(146, 208, 80)">Oh, I’m just teasing you</span>
 
-%% FR %%Il glousse doucement à ses pitreries.
-%% EN %%He giggles at his own tomfoolery.
+%% FR %%<span style="color:rgb(0, 176, 240)">Il glousse doucement à ses pitreries.</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">He giggles at his own tomfoolery.</span>
 
 [[Luke|LUCAS]]
-%% FR %%Tout se passe bien avec le déménagement ?
-%% EN%% Is everything going well with the move?
+%% FR %%<span style="color:rgb(0, 176, 240)">Tout se passe bien avec le déménagement ?</span>
+%% EN%% <span style="color:rgb(146, 208, 80)">Is everything going well with the move?</span>
 
 [[Isaac|ISAAC]]
 %% FR %%Plus ou moins. Je viens de finir.
