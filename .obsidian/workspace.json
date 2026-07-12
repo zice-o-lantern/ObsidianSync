@@ -78,36 +78,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "3d5b9fb0b2062c49",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80f3ba19483df5d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "manuscript"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -381,10 +351,10 @@
   },
   "active": "f7bd4eaf29b7afbf",
   "lastOpenFiles": [
-    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
+    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md",
