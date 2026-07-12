@@ -60,12 +60,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81d1b994a2dce790",
+            "id": "80f3ba19483df5d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,35 +80,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02 - Lucas’ Call English - First draft"
-            }
-          },
-          {
-            "id": "eb7d1985446f7513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "02 - Lucas’ Call"
+              "title": "manuscript"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -371,22 +346,23 @@
           }
         ],
         "direction": "vertical",
-        "x": 827,
+        "x": 826,
         "y": -1124,
-        "width": 917,
-        "height": 807,
+        "width": 922,
+        "height": 808,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "8e21889e9f68a37d",
+  "active": "d93ac4a9a188550f",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md",
     "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/05 - Tasks/Current/Transfer GDocs correction on obsidian for Lucas' call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md.edtz",
@@ -405,7 +381,6 @@
     "Exhibitionist Priest/05 - Tasks/Current/Translate Before the party.md.edtz",
     "Translate Before the party.md",
     "5 - Template/Kanban Card Template.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas.edtz",
     "5 - Template/Pause.md",

@@ -4,37 +4,46 @@
 
 
 CENTERED
+Cette histoire est une œuvre de fiction et ne se repose pas sur des faits réels. \nTout ressemblance est fortuite ou une coïncidence
 This story is a work of fiction and is not based on real events. \nAny resemblance to actual persons, places, or events is purely coincidental.
 
 
+Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui : on ne peut pas, après tout. Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus car c’est un nouveau chat. Alors, je me demande :  qu’adviendra de moi lorsqu’on défoncera la porte, affaissé dans ma petite boite de ma propre création ?
 
 Does the cat in the box want us to open the box? I’ve often thought about it. No one has ever asked the cat for its opinion —after all, we can’t. It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer  because it’s a new cat. So I wonder:  what will become of me when they break down the door,  slumped in my little box of my own making?
 
 
+23 h 40. Tu ouvres la porte. J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants. Tes cernes tombantes témoignant de toute tes douceurs et douleurs. Ton visage triste recelant un côté inquiétant et pervers, et surtout à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
 
 11:40 p.m. You open the door.  I adore everything about you: your piercing yet warm, intoxicating eyes. Your dark circles revealing all your tenderness and tendencies. Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
 
 
+Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. Je m'en mords la lèvre, même, mon seigneur, j'en halète. Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! je le dévore.
 
 I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest hair exposed. I bite my lip, my lord, I even pant. Then you take off your pants in one go, exhausted from the long day you've had. I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I saying, I devour it.
 
 
-Then you stop, lost in thought. I catch my breath. I adjust the lens and fix my glasses back on my nose. He’s still thinking: how cute.
+Puis tu t'arrêtes pensif. <span style="color:rgb(126, 114, 218)">Je reprends</span> mon souffle et ajuste <span style="color:rgb(126, 114, 218)">l’appareil-photo</span> et je replace mes lunettes sur le nez. Il est toujours à penser : que c'est mignon.
+Then you stop, lost in thought. I catch my breath. I adjust the lens and fix my glasses back on my nose. He’s still thinking<span style="color:rgb(255, 222, 0)">: h</span>ow cute.
 
 
 
+Après cela, se situe, ci-dessous, le point culminant de l’attente dissimulé par ce fin exquis tissu qui peine à couvrir ce buisson délaissé et dessine l’engin à l’origine de tous les désirs. Tu enfiles tes mains dans ton caleçon. Je respire à travers les dents. Je m'essuie la bouche. Ma main est couvert de salive. Mon cœur bat à toute vitesse, ma cage thoracique ne peut plus le contenir, se dansant, ricochant sur ces côtes et bondissant dans ma gorge. Je déglutis. <span style="color:rgb(126, 114, 218)">Je ne peux m'arrêter ; Je ne peux fermer les yeux.</span>
 
-Then  comes the climax , hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. You slip your hands into your boxers. I breathe through my teeth. I wipe my mouth. Drool drips from my hand. My heart is beating fast, my rib cage can no longer contain it: dancing, ricocheting off my ribs and leaping into my throat. I swallow.I must concentrate; I can't miss this moment. 
+<span style="color:rgb(255, 222, 0)">Then </span> comes the climax , hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. You slip your hands into your boxers. I breathe through my teeth. I wipe my mouth. Drool drips from my hand. My heart is beating fast, my rib cage can no longer contain it<span style="color:rgb(255, 222, 0)">:</span> dancing, ricocheting off my ribs and leaping into my throat. I swallow.I <span style="color:rgb(255, 222, 0)">must</span> concentrate<span style="color:rgb(255, 222, 0)">;</span> I can't miss this moment. 
 
 
+Son caleçon se baisse. Mes mains sont encore plus visqueuses, et ce n’est… pas de la bave.
 
 His boxers come down. My hands are even stickier, and it's… not saliva.
 
 
+Nous menons une valse à ton insu. N'est-ce pas ce qui fait la beauté de <span style="color:rgb(126, 114, 218)">ce moment</span> ? En absence de tout regard, tu danses et moi je me rince, en ce instant interdit. Je me délecte de ce trépidement qu’à tout moment, je pourrais me faire attraper,me faire voir. <span style="color:rgb(126, 114, 218)">J</span>e ne suis qu’un observateur . Un observateur qui constate sa soif, son désir. Un observateur en toute impunité. Un observateur qui n’existe pas, d’un autre monde. Un observateur à la fois aveugle et clairvoyant, voilà ce que je suis ! Jusqu’à ce que…  l’on m’observe <span style="color:rgb(126, 114, 218)">à mon tour</span>.
 
-We're dancing a waltz.  Unbeknownst to you. Doesn't that what make what we have so beautiful? With no one watching, in this forbidden moment, you dance— and I enjoy it. I revel in the thrill that at any moment I could get caught,  be seen.  I am just an  observer. An observer who perceives with his thirst, his desire. An observer with complete impunity. An observer who does not exist. An observer from another world. An observer who is both blind and clairvoyant, that is what I am! Until... I am observed.
+We're dancing a waltz.  Unbeknownst to you. <span style="color:rgb(255, 222, 0)">Doesn't</span> that what make what we have so beautiful? With no one watching, in this forbidden moment, you dance— and I enjoy it. I revel in the thrill that at any moment I could get caught,  be seen.  I am just a<span style="color:rgb(126, 114, 218)">n</span>  observer. An observer who perceives with his thirst, his desire. An observer with complete impunity. An observer who does not exist. An observer from another world. An observer who is both blind and clairvoyant, that is what I am! Until... I am observed.
  
 
+Regardez-moi, Dieu ou alors Schrödinger, que sais-je ! À Toi, si obsédé à l’idée d’ouvrir la boite sans <span style="color:rgb(126, 114, 218)">y</span> toucher. J’ai enfin découvert comment faire. Le Chat ne doit pas être observé. Il est heureux là où il se trouve, dans ses plaisirs et ses travers.
 
 Look at me, God or Schrödinger-- who knows! To You, so obsessed with the idea of opening the box without touching it. I have finally discovered how to do it.The cat mustn't be observed. They are content where they are, submerged in their pleasures and vices.
 
@@ -45,364 +54,485 @@ Look at me, God or Schrödinger-- who knows! To You, so obsessed with the idea o
 
 
 
+J’ouvre le dernier carton grossièrement en perforant le ruban adhésif marron avec mes dents. Après avoir craché Pas comme s’il y’en avait énormément de toute façon. Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. Déjà un mois qu’ils sont là. J’aurais pu demander à Luke mais il est au travail aujourd’hui.
 
-Today, I finally unpacked the last box from my old apartment. It wasn't even that much...like, three boxes, maybe?. I collapse into the armchair and sigh, my back aching. I really needed to unpack , I kept tripping over those darn boxes. They’ve been sitting there for a month. I could have asked Luke, but he’s at work today.
-
-
-
-People are often overwhelmed when they move. They’re sad, happy, anxious, relieved, unsettled, then it’s the end. It’s normal, after all. It’s to be expected. It’s a fresh start. It doesn’t do anything for me. I feel neither hot nor cold, just the musty smell. It’s as if I were walking through a Styrofoam castle :Dead to the touch and devoid of any warmth. I do my best to feel something—anything, whether excitement or sorrow—but nothing comes. I wander through the house of a stranger—my own now. I descend the shabby stairs, shuddering with every step, afraid of falling. Once downstairs, I wander thoughtfully, making my rounds,  until I inadvertently stop in front of the dresser, my hand reaching for a photo resting on it. A photo of me and my grandmother, taken by my uncle.
+Today, I finally unpacked the last box from my old apartment. <span style="color:rgb(176, 114, 218)">It wasn't even that much...like, three boxes, maybe?</span>. I collapse into the armchair and sigh, my back aching. I really <span style="color:rgb(232, 17, 93)">needed</span> to unpack <span style="color:rgb(232, 17, 93)">,</span> I kept tripping over those darn boxes. They’ve been sitting there for a month. I could have asked Luke, but he’s at work today.
 
 
+Les gens sont des livres à image quand ils déménagent. Ils sont tristes, heureux, tracassés, soulagés, chamboulés, <span style="color:rgb(126, 114, 218)">et puis c’est fini</span>. C'est normal après tout. C'est à prévoir. C'est un nouveau départ.Moi ça <span style="color:rgb(126, 114, 218)">ne</span> me fait rien. Ni chaud, ni froid, Plus l'odeur de renfermé. C'est comme si je marchais dans un château de polystyrène : engourdi au toucher et dénué de toute chaleur. je fais de mon mieux pour ressentir quelque chose que ce soit de l'excitation ou du chagrin mais rien ne vient. Je me promène <span style="color:rgb(126, 114, 218)">dans</span> la maison d'un inconnu, la mienne désormais. Je descends les miteux escaliers en frémissant à chaque pas, de peur de tomber. Une fois en bas, je déambule pensif, faisant ma ronde et je me pose par inadvertance devant la commode et ma main se saisit d'une photo posée dessus. Une photo de ma grand-mère et moi, prise par mon oncle.
 
-Grandma is dead, by the way. I don’t remember when it happened. Probably a few months ago now. I think she died from a fall. To be honest, I never really liked her. When I was little and she was full of energy, she was harsh and strict with me-- but as she got older, she became senile. Senile—I start peeing in the kitchen pots because it’s faster. My grandfather wasn’t any better but at least he was still in his right mind. Unfortunately, he died shortly before Grandma of a heart attack. They were both in their nineties. Anyway, following their deaths, their house stood empty.
-
-
-I put the photo back down with a sigh. Did I really make the right choice coming to live here? I had just started at my job. Everything was going well. So why, the moment my parents offered for me to move here, did I accept without a second thought and quit on the spot? I must be crazy.  There’s no work for me here. I’m going to have to live off my savings.
+People are often overwhelmed when they move. They’re sad, happy, anxious, relieved, unsettled, then it’s the end. It’s normal, after all. It’s to be expected. It’s a fresh start. It doesn’t do anything for me. I feel neither hot nor cold, just the musty smell. It’s as if I were walking through a Styrofoam castle :<span style="color:rgb(232, 17, 93)">Dead</span> to the touch and devoid of any warmth. I do my best to feel something—anything, whether excitement or sorrow—but nothing comes. I wander through the house of a stranger—my own now. I descend the shabby stairs, shuddering with every step, afraid of falling. Once downstairs, I wander thoughtfully, making my rounds,  <span style="color:rgb(232, 17, 93)">until</span> I inadvertently stop in front of the dresser, my hand reaching for a photo resting on it. A photo of <span style="color:rgb(232, 17, 93)">me and my grandmother</span>, taken by my uncle.
 
 
-I open one of the drawers at random out of curiosity and I'm caught off guard by a sudden cloud of dust. I shouldn’t have opened it so quickly. I cough. The dust seeps into my throat. I need air. I rush toward the window. I bump into the sideboard on the way. Objects fall. No time. I reach the window. I throw it open.
+D'ailleurs Grand-mère est morte. Je ne sais plus quand. Sûrement il y a quelque mois de cela maintenant. Je crois qu'elle est morte d'une chute. Pour être honnête je ne l'ai jamais vraiment apprécié. Quand j'étais petit et qu'elle <span style="color:rgb(126, 114, 218)">était</span> pleine d'énergie, elle était dure et sévère avec moi mais plus âgé, elle devenait sénile. <span style="color:rgb(126, 114, 218)">Pas sénile : parfois j’oublie ton prénom de temps en temps.</span> Sénile, je me mets à pisser dans les casseroles de la cuisine parce que c'est plus rapide. Mon grand-père n'était pas mieux mais au moins il avait toute sa tête. Malheureusement, il est mort peu avant Grand-Mère, une crise cardiaque. Ils avaient tous les deux dans les quatre-vingt-dix ans. Bref suite à leur décès, leur maison resta vacante.
+
+Grandma is dead, by the way. I don’t remember when <span style="color:rgb(232, 17, 93)">it happened</span>. Probably a few months ago now. I think she died from a fall. To be honest, I never really liked her. When I was little and she was full of energy, she was harsh and strict with me<span style="color:rgb(232, 17, 93)">--</span> but as she got older, she became senile. Senile—I start peeing in the kitchen pots because it’s faster. My grandfather wasn’t any better but at least he was still in his right mind. Unfortunately, he died shortly before Grandma of a heart attack. They were both in their nineties. Anyway, following their deaths, their house stood empty.
+
+Je repose la photo dans un soupir. Ai-je vraiment fait le bon choix de venir m'installer ici ?  <span style="color:rgb(126, 114, 218)">Je venais juste de commencer à mon boulot</span>. Tout se passait bien. Alors pourquoi, à l'instant où mes parents m'ont proposé d'emménager ici, j'ai accepté sans broncher et démissionné sur le champ. Je dois être fou. <span style="color:rgb(126, 114, 218)">Il n'y a aucun travail, aucune carrière, aucun avenir pour moi, ici.</span> Je vais devoir vivre sur mes économies.
+
+I put the photo back down with a sigh. Did I really make the right choice coming to live here? I had just started <span style="color:rgb(126, 114, 218)">at my job</span>. Everything was going well. So why, the moment my parents offered for me to move here, did I accept without a second thought and quit on the spot? I must be crazy.  There’s no work for me <span style="color:rgb(126, 114, 218)">here</span>. I’m going to have to live off my savings.
+
+J'ouvre l'un des tiroirs au hasard par curiosité et je suis pris de court par une bouffée de poussière. Je n'aurais pas dû l'ouvrir aussi rapidement. Je tousse. La poussière s'infiltre dans ma gorge. J'ai besoin d'air. Je me précipite vers la fenêtre. Je percute le buffet sur le chemin. Des objets tombent. Pas le temps. J'atteins la fenêtre. Je l’ouvre d’un seul coup.
+
+I open one of the drawers at random out of curiosity and <span style="color:rgb(232, 17, 93)">I'm</span> caught off guard by a sudden cloud of dust. I shouldn’t have opened it so quickly. I cough. The dust seeps into my throat. I need air. I rush toward the window. I bump into the sideboard on the way. Objects fall. No time. I reach the window. I throw it open.
 
 
+La bon air de la campagne rentre et je respire enfin. Le jardin est en piteuse état mais <span style="color:rgb(126, 114, 218)">récupérable</span>. Les vases brisés jonchent l’allée principale, le lière commençant à les enlacer. Je grimace. Quelqu’un pourrait se blesser dessus. J’aperçois la maison voisine, en face de de la rue. Elle a toujours les rideaux fermés. Il y a seulement une fenêtre à l’étage sans rideau mais difficile d’observer à l’intérieur sans s’approcher donc difficile de savoir ce qu’il s’y passe. Enfin pas que ça m’intéresse tant que ça.
 
-The fresh country air rushes in and I finally breathe. The garden is in a sorry state but it's salvageable. Broken vases litter the main path, ivy beginning to entwine around them. I grimace. Someone could get hurt on them. I spot the neighboring house across the street. Its curtains are always drawn. There’s only one window upstairs without a curtain but it’s hard to see inside without getting closer, so it’s hard to know what’s going on there. Not that I’m all that interested, anyway.
-
-
-
-The sound of something crashing to the floor and shattering snaps me out of my daze and I turn around. I scan the room for the source of the sound and find only the mess I’d knocked over on my way to the window. Broken porcelain lies nearby. I should clean that up. I rub my eyes in exasperation and drag myself over to the pile of objects. As I crouch down, my gaze falls on the bag, which is in pretty good shape compared to the rest of the books it’s resting on. I grab it and pull out a camera. It looks intact despite the fall. I handle it, examining it from every angle-- — it looks like a state-of-the-art camera. I turn it on. No photos. Strange. I would have thought I’d find some information about its owner in the photos. Grandma wasn’t really a photographer. At least I never saw her use a camera. I rummage through the bag. Among the lenses, a crumpled piece of paper is mixed in with everything else. A shopping list. “Buy milk for Marie.” My uncle’s wife. I see. The camera must belong to him. It’s a really good camera, especially for a hobbyist. (Perhaps instead of a period we could do a comma here: "It's a really good camera, especially for a hobbyist.") (I guess it's a taste thing. People told me i tend to put too much periods in my texts)  (I figured as much! I think it probably flows better in french too since you have more rules to control pacing within your punctuation styles, whereas in English it grinds a sentence to a halt.)My uncle must love taking pictures. After all, he took tons of them of me. I’m sure he has an album full of photos of me in every situation.
+The fresh country air rushes in and I finally breathe. The garden is in a sorry state but <span style="color:rgb(232, 17, 93)">it's </span>salvageable. Broken vases litter the main path, ivy beginning to entwine around them. I grimace. Someone could get hurt on them. I spot the neighboring house across the street. Its curtains are always drawn. There’s only one window upstairs without a curtain but it’s hard to see inside without getting closer, so it’s hard to know what’s going on there. Not that I’m all that interested, anyway.
 
 
-Curiosity gets the better of me. What if I used the camera to see what’s inside the neighbor’s house? Ever since day one, all those darn curtains have been stressing me out — and I’ve never seen the neighbor’s face.Isn’t that suspicious in and of itself? Plus, I have a camera right here. Why not take a quick peek inside to make sure there's nothing weird  going on?
+Un bruit de quelque chose se fracassant contre le sol et se briser me sort de ma torpeur et je me retourne. Je sonde la salle à la recherche du son et ne trouve que le bazar que j'ai fait tomber sur le chemin de la fenêtre. De la porcelaine brisée repose à côté. Je devrais nettoyer ça. Je me tire les paupières sous l'effet de l'exaspération et je me traîne vers le tas d'objets. En m’accroupissant, je pose mon regard sur la sacoche en bon <span style="color:rgb(126, 114, 218)">plutôt</span> état comparée au reste des livres sur lesquels elle repose. Je la saisis et en sors un appareil photo. Il a l'air d'être intact malgré la chute. Je le manipule, le regardant de tous les angles et ça a l'air d'être une caméra dernier cri. Je l'allume. Aucune photo. Bizarre. J'aurais cru que je trouverai des infos sur son propriétaire dans les photos. Mamie n'était pas vraiment une photographe. Du moins je ne l'ai jamais vu utilisé un appareil-photo. Je fouille la sacoche. Parmi les objectifs, un papier froissé se <span style="color:rgb(126, 114, 218)">démarque</span> entre tous. Une liste de courses. « Acheter du lait pour Marie ». La femme de mon oncle. Je vois. L’appareil-photo doit lui appartenir. C’est vraiment un bon appareil. Surtout pour un hobbyiste. Tonton doit adorer prendre des photos. Après tout il en prenait pleins de moi. Je suis sûr qu’il a<span style="color:rgb(126, 114, 218)">vait</span> un album rempli de moi en toute circonstance.
 
+The sound of something crashing to the floor and shattering snaps me out of my daze and I turn around. I scan the room for the source of the sound and find only the mess I’d knocked over on my way to the window. Broken porcelain lies nearby. I should clean that up. I rub my eyes in exasperation and drag myself over to the pile of objects. As I crouch down, my gaze falls on the bag, which is in pretty good shape compared to the rest of the books it’s resting on. I grab it and pull out a camera. It looks intact despite the fall. I handle it, examining it from every angle<span style="color:rgb(232, 17, 93)">--</span> — it looks like a state-of-the-art camera. I turn it on. No photos. Strange. I would have thought I’d find some information about its owner in the photos. Grandma wasn’t really a photographer. At least I never saw her use a camera. I rummage through the bag. Among the lenses, a crumpled piece of paper is mixed in with everything else. A shopping list. “Buy milk for Marie.” My uncle’s wife. I see. The camera must belong to him. It’s a really good camera<span style="color:rgb(232, 17, 93)"></span>, especially for a hobbyist. <span style="color:rgb(232, 17, 93)">(Perhaps instead of a period we could do a comma here: "It's a really good camera, especially for a hobbyist.")</span> <span style="color:rgb(76, 58, 166)">(I guess it's a taste thing. People told me i tend to put too much periods in my texts) </span> <span style="color:rgb(232, 17, 93)">(I figured as much! I think it probably flows better in french too since you have more rules to control pacing within your punctuation styles, whereas in English it grinds a sentence to a halt.)</span>My uncle must love taking pictures. After all, he took tons of them of me. I’m sure he has an album full of photos of me in every situation.
 
-So I stand at the window, holding the viewfinder up to my eyes, and zoom in as much as possible onto the window. Unfortunately, the reflections on the window prevent any real attempt to peek inside. However, I persist and stay there for a while, trying to find the right angle to avoid the reflections. A bird lands on  my windowsill. A white-throated sparrow. Then, after a few seconds, I manage to catch a glimpse of something-- a woman in the room.  At that moment, my brain begs me to lower the camera-- yet my hands stay put, fixed on the person. She’s wearing a blouse. She’s on the phone, gesturing wildly, exasperated. Obviously, it’s impossible to hear their conversation. But it doesn't look pleasant to listen to anyway.
+La curiosité s’empare de moi. Et si j’utilisais l’appareil-photo pour savoir ce qu’il y a l’intérieur de la maison du voisin. Depuis jour un, ça me stresse, tous ces fichus rideaux. Et je n’ai jamais vu la tête du voisin. N’est-ce pas suspicieux en tant que tel, en soit ? Puis j’ai une caméra sous la main. Pourquoi pas jeter un coup d’œil rapide à l’intérieur pour être sûr que rien de bizarre ne s’y passe.
 
+Curiosity gets the better of me. What if I used the camera to see what’s inside the neighbor’s house? Ever since day one, all those darn curtains have been stressing me out — and I’ve never seen the neighbor’s face.Isn’t that suspicious in and of itself? Plus, I have a camera right here. Why not take a quick peek inside to make sure <span style="color:rgb(232, 17, 93)">there's</span> nothing weird  going on?
 
-Nevertheless, the woman turns around abruptly and looks in my direction. Panicked, I jerk the lens toward the forest and startle the  sparrow in the process, causing it to crash into the camera. I fall flat on my butt . Dazed, I come to my senses and see the bird flying off into the distance, leaving me a few feathers as a parting gift. I struggle to my feet, brushing the dust and bits of feathers off my shirt and pants.  In my fall, I dropped the camera. It’s lying in the dust now. I hope it’s okay. I examine the camera and, thankfully, it has no visible damage. I turn it on to check if it’s working properly when I notice a recent photo in the gallery. Where did that one come from? No time for that. I need to check if the woman is still there. I zoom back in on the window. She’s not there anymore. Did she see me?
+<span style="color:rgb(126, 114, 218)">J</span>e me mets à la fenêtre,  <span style="color:rgb(126, 114, 218)">porte</span> l’aperçu à mes yeux et zoome le plus possible sur la fenêtre. Malheureusement les reflets sur la fenêtre empêchent toute réel tentative d’épier à l’intérieur. Cependant j’insiste et reste quelques temps, là, essayant de trouver le bon angle pour éviter les réflections. Un oiseau se pose sur le rebord de la fenêtre,<span style="color:rgb(126, 114, 218)"> à côté de moi</span>. Un merle. Au bout de quelques secondes, j’arrive à entrevoir la pièce à l’intérieur et aussi une silhouette féminine. À ce moment, mon cerveau me supplie de baisser la caméra, cependant, mes mains restent en place, fixées sur la personne. Elle porte un chemisier. Elle est au téléphone, gesticulant, exaspérée. Impossible d’écouter leur conversation évidemment. Mais elle ne serait pas agréable à écouter, de toute façon.
 
+So I stand at the window, hold<span style="color:rgb(232, 17, 93)">ing</span> the viewfinder up to my eyes, and zoom in as much as possible on<span style="color:rgb(232, 17, 93)">to </span>the window. Unfortunately, the reflections on the window prevent any real attempt to peek inside. However, I persist and stay there for a while, trying to find the right angle to avoid the reflections. A bird lands on  <span style="color:rgb(232, 17, 93)">my</span> windowsill. A white-throated sparrow. Then, after a few seconds, I manage to catch a glimpse of <span style="color:rgb(232, 17, 93)">something-- a woman in the room.</span>  At that moment, my brain begs me to lower the camera<span style="color:rgb(232, 17, 93)">--</span> yet my hands stay put, fixed on the person. She’s wearing a blouse. She’s on the phone, gesturing wildly, exasperated. Obviously, it’s impossible to hear their conversation. But it <span style="color:rgb(232, 17, 93)">doesn't look</span> pleasant to listen to anyway.
+
+Néanmoins la femme se retourne volte-face et regarde dans ma direction. Paniqué je tourne brusquement l’objectif vers la forêt et effraie le merle au passage, ce qui le contraint à foncer dans l’appareil-photo. Je tombe en plein sur les fesses.Étourdi, je reprends mes esprit et aperçois l’oiseau s’en aller au loin, me laissant en cadeau quelques plumes. Je me relève difficilement en essuyant la poussière et des bouts de plumes de ma chemise et de mon pantalon. Dans ma chute, j'ai lâché la caméra. Elle traîne dans la poussière maintenant. J'espère qu'elle n'a rien. J'ausculte la caméra et heureusement, elle n'a pas de dégâts apparents. Je l'allume afin de vérifier qu'elle marche bien quand je remarque une photo récente dans la galerie. D'où elle vient, celle-là ? Pas le temps. Faut que je vois si la femme est toujours là. Je rezoome sur la fenêtre. Elle n'est plus là. Est-ce qu'elle m'a vu ?
+
+Nevertheless, the woman turns around abruptly and looks in my direction. Panicked, I jerk the lens toward the forest and startle the  <span style="color:rgb(232, 17, 93)">sparrow</span> in the process, causing it to crash into the camera. I fall flat on my butt . Dazed, I come to my senses and see the bird flying off into the distance, leaving me a few feathers as a parting gift. I struggle to my feet, brushing the dust and bits of feathers off my shirt and pants.  In my fall, I dropped the camera. It’s lying in the dust now. I hope it’s okay. I examine the camera and, thankfully, it has no visible damage. I turn it on to check if it’s working properly when I notice a recent photo in the gallery. Where did that one come from? No time for that. I need to check if the woman is still there. I zoom back in on the window. She’s not there anymore. Did she see me?
+
+Je reste planqué un temps derrière la fenêtre, de peur qu'elle débarque devant ma porte. Je crains qu'elle suspecte le pire.C'est pas comme si je lui avais donné une raison de ne pas me douter. Mais malgré le temps passé, elle ne semble pas venir. Tant mieux.
 
 I stay hidden behind the window for a while, afraid she might show up at my door. I’m worried she suspects the worst. It’s not like I gave her a reason not to be suspicious of me. But despite the time that’s passed, she don’t seem to be coming. Good.
 
+La photo mystérieuse dans la galerie me revient à l'esprit. Je l'ouvre. La photo représente une photo d'un merle avec des plumes flous au quatre coins du cadre au premier plan sur un ciel bleu avec en fond la forêt. J'ai dû prendre la photo dans la panique.
 
-The mysterious photo in the gallery comes back to mind. I open it. The photo shows a  bird with blurry feathers in  all four corners of the frame  against a blue sky, with the forest in the background. I must have taken the photo in a panic.
+The mysterious photo in the gallery comes back to mind. I open it. The photo shows a  <span style="color:rgb(232, 17, 93)">bird</span> with blurry feathers in  <span style="color:rgb(232, 17, 93)">all</span> four corners of the frame  against a blue sky, with the forest in the background. I must have taken the photo in a panic.
 
+Je la trouve plutôt pas mal.  C'est un peu poétique en soit. Toutes les conditions et les conséquences qui m'ont amené à ce point, à cette photo.  Puis quand Tonton prenait ces photos à toutes heures de la journée, ça avait l’air amusant. C’est comme si mon oncle me le léguait. Peut-être bien c’est ma destinée de prendre des photos. Peut-être bien que c'était ma destinée de prendre une photo un jour ici. Je crois que je vais garder la caméra. Je n'ai pas grand chose à faire donc je suppose que ça ferait pas de mal de quelque photos au quatre coins de la ville. Peut-être que c'est pourrait devenir ma nouvelle passion ? Qui sait.J'accroche la sacoche à la taille et j'y range l'appareil-photo, une pellicule fraîche — prête pour toute sortes d’expérimentations.
 
-I think it’s actually pretty good. It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.  When Uncle used to take these photos at all hours of the day, it looked like fun. It’s as if my uncle were bequeathing it to me. As if it’s my destiny to take photos. Maybe it was my destiny to take a photo here one day. I think I’ll keep the camera. I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. Maybe it could become my new passion? Who knows. I strap the bag around my waist and put the camera inside, a fresh roll of film — ready for all kinds of experiments. 
+I think it’s actually pretty good. It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.  When Uncle used to take these photos at all hours of the day, it looked like fun. It’s as if my uncle were bequeathing it to me. As if it’s my destiny to take photos. Maybe it was my destiny to take a photo here one day. I think I’ll keep the camera. I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. Maybe it could become my new passion? Who knows. I strap the bag around my waist and put the camera inside, a fresh roll of film <span style="color:rgb(232, 17, 93)">—</span> ready for all kinds of experiments. 
 
 # 03 - Lucas’ Call
 
 
-Just then, my phone rings, so I pull it out. It’s Luke. I answer.
+<span style="color:rgb(0, 176, 240)">À ce moment-là, mon téléphone sonne . La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran du clapet, il est marqué Luke. Je le déplie soigneusement.<br> Une image de Luke m’enroulant par le cou et moi qui regarde sur le côté, visiblement agacé, préférant être enterré mille pieds sous terre plutôt que de me tenir ici. Le gros chienchien sourit à pleine dents montrant fièrement un signe V avec ses doigts.   Je décroche.</span>
+<span style="color:rgb(146, 208, 80)">Just then, my phone rings. The series of beeps and rings—enough to drive even the wisest of monks crazy—echoes through my thigh. I pull it out. On the small screen of the flip phone, it says “Luke.” I carefully open it. <br>A picture of Luke wrapping his arms around my neck, while I look away, clearly annoyed, wishing I were buried a thousand feet underground rather than standing here. The big dog is grinning from ear to ear, proudly flashing a V-sign with his fingers. I answer the call</span>
 
 LUKE
-Hello? Hello, hello!
+<span style="color:rgb(0, 176, 240)">Allo ? Allo alloooooooo !</span>
+<span style="color:rgb(146, 208, 80)">Hello? Hello, hello!</span>
 
 ISAAC
-… Hey.
+<span style="color:rgb(0, 176, 240)">… Allo.</span>
+<span style="color:rgb(146, 208, 80)">… Hey.</span>
 
 LUKE
-Oh enfin te voilà ! Tu m’as manqué tu sais ?
-Oh, finally, there you are! I missed you, you know
+<span style="color:rgb(0, 176, 240)">Aaaah enfin te voilà ! Tu m’as manqué tu sais ?</span>
+<span style="color:rgb(146, 208, 80)">Oh, finally, there you are! I missed you, you know</span>
 
-I look at my watch.
+<span style="color:rgb(0, 176, 240)">Je lève ma montre.</span>
+<span style="color:rgb(146, 208, 80)">I look at my watch.</span>
 
 ISAAC
-You called me during your lunch break...
+<span style="color:rgb(0, 176, 240)">Tu m’as appelé à ta pause déjeuner.</span>
+<span style="color:rgb(146, 208, 80)">You called me during your lunch break.</span>
 
 LUKE
-Roooh je te taquine
-Oh, I’m just teasing you
+<span style="color:rgb(0, 176, 240)">Roooh je te taquine</span>
+<span style="color:rgb(146, 208, 80)">Oh, I’m just teasing you</span>
 
-He giggles at his own tomfoolery.
+<span style="color:rgb(0, 176, 240)">Il glousse doucement à ses pitreries.</span>
+<span style="color:rgb(146, 208, 80)">He giggles at his own tomfoolery.</span>
 
 LUKE
- Is everything going well with the move?
+<span style="color:rgb(0, 176, 240)">Tout se passe bien avec le déménagement ?</span>
+ <span style="color:rgb(146, 208, 80)">Is everything going well with the move?</span>
 
 ISAAC
-More or less. I just finished.
+<span style="color:rgb(0, 176, 240)">Plus ou moins. Je viens de finir.</span>
+<span style="color:rgb(146, 208, 80)">More or less. I just finished.</span>
 
 LUKE
-Well, finally! You’ve been dragging your feet on this for ages!
+<span style="color:rgb(0, 176, 240)">Bah enfin ! Tu traînais ça au bout de la patte depuis des lustres !</span>
+<span style="color:rgb(146, 208, 80)">Oh, thank god! You’ve been dragging your feet on this for ages!</span>
 
 ISAAC
-It was only a month.
-
+<span style="color:rgb(0, 176, 240)">C’était qu’un mois.</span>
+<span style="color:rgb(146, 208, 80)">It was only a month.<br></span>
 LUKE
-And all that for what, three boxes?
+<span style="color:rgb(0, 176, 240)">Et tout ça pour quoi, trois cartons ?</span>
+<span style="color:rgb(146, 208, 80)">And all that for what, three boxes?</span>
 
 ISAAC
-Four.
+<span style="color:rgb(0, 176, 240)">Quatre.</span>
+<span style="color:rgb(146, 208, 80)">Four.</span>
 
 LUKE
-Still! Are you really sure you like the house? I’d understand if you didn’t.
+<span style="color:rgb(0, 176, 240)">Quand même ! T’es vraiment sûr d’aimer la maison ? Je te comprendrais si tu ne l’aimais pas.</span>
+<span style="color:rgb(146, 208, 80)">Still! Are you really sure you like the house? I’d understand if you didn’t.</span>
 
 ISAAC
-…why?
+<span style="color:rgb(0, 176, 240)">… pourquoi ?</span>
+<span style="color:rgb(146, 208, 80)">…why?</span>
 
 LUKE
-It’s so old, there’s so much work to do on it. And all those things—it must be bittersweet. Until recently, it belonged to… 
+<span style="color:rgb(0, 176, 240)">Elle est tellement vieille, il y a tellement de travaux à y faire. Puis tout ça, ce doit être nostalgique. Après tout, jusqu’à récemment, elle appartenait à…</span>
+I<span style="color:rgb(146, 208, 80)">It’s so old, there’s so much work to do on it. And all those things—it must be bittersweet. Until recently, it belonged to… </span>
 
 
-He trails off.
+<span style="color:rgb(0, 176, 240)">Il perd son chemin de pensée</span>
+<span style="color:rgb(146, 208, 80)">He trails off.</span>
 
 ISAAC
-Yes…
+<span style="color:rgb(0, 176, 240)">Oui…</span>
+<span style="color:rgb(146, 208, 80)">Yes…</span>
 
 LUKE
-And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you  want to stay there?
+<span style="color:rgb(0, 176, 240)">Puis, avec le nombre de fois que je t’ai laissé crécher chez moi, on aurait dit que tu évitais l’endroit comme la peste. À ce stade, tu pourrais même venir vivre chez moi. T’es sûr que tu veux pas rester chez moi ?</span>
+<span style="color:rgb(146, 208, 80)">And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you  want to stay there?</span>
 
 ISAAC
-Plus que sûr même. C’est ma maison donc je dois y rester. J’ai assez abusé de ton hospitalité. Je ne veux pas te déranger plus longtemps.
+<span style="color:rgb(0, 176, 240)">Plus que sûr. C’est ma maison donc je devrais y rester, tu sais ? J’ai assez abusé de ton hospitalité et je ne veux pas te déranger plus longtemps.</span>
+<span style="color:rgb(146, 208, 80)">Most definitely. It's my home, so I should stay there, you know? I've taken advantage of your hospitality long enough, and I don't want to bother you any longer.</span>
 
 LUKE
-Jamais tu me dérangerais, Isaac ! Si un ami a besoin d’aide, je l’aide, et surtout toi. Arrête de t’en faire !
+<span style="color:rgb(0, 176, 240)">Jamais tu me dérangerais, Isaac ! Si un ami a besoin d’aide, je l’aide, et surtout toi. Arrête de t’en faire !</span>
+<span style="color:rgb(146, 208, 80)">You’d never bother me, Isaac! If a friend needs help, I help them—especially you. Stop worrying about it!</span>
 
-La vision de Luke est réellement admirable mais naïf et niais. J’aimerais bien qu’il comprenne d’autres personnes ne seraient pas aussi généreuses que lui. Puis tout ça, c’est de la politesse. Jamais il n’oserait me dire que je le dérange.
+<span style="color:rgb(0, 176, 240)">La vision de Luke est réellement admirable mais naïf et niais. J’aimerais bien qu’il comprenne d’autres personnes ne seraient pas aussi généreuses que lui. Puis tout ça, c’est de la politesse. Jamais il n’oserait me dire que je le dérange.</span>
+<span style="color:rgb(146, 208, 80)">Luke’s outlook is truly admirable, but naive and simple-minded. I wish he’d understand that other people wouldn’t be as generous as he is. <br>Besides, all of this is just politeness. He’d never tell me I’m bothering him.</span>
 
 ISAAC
-Plus facile à dire qu’à faire.
+<span style="color:rgb(0, 176, 240)">Plus facile à dire qu’à faire.</span>
+<span style="color:rgb(146, 208, 80)">Easier said than done.</span>
 
 LUKE
-Essaie plus alors, eheh. Tu as pu régler le souci des tâches d’ailleurs ?
+<span style="color:rgb(0, 176, 240)">Essaie plus alors, eheh. Tu as pu régler le souci des tâches d’ailleurs ?</span>
+<span style="color:rgb(146, 208, 80)">Try harder then, heh. By the way, did you manage to sort out the stain issue?</span>
 
 ISAAC
-Non pas vraiment…
+<span style="color:rgb(0, 176, 240)">Non pas vraiment…</span>
+<span style="color:rgb(146, 208, 80)">No, not really…</span>
 
-Cette maison est bizarre. Elle me souille. Je le sais. Les objets ne sont jamais à leur place. Je retrouve jamais rien. Ou alors je les retrouve mais à l’autre de bout de la maison. Le matin je me réveillais avec des tâches sur les draps. Incolores. De l’eau ? Peut-être. L’odeur est insoutenable. On dirait de la moisissure. Je l’ai fait sentir à Lucas pour qu’il me dise ce que c’était. Il m’a dit que ça ne sentait rien. 
-Ce qui m’effraie le plus, c’est que je la sens  partout maintenant : sur mes pantalons, dans mon sac, dans mon portefeuille et j’ai beau laver, ça ne part pas. Je me surprends à frotter frénétiquement ma peau, espérant l’arracher, juste pour faire partir l odeur. Ces traces teintent toute ma vie, infectant tout ce que je possède. Je ne possède plus, la Maison possède désormais. Je me couche le soir, souillé, sans que personne n’y puisse rien et je dois m’y faire. Elle m’est familière, cette souillure. 
-De toute façon, ce n’est pas nouveau que je me fasse emparer par ces traces. C’est ici-même, dans cette maison, il y a 20 ans, que c’est arrivé pour la première fois.
 
-LUKE
-Je suis sûr que ça partira.
-
-Oui en quelques sortes. Plus les jours passeront, moins ça me dérangera et finalement je ne ferai plus attention aux traces. Elles feront partie de moi.
 
 LUKE
-Puis si ça part, on trouvera une solution ensemble, d’accord ?
+<span style="color:rgb(0, 176, 240)">Je suis sûr que ça partira.</span>
+<span style="color:rgb(0, 176, 240)">Puis si ça part, on trouvera une solution ensemble, d’accord ?</span>
+<span style="color:rgb(146, 208, 80)">I’m sure it’ll go away.</span>
+<span style="color:rgb(146, 208, 80)">And if it doesn't, we’ll find a solution together, okay?</span>
+
+
+
+
 
 ISAAC
-D’accord…
-J’imagine que tu as bientôt terminé le travail, alors ?
+<span style="color:rgb(0, 176, 240)">D’accord…
+J’imagine que tu as bientôt terminé le travail, alors ?</span>
+<span style="color:rgb(146, 208, 80)">Okay… I guess you’ll be done with work soon, then?</span>
 
 LUKE
-Ouaip c’est ça !
+<span style="color:rgb(0, 176, 240)">Ouaip c’est ça !</span>
+<span style="color:rgb(146, 208, 80)">Yep that’s it!</span>
 
 ISAAC
-Je vois…
-Eh bien, rentre bien, alors.
-
-Je vais pour raccrocher 
+<span style="color:rgb(0, 176, 240)">Je vois…<br>Eh bien, rentre bien, alors.</span>
+<span style="color:rgb(146, 208, 80)">I see…<br>Well, get home safe, then.</span>
 
 LUKE
-Wow wow wow, attends attends. Vu que t’as fini de déménager, ça te dirait pas de faire une petite soirée pour fêter ça ?
+<span style="color:rgb(0, 176, 240)">Wow wow wow, attends attends. Vu que t’as fini de déménager, ça te dirait pas de faire une petite soirée pour fêter ça ?</span>
+<span style="color:rgb(146, 208, 80)">Whoa, whoa, whoa, hang on a sec. Now that you’ve finished unpacking, fancy throwing a little party to celebrate?</span>
 
 ISAAC
-Quand ça ?
+<span style="color:rgb(0, 176, 240)">Quand ça ?</span>
+<span style="color:rgb(146, 208, 80)">When?</span>
 
 LUKE
-Ce soir ! Ne me dis pas que t’es pas disponible, je sais que tu l’es !
-Et tu dormiras chez moi !
-
-Argh, il m’a coincé.
+<span style="color:rgb(0, 176, 240)">Ce soir ! Ne me dis pas que t’es pas disponible, je sais que tu l’es !<br>Et tu dormiras chez moi !</span>
+<span style="color:rgb(146, 208, 80)">Tonight! Don’t tell me you’re not free, I know you are!<br>And you can sleep overnight</span>
 
 ISAAC
-Je ne sais pas… Je me sens pas très en forme ces derniers temps.
+<span style="color:rgb(0, 176, 240)">Je ne sais pas… Je me sens pas très en forme ces derniers temps.</span>
+<span style="color:rgb(146, 208, 80)">I don’t know… I haven’t been feeling very well lately.</span>
 
 LUKE
-Alleeez ! Ça fait longtemps qu’on s’est pas pas amusé,  et puis quand on travaille un samedi, on a envie de se changer les idées le soir !
+<span style="color:rgb(0, 176, 240)">Alleeez ! Ça fait longtemps qu’on s’est pas pas amusé,  et puis quand on travaille un samedi, on a envie de se changer les idées le soir !</span>
+<span style="color:rgb(146, 208, 80)">Come oooooon! It’s been ages since we’ve had a bit of fun, Even if you have to work, Saturdays are for partying</span>!
 
-Mais ça va encore empester l’alcool.
+<span style="color:rgb(0, 176, 240)">Mais ça va encore empester l’alcool.</span>
+<span style="color:rgb(146, 208, 80)">But it’s going to stink of booze again.</span>
 
 ISAAC
-Je n’ai pas très envie de boire, Lucas.
+<span style="color:rgb(0, 176, 240)">Je n’ai pas très envie de boire, Lucas.</span>
+<span style="color:rgb(146, 208, 80)">I don’t really feel like drinking, Lucas.</span>
 
 LUKE
-On boira pas beaucoup d’alcool, je te le promets !
+<span style="color:rgb(0, 176, 240)">On boira pas beaucoup d’alcool, promis !</span>
+<span style="color:rgb(146, 208, 80)">We won't drink much alcohol—I promise!</span>
 
 ISAAC
-T’es sûr ?
+<span style="color:rgb(0, 176, 240)">T’es sûr ?</span>
+<span style="color:rgb(146, 208, 80)">You’re sure?</span>
 
 LUKE
-Sûr de sûr.
+<span style="color:rgb(0, 176, 240)">Sûr de chez sûr.</span>
+<span style="color:rgb(146, 208, 80)">100% sure.</span>
 
-Je n’ai pas vraiment foi en lui, pour être honnête. Tant qu’il me met pas la bouteille sous le nez.
-Puis une image de mon lit apparaît dans mon esprit et de cette tâche qui ne part pas avec, incolore et inodore.
+<span style="color:rgb(0, 176, 240)">Je n’ai pas vraiment foi en lui, pour être honnête. Tant qu’il me met pas la bouteille sous le nez.<br>Puis une image de mon lit apparaît dans mon esprit et de cette tâche qui ne part pas avec, incolore et inodore.</span>
+<span style="color:rgb(146, 208, 80)">I don’t really take him at his word, to be honest. As long as he doesn’t shove the bottle under my nose.<br>Then an image of my bed pops into my mind, along with that stain that won’t come out, colourless and odourless.</span>
 
 ISAAC
-D’accord. Faisons cette soirée.
+<span style="color:rgb(0, 176, 240)">D’accord. Faisons cette soirée.</span>
+<span style="color:rgb(146, 208, 80)">Alright. Let’s have a party.</span>
 
 LUKE
-Youpiiii !!
+<span style="color:rgb(0, 176, 240)">Youpiiii !!</span>
+<span style="color:rgb(146, 208, 80)">Yayyyy!!</span>
 
 ISAAC
-Je viens à quelle heure chez toi ?
-
+<span style="color:rgb(0, 176, 240)">Je viens à quelle heure chez toi ?</span>
+<span style="color:rgb(146, 208, 80)">What time should I come 'round to your place?</span>
 
 LUKE
-Hein ? Chez moi ? De quoi tu parles ? La soirée elle est pas chez moi, elle est chez toi. 
+<span style="color:rgb(0, 176, 240)">Hein ? Chez moi ? De quoi tu parles ? La soirée elle est pas chez moi, elle est chez toi.</span>
+<span style="color:rgb(146, 208, 80)">Eh? My place? What are you on about? The party isn’t at my place, it’s at your place</span>. 
 
 ISAAC
-Chez moi ???
+<span style="color:rgb(0, 176, 240)">Chez moi ???</span>
+<span style="color:rgb(146, 208, 80)">At my place???</span>
 
 LUKE
-Bah oui. Une crémaillère ça se fait dans la maison dans laquelle on vient d'emménager, pas celle du voisin sinon c’est pas logique.
+<span style="color:rgb(0, 176, 240)">Bah oui. Une crémaillère ça se fait dans la maison dans laquelle on vient d'emménager, pas celle du voisin sinon c’est pas logique.</span>
+<span style="color:rgb(146, 208, 80)">Well, yeah. A housewarming party is held in the house you've just moved into, not your neighbor's—otherwise, it doesn't make sense.</span>
 
 ISAAC
-Mais je suis pas prêt ! J’ai encore plein de choses à faire ! La maison n’est pas prête !!
+<span style="color:rgb(0, 176, 240)">Mais je suis pas prêt ! J’ai encore plein de choses à faire ! La maison n’est pas prête !!</span>
+<span style="color:rgb(146, 208, 80)">But I’m not ready! I’ve still got loads to do! The house isn’t ready!!</span>
 
 LUKE
-Pas grave, je vais t’aider.
+<span style="color:rgb(0, 176, 240)">Pas grave, je vais t’aider.</span>
+<span style="color:rgb(146, 208, 80)">No problem, I’ll help you.</span>
 
 ISAAC
-Mais c’est ce soir !!!
+<span style="color:rgb(0, 176, 240)">Mais c’est ce soir !!!</span>
+<span style="color:rgb(146, 208, 80)">But it’s tonight!!!</span>
 
 LUKE
-Ça me donnera une excuse pour traîner avec toi ! 
+<span style="color:rgb(0, 176, 240)">Ça me donnera une excuse pour traîner avec toi !</span>
+<span style="color:rgb(146, 208, 80)">It’ll give me an excuse to hang out with you! </span>
 
 ISAAC
-Qui viendra ?
+<span style="color:rgb(0, 176, 240)">Qui viendra ?</span>
+<span style="color:rgb(146, 208, 80)">Who’s coming?</span>
 
 LUKE
-Nick et Simone.
+<span style="color:rgb(0, 176, 240)">Nick et Simone.</span>
+<span style="color:rgb(146, 208, 80)">Nick and Simone.</span>
 
 ISAAC
-Donc seulement nous quatre ?
+<span style="color:rgb(0, 176, 240)">Donc seulement nous quatre ?</span>
+<span style="color:rgb(146, 208, 80)">So just the four of us?</span>
 
 LUKE
-Seulement nous quatre.
+<span style="color:rgb(0, 176, 240)">Seulement nous quatre.</span>
+<span style="color:rgb(146, 208, 80)">Just the four of us.</span>
 
-Je souffle de soulagement.
+<span style="color:rgb(0, 176, 240)">Je souffle de soulagement.</span>
+<span style="color:rgb(146, 208, 80)">I breathe a sigh of relief.</span>
 
 ISAAC
-Dans combien de temps alors ?
+<span style="color:rgb(0, 176, 240)">Dans combien de temps alors ?</span>
+<span style="color:rgb(146, 208, 80)">What time?</span>
 
 LUKE
-Dans deux heures. J’arrive dans trente minutes !
+<span style="color:rgb(0, 176, 240)">Hmmmm 20 h! J’arrive en trente minutes, presto illico !</span>
+<span style="color:rgb(146, 208, 80)">Hmmmm, 8 p.m.! I'll be there in thirty minutes—in a jiffy-diffy!</span>
+
+<span style="color:rgb(0, 176, 240)">Je lève ma montre. Il est six heures passée.</span>
+<span style="color:rgb(146, 208, 80)">I raise my watch. it's six past.</span>
 
 ISAAC
-Deux heures… Lucas tu sais bien ce n’est pas assez de temps pour organiser tout ça. Et si Simone et Nick ne sont pas disponibles ? Et puis la maison sera dégueu-
+<span style="color:rgb(0, 176, 240)">C’est dans deux heures…</span>
+<span style="color:rgb(146, 208, 80)">It's in two hours…</span>
 
-Il a raccroché 
+LUKE
+<span style="color:rgb(0, 176, 240)">Oh merde, je ne m'en étais pas rendu compte ! Il faut que je me dépêche alors. J'arrive !</span>
+<span style="color:rgb(146, 208, 80)">Oh shit, I didn't realize! I have to hurry then. I’ll be there!</span>
+
+ISAAC
+<span style="color:rgb(0, 176, 240)">Lucas tu sais bien ce n’est pas assez de temps pour organiser tout ça. Et si Simone et Nick ne sont pas disponibles ? Et puis la maison sera dégueu–</span>
+<span style="color:rgb(146, 208, 80)">Luke, you know that’s not enough time to organise all this. What if Simone and Nick aren’t available? And the house will be a hot mess—</span>
+
+<span style="color:rgb(0, 176, 240)">Il a raccroché </span>
+<span style="color:rgb(146, 208, 80)">He’s hung up</span>
+
+[^1]: Sh: I’m moving this to another chapter because too much information at once
+
+[^2]: Sh: this too
+
 
 # 04 - Before the Party
 
-After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. He opens the door
+Finalement il est arrivé au bout de dix minutes au lieu de trente . Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
+<span style="color:rgb(255, 222, 0)">After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. He opens the door</span>
 
 LUKE
-Oh yeah it's a little...dusty in here.
+Ah oui en effet c’est un peu… poussiéreux 
+<span style="color:rgb(255, 222, 0)">Oh <span style="color:rgb(126, 114, 218)">yeah</span> it's a little...dusty in here.</span>
 
-I cross my arms.
+Je croise les bras.
+<span style="color:rgb(255, 222, 0)">I cross my arms.</span>
 
 ISAAC
-I told you so
+Je te l’avais dit.
+<span style="color:rgb(255, 222, 0)">I told you so</span>
 
-Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.
+Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
+<span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.</span>
 
 LUKE
-Where do you keep your brooms?
+Tu ranges où tes balais ?
+<span style="color:rgb(255, 222, 0)">Where do you keep your brooms?</span>
 
-I rub my temples  
+Je me tire la peau des arcades
+<span style="color:rgb(255, 222, 0)">I rub my temples</span>  
 
 ISAAC
-In the back closet under the stairs. 
+Au fond, en dessous des escaliers.
+<span style="color:rgb(255, 222, 0)">In the back closet under the stairs.</span> 
 
 LUKE
-Thanks!
+Merci !
+<span style="color:rgb(255, 222, 0)">Thanks!</span>
 
 ISAAC
-Don't mention it...
+Y’a pas de quoi…
+<span style="color:rgb(255, 222, 0)">Don't mention it...</span>
 
-As he opens the closet, I hear the clatter of the broom smacking against the ground.[^1]
+Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
+<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span>[^1]
 
 LUKE
-We should focus on the living room since most of the evening will be spent here. Is that alright with you?
+On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
+<span style="color:rgb(126, 114, 218)">We should focus on the living room since most of the evening will be spent here. Is that alright with you?</span>
 
- He’s still wearing his suit, though his tie is starting to come undone, his shirt soaked in sweat. His shoulders are speckled with leaves, and the bottoms of his pants and his shoes are covered in dirt.
+Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
+<span style="color:rgb(126, 114, 218)"> He’s still wearing his suit, though his tie is starting to come undone, his shirt soaked in sweat. His shoulders are speckled with leaves, and the bottoms of his pants and his shoes are covered in dirt.</span>
 
 ISAAC
-You came straight from work?
+Tu viens directement du travail ?
+<span style="color:rgb(255, 222, 0)">You came straight from work?</span>
 
 LUKE
-...Yeah?
+… oui ?
+<span style="color:rgb(255, 222, 0)">...Yeah?</span>
 
 ISAAC
-Why are you all dirty like that?
+Pourquoi t’es  sale comme ça ? 
+<span style="color:rgb(255, 222, 0)">Why are you all dirty like that?</span>
 
-Luke scratches his head.
+Luke se gratte la tête.
+<span style="color:rgb(255, 222, 0)">Luke scratches his head.</span>
 
 LUKE
-I may have taken one or two shortcuts...
+J’ai peut-être pris un ou deux raccourcis…
+<span style="color:rgb(255, 222, 0)">I may have taken one or two shortcuts...</span>
 
 ISAAC
-Really?
+Vraiment ?
+<span style="color:rgb(255, 222, 0)">Really?</span>
 
 LUKE
-And I might have fallen on the footpath.
+Et je suis peut-être tombé sur le chemin.
+<span style="color:rgb(255, 222, 0)">And I might have fallen on the footpath.</span>
 
 ISAAC
-More than that, it looks like you ran a marathon!
+Plus que tombé, là, t’as fait un marathon.
+<span style="color:rgb(255, 222, 0)">More than that, it looks like you ran a marathon!</span>
 
 LUKE
-Okay okay, but were in a hurry so let's get back to work.
+Oui bah on est pressé donc faut qu’on se mette au travail.
+<span style="color:rgb(255, 222, 0)">Okay okay, but were in a hurry so let's get back to work.</span>
 
-Lucas goes back and walks into the closet to grab the (?broom) when i grab his arm
+Lucas va pour se retourner et entrer dans le placard et attraper la pellette quand je lui attrape le bras
+<span style="color:rgb(255, 222, 0)">Lucas goes back and walks into the closet to grab the (?broom) when i grab his arm</span>
 
 ISAAC
-But, you're not going to clean the house like this?
+Mais tu vas pas nettoyer la maison comme ça ?
+<span style="color:rgb(255, 222, 0)">But, you're not going to clean the house like this?</span>
 
 LUKE
-Ah, but I believe that's why I'm here.
+Bah si je crois, c’est pour ça que je suis là.
+<span style="color:rgb(255, 222, 0)">Ah, but I believe that's why I'm here.</span>
 
-I snatch the broom out of his hands.
+Je lui fauche le balais des mains.
+<span style="color:rgb(255, 222, 0)">I snatch the broom out of his hands.</span>
 
 ISAAC
-But, you're dirtier than the house!
+Mais t’es plus que sale que là.
+<span style="color:rgb(255, 222, 0)">But, you're dirtier than the house!</span>
 
 LUKE
-Stop exaggerating...I dont smell that bad.
+Arrête d’exagérer… je pue pas quand même. 
+<span style="color:rgb(255, 222, 0)">Stop exaggerating...I dont smell that bad.</span>
 
-I can smell his pits.
-
-LUKE
-I'm okayyyy.
-
-I grab his shirt and sniff it.
-
-ISAAC
-You reek of sweat!
+Il sent son aisselle.
+<span style="color:rgb(255, 222, 0)">I can smell his pits.</span>
 
 LUKE
-Maybe a little bit. So what?
+Ça va<span style="color:rgb(126, 114, 218)">aaaaaaaaaa</span>.
+<span style="color:rgb(255, 222, 0)">I'm okayyyy.</span>
+
+Je saisis sa chemise et la renifle.
+<span style="color:rgb(255, 222, 0)">I grab his shirt and sniff it.</span>
 
 ISAAC
-And now you're going to take a shower, there it is.
+Tu empestes la sueur !
+<span style="color:rgb(255, 222, 0)">You reek of sweat!</span>
 
 LUKE
-I don't have a change of clothes!
+C’est peut être vrai. Et alors ?
+<span style="color:rgb(255, 222, 0)">Maybe a little bit. So what?</span>
 
 ISAAC
-So, you planned to sleep in these tonight!?
+Et alors que tu vas prendre une douche, voilà tout
+<span style="color:rgb(255, 222, 0)">And now you're going to take a shower, there it is.</span>
 
 LUKE
-...Maybe?
+J’ai pas d’habits de rechange !
+<span style="color:rgb(255, 222, 0)">I don't have a change of clothes!</span>
 
 ISAAC
-Auughhh, you get on my nerves!
+Mais t’allais pas faire une soirée dans cette tenue quand même !
+<span style="color:rgb(255, 222, 0)">So, you planned to sleep in these tonight!?</span>
 
-I drag him by the arm across the house to the bathroom.
+LUKE
+… si ?
+<span style="color:rgb(255, 222, 0)">...Maybe?</span>
 
 ISAAC
+ <span style="color:rgb(126, 114, 218)">Arrrrgh</span>, tu m’énerves !
+<span style="color:rgb(255, 222, 0)">Auughhh, you get on my nerves!</span>
+
+Je lui traine par le bras à travers la maison dans la salle de bain.
+<span style="color:rgb(255, 222, 0)">I drag him by the arm across the house to the bathroom.</span>
+
+ISAAC
+Je t’en supplie, prends une douche.
 Tu peux prendre mes vêtements dans ma chambre. T’en trouveras sûrement qui t’iront. Je vais nettoyer pendant que tu te douches.
-I beg you, take a shower.You can take some of my clothes from my bedroom. You can take whatever you want.I'm going to clean while you shower
+<span style="color:rgb(255, 222, 0)">I beg you, take a shower.</span><span style="color:rgb(255, 222, 0)">You can take some of my clothes from my bedroom. You can take whatever you want.</span><span style="color:rgb(255, 222, 0)">I'm going to clean while you shower</span>
 
 LUKE
-But-
+Mais-
+<span style="color:rgb(255, 222, 0)">But-</span>
 
-I close slam the door in his face before he can get a word in edgewise.
+Je lui claque la porte au nez avant qu’il puisse en placer une.
+<span style="color:rgb(255, 222, 0)">I close slam the door in his face before he can get a word in edgewise.</span>
 
-I lean against the door, my back to the wall, catching my breath.After a bit, I hear the shower water, taking that as my queue, and go to grab the broom lying on the ground the begin to sweep, while waiting for him to come back.
+Je m’appuie sur la porte, dos au mur, reprenant mon souffle. Après quelques temps j’entends l’eau de la douche couler donc je saisis le signal et m’en vais attraper le balai qui gît au sol et je commence à dépoussiérer, le temps qu’il revienne.
+<span style="color:rgb(255, 222, 0)">I lean against the door, my back to the wall, catching my breath.</span><span style="color:rgb(255, 222, 0)">After a bit, I hear the shower water, taking that as my queue, and go to grab the broom lying on the ground the begin to sweep, while waiting for him to come back.</span>
 
+Quand je le vois comme ça, se plier en quatre, juste pour moi ça m’énerve. Ce n’est pas la première fois. Ce ne sera pas la dernière. Ça a toujours été comme ça avec lui. Toujours à débouler, sans rien demander. Je ne veux pas de son aide. Je ne suis pas son enfant sur lequel il doit veiller.
 Je pensais que ça allait s’arrêter après nos études. Il est pas venu avec moi pour l’université. Il a réussi à en trouver une assez proche pour pouvoir faire le trajet en voiture.  Moi j’ai préféré déménager dans un logement étudiant miteux. Et même là, il venait me voir et m’apporter des choses. J’ai dû éclaircir plusieurs fois à mes camarades et colocataires, que non c’est pas mon frère et c’est encore moins mon père, alors qu’on ne se ressemble pas vraiment. À chaque fois je refusais ses offres, mais étant donné ma situation, je me retrouvais à accepter. En fait, je dois l’admettre, il a beau m’énerver, j’aime bien qu’il prenne soin de moi. Avec lui, je n’ai jamais à me soucier de manquer de quoi que ce soit. Mon souhait, une réalité. Puis quand il me prend dans ses bras, je sens que je peux enfin respirer. La chaleur de son corps me submerge. Le poids du monde se lève. 
-When I see him like that, bending over backwards, just for me it frustrates me. This isn't the first time. It won't be the last time. It's always like this with him.He's moving, without ever being asked. I don't want his help. I'm not some baby he needs to look after.I thought all this would stop after we left school. He didnt follow me for University. He managed to find on close enough to make the commute by carI chose to move into a shitty student apartment. He still came to see me and bring me things. I had to tell my roommates and friends over and over that he wasn't my brother or my dad even though we look nothing alike.Every time I tried to reject his gifts, but given my situation, i couldn't help but accept. Really, I have to admit, he may annoy me, i like that he takes care of me.With him, I never have to worry about needing anything. My wish 
+<span style="color:rgb(255, 222, 0)">When I see him like that, bending over backwards, just for me it frustrates me.</span> <span style="color:rgb(255, 222, 0)">This isn't the first time. It won't be the last time. It's always like this with him.</span><span style="color:rgb(255, 222, 0)">He's moving, without ever being asked. I don't want his help. I'm not some baby he needs to look after.</span><span style="color:rgb(255, 222, 0)">I thought all this would stop after we left school. He didnt follow me for University. He managed to find on close enough to make the commute by car</span><span style="color:rgb(255, 222, 0)">I chose to move into a shitty student apartment. He still came to see me and bring me things. I had to tell my roommates and friends over and over that he wasn't my brother or my dad even though we look nothing alike.</span><span style="color:rgb(255, 222, 0)">Every time I tried to reject his gifts, but given my situation, i couldn't help but accept. Really, I have to admit, he may annoy me, i like that he takes care of me.</span><span style="color:rgb(255, 222, 0)">With him, I never have to worry about needing anything. My wish 
 Mais du coin de ma tête, je peine à apprécier tout ce qu’il fait. Je sais que je ne peux rendre tout ce qu’il me fait. Quand il m’enlace je force mes bras autour de sa taille en retour. Ils resteraient ballants sinon. Je sais que je devrais faire plus. J’en suis incapable. Je ne pourrais jamais retourner sa bonté et son affection. Puis s’il creusait plus loin…
 
 La porte de la salle de bain claque et Luke marche d’un pas lourd vers les escaliers. Il les monte avec un fracas
@@ -437,10 +567,10 @@ ISAAC
 Mets-en un. La maison est sale et tu devrais pas laisser ta… peau toucher la poussière comme ça. 
 
 LUKE
- Oui mais je trouve rien.
+ <span style="color:rgb(126, 114, 218)">Oui</span> mais je trouve rien.
 
 ISAAC
-Tu n’as pas assez cherché. Normalement y a des joggings que tu peux mettre. Tu as regardé dans ma chambre, dans le tiroir en bas de l’armoire ?
+<span style="color:rgb(126, 114, 218)">T</span>u n’as pas assez cherché. Normalement y a des joggings que tu peux mettre. Tu as regardé dans ma chambre, dans le tiroir en bas de l’armoire ?
 
 Luke lève les yeux au ciel et se dandine sur ses jambes.
 
@@ -466,7 +596,7 @@ LUKE
 Il dit un sourire au coin de ses lèvres. Je roule des yeux, un petit rire m’échappe.
 
 ISAAC
-Bon Luke, va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café si tu montes.
+Bon Luke, va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café <span style="color:rgb(126, 114, 218)">si tu montes</span>.
 
 LUKE
 Vraiment ???
