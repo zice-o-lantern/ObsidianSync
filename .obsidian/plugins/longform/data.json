@@ -1389,10 +1389,6 @@
           "optionValues": {}
         },
         {
-          "id": "placeholder-missing-step",
-          "optionValues": {}
-        },
-        {
           "id": "remove-comments",
           "optionValues": {
             "remove-markdown-comments": true,
@@ -1555,6 +1551,13 @@
           "optionValues": {}
         },
         {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
           "id": "remove-links",
           "optionValues": {
             "remove-wikilinks": false,
@@ -1587,7 +1590,7 @@
         {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": "\n\n"
+            "separator": "\\n\\n\\n"
           }
         },
         {

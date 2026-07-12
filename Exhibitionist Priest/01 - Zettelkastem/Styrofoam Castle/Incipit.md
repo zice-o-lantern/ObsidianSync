@@ -39,7 +39,7 @@ pause 1.0
 pause 1.0
 --->
 
-<span style="color:rgb(0, 176, 240)">Puis tu t'arrêtes pensif. %% bl %%~~J'en profite pour reprendre~~<span style="color:rgb(126, 114, 218)">%% bl %%Je reprends</span> mon souffle et ajuste ~~les lamelles~~<span style="color:rgb(126, 114, 218)">l’appareil-photo</span> et je replace mes lunettes sur le nez. %% bl %%Il est toujours à penser%% {w} %% : que c'est mignon.</span>
+<span style="color:rgb(0, 176, 240)">Puis tu t'arrêtes pensif. %% bl %%Je reprends mon souffle et ajuste l’appareil-photo et je replace mes lunettes sur le nez. %% bl %%Il est toujours à penser%% {w} %% : que c'est mignon.</span>
 <span style="color:rgb(255, 192, 0)">Then you stop, lost in thought. %% bl %%I ~~take the opportunity to~~catch my breath. I adjust the lens and fix my glasses back on my nose. %% bl %%He’s still thinking: %% {w} %%how cute.</span>
 
 <!--- 
