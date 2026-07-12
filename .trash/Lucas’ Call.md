@@ -5,32 +5,42 @@ characters:
   - "[[Luke]]"
 done:
 ---
-À ce moment-là, mon téléphone sonne ~~alors~~<span style="color:rgb(126, 114, 218)">. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  </span><span style="color:rgb(126, 114, 218)">J</span>e le sors. <span style="color:rgb(126, 114, 218)"> Sur le petit écran de ce clapet, il est marqué Luke.Je déplie le clapet soigneusement. Une image d'un homme enroulant par le cou une personne qui regarde sur le côté, visiblement agacé, souhaitant être n'importe où mais ici. L'homme sourit à pleine dents montrant fièrement un signe V avec ses doigts. </span> ~~C’est [[Luke]].~~ Je décroche.
+%% FR %%À ce moment-là, mon téléphone sonne ~~alors~~<span style="color:rgb(126, 114, 218)">. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  </span><span style="color:rgb(126, 114, 218)">J</span>e le sors. <span style="color:rgb(126, 114, 218)"> Sur le petit écran de ce clapet, il est marqué Luke.Je déplie le clapet soigneusement. Une image d'un homme enroulant par le cou une personne qui regarde sur le côté, visiblement agacé, souhaitant être n'importe où mais ici. L'homme sourit à pleine dents montrant fièrement un signe V avec ses doigts. </span> ~~C’est [[Luke]].~~ Je décroche.
+%% EN %%Just then, my phone rings, so I pull it out. It’s [[Luke]]. I answer.
 
 [[Luke|LUCAS]]
-Allo ? Allo alloooooooo !
+%% FR %%Allo ? Allo alloooooooo !
+%% EN %%Hello? Hello, hello!
 
 [[Isaac|ISAAC]]
-… Allo.
+%% FR %%… Allo.
+%% EN %%… Hey.
 
 [[Luke|LUCAS]]
-Oh enfin te voilà ! Tu m’as manqué tu sais ?
+%%FR%%Oh enfin te voilà ! Tu m’as manqué tu sais ?
+%%EN %%Oh, finally, there you are! I missed you, you know
 
-Je lève ma montre.
+%% FR %%Je lève ma montre.
+%% EN %%I look at my watch.
 
 [[Isaac|ISAAC]]
-Tu m’as appelé ~~durant~~ <span style="color:rgb(126, 114, 218)">à</span> ta pause déjeuner.
+%% FR %%Tu m’as appelé ~~durant~~ <span style="color:rgb(126, 114, 218)">à</span> ta pause déjeuner.
+%% EN %%You called me during your lunch break...
 
 [[Luke|LUCAS]]
-Roooh je te taquine
+%%FR%%Roooh je te taquine
+%%EN%%Oh, I’m just teasing you
 
-Il glousse doucement à ses pitreries.
+%% FR %%Il glousse doucement à ses pitreries.
+%% EN %%He giggles at his own tomfoolery.
 
 [[Luke|LUCAS]]
-Tout se passe bien avec le déménagement ?
+%% FR %%Tout se passe bien avec le déménagement ?
+%% EN%% Is everything going well with the move?
 
 [[Isaac|ISAAC]]
-Plus ou moins. Je viens de finir.
+%% FR %%Plus ou moins. Je viens de finir.
+%% EN %%More or less. I just finished.
 
 [[Luke|LUCAS]]
 Bah enfin ! Tu traînais ça au bout de la patte depuis des lustres !
