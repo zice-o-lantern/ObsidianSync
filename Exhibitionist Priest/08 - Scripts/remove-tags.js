@@ -1,12 +1,11 @@
 compile = (input, context) => {
-  const NUMBER_FOOTNOTES_REGEX = /\[\^\d\]/g
-  const COMMENT_FOOTNOTES_REGEX = /\n\[\^\d\]:(.*?)\n/gm
+  // const START_BRACKETS_REGEX = /<\w/g
+  // const END_BRACKETS_REGEX = /\w>/g
+  const BRACKETS_REGEX = /<\w+(.*?)>/g
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       let content = sceneInput.contents;
-      content = content.replace(COMMENT_FOOTNOTES_REGEX, "");
-      content = content.replace(NUMBER_FOOTNOTES_REGEX, "");
-      
+      content = content.replace(BRACKETS_REGEX, "");
       return {
         contents: content
         // ...sceneInput,
@@ -18,8 +17,8 @@ compile = (input, context) => {
     });
   } else {
     let content = input.contents;
-    content = content.replace(COMMENT_FOOTNOTES_REGEX, "");
-    content = content.replace(NUMBER_FOOTNOTES_REGEX, "");
+    content = content.replace(START_BRACKETS_REGEX, "{");
+    content = content.replace(END_BRACKETS_REGEX, "}");
     return {
       ...input,
       contents: content
@@ -31,10 +30,10 @@ module.exports = {
   // object that describes the step and its configuration
   description: {
     // the name of your step
-    name: "Remove footnotes",
+    name: "Remove Tags",
 
     // short description of what it does
-    description: "Remove Footntoes of the document",
+    description: "Remove Tags like <>",
 
     // array. valid options are "Scene", "Manuscript", "Join". "Join" must be the only member if present.
     availableKinds: ["Scene", "Manuscript"],

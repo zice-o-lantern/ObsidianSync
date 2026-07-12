@@ -10,6 +10,7 @@ Does the cat in the box want us to open the box? I’ve often thought about it. 
 So I wonder:  what will become of me when they break down the door, slumped in my little box of my own making?
 
 
+
 11:40 p.m. You open the door.  I adore everything about you: your piercing yet warm, intoxicating eyes. Your dark circles revealing all your tenderness and tendencies. Your sad face concealing a disturbing and perverse side, and above all, how much better you look through my viewfinder. 
 
 
@@ -104,7 +105,7 @@ Oh, I’m just teasing you
 He giggles at his own tomfoolery.
 
 LUKE
- Is everything going well with the move?
+Is everything going well with the move?
 
 ISAAC
 More or less. I just finished.
@@ -277,21 +278,17 @@ He’s hung up
 
 # 04 - Before the Party
 
-Finalement il est arrivé au bout de dix minutes au lieu de trente . Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
-After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. He opens the door
+Somehow, he showed up after 10 minutes instead 30[^4], clumsily avoiding the broken vase pieces scattered along the garden paving stones. 
+He opens the door
 
 LUKE
-Ah oui en effet c’est un peu… poussiéreux 
 Oh yeah it's a little...dusty in here.
 
-Je croise les bras.
 I cross my arms.
 
 ISAAC
-Je te l’avais dit.
 I told you so
 
-Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
 Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.
 
 LUKE
@@ -348,7 +345,8 @@ Really?
 
 LUKE
 Et je suis peut-être tombé sur le chemin.
-And I might have fallen on the footpath.
+And I might have fallen upon the way[^3].
+
 
 ISAAC
 Plus que tombé, là, t’as fait un marathon.
@@ -359,7 +357,7 @@ Oui bah on est pressé donc faut qu’on se mette au travail.
 Okay okay, but were in a hurry so let's get back to work.
 
 Lucas va pour se retourner et entrer dans le placard et attraper la pellette quand je lui attrape le bras
-Lucas goes back and walks into the closet to grab the (?broom) when i grab his arm
+Lucas goes back and walks into the closet to grab the (?broom)[^2] when i grab his arm
 
 ISAAC
 Mais tu vas pas nettoyer la maison comme ça ?
@@ -826,3 +824,9 @@ Je me retire de son étreinte, le regard au sol, mes mains tirant mon haut le pl
 **$\quad$ Jump to 03_B - Flee
 
 [^1]: Sh: it's more "He "violently" (can't find the right word sorry) opens the closet and grabs the broom in a swift motion
+
+[^2]: Sh : we say dustpan!
+
+[^3]: Sh: the french original idiom means more “on the way home” than a footpath
+
+[^4]: Sh: more accurate translation for this part
