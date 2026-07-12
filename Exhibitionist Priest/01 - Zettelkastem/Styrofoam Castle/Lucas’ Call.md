@@ -159,35 +159,41 @@ J’imagine que tu as bientôt terminé le travail, alors ?</span>
 <span style="color:rgb(146, 208, 80)">I don’t really feel like drinking, [[Luke|Lucas]].</span>
 
 [[Luke|LUCAS]]
-On boira pas beaucoup d’alcool, promis !
+<span style="color:rgb(0, 176, 240)">On boira pas beaucoup d’alcool, promis !</span>
+<span style="color:rgb(146, 208, 80)">We won't drink much alcohol—I promise!</span>
 
 [[Isaac|ISAAC]]
-T’es sûr ?
+<span style="color:rgb(0, 176, 240)">T’es sûr ?</span>
+<span style="color:rgb(146, 208, 80)">You’re sure?</span>
 
 [[Luke|LUCAS]]
-Sûr de sûr.
+<span style="color:rgb(0, 176, 240)">Sûr de chez sûr.</span>
+<span style="color:rgb(146, 208, 80)">100% sure.</span>
 
-Je n’ai pas vraiment foi en lui, pour être honnête. Tant qu’il me met pas la bouteille sous le nez.
-Puis une image de mon lit apparaît dans mon esprit et de cette tâche qui ne part pas avec, incolore et inodore.
+<span style="color:rgb(0, 176, 240)">Je n’ai pas vraiment foi en lui, pour être honnête. Tant qu’il me met pas la bouteille sous le nez.<br>Puis une image de mon lit apparaît dans mon esprit et de cette tâche qui ne part pas avec, incolore et inodore.</span>
+<span style="color:rgb(146, 208, 80)">I don’t really take him at his word, to be honest. As long as he doesn’t shove the bottle under my nose.<br>Then an image of my bed pops into my mind, along with that stain that won’t come out, colourless and odourless.</span>
 
 [[Isaac|ISAAC]]
-D’accord. Faisons cette soirée.
+<span style="color:rgb(0, 176, 240)">D’accord. Faisons cette soirée.</span>
+<span style="color:rgb(146, 208, 80)">Alright. Let’s have a party.</span>
 
 [[Luke|LUCAS]]
-Youpiiii !!
+<span style="color:rgb(0, 176, 240)">Youpiiii !!</span>
+<span style="color:rgb(146, 208, 80)">Yayyyy!!</span>
 
 [[Isaac|ISAAC]]
-Je viens à quelle heure chez toi ?
-
+<span style="color:rgb(0, 176, 240)">Je viens à quelle heure chez toi ?</span>
+<span style="color:rgb(146, 208, 80)">What time should I come 'round to your place?</span>
 
 [[Luke|LUCAS]]
-Hein ? Chez moi ? De quoi tu parles ? La soirée elle est pas chez moi, elle est chez toi. 
+Hein ? Chez moi ? De quoi tu parles ? %% bl %%La soirée elle est pas chez moi, elle est chez toi. 
 
 [[Isaac|ISAAC]]
 Chez moi ???
 
 [[Luke|LUCAS]]
-Bah oui. Une crémaillère ça se fait dans la maison dans laquelle on vient d'emménager, pas celle du voisin sinon c’est pas logique.
+<span style="color:rgb(0, 176, 240)">Bah oui. Une crémaillère ça se fait dans la maison dans laquelle on vient d'emménager, pas celle du voisin sinon c’est pas logique.</span>
+<span style="color:rgb(146, 208, 80)">Well, yeah. A housewarming party is held in the house you've just moved into, not your neighbor's—otherwise, it doesn't make sense.</span>
 
 [[Isaac|ISAAC]]
 Mais je suis pas prêt ! J’ai encore plein de choses à faire ! La maison n’est pas prête !!
