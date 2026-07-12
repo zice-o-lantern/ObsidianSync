@@ -18,8 +18,10 @@ CENTERED
 pause 2.0
 --->
 
-<span style="color:rgb(0, 176, 240)">Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  %% {w} %%J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui %% {w} %%: on ne peut pas, après tout. %% bl %%Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus %% {w} %%car c’est un nouveau chat. %% bl %%<br>Alors, je me demande : %% {w} %% qu’adviendra de moi lorsqu’on défoncera la porte, %% {w} %%affaissé dans ma petite boite de ma propre création ?</span>
-<span style="color:rgb(255, 192, 0)">Does the cat in the box want us to open the box? %% {w} %%I’ve often thought about it. No one has ever asked the cat for its opinion %% {w} %%—after all, we can’t. %% bl %%It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer %% {w} %% because it’s a new cat. %% bl %%<br>So I wonder: %% {w} %% what will become of me when they break down the door, %% {w} %% slumped in my little box of my own making?</span>
+<span style="color:rgb(0, 176, 240)">Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  %% {w} %%J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui %% {w} %%: on ne peut pas, après tout. %% bl %%Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus %% {w} %%car c’est un nouveau chat. 
+Alors, je me demande : %% {w} %% qu’adviendra de moi lorsqu’on défoncera la porte, %% {w} %%affaissé dans ma petite boite de ma propre création ?</span>
+<span style="color:rgb(255, 192, 0)">Does the cat in the box want us to open the box? %% {w} %%I’ve often thought about it. No one has ever asked the cat for its opinion %% {w} %%—after all, we can’t. %% bl %%It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer %% {w} %% because it’s a new cat. 
+So I wonder: %% {w} %% what will become of me when they break down the door, %% {w} %% slumped in my little box of my own making?</span>
 
 <!--- 
 pause 1.0
@@ -34,7 +36,7 @@ pause 1.0
 pause 1.0
 --->
 
-<span style="color:rgb(0, 176, 240)">Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. %% bl %%Je m'en mords la lèvre, même, mon seigneur, j'en halète. %% bl %%Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. %% bl %%Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe ! ~~Que dis-je,~~je le dévore.</span>
+<span style="color:rgb(0, 176, 240)">Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. %% bl %%Je m'en mords la lèvre, même, mon seigneur, j'en halète. %% bl %%Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. %% bl %%Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe, je le dévore !</span>
 <span style="color:rgb(255, 192, 0)">I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest ~~fur~~hair exposed. %% bl %%I bite my lip, my lord, I even pant. %% bl %%Then you take off your pants in one go, exhausted from the long day you've had. %% bl %%I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I saying, I devour it.</span>
 
 <!---

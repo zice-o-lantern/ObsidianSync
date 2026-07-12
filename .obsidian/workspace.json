@@ -58,8 +58,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
-                "mode": "preview",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -73,7 +73,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lucas’ Call"
+              "title": "Incipit"
             }
           }
         ],
@@ -351,8 +351,8 @@
   },
   "active": "f7bd4eaf29b7afbf",
   "lastOpenFiles": [
-    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
+    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
