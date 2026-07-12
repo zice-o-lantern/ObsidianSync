@@ -4,31 +4,31 @@
 <!---
 scene black
 pause 2.0 
---->
+---}
 CENTERED
 This story is a work of fiction and is not based on real events. \nAny resemblance to actual persons, places, or events is purely coincidental.
 <!---
 pause 2.0
---->
+---}
 
-Does the cat in the box want us to open the box? <w>I’ve often thought about it. No one has ever asked the cat for its opinion <w>—after all, we can’t. 
-It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer <w> because it’s a new cat. 
-So I wonder: <w> what will become of me when they break down the door, <w>slumped in my little box of my own making?
+Does the cat in the box want us to open the box? {w+}I’ve often thought about it. No one has ever asked the cat for its opinion {w+}—after all, we can’t. 
+It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer {w+} because it’s a new cat. 
+So I wonder: {w+} what will become of me when they break down the door, {w+}slumped in my little box of my own making?
 
 <!--- 
 pause 1.0
 show bg bedroom intro with slow_dissolve
 pause 1.0
---->
+---}
 
-11:40 p.m. <w>You open the door.  
-I adore everything about you: <w>your piercing yet warm, intoxicating eyes. 
+11:40 p.m. {w+}You open the door.  
+I adore everything about you: {w+}your piercing yet warm, intoxicating eyes. 
 Your dark circles revealing all your tenderness and tendencies. 
-Your sad face concealing a disturbing and perverse side, and above all<w>, how much better you look through my viewfinder. 
+Your sad face concealing a disturbing and perverse side, and above all{w+}, how much better you look through my viewfinder. 
 
 <!---
 pause 1.0
---->
+---}
 
 I revel in how you unbutton your shirt, your slender and precise hands always leaving a little chest hair exposed. 
 I bite my lip, my lord, I even pant. 
@@ -37,16 +37,16 @@ I'm not complaining. I savor this moment, I relish it, I gobble it up! What am I
 
 <!---
 pause 1.0
---->
+---}
 
 Then you stop, lost in thought. 
 I catch my breath. I adjust the lens and fix my glasses back on my nose. 
-He’s still thinking: <w>how cute.
+He’s still thinking: {w+}how cute.
 
 <!--- 
 show bg bedroom intro person with slow_dissolve
 pause 1.0 
---->
+---}
 
 Then comes the climax, hidden down below by that thin, exquisite fabric that struggles to cover the neglected bush and outlines the engine of all desire. 
 You slip your hands into your boxers. 
@@ -60,25 +60,25 @@ I must concentrate ; I can't miss this moment.
 <!--- 
 scene black
 pause 1.0
---->
+---}
 
 His boxers come down. 
-My hands are even stickier, and it's… <w>not saliva.
+My hands are even stickier, and it's… {w+}not saliva.
 
 <!--- 
 pause 1.0
---->
+---}
 
-Nous menons une valse <w>à ton insu. <w>N'est-ce pas ce qui fait la beauté de ce moment ? 
+Nous menons une valse {w+}à ton insu. {w+}N'est-ce pas ce qui fait la beauté de ce moment ? 
 En absence de tout regard, tu danses et moi je me rince, en ce instant interdit. 
-Je me délecte de ce trépidement qu’à tout moment, je pourrais me faire attraper,<w>me faire voir. 
+Je me délecte de ce trépidement qu’à tout moment, je pourrais me faire attraper,{w+}me faire voir. 
 Je ne suis qu’un observateur. Un observateur qui constate sa soif, son désir. Un observateur en toute impunité. 
 Un observateur qui n’existe pas, d’un autre monde. 
 Un observateur à la fois aveugle et clairvoyant, voilà ce que je suis ! 
-Jusqu’à ce que…  <w>l’on m’observe<w> à mon tour.
-We're dancing a waltz.  <w>Unbeknownst to you. Doesn't that what make what we have so beautiful? 
+Jusqu’à ce que…  {w+}l’on m’observe{w+} à mon tour.
+We're dancing a waltz.  {w+}Unbeknownst to you. Doesn't that what make what we have so beautiful? 
 With no one watching, in this forbidden moment, you dance— and I enjoy it. 
-I revel in the thrill that at any moment I could get caught,  <w>be seen. I am just an observer. 
+I revel in the thrill that at any moment I could get caught,  {w+}be seen. I am just an observer. 
 An observer who perceives with his thirst, his desire. 
 An observer with complete impunity. An observer who does not exist. An observer from another world. 
 An observer who is both blind and clairvoyant, that is what I am! 
@@ -86,7 +86,7 @@ Until... I am observed.
 
 <!--- 
 pause 1.0 
----> 
+---} 
 
 Look at me, God or Schrödinger-- who knows! 
 To You, so obsessed with the idea of opening the box without touching it. 
@@ -95,7 +95,7 @@ The cat mustn't be observed. They are content where they are, submerged in their
 
 <!---
 ## TODO: add an animation of the closet being open and title screen
---->
+---}
 
 
 # Styrofoam Castle
@@ -105,147 +105,56 @@ The cat mustn't be observed. They are content where they are, submerged in their
 scene black with Dissolve(2.0)
 scene bg house living room with Dissolve(3.0)
 pause 1.0
---->
+---}
 
-Today, I finally unpacked the last box from my old apartment. 
-It wasn't even that much...like, three boxes, maybe?. 
-I collapse into the armchair and sigh, my back aching. 
-I really needed to unpack , I kept tripping over those darn boxes. 
-They’ve been sitting there for a month. 
-{w=1.0}I could have asked [[Luke]], but he’s at work today.
+Today, I finally unpacked the last box from my old apartment. It wasn't even that much...like, three boxes, maybe?. I collapse into the armchair and sigh, my back aching. I really needed to unpack , I kept tripping over those darn boxes. They’ve been sitting there for a month. I could have asked [[Luke]], but he’s at work today.
 
 <!---
 pause 2.0
---->
+---}
 
-People are often overwhelmed when they move. <w>They’re sad, happy, anxious, relieved, unsettled, then it’s the end. 
-It’s normal, after all. It’s to be expected. It’s a fresh start. It doesn’t do anything for me. I feel neither hot nor cold, just the musty smell. 
-It’s as if I were walking through a Styrofoam castle :Dead to the touch and devoid of any warmth. 
-I do my best to feel something—anything, whether excitement or sorrow—but nothing comes. 
-I wander through the house of a stranger—my own now. 
-I descend the shabby stairs, shuddering with every step, afraid of falling. 
-Once downstairs, I wander thoughtfully, making my rounds,  until I inadvertently stop in front of the dresser, my hand reaching for a photo resting on it. 
-A photo of me and my grandmother, taken by my uncle.
+People are often overwhelmed when they move. They’re sad, happy, anxious, relieved, unsettled, then it’s the end. It’s normal, after all. It’s to be expected. It’s a fresh start. It doesn’t do anything for me. I feel neither hot nor cold, just the musty smell. It’s as if I were walking through a Styrofoam castle :Dead to the touch and devoid of any warmth. I do my best to feel something—anything, whether excitement or sorrow—but nothing comes. I wander through the house of a stranger—my own now. I descend the shabby stairs, shuddering with every step, afraid of falling. Once downstairs, I wander thoughtfully, making my rounds,  until I inadvertently stop in front of the dresser, my hand reaching for a photo resting on it. A photo of me and my grandmother, taken by my uncle.
 
 <!---
 pause 1.0
---->
+---}
 
 
 
-I put the photo back down with a sigh. 
-Did I really make the right choice coming to live here? 
-I had just started at my job. 
-Everything was going well. 
-So why, the moment my parents offered for me to move here, did I accept without a second thought and quit on the spot? I must be crazy. 
-There’s no work for me here. 
-I’m going to have to live off my savings.
+I put the photo back down with a sigh. Did I really make the right choice coming to live here? I had just started at my job. Everything was going well. So why, the moment my parents offered for me to move here, did I accept without a second thought and quit on the spot? I must be crazy. There’s no work for me here. I’m going to have to live off my savings.
 
 
-I open one of the drawers at random out of curiosity and I'm caught off guard by a sudden cloud of dust. 
-I shouldn’t have opened it so quickly. 
-I cough. 
-The dust seeps into my throat. 
-I need air. 
-I rush toward the window. 
-I bump into the sideboard on the way. 
-Objects fall. 
-No time. 
-I reach the window. 
-I throw it open.
+I open one of the drawers at random out of curiosity and I'm caught off guard by a sudden cloud of dust. I shouldn’t have opened it so quickly. I cough. The dust seeps into my throat. I need air. I rush toward the window. I bump into the sideboard on the way. Objects fall. No time. I reach the window. I throw it open.
 
 <!---
 scene bg house garden:
     yalign 0.5
 with Dissolve(2.0)
 pause 1.0
---->
+---}
 
-The fresh country air rushes in and I finally breathe. The garden is in a sorry state but it's salvageable. 
-Broken vases litter the main path, ivy beginning to entwine around them. 
-I grimace. 
-Someone could get hurt on them. 
-I spot the neighboring house across the street. 
-Its curtains are always drawn. 
-There’s only one window upstairs without a curtain but it’s hard to see inside without getting closer, so it’s hard to know what’s going on there. 
-Not that I’m all that interested, anyway.
+The fresh country air rushes in and I finally breathe. The garden is in a sorry state but it's salvageable. Broken vases litter the main path, ivy beginning to entwine around them. I grimace. Someone could get hurt on them. I spot the neighboring house across the street. Its curtains are always drawn. There’s only one window upstairs without a curtain but it’s hard to see inside without getting closer, so it’s hard to know what’s going on there. Not that I’m all that interested, anyway.
 
 
-The sound of something crashing to the floor and shattering snaps me out of my daze and I turn around. 
-I scan the room for the source of the sound and find only the mess I’d knocked over on my way to the window. 
-Broken porcelain lies nearby. 
-I should clean that up. I rub my eyes in exasperation and drag myself over to the pile of objects. 
-As I crouch down, my gaze falls on the bag, which is in pretty good shape compared to the rest of the books it’s resting on. 
-I grab it and pull out a camera. 
-It looks intact despite the fall. 
-I handle it, examining it from every angle — it looks like a state-of-the-art camera. 
-I turn it on. 
-No photos. <w>Strange. 
-I would have thought I’d find some information about its owner in the photos. 
-Grandma wasn’t really a photographer. 
-At least I never saw her use a camera. 
-I rummage through the bag. 
-Among the lenses, a crumpled piece of paper is mixed in with everything else. 
-A shopping list. 
-“Buy milk for Marie.” 
-My uncle’s wife. I see. <w>The camera must belong to him. 
-It’s a really good camera<w>, especially for a hobbyist. My uncle must love taking pictures. 
-After all, he took tons of them of me. 
-I’m sure he has an album full of photos of me in every situation.
+The sound of something crashing to the floor and shattering snaps me out of my daze and I turn around. I scan the room for the source of the sound and find only the mess I’d knocked over on my way to the window. Broken porcelain lies nearby. I should clean that up. I rub my eyes in exasperation and drag myself over to the pile of objects. As I crouch down, my gaze falls on the bag, which is in pretty good shape compared to the rest of the books it’s resting on. I grab it and pull out a camera. It looks intact despite the fall. I handle it, examining it from every angle — it looks like a state-of-the-art camera. I turn it on. No photos. Strange. I would have thought I’d find some information about its owner in the photos. Grandma wasn’t really a photographer. At least I never saw her use a camera. I rummage through the bag. Among the lenses, a crumpled piece of paper is mixed in with everything else. A shopping list. “Buy milk for Marie.” My uncle’s wife. I see. The camera must belong to him. It’s a really good camera, especially for a hobbyist. My uncle must love taking pictures. After all, he took tons of them of me. I’m sure he has an album full of photos of me in every situation.
 
-Curiosity gets the better of me. 
-What if I used the camera to see what’s inside the neighbor’s house? 
-Ever since day one, all those darn curtains have been stressing me out — and I’ve never seen the neighbor’s face. 
-Isn’t that suspicious in and of itself? Plus, I have a camera right here. 
-Why not take a quick peek inside to make sure there's nothing weird going on?
+Curiosity gets the better of me. What if I used the camera to see what’s inside the neighbor’s house? Ever since day one, all those darn curtains have been stressing me out — and I’ve never seen the neighbor’s face. Isn’t that suspicious in and of itself? Plus, I have a camera right here. Why not take a quick peek inside to make sure there's nothing weird going on?
 
-So I stand at the window, holding the viewfinder up to my eyes, and zoom in as much as possible onto the window. 
-Unfortunately, the reflections on the window prevent any real attempt to peek inside. 
-However, I persist and stay there for a while, trying to find the right angle to avoid the reflections. 
-A bird—a white-throated—sparrow lands on my windowsill. 
-Then, after a few seconds, I manage to catch a glimpse of something— a woman in the room. At that moment, my brain begs me to lower the camera— yet my hands stay put, fixed on the person. 
-She’s wearing a blouse. She’s on the phone, gesturing wildly, exasperated. 
-Obviously, it’s impossible to hear their conversation. <w>But it doesn't look pleasant to listen to anyway.
+So I stand at the window, holding the viewfinder up to my eyes, and zoom in as much as possible onto the window. Unfortunately, the reflections on the window prevent any real attempt to peek inside. However, I persist and stay there for a while, trying to find the right angle to avoid the reflections. A bird—a white-throated—sparrow lands on my windowsill. Then, after a few seconds, I manage to catch a glimpse of something— a woman in the room. At that moment, my brain begs me to lower the camera— yet my hands stay put, fixed on the person. She’s wearing a blouse. She’s on the phone, gesturing wildly, exasperated. Obviously, it’s impossible to hear their conversation. But it doesn't look pleasant to listen to anyway.
 
-Nevertheless, the woman turns around abruptly and looks in my direction. 
-Panicked, I jerk the lens toward the forest and startle the sparrow in the process, causing it to crash into the camera. 
-I fall flat on my butt . 
-Dazed, I come to my senses and see the bird flying off into the distance, leaving me a few feathers as a parting gift. 
-I struggle to my feet, brushing the dust and bits of feathers off my shirt and pants. 
-In my fall, I dropped the camera. It’s lying in the dust now. 
-I hope it’s okay. 
-I examine the camera and, thankfully, it has no visible damage. 
-I turn it on to check if it’s working properly when I notice a recent photo in the gallery. 
-Where did that one come from? <w>No time for that. 
-I need to check if the woman is still there. 
-I zoom back in on the window.
- She’s not there anymore. <w>Did she see me?
+Nevertheless, the woman turns around abruptly and looks in my direction. Panicked, I jerk the lens toward the forest and startle the sparrow in the process, causing it to crash into the camera. I fall flat on my butt . Dazed, I come to my senses and see the bird flying off into the distance, leaving me a few feathers as a parting gift. I struggle to my feet, brushing the dust and bits of feathers off my shirt and pants. In my fall, I dropped the camera. It’s lying in the dust now. I hope it’s okay. I examine the camera and, thankfully, it has no visible damage. I turn it on to check if it’s working properly when I notice a recent photo in the gallery. Where did that one come from? No time for that. I need to check if the woman is still there. I zoom back in on the window. She’s not there anymore. Did she see me?
 
-I stay hidden behind the window for a while, afraid she might show up at my door. 
-I’m worried she suspects the worst. <w>It’s not like I gave her a reason not to be suspicious of me. 
-But despite the time that’s passed, she don’t seem to be coming. <w>Good.
+I stay hidden behind the window for a while, afraid she might show up at my door. I’m worried she suspects the worst. It’s not like I gave her a reason not to be suspicious of me. But despite the time that’s passed, she don’t seem to be coming. Good.
 
-The mysterious photo in the gallery comes back to mind. 
-I open it. 
-The photo shows a bird with blurry feathers in all four corners of the frame against a blue sky, with the forest in the background. 
-I must have taken the photo in a panic.
+The mysterious photo in the gallery comes back to mind. I open it. The photo shows a bird with blurry feathers in all four corners of the frame against a blue sky, with the forest in the background. I must have taken the photo in a panic.
 
-I think it’s actually pretty good. 
-It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.
-When Uncle used to take these photos at all hours of the day, it looked like fun. 
-It’s as if my uncle were bequeathing it to me. 
-As if it’s my destiny to take photos. 
-Maybe it was my destiny to take a photo here one day. 
-I think I’ll keep the camera. 
-I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. 
-Maybe it could become my new passion? <w>Who knows. 
-I strap the bag around my waist and put the camera inside, a fresh roll of film — ready for all kinds of experiments. 
+I think it’s actually pretty good. It’s a bit poetic in itself. All the conditions and consequences that led me to this point, to this photo.When Uncle used to take these photos at all hours of the day, it looked like fun. It’s as if my uncle were bequeathing it to me. As if it’s my destiny to take photos. Maybe it was my destiny to take a photo here one day. I think I’ll keep the camera. I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. Maybe it could become my new passion? Who knows. I strap the bag around my waist and put the camera inside, a fresh roll of film — ready for all kinds of experiments. 
 
 
 # Lucas’ Call
 
 
-Just then, my phone rings. The series of beeps and rings—enough to drive even the wisest of monks crazy—echoes through my thigh. I pull it out. On the small screen of the flip phone, it says “Luke.” I carefully open it. <br>A picture of Luke wrapping his arms around my neck, while I look away, clearly annoyed, wishing I were buried a thousand feet underground rather than standing here. The big dog is grinning from ear to ear, proudly flashing a V-sign with his fingers. I answer the call
+Just then, my phone rings. The series of beeps and rings—enough to drive even the wisest of monks crazy—echoes through my thigh. I pull it out. On the small screen of the flip phone, it says “Luke.” I carefully open it. {w+}A picture of Luke wrapping his arms around my neck, while I look away, clearly annoyed, wishing I were buried a thousand feet underground rather than standing here. The big dog is grinning from ear to ear, proudly flashing a V-sign with his fingers. I answer the call
 
 [[Luke|LUKE]]
 Hello? Hello, hello!
@@ -276,7 +185,7 @@ More or less. I just finished.
 Oh, thank god! You’ve been dragging your feet on this for ages!
 
 [[Isaac|ISAAC]]
-It was only a month.<br>
+It was only a month.{w+}
 [[Luke|LUKE]]
 And all that for what, three boxes?
 
@@ -307,7 +216,7 @@ Most definitely. It's my home, so I should stay there, you know? I've taken adva
 [[Luke|LUKE]]
 You’d never bother me, [[Isaac]]! If a friend needs help, I help them—especially you. Stop worrying about it!
 
-[[Luke]]’s outlook is truly admirable, but naive and simple-minded. I wish he’d understand that other people wouldn’t be as generous as he is. <br>Besides, all of this is just politeness. He’d never tell me I’m bothering him.
+[[Luke]]’s outlook is truly admirable, but naive and simple-minded. I wish he’d understand that other people wouldn’t be as generous as he is. {w+}Besides, all of this is just politeness. He’d never tell me I’m bothering him.
 
 [[Isaac|ISAAC]]
 Easier said than done.
@@ -337,7 +246,7 @@ Okay… I guess you’ll be done with work soon, then?
 Yep that’s it!
 
 [[Isaac|ISAAC]]
-I see…<br>Well, get home safe, then.
+I see…{w+}Well, get home safe, then.
 
 [[Luke|LUKE]]
 Whoa, whoa, whoa, hang on a sec. Now that you’ve finished unpacking, fancy throwing a little party to celebrate?
@@ -346,7 +255,7 @@ Whoa, whoa, whoa, hang on a sec. Now that you’ve finished unpacking, fancy thr
 When?
 
 [[Luke|LUKE]]
-Tonight! Don’t tell me you’re not free, I know you are!<br>And you can sleep overnight
+Tonight! Don’t tell me you’re not free, I know you are!{w+}And you can sleep overnight
 
 [[Isaac|ISAAC]]
 I don’t know… I haven’t been feeling very well lately.
@@ -368,7 +277,7 @@ You’re sure?
 [[Luke|LUKE]]
 100% sure.
 
-I don’t really take him at his word, to be honest. As long as he doesn’t shove the bottle under my nose.<br>Then an image of my bed pops into my mind, along with that stain that won’t come out, colourless and odourless.
+I don’t really take him at his word, to be honest. As long as he doesn’t shove the bottle under my nose.{w+}Then an image of my bed pops into my mind, along with that stain that won’t come out, colourless and odourless.
 
 [[Isaac|ISAAC]]
 Alright. Let’s have a party.

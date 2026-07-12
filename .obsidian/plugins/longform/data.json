@@ -1577,11 +1577,11 @@
           "optionValues": {}
         },
         {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
+          "id": "Exhibitionist Priest/08 - Scripts/replace-tags.js",
           "optionValues": {}
         },
         {
-          "id": "Exhibitionist Priest/08 - Scripts/remove-footnotes.js",
+          "id": "Exhibitionist Priest/08 - Scripts/remove-highlights.js",
           "optionValues": {}
         },
         {
@@ -1601,7 +1601,7 @@
           "id": "write-to-note",
           "optionValues": {
             "target": "EN/renpy.md",
-            "open-after": true
+            "open-after": false
           }
         }
       ]
