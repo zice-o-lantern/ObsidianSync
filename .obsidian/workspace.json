@@ -27,32 +27,9 @@
             }
           },
           {
-            "id": "201a53611ad21631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Translate Lucas' Call"
-            }
-          },
-          {
             "id": "37a2e2fad122b05b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,12 +47,43 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Lucas’ Call"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "3d5b9fb0b2062c49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d1b994a2dce790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02 - Lucas’ Call English - First draft"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,21 +321,22 @@
           }
         ],
         "direction": "vertical",
-        "x": -907,
-        "y": -823,
+        "x": -367,
+        "y": -1140,
         "width": 911,
-        "height": 803,
+        "height": 802,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "5bb6f436e891c566",
+  "active": "37a2e2fad122b05b",
   "lastOpenFiles": [
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md.edtz",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas.edtz",
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Lucas' Call.md",
@@ -363,7 +372,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/mauscript.md",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/07 - Rough Notes/fourre-tout.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",

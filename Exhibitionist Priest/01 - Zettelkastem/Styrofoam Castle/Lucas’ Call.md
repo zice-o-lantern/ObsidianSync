@@ -5,7 +5,7 @@ characters:
   - "[[Luke]]"
 done:
 ---
-%% FR %%À ce moment-là, mon téléphone sonne ~~alors~~. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran de ce clapet, il est marqué Luke.Je déplie le clapet soigneusement. Une image d'un homme enroulant par le cou une personne qui regarde sur le côté, visiblement agacé, souhaitant être n'importe où mais ici. L'homme sourit à pleine dents montrant fièrement un signe V avec ses doigts.  ~~C’est [[Luke]].~~ Je décroche.
+%% FR %%À ce moment-là, mon téléphone sonne ~~alors~~. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran du clapet, il est marqué Luke. Je le déplie soigneusement. Une image de Luke m’enroulant par le cou et moi qui regarde sur le côté, visiblement agacé, préférant être enterré mille pieds sous terre plutôt que de me tenir ici. L'homme sourit à pleine dents montrant fièrement un signe V avec ses doigts.  ~~C’est [[Luke]].~~ Je décroche.
 %% EN %%Just then, my phone rings, so I pull it out. It’s [[Luke]]. I answer.
 
 [[Luke|LUCAS]]
