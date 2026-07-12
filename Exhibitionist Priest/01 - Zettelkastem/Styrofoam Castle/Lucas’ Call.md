@@ -44,7 +44,7 @@ done:
 
 [[Luke|LUCAS]]
 %% FR %%<span style="color:rgb(0, 176, 240)">Bah enfin ! Tu traînais ça au bout de la patte depuis des lustres !</span>
-%% EN %%<span style="color:rgb(146, 208, 80)">Well, finally! You’ve been dragging your feet on this for ages!</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">Oh, thank god! You’ve been dragging your feet on this for ages!</span>
 
 [[Isaac|ISAAC]]
 %% FR %%<span style="color:rgb(0, 176, 240)">C’était qu’un mois.</span>
@@ -82,7 +82,8 @@ I%% EN %%<span style="color:rgb(146, 208, 80)">It’s so old, there’s so much 
 %% EN %%<span style="color:rgb(146, 208, 80)">And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you ~~don’t~~ want to stay there?</span>
 
 [[Isaac|ISAAC]]
-Plus que sûr même. C’est ma maison donc je dois y rester. J’ai assez abusé de ton hospitalité. Je ne veux pas te déranger plus longtemps.
+Plus que sûr. C’est ma maison donc je devrais y rester, tu sais ? J’ai assez abusé de ton hospitalité et je ne veux pas te déranger plus longtemps.
+Most definitely. It's my home, so I should stay there, you know? I've taken advantage of your hospitality long enough, and I don't want to bother you any longer.
 
 [[Luke|LUCAS]]
 Jamais tu me dérangerais, [[Isaac]] ! Si un ami a besoin d’aide, je l’aide, et surtout toi. Arrête de t’en faire !
