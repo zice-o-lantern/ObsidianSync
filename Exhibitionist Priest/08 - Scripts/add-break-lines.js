@@ -1,5 +1,5 @@
 compile = (input, context) => {
-  const BREAKLINE_REGEX = /%% bl %%/gm;
+  const BREAKLINE_REGEX = /<bl>/gm;
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       return {

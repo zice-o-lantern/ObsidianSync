@@ -1,6 +1,6 @@
 compile = (input, context) => {
-  const START_BRACKETS_REGEX = /<{/g
-  const END_BRACKETS_REGEX = /}>/g
+  const START_BRACKETS_REGEX = /</g
+  const END_BRACKETS_REGEX = />/g
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       let content = sceneInput.contents;

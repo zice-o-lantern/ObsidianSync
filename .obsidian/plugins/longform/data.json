@@ -1601,7 +1601,7 @@
           "id": "write-to-note",
           "optionValues": {
             "target": "EN/renpy.md",
-            "open-after": false
+            "open-after": true
           }
         }
       ]
