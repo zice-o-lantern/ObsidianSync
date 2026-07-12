@@ -366,28 +366,30 @@
                   "title": "Coding Tasks"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": -184,
-        "y": -1074,
-        "width": 918,
-        "height": 806,
+        "x": 827,
+        "y": -1124,
+        "width": 917,
+        "height": 807,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "37a2e2fad122b05b",
+  "active": "8e21889e9f68a37d",
   "lastOpenFiles": [
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md.edtz",
     "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Transfer GDocs correctoin on obsidian for Lucas' call.md",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Transfer GDocs correction on obsidian for Lucas' call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md.edtz",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md.edtz",
@@ -414,13 +416,11 @@
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md.edtz",
     "Exhibitionist Priest/08 - Scripts/remove-footnotes.js",
-    "Exhibitionist Priest/08 - Scripts/replace-tags - Copy.js",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/mauscript.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",

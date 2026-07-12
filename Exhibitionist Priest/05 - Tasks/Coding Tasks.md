@@ -13,6 +13,7 @@ kanban-plugin: board
 
 ## DOING
 
+- [ ] edit localistion with colors instead of tags
 - [ ] find how to ignore markdown comments in sidebar highlights
 - [ ] remove footnotes from export
 - [ ] script styrofoam scene

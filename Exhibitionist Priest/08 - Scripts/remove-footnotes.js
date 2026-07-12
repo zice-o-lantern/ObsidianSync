@@ -1,11 +1,11 @@
 compile = (input, context) => {
-  const START_BRACKETS_REGEX = /%%\s+{/g
-  const END_BRACKETS_REGEX = /}\s+%%/g
+  const NUMBER_FOOTNOTES_REGEX = /%%\s+{/g
+  const COMMENT_FOOTNOTES_REGEX = /}\s+%%/g
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       let content = sceneInput.contents;
-      content = content.replace(START_BRACKETS_REGEX, "{");
-      content = content.replace(END_BRACKETS_REGEX, "}");
+      content = content.replace(NUMBER_FOOTNOTES_REGEX, "{");
+      content = content.replace(COMMENT_FOOTNOTES_REGEX, "}");
       
       return {
         contents: content
@@ -18,8 +18,8 @@ compile = (input, context) => {
     });
   } else {
     let content = input.contents;
-    content = content.replace(START_BRACKETS_REGEX, "{");
-    content = content.replace(END_BRACKETS_REGEX, "}");
+    content = content.replace(NUMBER_FOOTNOTES_REGEX, "{");
+    content = content.replace(COMMENT_FOOTNOTES_REGEX, "}");
     return {
       ...input,
       contents: content

@@ -209,7 +209,7 @@ I raise my watch. it's six past.
 It's in two hours...
 
 [[Luke|LUCAS]]
-Oh shit, I didn't realize! I have to hurry then. I’ll be there in thirty minutes!.
+Oh shit, I didn't realize! I have to hurry then. I’ll be there in thirty minutes!
 
 [[Isaac|ISAAC]]
 Luke, you know that’s not enough time to organise all this. What if [[Simone]] and [[Nick]] aren’t available? And the house will be a right mess—

@@ -9,13 +9,11 @@ kanban-plugin: board
 - [ ] [[Rewrite Lucas' Call]]
 - [ ] [[Rewrite Styrofoam Castle]]
 - [ ] [[Rewrite Incipit]]
-- [ ] Replace LUCAS by LUKE
 
 
 ## DOING
 
-- [ ] [[Translate Lucas' Call]]
-- [ ] [[Transfer GDocs correctoin on obsidian for Lucas' call]]
+- [ ] [[Transfer GDocs correction on obsidian for Lucas' call]]
 - [ ] [[Write why did you quit]]
 - [ ] [[Translate Before the party]]
 
@@ -28,6 +26,8 @@ kanban-plugin: board
 
 ## DONE
 
+- [x] Replace LUCAS by LUKE
+- [x] [[Translate Lucas' Call]]
 - [x] Redirect Canvas to specific chapters
 - [x] Write Lucas Call
 - [x] Finish [[Luke]] sheet

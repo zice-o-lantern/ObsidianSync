@@ -1,7 +1,7 @@
 %% FR %%Finalement il est arrivé au bout de dix minutes au lieu de trente ~~minutes~~. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. %% bl %%Il ouvre la porte.
 %% EN %%<span style="color:rgb(255, 222, 0)">After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. %% bl %%He opens the door</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%Ah oui en effet c’est un peu… poussiéreux 
 %% EN %%<span style="color:rgb(255, 222, 0)">Oh <span style="color:rgb(126, 114, 218)">yeah</span> it's a little...dusty in here.</span>
 
@@ -15,7 +15,7 @@
 %% FR %%Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
 %% EN %%<span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%Tu ranges où tes balais ?
 %% EN %%<span style="color:rgb(255, 222, 0)">Where do you keep your brooms?</span>
 
@@ -26,7 +26,7 @@
 %% FR %%Au fond, en dessous des escaliers.
 %% EN %%<span style="color:rgb(255, 222, 0)">In the back closet under the stairs.</span> 
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%Merci !
 %% EN %%<span style="color:rgb(255, 222, 0)">Thanks!</span>
 
@@ -37,7 +37,7 @@
 %% FR %%Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
 %% EN %%==<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span>==[^1]
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
 %% EN %%<span style="color:rgb(126, 114, 218)">We should focus on the living room since most of the evening will be spent here. Is that alright with you?</span>
 
@@ -48,7 +48,7 @@
 %% FR %%Tu viens directement du travail ?
 %% EN %%<span style="color:rgb(255, 222, 0)">You came straight from work?</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%… oui ?
 %% EN %%<span style="color:rgb(255, 222, 0)">...Yeah?</span>
 
@@ -59,7 +59,7 @@
 %% FR %%[[Luke]] se gratte la tête.
 %% EN %%<span style="color:rgb(255, 222, 0)">Luke scratches his head.</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%J’ai peut-être pris un ou deux raccourcis…
 %%  EN %%<span style="color:rgb(255, 222, 0)">I may have taken one or two shortcuts...</span>
 
@@ -67,7 +67,7 @@
 %% FR %%Vraiment ?
 %% EN %%<span style="color:rgb(255, 222, 0)">Really?</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%Et je suis peut-être tombé sur le chemin.
 %% EN %%<span style="color:rgb(255, 222, 0)">And I might have fallen on the footpath.</span>
 
@@ -75,7 +75,7 @@
 %% FR %%Plus que tombé, là, t’as fait un marathon.
 %% EN %%<span style="color:rgb(255, 222, 0)">More than that, it looks like you ran a marathon!</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%Oui bah on est pressé donc faut qu’on se mette au travail.
 %% EN %%<span style="color:rgb(255, 222, 0)">Okay okay, but were in a hurry so let's get back to work.</span>
 
@@ -86,7 +86,7 @@
 %% FR %%Mais tu vas pas nettoyer la maison comme ça ?
 %% EN %%<span style="color:rgb(255, 222, 0)">But, you're not going to clean the house like this?</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%Bah si je crois, c’est pour ça que je suis là.
 %% EN %%<span style="color:rgb(255, 222, 0)">Ah, but I believe that's why I'm here.</span>
 
@@ -97,14 +97,14 @@
 %% FR %%Mais t’es plus que sale que là.
 %% EN %%<span style="color:rgb(255, 222, 0)">But, you're dirtier than the house!</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%Arrête d’exagérer… je pue pas quand même. 
 %% EN %%<span style="color:rgb(255, 222, 0)">Stop exaggerating...I dont smell that bad.</span>
 
 %% FR %%Il sent son aisselle.
 %% EN %%<span style="color:rgb(255, 222, 0)">I can smell his pits.</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%Ça va<span style="color:rgb(126, 114, 218)">aaaaaaaaaa</span>.
 %% EN %%<span style="color:rgb(255, 222, 0)">I'm okayyyy.</span>
 
@@ -115,7 +115,7 @@
 %% FR %%Tu empestes la sueur !
 %% EN %%<span style="color:rgb(255, 222, 0)">You reek of sweat!</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%C’est peut être vrai. Et alors ?
 %% EN %%<span style="color:rgb(255, 222, 0)">Maybe a little bit. So what?</span>
 
@@ -123,7 +123,7 @@
 %% FR %%Et alors que tu vas prendre une douche, voilà tout~~.~~
 %% EN %%<span style="color:rgb(255, 222, 0)">And now you're going to take a shower, there it is.</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%J’ai pas d’habits de rechange !
 %% EN %%<span style="color:rgb(255, 222, 0)">I don't have a change of clothes!</span>
 
@@ -131,7 +131,7 @@
 %% FR %%Mais t’allais pas faire une soirée dans cette tenue quand même !
 %% EN %%<span style="color:rgb(255, 222, 0)">So, you planned to sleep in these tonight!?</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%… si ?
 %% EN %%<span style="color:rgb(255, 222, 0)">...Maybe?</span>
 
@@ -147,7 +147,7 @@
 %% bl %%Tu peux prendre mes vêtements dans ma chambre. T’en trouveras sûrement qui t’iront. %% bl %%Je vais nettoyer pendant que tu te douches.
 %% EN %%<span style="color:rgb(255, 222, 0)">I beg you, take a shower.</span>%% bl %%<span style="color:rgb(255, 222, 0)">You can take some of my clothes from my bedroom. You can take whatever you want.</span>%% bl %%<span style="color:rgb(255, 222, 0)">I'm going to clean while you shower</span>
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 %% FR %%Mais-
 %% EN %%<span style="color:rgb(255, 222, 0)">But-</span>
 
@@ -167,7 +167,7 @@ La porte de la salle de bain claque et [[Luke]] marche d’un pas lourd vers les
 [[Isaac|ISAAC]]
 Fais attention aux escaliers, tu pourrais te blesser !
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 T’inquiète, j’ai pas 90 ans.
 
 Je grince des dents et retourne au ménage.
@@ -177,7 +177,7 @@ Au bout de quelques minutes, [[Luke]] finit par descendre les escaliers portant 
 [[Isaac|ISAAC]]
 T’as pas pu trouver mieux ?
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Quoi ?
 
 [[Isaac|ISAAC]]
@@ -185,7 +185,7 @@ T’as pas de pantalons.
 
 [[Luke]] regarde ses jambes nus feignant l'étonnement.
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Ah oui c’est vrai. Mais je me sens mieux comme ça.
 
 Il dit, le sourire aux lèvres. Mes yeux ne lâchent pas ses jambes. 
@@ -193,7 +193,7 @@ Il dit, le sourire aux lèvres. Mes yeux ne lâchent pas ses jambes.
 [[Isaac|ISAAC]]
 Mets-en un. La maison est sale et tu devrais pas laisser ta… peau toucher la poussière comme ça. 
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 ~~Sûrement~~ <span style="color:rgb(126, 114, 218)">Oui</span> mais je trouve rien.
 
 [[Isaac|ISAAC]]
@@ -201,7 +201,7 @@ Mets-en un. La maison est sale et tu devrais pas laisser ta… peau toucher la p
 
 [[Luke]] lève les yeux au ciel et se dandine sur ses jambes.
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Je crois !
 
 Mensonges.
@@ -209,7 +209,7 @@ Mensonges.
 [[Isaac|ISAAC]]
 T’as sûrement mal cherché 
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Roooooh, t’as si peu confiance en moi ?
 
 Je glousse, dissimulant les picotements qui me montent aux mains.
@@ -217,7 +217,7 @@ Je glousse, dissimulant les picotements qui me montent aux mains.
 [[Isaac|ISAAC]]
 Et si je te disais oui ?
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Ça me blesserait terriblement…
 
 Il dit un sourire au coin de ses lèvres. Je roule des yeux, un petit rire m’échappe.
@@ -225,7 +225,7 @@ Il dit un sourire au coin de ses lèvres. Je roule des yeux, un petit rire m’�
 [[Isaac|ISAAC]]
 Bon [[Luke]], va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café <span style="color:rgb(126, 114, 218)">si tu montes</span>.
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Vraiment ???
 
 [[Isaac|ISAAC]]
@@ -466,7 +466,7 @@ Luke ??
 
 Ici se trouve [[Luke]] dans ma chambre, cul-nul, avec un t-shirt un peu trop grand pour lui, en train d’enfiler un slip.
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Isaac ???
 
 [[Isaac|ISAAC]]
@@ -477,13 +477,13 @@ Je claque la porte fermée les yeux fermés et j’entends un grand fracas dans 
 [[Isaac|ISAAC]]
 Oh mon dieu, [[Luke]], tu vas bien ???
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Ouille ouille ouille… je crois que ça va ? Je me suis bien ramassé. 
 
 [[Isaac|ISAAC]]
 Qu’est-ce qu’il s’est passé ?
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Tu me demandes ? Tu m’as fait peur à crier comme un dingue comme ça. Je me suis pris les pieds dans le slip !
 D’ailleurs il est passé où.
 
@@ -494,26 +494,26 @@ Vraiment désolé, j’aurais dû toquer et encore moins crier je vais te laisse
 
 Au moment d’enclencher la poignée, l’homme presqu’à poil me saisit le bras.
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Attends ! Pas la peine que tu partes. 
 
 [[Isaac|ISAAC]]
 Hein ? Qu’est-ce que tu veux dire ? T’es en train de te changer !
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Oui, peut-être… Mais t’inquiète, ce que je veux dire, c’est qu’il faut pas t’en faire.
 Après tout, c’est moi qui suis dans ta chambre. C’est normal que t’aies pas toqué, j’aurais dû te prévenir avant que tu ne rentres. Le truc c’est que je t’ai pas entendu arrivé. Tu peux être si discret parfois.
 
 Il met sa main derrière la tête et rit de bon cœur, une petite cicatrice au visage.
 ... Comment ça il ne m'a pas entendu arriver ? J'ai déboulé ici comme un éléphant.
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Juste assis-toi sur le lit, le temps que je finisse !
 
 [[Isaac|ISAAC]]
 Vraiment je devrais sortir, pas la peine de faire ça pour moi, je te mets mal à l’aise, c’est sûr.
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Ce n’est pas vrai je te l’assure. Enfin ! On se connaît depuis longtemps, [[Isaac|Izzy]] ? Je m’en fous que tu me vois à poil. Tiens d’ailleurs, je vais te le prouver.
 
 Il s’apprête à lever son t-shirt quand je me jette sur lui et maintient son T-shirt en place, le visage en chaleur tel un volcan en éruption
@@ -525,12 +525,12 @@ Merde pourquoi je l’ai arrêté.
 Hein.
 [[Luke]] glousse.
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 Si tu le dis, si tu le dis, c’est comme tu veux ! Bref je disais, ça me dérange pas que tu sois là et encore moins que tu me voies à poil. Après tout—
 
 D’un coup, il me prend dans ses bras et serre très fort.
 
-[[Luke|LUCAS]]
+[[Luke|LUKE]]
 T’es comme mon frère !
 
 Une fois de plus je suis submergé par la chaleur de [[Luke]] et je m’arrête de respirer. Peut-être du choc. Peut-être pour que le temps s’arrête, que ce moment dure pour l’éternité, pour toujours. Pour un monde où plus jamais, il ne me relâche. Dans ce lien fraternel, où je me baigne de cette ecstasie éternelle, je me morfonds de mon sang froid échoué et me fonds dans son affection calcinée.
