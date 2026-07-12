@@ -13,7 +13,7 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] edit localization with colors instead of tags
+- [ ] replace markdown comments with html tags
 - [ ] find how to ignore markdown comments in sidebar highlights
 - [ ] remove footnotes from export
 - [ ] script styrofoam scene
@@ -25,6 +25,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [x] edit localization with colors instead of tags
 - [x] find a way to process the python script when text compiled
 - [x] learn how to separate the nsfw content of the game
 - [x] remove comments for bracksts

@@ -5,81 +5,81 @@ characters:
   - "[[Luke]]"
 done:
 ---
-%% FR %%<span style="color:rgb(0, 176, 240)">À ce moment-là, mon téléphone sonne. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran du clapet, il est marqué Luke. Je le déplie soigneusement.<br> Une image de Luke m’enroulant par le cou et moi qui regarde sur le côté, visiblement agacé, préférant être enterré mille pieds sous terre plutôt que de me tenir ici. Le gros chienchien sourit à pleine dents montrant fièrement un signe V avec ses doigts. Je décroche.</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">Just then, my phone rings. The series of beeps and rings—enough to drive even the wisest of monks crazy—echoes through my thigh. I pull it out. On the small screen of the flip phone, it says “Luke.” I carefully open it. <br>A picture of Luke wrapping his arms around my neck, while I look away, clearly annoyed, wishing I were buried a thousand feet underground rather than standing here. The big dog is grinning from ear to ear, proudly flashing a V-sign with his fingers. I answer the call</span>
+<span style="color:rgb(0, 176, 240)">À ce moment-là, mon téléphone sonne. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran du clapet, il est marqué Luke. Je le déplie soigneusement.<br> Une image de Luke m’enroulant par le cou et moi qui regarde sur le côté, visiblement agacé, préférant être enterré mille pieds sous terre plutôt que de me tenir ici. Le gros chienchien sourit à pleine dents montrant fièrement un signe V avec ses doigts. Je décroche.</span>
+<span style="color:rgb(255, 192, 0)">Just then, my phone rings. The series of beeps and rings—enough to drive even the wisest of monks crazy—echoes through my thigh. I pull it out. On the small screen of the flip phone, it says “Luke.” I carefully open it. <br>A picture of Luke wrapping his arms around my neck, while I look away, clearly annoyed, wishing I were buried a thousand feet underground rather than standing here. The big dog is grinning from ear to ear, proudly flashing a V-sign with his fingers. I answer the call</span>
 
 [[Luke|LUKE]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Allo ? Allo alloooooooo !</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">Hello? Hello, hello!</span>
+<span style="color:rgb(0, 176, 240)">Allo ? Allo alloooooooo !</span>
+<span style="color:rgb(255, 192, 0)">Hello? Hello, hello!</span>
 
 [[Isaac|ISAAC]]
-%% FR %%<span style="color:rgb(0, 176, 240)">… Allo.</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">… Hey.</span>
+<span style="color:rgb(0, 176, 240)">… Allo.</span>
+<span style="color:rgb(255, 192, 0)">… Hey.</span>
 
 [[Luke|LUKE]]
 %%FR%%<span style="color:rgb(0, 176, 240)">Aaaah enfin te voilà ! Tu m’as manqué tu sais ?</span>
 %%EN %%<span style="color:rgb(255, 192, 0)">Oh, finally, there you are! I missed you, you know</span>
 
-%% FR %%<span style="color:rgb(0, 176, 240)">Je lève ma montre.</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">I look at my watch.</span>
+<span style="color:rgb(0, 176, 240)">Je lève ma montre.</span>
+<span style="color:rgb(255, 192, 0)">I look at my watch.</span>
 
 [[Isaac|ISAAC]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Tu m’as appelé à ta pause déjeuner.</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">You called me during your lunch break.</span>
+<span style="color:rgb(0, 176, 240)">Tu m’as appelé à ta pause déjeuner.</span>
+<span style="color:rgb(255, 192, 0)">You called me during your lunch break.</span>
 
 [[Luke|LUKE]]
 %%FR%%<span style="color:rgb(0, 176, 240)">Roooh je te taquine</span>
 %%EN%%<span style="color:rgb(255, 192, 0)">Oh, I’m just teasing you</span>
 
-%% FR %%<span style="color:rgb(0, 176, 240)">Il glousse doucement à ses pitreries.</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">He giggles at his own tomfoolery.</span>
+<span style="color:rgb(0, 176, 240)">Il glousse doucement à ses pitreries.</span>
+<span style="color:rgb(255, 192, 0)">He giggles at his own tomfoolery.</span>
 
 [[Luke|LUKE]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Tout se passe bien avec le déménagement ?</span>
+<span style="color:rgb(0, 176, 240)">Tout se passe bien avec le déménagement ?</span>
 %% EN%% <span style="color:rgb(255, 192, 0)">Is everything going well with the move?</span>
 
 [[Isaac|ISAAC]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Plus ou moins. Je viens de finir.</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">More or less. I just finished.</span>
+<span style="color:rgb(0, 176, 240)">Plus ou moins. Je viens de finir.</span>
+<span style="color:rgb(255, 192, 0)">More or less. I just finished.</span>
 
 [[Luke|LUKE]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Bah enfin ! Tu traînais ça au bout de la patte depuis des lustres !</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">Oh, thank god! You’ve been dragging your feet on this for ages!</span>
+<span style="color:rgb(0, 176, 240)">Bah enfin ! Tu traînais ça au bout de la patte depuis des lustres !</span>
+<span style="color:rgb(255, 192, 0)">Oh, thank god! You’ve been dragging your feet on this for ages!</span>
 
 [[Isaac|ISAAC]]
-%% FR %%<span style="color:rgb(0, 176, 240)">C’était qu’un mois.</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">It was only a month.<br></span>
+<span style="color:rgb(0, 176, 240)">C’était qu’un mois.</span>
+<span style="color:rgb(255, 192, 0)">It was only a month.<br></span>
 [[Luke|LUKE]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Et tout ça pour quoi, trois cartons ?</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">And all that for what, three boxes?</span>
+<span style="color:rgb(0, 176, 240)">Et tout ça pour quoi, trois cartons ?</span>
+<span style="color:rgb(255, 192, 0)">And all that for what, three boxes?</span>
 
 [[Isaac|ISAAC]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Quatre.</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">Four.</span>
+<span style="color:rgb(0, 176, 240)">Quatre.</span>
+<span style="color:rgb(255, 192, 0)">Four.</span>
 
 [[Luke|LUKE]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Quand même ! T’es vraiment sûr d’aimer la maison ? Je te comprendrais si tu ne l’aimais pas.</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">Still! Are you really sure you like the house? I’d understand if you didn’t.</span>
+<span style="color:rgb(0, 176, 240)">Quand même ! T’es vraiment sûr d’aimer la maison ? Je te comprendrais si tu ne l’aimais pas.</span>
+<span style="color:rgb(255, 192, 0)">Still! Are you really sure you like the house? I’d understand if you didn’t.</span>
 
 [[Isaac|ISAAC]]
-%% FR %%<span style="color:rgb(0, 176, 240)">… pourquoi ?</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">…why?</span>
+<span style="color:rgb(0, 176, 240)">… pourquoi ?</span>
+<span style="color:rgb(255, 192, 0)">…why?</span>
 
 [[Luke|LUKE]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Elle est tellement vieille, il y a tellement de travaux à y faire. Puis tout ça, ce doit être nostalgique. Après tout, jusqu’à récemment, elle appartenait à…</span>
-I%% EN %%<span style="color:rgb(255, 192, 0)">It’s so old, there’s so much work to do on it. And all those things—it must be bittersweet. Until recently, it belonged to… </span>
+<span style="color:rgb(0, 176, 240)">Elle est tellement vieille, il y a tellement de travaux à y faire. Puis tout ça, ce doit être nostalgique. Après tout, jusqu’à récemment, elle appartenait à…</span>
+I<span style="color:rgb(255, 192, 0)">It’s so old, there’s so much work to do on it. And all those things—it must be bittersweet. Until recently, it belonged to… </span>
 
 
-%% FR %%<span style="color:rgb(0, 176, 240)">Il perd son chemin de pensée</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">He trails off.</span>
+<span style="color:rgb(0, 176, 240)">Il perd son chemin de pensée</span>
+<span style="color:rgb(255, 192, 0)">He trails off.</span>
 
 [[Isaac|ISAAC]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Oui…</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">Yes…</span>
+<span style="color:rgb(0, 176, 240)">Oui…</span>
+<span style="color:rgb(255, 192, 0)">Yes…</span>
 
 [[Luke|LUKE]]
-%% FR %%<span style="color:rgb(0, 176, 240)">Puis, avec le nombre de fois que je t’ai laissé crécher chez moi, on aurait dit que tu évitais l’endroit comme la peste. À ce stade, tu pourrais même venir vivre chez moi. T’es sûr que tu veux pas rester chez moi ?</span>
-%% EN %%<span style="color:rgb(255, 192, 0)">And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you ~~don’t~~ want to stay there?</span>
+<span style="color:rgb(0, 176, 240)">Puis, avec le nombre de fois que je t’ai laissé crécher chez moi, on aurait dit que tu évitais l’endroit comme la peste. À ce stade, tu pourrais même venir vivre chez moi. T’es sûr que tu veux pas rester chez moi ?</span>
+<span style="color:rgb(255, 192, 0)">And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you ~~don’t~~ want to stay there?</span>
 
 [[Isaac|ISAAC]]
 <span style="color:rgb(0, 176, 240)">Plus que sûr. C’est ma maison donc je devrais y rester, tu sais ? J’ai assez abusé de ton hospitalité et je ne veux pas te déranger plus longtemps.</span>
