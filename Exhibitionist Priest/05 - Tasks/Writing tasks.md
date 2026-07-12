@@ -10,6 +10,8 @@ kanban-plugin: board
 
 ## DOING
 
+- [ ] [[Write why did you quit]]
+- [ ] [[Translate Before the party]]
 - [ ] Write why did you quit
 - [ ] Write Poker night
 
