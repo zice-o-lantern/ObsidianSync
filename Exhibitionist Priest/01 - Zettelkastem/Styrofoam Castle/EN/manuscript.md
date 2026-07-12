@@ -31,8 +31,6 @@ His boxers come down. My hands are even stickier, and it's… not saliva.
 
 
 
-Nous menons une valse à ton insu. N'est-ce pas ce qui fait la beauté de ce moment ? En absence de tout regard, tu danses et moi je me rince, en ce instant interdit. Je me délecte de ce trépidement qu’à tout moment, je pourrais me faire attraper,me faire voir. 
-Je ne suis qu’un observateur. Un observateur qui constate sa soif, son désir. Un observateur en toute impunité. Un observateur qui n’existe pas, d’un autre monde. Un observateur à la fois aveugle et clairvoyant, voilà ce que je suis ! Jusqu’à ce que…  l’on m’observe à mon tour.
 We're dancing a waltz.  Unbeknownst to you. Doesn't that what make what we have so beautiful? With no one watching, in this forbidden moment, you dance— and I enjoy it. I revel in the thrill that at any moment I could get caught,  be seen. I am just an observer. An observer who perceives with his thirst, his desire. An observer with complete impunity. An observer who does not exist. An observer from another world. An observer who is both blind and clairvoyant, that is what I am! Until... I am observed.
 
  

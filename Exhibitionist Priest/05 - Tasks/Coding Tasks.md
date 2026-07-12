@@ -13,7 +13,6 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] remove footnotes from export
 - [ ] script styrofoam scene
 
 
@@ -23,7 +22,8 @@ kanban-plugin: board
 
 ## DONE
 
-- [ ] replace markdowns tags
+- [x] remove footnotes from export
+- [x] replace markdowns tags
 - [x] edit localization with colors instead of tags
 - [x] find a way to process the python script when text compiled
 - [x] learn how to separate the nsfw content of the game

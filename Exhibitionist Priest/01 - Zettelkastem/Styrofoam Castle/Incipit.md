@@ -17,8 +17,7 @@ pause 2.0
 --->
 
 <span style="color:rgb(0, 176, 240)">Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  <w>J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui <w>: on ne peut pas, après tout. <bl>Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus <w>car c’est un nouveau chat. Alors, je me demande : <w> qu’adviendra de moi lorsqu’on défoncera la porte, <w>affaissé dans ma petite boite de ma propre création ?</span>
-<span style="color:rgb(255, 192, 0)">Does the cat in the box want us to open the box? <w>I’ve often thought about it. No one has ever asked the cat for its opinion <w>—after all, we can’t. <bl>It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer <w> because it’s a new cat. 
-So I wonder: <w> what will become of me when they break down the door, <w>slumped in my little box of my own making?</span>
+<span style="color:rgb(255, 192, 0)">Does the cat in the box want us to open the box? <w>I’ve often thought about it. No one has ever asked the cat for its opinion <w>—after all, we can’t. <bl>It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer <w> because it’s a new cat. <br>So I wonder: <w> what will become of me when they break down the door, <w>slumped in my little box of my own making?</span>
 
 <!--- 
 pause 1.0
@@ -63,8 +62,7 @@ pause 1.0
 pause 1.0
 --->
 
-<span style="color:rgb(0, 176, 240)">Nous menons une valse <w>à ton insu. <w>N'est-ce pas ce qui fait la beauté de ce moment ? <bl>En absence de tout regard, tu danses et moi je me rince, en ce instant~~,~~ interdit. <bl>Je me délecte de ce trépidement qu’à tout moment, je pourrais me faire attraper,<w>me faire voir. 
-Je ne suis qu’un observateur. Un observateur qui constate sa soif, son désir. Un observateur en toute impunité. <bl>Un observateur qui n’existe pas, d’un autre monde. <bl>Un observateur à la fois aveugle et clairvoyant, voilà ce que je suis ! <bl>Jusqu’à ce que…  <w>l’on m’observe<w> à mon tour.</span>
+<span style="color:rgb(0, 176, 240)">Nous menons une valse <w>à ton insu. <w>N'est-ce pas ce qui fait la beauté de ce moment ? <bl>En absence de tout regard, tu danses et moi je me rince, en ce instant~~,~~ interdit. <bl>Je me délecte de ce trépidement qu’à tout moment, je pourrais me faire attraper,<w>me faire voir. <br>Je ne suis qu’un observateur. Un observateur qui constate sa soif, son désir. Un observateur en toute impunité. <bl>Un observateur qui n’existe pas, d’un autre monde. <bl>Un observateur à la fois aveugle et clairvoyant, voilà ce que je suis ! <bl>Jusqu’à ce que…  <w>l’on m’observe<w> à mon tour.</span>
 <span style="color:rgb(255, 192, 0)">We're dancing a waltz.  <w>Unbeknownst to you. ~~Isn't~~<span style="color:rgb(255, 222, 0)">Doesn't</span> that what make~~s~~ what we have so beautiful? <bl>With no one watching, in this forbidden moment, you dance— and I enjoy it. <bl>I revel in the thrill that at any moment I could get caught,  <w>be seen. I am just an observer. <bl>An observer who perceives with his thirst, his desire. <bl>An observer with complete impunity. An observer who does not exist. An observer from another world. <bl>An observer who is both blind and clairvoyant, that is what I am! <bl>Until... I am observed.</span>
 
 <!--- 

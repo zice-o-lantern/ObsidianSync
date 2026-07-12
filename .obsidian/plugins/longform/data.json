@@ -7,12 +7,12 @@
   "sessions": [
     {
       "start": "2026-07-12T11:06:46.321Z",
-      "total": 1846,
+      "total": 1848,
       "drafts": {
         "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Index.md": {
-          "total": 1846,
+          "total": 1848,
           "scenes": {
-            "Incipit": 146,
+            "Incipit": 148,
             "Styrofoam Castle": 87,
             "Lucas’ Call": 1517,
             "Before the Party": 96
@@ -1477,7 +1477,7 @@
           "id": "write-to-note",
           "optionValues": {
             "target": "EN/manuscript.md",
-            "open-after": true
+            "open-after": false
           }
         }
       ]
@@ -1514,6 +1514,10 @@
         },
         {
           "id": "Exhibitionist Priest/08 - Scripts/remove-color-tags.js",
+          "optionValues": {}
+        },
+        {
+          "id": "Exhibitionist Priest/08 - Scripts/remove-tags.js",
           "optionValues": {}
         },
         {

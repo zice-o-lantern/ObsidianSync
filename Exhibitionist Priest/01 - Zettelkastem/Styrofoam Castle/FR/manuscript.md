@@ -6,16 +6,15 @@ CENTERED
 Cette histoire est une œuvre de fiction et ne se repose pas sur des faits réels. \nTout ressemblance est fortuite ou une coïncidence
 
 
-Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  J’y ai souvent réfléchi. Jamais personne n’a \ndemandé son avis à lui : on ne peut pas, après tout. Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus car c’est un nouveau chat. Alors, je me demande :  qu’adviendra de moi lorsqu’on défoncera la porte, affaissé dans ma petite boite de ma propre création ?
-Does the cat in the box want us to open the box? I’ve often thought about it. No one has ever asked the cat for its opinion —after all, we can’t. It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer  because it’s a new cat. 
-So I wonder:  what will become of me when they break down the door, slumped in my little box of my own making?
+Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui : on ne peut pas, après tout. Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus car c’est un nouveau chat. Alors, je me demande :  qu’adviendra de moi lorsqu’on défoncera la porte, affaissé dans ma petite boite de ma propre création ?
+
 
 
 23 h 40. Tu ouvres la porte. J’adore tout chez toi : tes yeux perçant mais chaleureux, enivrants. Tes cernes tombantes témoignant de toute tes douceurs et douleurs. Ton visage triste recelant un côté inquiétant et pervers, et surtout à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
 
 
 
-Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. Je m'en mords la lèvre, même, mon seigneur, j'en halète. Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe, je le dévore !
+Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. Je m'en mords la lèvre, même, mon seigneur, j'en halète. Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe, je le dévore.
 
 
 
@@ -31,8 +30,7 @@ Son caleçon se baisse. Mes mains sont encore plus visqueuses, et ce n’est… 
 
 
 
-Nous menons une valse à ton insu. N'est-ce pas ce qui fait la beauté de ce moment ? En absence de tout regard, tu danses et moi je me rince, en ce instant interdit. Je me délecte de ce trépidement qu’à tout moment, je pourrais me faire attraper,me faire voir. 
-Je ne suis qu’un observateur. Un observateur qui constate sa soif, son désir. Un observateur en toute impunité. Un observateur qui n’existe pas, d’un autre monde. Un observateur à la fois aveugle et clairvoyant, voilà ce que je suis ! Jusqu’à ce que…  l’on m’observe à mon tour.
+Nous menons une valse à ton insu. N'est-ce pas ce qui fait la beauté de ce moment ? En absence de tout regard, tu danses et moi je me rince, en ce instant interdit. Je me délecte de ce trépidement qu’à tout moment, je pourrais me faire attraper,me faire voir. Je ne suis qu’un observateur. Un observateur qui constate sa soif, son désir. Un observateur en toute impunité. Un observateur qui n’existe pas, d’un autre monde. Un observateur à la fois aveugle et clairvoyant, voilà ce que je suis ! Jusqu’à ce que…  l’on m’observe à mon tour.
 
  
 
@@ -106,7 +104,7 @@ Il glousse doucement à ses pitreries.
 
 LUKE
 Tout se passe bien avec le déménagement ?
- 
+
 ISAAC
 Plus ou moins. Je viens de finir.
 
@@ -279,19 +277,17 @@ Il a raccroché
 
 # 04 - Before the Party
 
-Finalement il est arrivé au bout de dix minutes au lieu de trente . Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
-After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. He opens the door
+Finalement il est arrivé au bout de dix minutes au lieu de trente. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. Il ouvre la porte.
+Somehow, he showed up after 10 minutes instead 30[^4], clumsily avoiding the broken vase pieces scattered along the garden paving stones. 
+He opens the door
 
 LUKE
 Ah oui en effet c’est un peu… poussiéreux 
-Oh yeah it's a little...dusty in here.
 
 Je croise les bras.
-I cross my arms.
 
 ISAAC
 Je te l’avais dit.
-I told you so
 
 Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.
 Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.
@@ -350,7 +346,8 @@ Really?
 
 LUKE
 Et je suis peut-être tombé sur le chemin.
-And I might have fallen on the footpath.
+And I might have fallen upon the way[^3].
+
 
 ISAAC
 Plus que tombé, là, t’as fait un marathon.
@@ -361,7 +358,7 @@ Oui bah on est pressé donc faut qu’on se mette au travail.
 Okay okay, but were in a hurry so let's get back to work.
 
 Lucas va pour se retourner et entrer dans le placard et attraper la pellette quand je lui attrape le bras
-Lucas goes back and walks into the closet to grab the (?broom) when i grab his arm
+Lucas goes back and walks into the closet to grab the (?broom)[^2] when i grab his arm
 
 ISAAC
 Mais tu vas pas nettoyer la maison comme ça ?
@@ -828,3 +825,9 @@ Je me retire de son étreinte, le regard au sol, mes mains tirant mon haut le pl
 **$\quad$ Jump to 03_B - Flee
 
 [^1]: Sh: it's more "He "violently" (can't find the right word sorry) opens the closet and grabs the broom in a swift motion
+
+[^2]: Sh : we say dustpan!
+
+[^3]: Sh: the french original idiom means more “on the way home” than a footpath
+
+[^4]: Sh: more accurate translation for this part
