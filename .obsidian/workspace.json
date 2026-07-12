@@ -99,33 +99,9 @@
               "icon": "lucide-file",
               "title": "Before the Party"
             }
-          },
-          {
-            "id": "3d1d6d5806a1fa7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "renpy"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "7299616694cc5b7a",
@@ -154,8 +130,33 @@
               "icon": "lucide-file",
               "title": "renpy"
             }
+          },
+          {
+            "id": "794f222724a77309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "renpy"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -426,7 +427,7 @@
       }
     ]
   },
-  "active": "3d1d6d5806a1fa7d",
+  "active": "794f222724a77309",
   "lastOpenFiles": [
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md",

@@ -4,8 +4,8 @@ compile = (input, context) => {
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       let content = sceneInput.contents;
-      content = content.replace(NUMBER_FOOTNOTES_REGEX, "");
       content = content.replace(COMMENT_FOOTNOTES_REGEX, "");
+      content = content.replace(NUMBER_FOOTNOTES_REGEX, "");
       
       return {
         contents: content
