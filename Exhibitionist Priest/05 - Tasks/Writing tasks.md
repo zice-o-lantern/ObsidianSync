@@ -6,12 +6,14 @@ kanban-plugin: board
 
 ## TO DO
 
+- [ ] [[Rewrite Lucas' Call]]
 - [ ] [[Rewrite Styrofoam Castle]]
 - [ ] [[Rewrite Incipit]]
 
 
 ## DOING
 
+- [ ] [[Translate Lucas' Call]]
 - [ ] [[Write why did you quit]]
 - [ ] [[Translate Before the party]]
 
@@ -57,12 +59,12 @@ kanban-plugin: board
 - [x] [[Should the photo Is take be a mistake or on purpose]]
 - [x] [[Develop Joesph in grandma's house]] @{2026-02-24}
 - [x] [[see if murk is ok with cesare and isaac meeting]]
-- [x] [[Should Joseph have a female friend]]
+- [x] [[Exhibitionist Priest/05 - Tasks/Pinned/Should Joseph have a female friend]]
 - [x] Find a new name for Joseph
 - [x] What Cesare should strive for
 - [x] Add moodboard to character desgin
 - [x] see if murk is ok with emma
-- [x] [[Develop how they met]]
+- [x] [[Develop how they met 1]]
 
 %% kanban:settings
 ```
