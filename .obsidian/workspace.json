@@ -16,17 +16,42 @@
               "state": {
                 "file": "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
                 "viewState": {
-                  "x": 86.20320148066575,
-                  "y": 1091.9137513654405,
-                  "zoom": -0.9999999999999996
+                  "x": -582.1359182471085,
+                  "y": 531.0397037948835,
+                  "zoom": -0.6666666666666663
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Outline of the story"
             }
+          },
+          {
+            "id": "201a53611ad21631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/05 - Tasks/Current/Rewrite Lucas' Call.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rewrite Lucas' Call"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,18 +289,21 @@
           }
         ],
         "direction": "vertical",
-        "x": -256,
-        "y": -1156,
-        "width": 910,
+        "x": 392,
+        "y": -1040,
+        "width": 911,
         "height": 802,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "57af6ce7728439ed",
+  "active": "201a53611ad21631",
   "lastOpenFiles": [
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Rewrite Lucas' Call.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Rewrite Styrofoam Castle.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Rewrite Incipit.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Current/Write why did you quit.md",
     "Exhibitionist Priest/02 - Attachments/writing_icon.png",
@@ -312,8 +340,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
     "Exhibitionist Priest/07 - Rough Notes/Title Ideas.md",
     "Exhibitionist Priest/07 - Rough Notes/Plot points ideas.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/manuscript.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Lucas’ Call.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",

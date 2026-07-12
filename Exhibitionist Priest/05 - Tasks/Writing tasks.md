@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## TO DO
 
+- [ ] [[Rewrite Styrofoam Castle]]
+- [ ] [[Rewrite Incipit]]
 
 
 ## DOING
