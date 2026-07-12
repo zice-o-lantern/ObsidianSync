@@ -186,46 +186,62 @@ J’imagine que tu as bientôt terminé le travail, alors ?</span>
 <span style="color:rgb(146, 208, 80)">What time should I come 'round to your place?</span>
 
 [[Luke|LUCAS]]
-Hein ? Chez moi ? De quoi tu parles ? %% bl %%La soirée elle est pas chez moi, elle est chez toi. 
+<span style="color:rgb(0, 176, 240)">Hein ? Chez moi ? De quoi tu parles ? %% bl %%La soirée elle est pas chez moi, elle est chez toi.</span>
+<span style="color:rgb(146, 208, 80)">Eh? My place? What are you on about? The party isn’t at my place, it’s at your place</span>. 
 
 [[Isaac|ISAAC]]
-Chez moi ???
+<span style="color:rgb(0, 176, 240)">Chez moi ???</span>
+<span style="color:rgb(146, 208, 80)">At my place???</span>
 
 [[Luke|LUCAS]]
 <span style="color:rgb(0, 176, 240)">Bah oui. Une crémaillère ça se fait dans la maison dans laquelle on vient d'emménager, pas celle du voisin sinon c’est pas logique.</span>
 <span style="color:rgb(146, 208, 80)">Well, yeah. A housewarming party is held in the house you've just moved into, not your neighbor's—otherwise, it doesn't make sense.</span>
 
 [[Isaac|ISAAC]]
-Mais je suis pas prêt ! J’ai encore plein de choses à faire ! La maison n’est pas prête !!
+<span style="color:rgb(0, 176, 240)">Mais je suis pas prêt ! J’ai encore plein de choses à faire ! La maison n’est pas prête !!</span>
+<span style="color:rgb(146, 208, 80)">But I’m not ready! I’ve still got loads to do! The house isn’t ready!!</span>
 
 [[Luke|LUCAS]]
-Pas grave, je vais t’aider.
+<span style="color:rgb(0, 176, 240)">Pas grave, je vais t’aider.</span>
+<span style="color:rgb(146, 208, 80)">No problem, I’ll help you.</span>
 
 [[Isaac|ISAAC]]
-Mais c’est ce soir !!!
+<span style="color:rgb(0, 176, 240)">Mais c’est ce soir !!!</span>
+<span style="color:rgb(146, 208, 80)">But it’s tonight!!!</span>
 
 [[Luke|LUCAS]]
-Ça me donnera une excuse pour traîner avec toi ! 
+<span style="color:rgb(0, 176, 240)">Ça me donnera une excuse pour traîner avec toi !</span>
+<span style="color:rgb(146, 208, 80)">It’ll give me an excuse to hang out with you! </span>
 
 [[Isaac|ISAAC]]
-Qui viendra ?
+<span style="color:rgb(0, 176, 240)">Qui viendra ?</span>
+<span style="color:rgb(146, 208, 80)">Who’s coming?</span>
 
 [[Luke|LUCAS]]
-[[Exhibitionist Priest/03 - Index/Characters/Nick|Nick]] et [[Simone]].
+<span style="color:rgb(0, 176, 240)">[[Nick]] et [[Simone]].</span>
+<span style="color:rgb(146, 208, 80)">[[Nick]] and [[Simone]].</span>
 
 [[Isaac|ISAAC]]
-Donc seulement nous quatre ?
+<span style="color:rgb(0, 176, 240)">Donc seulement nous quatre ?</span>
+<span style="color:rgb(146, 208, 80)">So just the four of us?</span>
 
 [[Luke|LUCAS]]
-Seulement nous quatre.
+<span style="color:rgb(0, 176, 240)">Seulement nous quatre.</span>
+<span style="color:rgb(146, 208, 80)">Just the four of us.</span>
 
-Je souffle de soulagement.
+<span style="color:rgb(0, 176, 240)">Je souffle de soulagement.</span>
+<span style="color:rgb(146, 208, 80)">I breathe a sigh of relief.</span>
 
 [[Isaac|ISAAC]]
-Dans combien de temps alors ?
+<span style="color:rgb(0, 176, 240)">Dans combien de temps alors ?</span>
+<span style="color:rgb(146, 208, 80)">What time?</span>
 
 [[Luke|LUCAS]]
-Dans deux heures. J’arrive dans trente minutes !
+<span style="color:rgb(0, 176, 240)">Hmmmm 20 h! J’arrive en trente minutes, presto illico !</span>
+<span style="color:rgb(146, 208, 80)">Hmmmm, 8 p.m.! I'll be there in thirty minutes—in a jiffy-diffy!</span>
+
+Je lève ma montre. Il est six heures passée.
+I raise my watch. it's six past.
 
 [[Isaac|ISAAC]]
 Deux heures… Lucas tu sais bien ce n’est pas assez de temps pour organiser tout ça. Et si [[Simone]] et [[Nick]] ne sont pas disponibles ? Et puis la maison sera dégueu-
