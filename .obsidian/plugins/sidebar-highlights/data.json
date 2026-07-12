@@ -1563,12 +1563,28 @@
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md": [],
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md": [
       {
+        "id": "mvzvwyngr",
+        "text": "~~After more like 10 instead of 30 minutes, he finally returned~~<span style=\"color:rgb(126, 114, 218)\">Somehow, he showed up after 10 minutes instead 30</span>",
+        "tags": [],
+        "line": 1,
+        "startOffset": 256,
+        "endOffset": 420,
+        "filePath": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Sh: more accurate translation for this part"
+        ],
+        "createdAt": 1783884827514,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
         "id": "nj902curq",
         "text": "<span style=\"color:rgb(255, 222, 0)\">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span>",
         "tags": [],
-        "line": 37,
-        "startOffset": 1620,
-        "endOffset": 1752,
+        "line": 38,
+        "startOffset": 1842,
+        "endOffset": 1974,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
@@ -1582,13 +1598,13 @@
         "id": "0kgw8q9mt",
         "text": "~~on the footpath~~upon the way",
         "tags": [],
-        "line": 71,
-        "startOffset": 3342,
-        "endOffset": 3377,
+        "line": 72,
+        "startOffset": 3564,
+        "endOffset": 3599,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [
-          "Sh: the original idiom means more “on the way home” than a footpath"
+          "Sh: the french original idiom means more “on the way home” than a footpath"
         ],
         "createdAt": 1783883047168,
         "isNativeComment": false,
@@ -1598,9 +1614,9 @@
         "id": "5ased50wa",
         "text": "(?broom)",
         "tags": [],
-        "line": 83,
-        "startOffset": 3919,
-        "endOffset": 3931,
+        "line": 84,
+        "startOffset": 4141,
+        "endOffset": 4153,
         "filePath": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
         "footnoteCount": 1,
         "footnoteContents": [

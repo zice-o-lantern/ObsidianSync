@@ -7,15 +7,15 @@
   "sessions": [
     {
       "start": "2026-07-12T11:06:46.321Z",
-      "total": 1799,
+      "total": 1846,
       "drafts": {
         "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Index.md": {
-          "total": 1799,
+          "total": 1846,
           "scenes": {
             "Incipit": 146,
             "Styrofoam Castle": 87,
             "Lucas’ Call": 1517,
-            "Before the Party": 49
+            "Before the Party": 96
           }
         },
         "Exhibitionist Priest/01 - Zettelkastem/Confessions/Index.md": {
@@ -1409,7 +1409,7 @@
           "id": "write-to-note",
           "optionValues": {
             "target": "FR/renpy.md",
-            "open-after": false
+            "open-after": true
           }
         }
       ]

@@ -1,16 +1,17 @@
-Finalement il est arrivé au bout de dix minutes au lieu de trente ~~minutes~~. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. <bl>Il ouvre la porte.
-<span style="color:rgb(255, 222, 0)">After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. <bl>He opens the door</span>
+<span style="color:rgb(0, 176, 240)">Finalement il est arrivé au bout de dix minutes au lieu de trente. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. <br>Il ouvre la porte.</span>
+<span style="color:rgb(255, 222, 0)">==~~After more like 10 instead of 30 minutes, he finally returned~~<span style="color:rgb(126, 114, 218)">Somehow, he showed up after 10 minutes instead 30</span>==[^4], clumsily avoiding the broken vase pieces scattered along the garden paving stones. 
+He opens the door</span>
 
 [[Luke|LUKE]]
-Ah oui en effet c’est un peu… poussiéreux 
-<span style="color:rgb(255, 222, 0)">Oh <span style="color:rgb(126, 114, 218)">yeah</span> it's a little...dusty in here.</span>
+<span style="color:rgb(0, 176, 240)">Ah oui en effet c’est un peu… poussiéreux </span>
+<span style="color:rgb(255, 192, 0)">Oh yeah it's a little...dusty in here.</span>
 
-Je croise les bras.
-<span style="color:rgb(255, 222, 0)">I cross my arms.</span>
+<span style="color:rgb(0, 176, 240)">Je croise les bras.</span>
+<span style="color:rgb(255, 192, 0)">I cross my arms.</span>
 
 [[Isaac|ISAAC]]
-Je te l’avais dit.
-<span style="color:rgb(255, 222, 0)">I told you so</span>
+<span style="color:rgb(0, 176, 240)">Je te l’avais dit.</span>
+<span style="color:rgb(255, 192, 0)">I told you so</span>
 
 <span style="color:rgb(0, 176, 240)">Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.</span>
 <span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.</span>
@@ -551,4 +552,6 @@ Je me retire de son étreinte, le regard au sol, mes mains tirant mon haut le pl
 
 [^2]: Sh : we say dustpan!
 
-[^3]: Sh: the original idiom means more “on the way home” than a footpath
+[^3]: Sh: the french original idiom means more “on the way home” than a footpath
+
+[^4]: Sh: more accurate translation for this part
