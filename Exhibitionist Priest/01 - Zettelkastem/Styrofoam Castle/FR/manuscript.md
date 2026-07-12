@@ -113,7 +113,7 @@ I think it’s actually pretty good. It’s a bit poetic in itself. All the cond
 # 03 - Lucas’ Call
 
 
-À ce moment-là, mon téléphone sonne . La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran du clapet, il est marqué Luke. Je le déplie soigneusement. Une image de Luke m’enroulant par le cou et moi qui regarde sur le côté, visiblement agacé, préférant être enterré mille pieds sous terre plutôt que de me tenir ici. Le gros chienchien sourit à pleine dents montrant fièrement un signe V avec ses doigts.  Je décroche.
+À ce moment-là, mon téléphone sonne. La série de bips et de drings-drings, qui énerverait même le plus sage des moines, propage à travers ma cuisse.  Je le sors.  Sur le petit écran du clapet, il est marqué Luke. Je le déplie soigneusement. Une image de Luke m’enroulant par le cou et moi qui regarde sur le côté, visiblement agacé, préférant être enterré mille pieds sous terre plutôt que de me tenir ici. Le gros chienchien sourit à pleine dents montrant fièrement un signe V avec ses doigts. Je décroche.
 
 LUKE
 Allo ? Allo alloooooooo !
