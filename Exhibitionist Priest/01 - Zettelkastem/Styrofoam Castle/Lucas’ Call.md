@@ -17,8 +17,8 @@ done:
 <span style="color:rgb(255, 192, 0)">… Hey.</span>
 
 [[Luke|LUKE]]
-%%FR%%<span style="color:rgb(0, 176, 240)">Aaaah enfin te voilà ! Tu m’as manqué tu sais ?</span>
-%%EN %%<span style="color:rgb(255, 192, 0)">Oh, finally, there you are! I missed you, you know</span>
+<span style="color:rgb(0, 176, 240)">Aaaah enfin te voilà ! Tu m’as manqué tu sais ?</span>
+<span style="color:rgb(255, 192, 0)">Oh, finally, there you are! I missed you, you know</span>
 
 <span style="color:rgb(0, 176, 240)">Je lève ma montre.</span>
 <span style="color:rgb(255, 192, 0)">I look at my watch.</span>
@@ -28,15 +28,15 @@ done:
 <span style="color:rgb(255, 192, 0)">You called me during your lunch break.</span>
 
 [[Luke|LUKE]]
-%%FR%%<span style="color:rgb(0, 176, 240)">Roooh je te taquine</span>
-%%EN%%<span style="color:rgb(255, 192, 0)">Oh, I’m just teasing you</span>
+<span style="color:rgb(0, 176, 240)">Roooh je te taquine</span>
+<span style="color:rgb(255, 192, 0)">Oh, I’m just teasing you</span>
 
 <span style="color:rgb(0, 176, 240)">Il glousse doucement à ses pitreries.</span>
 <span style="color:rgb(255, 192, 0)">He giggles at his own tomfoolery.</span>
 
 [[Luke|LUKE]]
 <span style="color:rgb(0, 176, 240)">Tout se passe bien avec le déménagement ?</span>
-%% EN%% <span style="color:rgb(255, 192, 0)">Is everything going well with the move?</span>
+<span style="color:rgb(255, 192, 0)">Is everything going well with the move?</span>
 
 [[Isaac|ISAAC]]
 <span style="color:rgb(0, 176, 240)">Plus ou moins. Je viens de finir.</span>

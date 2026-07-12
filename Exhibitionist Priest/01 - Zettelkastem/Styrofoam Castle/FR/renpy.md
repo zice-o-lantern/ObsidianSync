@@ -1,15 +1,15 @@
 # Incipit
 
 
-{!---
+<!---
 scene black
 pause 2.0 
----}
+--->
 CENTERED
 Cette histoire est une œuvre de fiction et ne se repose pas sur des faits réels. \nTout ressemblance est fortuite ou une coïncidence
-{!---
+<!---
 pause 2.0
----}
+--->
 
 Le chat dans la boite a t-il envie qu'on ouvre la boîte ?  {w}J’y ai souvent réfléchi. Jamais personne n’a demandé son avis à lui {w}: on ne peut pas, après tout. 
 Impossible de communiquer avec. Une fois le sceau brisé, le chat dans la boîte n’est plus {w}car c’est un nouveau chat. Alors, je me demande : {w} qu’adviendra de moi lorsqu’on défoncera la porte, {w}affaissé dans ma petite boite de ma propre création ?
@@ -17,37 +17,37 @@ Does the cat in the box want us to open the box? {w}I’ve often thought about i
 It’s impossible to communicate with it. Once the seal is broken, the cat in the box is no longer {w} because it’s a new cat. 
 So I wonder: {w} what will become of me when they break down the door, {w}slumped in my little box of my own making?
 
-{!--- 
+<!--- 
 pause 1.0
 show bg bedroom intro with slow_dissolve
 pause 1.0
----}
+--->
 
 23 h 40. {w}Tu ouvres la porte. 
 J’adore tout chez toi : {w}tes yeux perçant mais chaleureux, enivrants. 
 Tes cernes tombantes témoignant de toute tes douceurs et douleurs. {w}Ton visage triste recelant un côté inquiétant et pervers, et surtout {w}à quel point tu rends encore mieux à travers l'aperçu de l'appareil-photo.
 
-{!---
+<!---
 pause 1.0
----}
+--->
 
 Je me délecte de comment tu déboutonnes ta chemise, tes mains fines mais précises laissant toujours quelque poils de torse dépasser. 
 Je m'en mords la lèvre, même, mon seigneur, j'en halète. 
 Puis tu enlèves ton pantalon d'une traite, exténué de la longue journée passée. 
 Je ne m'en plains pas. Je le succule, ce moment, je le savoure, je le bouffe, je le dévore.
 
-{!---
+<!---
 pause 1.0
----}
+--->
 
 Puis tu t'arrêtes pensif. 
 Je reprends mon souffle et ajuste l’appareil-photo et je replace mes lunettes sur le nez. 
 Il est toujours à penser{w} : que c'est mignon.
 
-{!--- 
+<!--- 
 show bg bedroom intro person with slow_dissolve
 pause 1.0 
----}
+--->
 
 Après cela, se situe, ci-dessous, le point culminant de l’attente dissimulé par ce fin exquis tissu qui peine à couvrir ce buisson délaissé et dessine l’engin à l’origine de tous les désirs. 
 Tu enfiles tes mains dans ton caleçon. 
@@ -57,17 +57,17 @@ Ma main est couvert de salive.
 Mon cœur bat à toute vitesse, ma cage thoracique ne peut plus le contenir, se dansant, ricochant sur ces côtes et bondissant dans ma gorge. 
 Je déglutis. Je ne peux m'arrêter ; Je ne peux fermer les yeux.
 
-{!--- 
+<!--- 
 scene black
 pause 1.0
----}
+--->
 
 Son caleçon se baisse. 
 Mes mains sont encore plus visqueuses, et ce n’est… {w}pas de la bave.
 
-{!--- 
+<!--- 
 pause 1.0
----}
+--->
 
 Nous menons une valse {w}à ton insu. {w}N'est-ce pas ce qui fait la beauté de ce moment ? 
 En absence de tout regard, tu danses et moi je me rince, en ce instant interdit. 
@@ -77,57 +77,57 @@ Un observateur qui n’existe pas, d’un autre monde.
 Un observateur à la fois aveugle et clairvoyant, voilà ce que je suis ! 
 Jusqu’à ce que…  {w}l’on m’observe{w} à mon tour.
 
-{!--- 
+<!--- 
 pause 1.0 
----} 
+---> 
 
 Regardez-moi, Dieu ou alors Schrödinger, que sais-je ! 
 À Toi, si obsédé à l’idée d’ouvrir la boite sans y toucher. J’ai enfin découvert comment faire. 
 Le Chat ne doit pas être observé.
  Il est heureux là où il se trouve, dans ses plaisirs et ses travers.
 
-{!---
+<!---
 ## TODO: add an animation of the closet being open and title screen
----}
+--->
 
 ---
 
 # Styrofoam Castle
 
 
-{!---
+<!---
 scene black with Dissolve(2.0)
 scene bg house living room with Dissolve(3.0)
 pause 1.0
----}
+--->
 
 J’ouvre le dernier carton grossièrement en perforant le ruban adhésif marron avec mes dents. 
 Après avoir craché Pas comme s’il y’en avait énormément de toute façon. 
 Je m’affale sur le fauteuil et je soupire, le dos en compote. Il fallait que je les déballe car je n’arrêtais pas de me prendre les pattes dedans. 
 Déjà un mois qu’ils sont là. 
-J’aurais pu demander à Luke mais il est au travail aujourd’hui.
+{w=0.1}J’aurais pu demander à Luke mais il est au travail aujourd’hui.
 
-{!---
+<!---
 pause 2.0
----}
+--->
 
 Les gens sont des livres à image quand ils déménagent. Ils sont tristes, heureux, tracassés, soulagés, chamboulés, et puis c’est fini. C'est normal après tout. C'est à prévoir. C'est un nouveau départ.
 Moi ça ne me fait rien. Ni chaud, ni froid, Plus l'odeur de renfermé. 
-C'est comme si je marchais dans un château de polystyrène{w} : engourdi au toucher et dénué de toute chaleur. 
+C'est comme si je marchais dans un château de polystyrène : engourdi au toucher et dénué de toute chaleur. 
 je fais de mon mieux pour ressentir quelque chose que ce soit de l'excitation ou du chagrin mais rien ne vient. 
 Je me promène dans la maison d'un inconnu, 
 la mienne désormais. Je descends les miteux escaliers en frémissant à chaque pas, de peur de tomber. 
 Une fois en bas, je déambule pensif, faisant ma ronde et je me pose par inadvertance devant la commode et ma main se saisit d'une photo posée dessus. 
 Une photo de ma grand-mère et moi, prise par mon oncle.
 
-{!---
+<!---
 pause 1.0
----}
+--->
 
-D'ailleurs Grand-mère est morte. {w}Je ne sais plus quand. {w}Sûrement il y a quelque mois de cela maintenant. {w}Je crois qu'elle est morte d'une chute. {w}Pour être honnête je ne l'ai jamais vraiment apprécié. {w}Quand j'étais petit et qu'elle était pleine d'énergie, elle était dure et sévère avec moi mais plus âgé, elle devenait sénile. {w}Pas sénile : parfois j’oublie ton prénom de temps en temps. Sénile, je me mets à pisser dans les casseroles de la cuisine parce que c'est plus rapide. {w}Mon grand-père n'était pas mieux mais au moins il avait toute sa tête. 
+D'ailleurs Grand-mère est morte. Je ne sais plus quand. Sûrement il y a quelque mois de cela maintenant. Je crois qu'elle est morte d'une chute. Pour être honnête je ne l'ai jamais vraiment apprécié. Quand j'étais petit et qu'elle était pleine d'énergie, elle était dure et sévère avec moi mais plus âgé, elle devenait sénile. Pas sénile : parfois j’oublie ton prénom de temps en temps. Sénile, je me mets à pisser dans les casseroles de la cuisine parce que c'est plus rapide. Mon grand-père n'était pas mieux mais au moins il avait toute sa tête. 
 Malheureusement, il est mort peu avant Grand-Mère, une crise cardiaque. 
 Ils avaient tous les deux dans les quatre-vingt-dix ans. 
-Bref suite à leur décès, leur maison resta vacante.
+{w=0.1}Bref suite à leur décès, leur maison resta vacante.
 
 Je repose la photo dans un soupir. 
 Ai-je vraiment fait le bon choix de venir m'installer ici ?  
@@ -151,16 +151,16 @@ Pas le temps.
 J'atteins la fenêtre. 
 Je l’ouvre d’un seul coup.
 
-{!---
+<!---
 scene bg house garden:
     yalign 0.5
 with Dissolve(2.0)
 pause 1.0
----}
+--->
 
 La bon air de la campagne rentre et je respire enfin. Le jardin est en piteuse état mais récupérable. 
 Les vases brisés jonchent l’allée principale, le lière commençant à les enlacer. 
-Je grimace. {w}Quelqu’un pourrait se blesser dessus. 
+Je grimace. Quelqu’un pourrait se blesser dessus. 
 J’aperçois la maison voisine, en face de de la rue. 
 Elle a toujours les rideaux fermés. 
 Il y a seulement une fenêtre à l’étage sans rideau mais difficile d’observer à l’intérieur sans s’approcher donc difficile de savoir ce qu’il s’y passe. 
@@ -177,15 +177,15 @@ Je la saisis et en sors un appareil photo.
 Il a l'air d'être intact malgré la chute. 
 Je le manipule, le regardant de tous les angles et ça a l'air d'être une caméra dernier cri. 
 Je l'allume. 
-Aucune photo. {w}Bizarre. 
+Aucune photo. Bizarre. 
 J'aurais cru que je trouverai des infos sur son propriétaire dans les photos. 
 Mamie n'était pas vraiment une photographe. 
 Du moins je ne l'ai jamais vu utilisé un appareil-photo. 
 Je fouille la sacoche. 
 Parmi les objectifs, un papier froissé se démarque entre tous. 
 Une liste de courses. 
-« Acheter du lait pour Marie ». La femme de mon oncle. {w}Je vois. {w}L’appareil-photo doit lui appartenir. 
-C’est vraiment un bon appareil. {w}Surtout pour un hobbyiste. 
+« Acheter du lait pour Marie ». La femme de mon oncle. Je vois. L’appareil-photo doit lui appartenir. 
+C’est vraiment un bon appareil. Surtout pour un hobbyiste. 
 Tonton doit adorer prendre des photos. 
 Après tout il en prenait pleins de moi. 
 Je suis sûr qu’il avait un album rempli de moi en toute circonstance.
@@ -203,7 +203,7 @@ Malheureusement les reflets sur la fenêtre empêchent toute réel tentative d�
 Cependant j’insiste et reste quelques temps, là, essayant de trouver le bon angle pour éviter les réflections. Un oiseau : un merle, se pose sur le rebord de la fenêtre, à côté de moi. Au bout de quelques secondes, j’arrive à entrevoir la pièce à l’intérieur et aussi une silhouette féminine. 
 À ce moment, mon cerveau me supplie de baisser la caméra, cependant, mes mains restent en place, fixées sur la personne. 
 Elle porte un chemisier. 
-Elle est au téléphone, gesticulant, exaspérée. Impossible d’écouter leur conversation évidemment. {w}Mais elle ne serait pas agréable à écouter, de toute façon.
+Elle est au téléphone, gesticulant, exaspérée. Impossible d’écouter leur conversation évidemment. Mais elle ne serait pas agréable à écouter, de toute façon.
 
 Néanmoins la femme se retourne volte-face et regarde dans ma direction. 
 Paniqué je tourne brusquement l’objectif vers la forêt et effraie le merle au passage, ce qui le contraint à foncer dans l’appareil-photo. 
@@ -211,16 +211,16 @@ Je tombe en plein sur les fesses.
 Étourdi, je reprends mes esprit et aperçois l’oiseau s’en aller au loin, me laissant en cadeau quelques plumes. 
 Je me relève difficilement en essuyant la poussière et des bouts de plumes de ma chemise et de mon pantalon. 
 Dans ma chute, j'ai lâché la caméra. 
-Elle traîne dans la poussière maintenant. {w}J'espère qu'elle n'a rien. 
-J'ausculte la caméra et heureusement, elle n'a pas de dégâts apparents. {w}Je l'allume afin de vérifier qu'elle marche bien quand je remarque une photo récente dans la galerie. {w}D'où elle vient, celle-là ? {w}Pas le temps. 
+Elle traîne dans la poussière maintenant. J'espère qu'elle n'a rien. 
+J'ausculte la caméra et heureusement, elle n'a pas de dégâts apparents. Je l'allume afin de vérifier qu'elle marche bien quand je remarque une photo récente dans la galerie. D'où elle vient, celle-là ? Pas le temps. 
 Faut que je vois si la femme est toujours là. 
 Je rezoome sur la fenêtre. 
-Elle n'est plus là. {w}Est-ce qu'elle m'a vu ?
+Elle n'est plus là. Est-ce qu'elle m'a vu ?
 
 Je reste planqué un temps derrière la fenêtre, de peur qu'elle débarque devant ma porte. 
 Je crains qu'elle suspecte le pire.
 C'est pas comme si je lui avais donné une raison de ne pas me douter. 
-Mais malgré le temps passé, elle ne semble pas venir. {w}Tant mieux.
+Mais malgré le temps passé, elle ne semble pas venir. Tant mieux.
 
 La photo mystérieuse dans la galerie me revient à l'esprit. 
 Je l'ouvre. La photo représente une photo d'un merle avec des plumes flous au quatre coins du cadre au premier plan sur un ciel bleu avec en fond la forêt. 
@@ -243,7 +243,7 @@ As if it’s my destiny to take photos.
 Maybe it was my destiny to take a photo here one day. 
 I think I’ll keep the camera. 
 I don’t have much to do, so I suppose it wouldn’t hurt to snap a few shots around town. 
-Maybe it could become my new passion? {w}Who knows. 
+Maybe it could become my new passion? Who knows. 
 I strap the bag around my waist and put the camera inside, a fresh roll of film — ready for all kinds of experiments. 
 
 ---
