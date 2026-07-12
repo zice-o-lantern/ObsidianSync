@@ -12,8 +12,6 @@ kanban-plugin: board
 
 - [ ] [[Write why did you quit]]
 - [ ] [[Translate Before the party]]
-- [ ] Write why did you quit
-- [ ] Write Poker night
 
 
 ## PEER REVIEW
@@ -36,6 +34,7 @@ kanban-plugin: board
 
 ## PINNED FOR LATER
 
+- [ ] Write Poker night
 - [ ] Finish [[Simone]] sheet
 - [ ] Write church hot scene #firstBuild #maybe?
 - [ ] Write Cesare and Joseph Outing #secondBuild
