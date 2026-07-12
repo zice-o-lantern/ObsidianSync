@@ -49,16 +49,6 @@
               "icon": "lucide-file",
               "title": "Before the Party"
             }
-          },
-          {
-            "id": "7871c3a5e06f12a5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
         "currentTab": 1
@@ -124,8 +114,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -326,13 +315,60 @@
         "height": 986,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "0232175de7c1a731",
+        "type": "window",
+        "children": [
+          {
+            "id": "8aeb9da21041cddf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5bb6f436e891c566",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Writing tasks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 130,
+        "y": -1175,
+        "width": 1484,
+        "height": 981,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "d4efd65b58b21e51",
+  "active": "bf0b3ee1b6bbdaef",
   "lastOpenFiles": [
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
+    "Untitled 2.md",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
     "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/03 - The before party - First Draft.md.edtz",
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/08 - Scripts/remove-footnotes.js",
     "Exhibitionist Priest/08 - Scripts/replace-tags - Copy.js",
     "Exhibitionist Priest/08 - Scripts/replace-tags.js",
@@ -340,16 +376,13 @@
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/03 - Before the Party.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/00 - Incipit.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Styrofoam Castle.md.edtz",
-    "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/manuscript.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/mauscript.md",
-    "Exhibitionist Priest/08 - Scripts/example-user-script.js",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
     "Exhibitionist Priest/07 - Rough Notes/fourre-tout.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/02 - Lucas’ Call - First draft.md",
@@ -365,8 +398,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/Index.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/01 - Grandma.md",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/French/03 - The before party - First Draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/01 - Grandma English - Murkwater first draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/02 - Lucas’ Call.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",

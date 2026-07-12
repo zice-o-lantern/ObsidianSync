@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## DOING
 
+- [ ] Redirect Canvas to specific chapters
 - [ ] Write why did you quit
 - [ ] Write Poker night
 

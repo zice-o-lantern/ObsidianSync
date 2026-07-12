@@ -1,10 +1,6 @@
 %% FR %%Finalement il est arrivé au bout de dix minutes au lieu de trente ~~minutes~~. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. %% bl %%Il ouvre la porte.
 %% EN %%<span style="color:rgb(255, 222, 0)">After more like 10 instead of 30 minutes, he finally returned, clumsily avoiding the broken vase pieces scattered along the garden paving stones. %% bl %%He opens the door</span>
 
-<!--- 
-show lucas disgusted 
-show lucas at right 
---->
 [[Luke|LUCAS]]
 %% FR %%Ah oui en effet c’est un peu… poussiéreux 
 %% EN %%<span style="color:rgb(255, 222, 0)">Oh <span style="color:rgb(126, 114, 218)">yeah</span> it's a little...dusty in here.</span>
