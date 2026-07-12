@@ -1,6 +1,6 @@
 compile = (input, context) => {
-  const START_BRACKETS_REGEX = /%%\s+{/g
-  const END_BRACKETS_REGEX = /}\s+%%/g
+  const START_BRACKETS_REGEX = /<{/g
+  const END_BRACKETS_REGEX = /}>/g
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       let content = sceneInput.contents;
@@ -34,7 +34,7 @@ module.exports = {
     name: "Replace Tags",
 
     // short description of what it does
-    description: "Replace Tags like {w}",
+    description: "Replace Tags like <>",
 
     // array. valid options are "Scene", "Manuscript", "Join". "Join" must be the only member if present.
     availableKinds: ["Scene", "Manuscript"],

@@ -1,16 +1,21 @@
 compile = (input, context) => {
-  const COLORTAGS_REGEX = /<span(.*?)>(.*?)<\/span>/gm;
+  const COLORTAGS_REGEX = /<span(.*?)>/g;
+  const END_COLORTAGS_REGEX = /<\/span>/g;
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
+      let content = sceneInput.contents.replace(COLORTAGS_REGEX, () => "");
+      content = content.replace(END_COLORTAGS_REGEX, () => "");
       return {
         ...sceneInput,
-        contents: sceneInput.contents.replace(COLORTAGS_REGEX, () => "")
+        contents: content
       };
     });
   } else {
+    let content = input.contents.replace(COLORTAGS_REGEX, () => "");
+    content = content.replace(END_COLORTAGS_REGEX, () => "");
     return {
       ...input,
-      contents: input.contents.replace(COLORTAGS_REGEX, () => "")
+      contents: content
     };
   }
 }
@@ -22,7 +27,7 @@ module.exports = {
     name: "Remove Color Tags",
 
     // short description of what it does
-    description: "Remove color tags of the text",
+    description: "Remove color tags of the text (<span>)",
 
     // array. valid options are "Scene", "Manuscript", "Join". "Join" must be the only member if present.
     availableKinds: ["Scene", "Manuscript"],
