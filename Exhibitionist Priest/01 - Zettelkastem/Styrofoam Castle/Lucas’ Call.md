@@ -119,18 +119,17 @@ De toute façon, ce n’est pas nouveau que je me fasse emparer par ces traces. 
 
 
 [[Isaac|ISAAC]]
-D’accord…
-J’imagine que tu as bientôt terminé le travail, alors ?
-<span style="color:rgb(146, 208, 80)">Okay…<br>I guess you’ll be done with ~~the~~ work soon, then?</span>
+<span style="color:rgb(0, 176, 240)">D’accord…
+J’imagine que tu as bientôt terminé le travail, alors ?</span>
+<span style="color:rgb(146, 208, 80)">Okay… I guess you’ll be done with work soon, then?</span>
 
 [[Luke|LUCAS]]
-Ouaip c’est ça !
+<span style="color:rgb(0, 176, 240)">Ouaip c’est ça !</span>
+<span style="color:rgb(146, 208, 80)">Yep that’s it!</span>
 
 [[Isaac|ISAAC]]
-Je vois…
-Eh bien, rentre bien, alors.
-
-Je vais pour raccrocher 
+<span style="color:rgb(0, 176, 240)">Je vois…<br>Eh bien, rentre bien, alors.</span>
+<span style="color:rgb(146, 208, 80)">I see…<br>Well, get home safely, then.</span>
 
 [[Luke|LUCAS]]
 Wow wow wow, attends attends. Vu que t’as fini de déménager, ça te dirait pas de faire une petite soirée pour fêter ça ?

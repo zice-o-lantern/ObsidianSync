@@ -115,7 +115,7 @@ Okay…
 I guess you’ll be done with ~~the~~ work soon, then?
 
 [[Lucas|LUCAS]]
-Yep, that’s right!
+czzz
 
 [[Old Stuff/03 - Index/Characters/Isaac|ISAAC]]
 I see.
