@@ -1534,7 +1534,7 @@
           "id": "write-to-note",
           "optionValues": {
             "target": "EN/manuscript.md",
-            "open-after": false
+            "open-after": true
           }
         }
       ]
