@@ -75,9 +75,33 @@
               "icon": "lucide-file",
               "title": "Incipit"
             }
+          },
+          {
+            "id": "ab9180f94f260422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Styrofoam Castle"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "fe3ff77ee1b5a5fa",
@@ -167,7 +191,7 @@
                 }
               },
               {
-                "id": "ab9180f94f260422",
+                "id": "7ef4845c89d144c4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -467,12 +491,12 @@
   },
   "active": "ab9180f94f260422",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
+    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md",
-    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/manuscript.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",

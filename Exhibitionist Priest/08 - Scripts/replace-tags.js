@@ -1,12 +1,18 @@
 compile = (input, context) => {
-  const START_BRACKETS_REGEX = /<\w/g
-  const END_BRACKETS_REGEX = /\w>/g
+  // const START_BRACKETS_REGEX = /<\w/g
+  // const END_BRACKETS_REGEX = /\w>/g
+  const BRACKETS_REGEX = /<\w+(.*?)>/g
   if (context.kind === "Scene") {
     return input.map((sceneInput) => {
       let content = sceneInput.contents;
-      content = content.replace(START_BRACKETS_REGEX, "{\w+");
-      content = content.replace(END_BRACKETS_REGEX, "}");
-      
+      const matches = content.match(BRACKETS_REGEX)
+      if (matches != null) {
+        for (let i = 0; i < matches.length; i++) {
+          let string = matches[i].replace("<", "{").replace(">","}");
+          content = content.replace(matches[i], string);
+        }
+      }
+
       return {
         contents: content
         // ...sceneInput,
