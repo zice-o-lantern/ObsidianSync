@@ -39,48 +39,47 @@ done:
 %% EN%% <span style="color:rgb(146, 208, 80)">Is everything going well with the move?</span>
 
 [[Isaac|ISAAC]]
-%% FR %%Plus ou moins. Je viens de finir.
-%% EN %%More or less. I just finished.
+%% FR %%<span style="color:rgb(0, 176, 240)">Plus ou moins. Je viens de finir.</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">More or less. I just finished.</span>
 
 [[Luke|LUCAS]]
-%% FR %%Bah enfin ! Tu traînais ça au bout de la patte depuis des lustres !
-%% EN %%Well, finally! You’ve been dragging your feet on this for ages!
+%% FR %%<span style="color:rgb(0, 176, 240)">Bah enfin ! Tu traînais ça au bout de la patte depuis des lustres !</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">Well, finally! You’ve been dragging your feet on this for ages!</span>
 
 [[Isaac|ISAAC]]
-%% FR %%C’était qu’un mois.
-%% EN %%It was only a month.
-
+%% FR %%<span style="color:rgb(0, 176, 240)">C’était qu’un mois.</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">It was only a month.<br></span>
 [[Luke|LUCAS]]
-%% FR %%Et tout ça pour quoi, trois cartons ?
-%% EN %%And all that for what, three boxes?
+%% FR %%<span style="color:rgb(0, 176, 240)">Et tout ça pour quoi, trois cartons ?</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">And all that for what, three boxes?</span>
 
 [[Isaac|ISAAC]]
-%% FR %%Quatre.
-%% EN %%Four.
+%% FR %%<span style="color:rgb(0, 176, 240)">Quatre.</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">Four.</span>
 
 [[Luke|LUCAS]]
-%% FR %%Quand même ! T’es vraiment sûr d’aimer la maison ? Je te comprendrais si tu ne l’aimais pas.
-%% EN %%Still! Are you really sure you like the house? I’d understand if you didn’t.
+%% FR %%<span style="color:rgb(0, 176, 240)">Quand même ! T’es vraiment sûr d’aimer la maison ? Je te comprendrais si tu ne l’aimais pas.</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">Still! Are you really sure you like the house? I’d understand if you didn’t.</span>
 
 [[Isaac|ISAAC]]
-%% FR %%… pourquoi ?
-%% EN %%…why?
+%% FR %%<span style="color:rgb(0, 176, 240)">… pourquoi ?</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">…why?</span>
 
 [[Luke|LUCAS]]
-%% FR %%Elle est tellement vieille, il y a tellement de travaux à y faire. Puis tout ça, ce doit être nostalgique. Après tout, jusqu’à récemment, elle appartenait à…
-I%% EN %%t’s so old, there’s so much work to do on it. And all those things—it must be bittersweet. Until recently, it belonged to… 
+%% FR %%<span style="color:rgb(0, 176, 240)">Elle est tellement vieille, il y a tellement de travaux à y faire. Puis tout ça, ce doit être nostalgique. Après tout, jusqu’à récemment, elle appartenait à…</span>
+I%% EN %%<span style="color:rgb(146, 208, 80)">It’s so old, there’s so much work to do on it. And all those things—it must be bittersweet. Until recently, it belonged to… </span>
 
 
-%% FR %%Il perd son chemin de pensée
-%% EN %%<span style="color:rgb(232, 17, 93)">He trails off.</span>
+%% FR %%<span style="color:rgb(0, 176, 240)">Il perd son chemin de pensée</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">He trails off.</span>
 
 [[Isaac|ISAAC]]
-%% FR %%Oui…
-%% EN %%Yes…
+%% FR %%<span style="color:rgb(0, 176, 240)">Oui…</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">Yes…</span>
 
 [[Luke|LUCAS]]
-%% FR %%Puis, avec le nombre de fois que je t’ai laissé crécher chez moi, on aurait dit que tu évitais l’endroit comme la peste. À ce stade, tu pourrais même venir vivre chez moi. T’es sûr que tu veux pas rester chez moi ?
-%% EN %%And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you ~~don’t~~ want to stay there?
+%% FR %%<span style="color:rgb(0, 176, 240)">Puis, avec le nombre de fois que je t’ai laissé crécher chez moi, on aurait dit que tu évitais l’endroit comme la peste. À ce stade, tu pourrais même venir vivre chez moi. T’es sûr que tu veux pas rester chez moi ?</span>
+%% EN %%<span style="color:rgb(146, 208, 80)">And considering how many times I’ve let you crash at my place, it seemed like you were avoiding the place like the plague. At this point, you could even come live with me. Are you sure you ~~don’t~~ want to stay there?</span>
 
 [[Isaac|ISAAC]]
 Plus que sûr même. C’est ma maison donc je dois y rester. J’ai assez abusé de ton hospitalité. Je ne veux pas te déranger plus longtemps.

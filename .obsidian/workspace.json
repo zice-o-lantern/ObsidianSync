@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -146,7 +146,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -321,10 +322,10 @@
           }
         ],
         "direction": "vertical",
-        "x": -303,
-        "y": -1016,
+        "x": 132,
+        "y": -1108,
         "width": 911,
-        "height": 803,
+        "height": 802,
         "maximize": false,
         "zoom": 0
       }
@@ -333,8 +334,9 @@
   "active": "37a2e2fad122b05b",
   "lastOpenFiles": [
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Transfer GDocs correctoin on obsidian for Lucas' call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md.edtz",
@@ -371,7 +373,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/FR/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Le Plaisir de mon Château de polystyrène/EN/mauscript.md",
     "Exhibitionist Priest/03 - Index/Characters/Isaac.md",
-    "Exhibitionist Priest/07 - Rough Notes/fourre-tout.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",

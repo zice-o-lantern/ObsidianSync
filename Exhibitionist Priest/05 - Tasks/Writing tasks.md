@@ -14,6 +14,7 @@ kanban-plugin: board
 ## DOING
 
 - [ ] [[Translate Lucas' Call]]
+- [ ] [[Transfer GDocs correctoin on obsidian for Lucas' call]]
 - [ ] [[Write why did you quit]]
 - [ ] [[Translate Before the party]]
 
