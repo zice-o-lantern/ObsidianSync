@@ -53,30 +53,6 @@
             }
           },
           {
-            "id": "f7bd4eaf29b7afbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Styrofoam Castle"
-            }
-          },
-          {
             "id": "ab9180f94f260422",
             "type": "leaf",
             "state": {
@@ -362,22 +338,23 @@
           }
         ],
         "direction": "vertical",
-        "x": 1118,
-        "y": -1186,
-        "width": 930,
-        "height": 819,
+        "x": -103,
+        "y": -1327,
+        "width": 931,
+        "height": 1059,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "5bb6f436e891c566",
+  "active": "ab9180f94f260422",
   "lastOpenFiles": [
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
+    "Exhibitionist Priest/05 - Tasks/Current/Transfer GDocs correction on obsidian for Before the party.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
+    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
-    "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
     "Exhibitionist Priest/05 - Tasks/Current/Transfer GDocs correction on obsidian for Styrofoam Castle.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",

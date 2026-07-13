@@ -1,4 +1,4 @@
-<span style="color:rgb(0, 176, 240)">Finalement il est arrivé au bout de dix minutes au lieu de trente. Il traverse le jardin en évitant maladroitement les bouts de vase brisé sur le pavé. <br>Il ouvre la porte.</span>
+<span style="color:rgb(0, 176, 240)">Finalement il est arrivé au bout de dix minutes au lieu de trente. Il traverse le jardin en évitant maladroitement les bouts de pots brisés sur le pavé. <br>Il ouvre la porte.</span>
 <span style="color:rgb(255, 222, 0)">==~~After more like 10 instead of 30 minutes, he finally returned~~<span style="color:rgb(126, 114, 218)">Somehow, he showed up after 10 minutes instead 30</span>==[^4], clumsily avoiding the broken vase pieces scattered along the garden paving stones. 
 He opens the door</span>
 
