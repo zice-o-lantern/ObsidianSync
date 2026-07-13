@@ -35,11 +35,11 @@ He opens the door</span>
 <span style="color:rgb(0, 176, 240)">Y’a pas de quoi…</span>
 <span style="color:rgb(255, 192, 0)">Don't mention it…</span>
 
-Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
+<span style="color:rgb(0, 176, 240)">Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.</span>
 ==<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span>==[^1]
 
 [[Luke|LUKE]]
-On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
+<span style="color:rgb(0, 176, 240)">On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?</span>
 <span style="color:rgb(126, 114, 218)">We should focus on the living room since most of the evening will be spent here. Is that alright with you?</span>
 
 Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. <bl>Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
@@ -156,8 +156,8 @@ Mais-
 Je lui claque la porte au nez avant qu’il puisse en placer une.
 <span style="color:rgb(255, 222, 0)">I close slam the door in his face before he can get a word in edgewise.</span>
 
-Je m’appuie sur la porte, dos au mur, reprenant mon souffle. Après quelques temps j’entends l’eau de la douche couler donc je saisis le signal et m’en vais attraper le balai qui gît au sol et je commence à dépoussiérer, le temps qu’il revienne.
-<span style="color:rgb(255, 222, 0)">I lean against the door, my back to the wall, catching my breath.</span><bl><span style="color:rgb(255, 222, 0)">After a bit, I hear the shower water, taking that as my queue, and go to grab the broom lying on the ground the begin to sweep, while waiting for him to come back.</span>
+Je m’appuie sur la porte, dos au mur, reprenant mon souffle. Après quelques temps j’entends l’eau de la douche couler et m’en vais attraper le balai qui gît au sol et je commence à dépoussiérer, le temps qu’il revienne.
+<span style="color:rgb(255, 222, 0)">I lean against the door, my back to the wall, catching my breath.</span><bl><span style="color:rgb(255, 222, 0)">After a bit, I hear the shower water and go to grab the broom lying on the ground the begin to sweep, while waiting for him to come back.</span>
 
 Quand je le vois comme ça, se plier en quatre, juste pour moi ça m’énerve. Ce n’est pas la première fois. Ce ne sera pas la dernière. Ça a toujours été comme ça avec lui. Toujours à débouler, sans rien demander. Je ne veux pas de son aide. Je ne suis pas son enfant sur lequel il doit veiller.
 Je pensais que ça allait s’arrêter après nos études. Il est pas venu avec moi pour l’université. Il a réussi à en trouver une assez proche pour pouvoir faire le trajet en voiture.  Moi j’ai préféré déménager dans un logement étudiant miteux. Et même là, il venait me voir et m’apporter des choses. J’ai dû éclaircir plusieurs fois à mes camarades et colocataires, que non c’est pas mon frère et c’est encore moins mon père, alors qu’on ne se ressemble pas vraiment. À chaque fois je refusais ses offres, mais étant donné ma situation, je me retrouvais à accepter. En fait, je dois l’admettre, il a beau m’énerver, j’aime bien qu’il prenne soin de moi. Avec lui, je n’ai jamais à me soucier de manquer de quoi que ce soit. Mon souhait, une réalité. Puis quand il me prend dans ses bras, je sens que je peux enfin respirer. La chaleur de son corps me submerge. Le poids du monde se lève. 
