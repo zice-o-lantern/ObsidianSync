@@ -21,19 +21,20 @@ He opens the door</span>
 <span style="color:rgb(255, 192, 0)">Where do you keep your brooms?</span>
 
 <span style="color:rgb(0, 176, 240)">Je me tire la peau des arcades.</span>
-I rub my temples.  
+<span style="color:rgb(255, 192, 0)">I rub my temples.</span>  
 
 [[Isaac|ISAAC]]
-Au fond, en dessous des escaliers.
-<span style="color:rgb(255, 222, 0)">In the back closet under the stairs.</span> 
+<span style="color:rgb(0, 176, 240)">Au fond, en dessous des escaliers.</span>
+<span style="color:rgb(255, 192, 0)">In the back closet under the stairs.</span> 
 
 [[Luke|LUKE]] 
-Merci !
-<span style="color:rgb(255, 222, 0)">Thanks!</span>
+<span style="color:rgb(0, 176, 240)">Merci !</span>
+<span style="color:rgb(255, 192, 0)">Thanks!</span>
 
 [[Isaac|ISAAC]]
-Y’a pas de quoi…
-<span style="color:rgb(255, 222, 0)">Don't mention it...</span>
+<span style="color:rgb(0, 176, 240)">Y’a pas de quoi…</span>
+<span style="color:rgb(255, 192, 0)">Don't mention it…</span>
+
 Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
 ==<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span>==[^1]
 
