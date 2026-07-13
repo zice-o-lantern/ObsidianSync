@@ -13,7 +13,7 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] [[Transfer GDocs correction on obsidian for Lucas' call]]
+- [ ] [[Transfer GDocs correction on obsidian for Styrofoam Castle]]
 - [ ] [[Write why did you quit]]
 - [ ] [[Translate Before the party]]
 
@@ -26,6 +26,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [x] [[Transfer GDocs correction on obsidian for Lucas' call]]
 - [x] Replace LUCAS by LUKE
 - [x] [[Translate Lucas' Call]]
 - [x] Redirect Canvas to specific chapters
