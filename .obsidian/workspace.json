@@ -99,8 +99,33 @@
               "icon": "lucide-file",
               "title": "Before the Party"
             }
+          },
+          {
+            "id": "04997b29414b4d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Styrofoam Castle"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -370,8 +395,9 @@
       }
     ]
   },
-  "active": "57af6ce7728439ed",
+  "active": "04997b29414b4d74",
   "lastOpenFiles": [
+    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
@@ -380,7 +406,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/manuscript.md",
     "Exhibitionist Priest/08 - Scripts/StartMonitoring.ps1",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
     "Exhibitionist Priest/08 - Scripts/remove-tags.js",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
