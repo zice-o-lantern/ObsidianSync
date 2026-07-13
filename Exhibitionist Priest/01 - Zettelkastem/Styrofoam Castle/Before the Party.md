@@ -14,27 +14,26 @@ He opens the door</span>
 <span style="color:rgb(255, 192, 0)">I told you so</span>
 
 <span style="color:rgb(0, 176, 240)">Lucas me passe devant, m’ignorant, balançant la sacoche sur la commode à l’entrée.</span>
-<span style="color:rgb(255, 222, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.</span>
+<span style="color:rgb(255, 192, 0)">Lucas, ignoring me, steps past me through the door and tosses his bag on the dresser.</span>
 
 [[Luke|LUKE]]
-Tu ranges où tes balais ?
-<span style="color:rgb(255, 222, 0)">Where do you keep your brooms?</span>
+<span style="color:rgb(0, 176, 240)">Tu ranges où tes balais ?</span>
+<span style="color:rgb(255, 192, 0)">Where do you keep your brooms?</span>
 
-Je me tire la peau des arcades
-<span style="color:rgb(255, 222, 0)">I rub my temples</span>  
+<span style="color:rgb(0, 176, 240)">Je me tire la peau des arcades.</span>
+I rub my temples.  
 
 [[Isaac|ISAAC]]
 Au fond, en dessous des escaliers.
 <span style="color:rgb(255, 222, 0)">In the back closet under the stairs.</span> 
 
-[[Luke|LUKE]]
+[[Luke|LUKE]] 
 Merci !
 <span style="color:rgb(255, 222, 0)">Thanks!</span>
 
 [[Isaac|ISAAC]]
 Y’a pas de quoi…
 <span style="color:rgb(255, 222, 0)">Don't mention it...</span>
-
 Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
 ==<span style="color:rgb(255, 222, 0)">As he opens the closet, I hear the clatter of the broom smacking against the ground.</span>==[^1]
 
@@ -42,8 +41,8 @@ Il ouvre le placard en grandes trombes et attrape le balai en un seul mouvement.
 On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?
 <span style="color:rgb(126, 114, 218)">We should focus on the living room since most of the evening will be spent here. Is that alright with you?</span>
 
-~~Je regarde de haut en bas Lucas. <bl>~~Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. <bl>Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
-<span style="color:rgb(126, 114, 218)">~~I look Lucas up and down.~~ He’s still wearing his suit, though his tie is starting to come undone, his shirt soaked in sweat. His shoulders are speckled with leaves, and the bottoms of his pants and his shoes are covered in dirt.</span>
+Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. <bl>Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
+<span style="color:rgb(126, 114, 218)"> He’s still wearing his suit, though his tie is starting to come undone, his shirt soaked in sweat. His shoulders are speckled with leaves, and the bottoms of his pants and his shoes are covered in dirt.</span>
 
 [[Isaac|ISAAC]]
 Tu viens directement du travail ?
@@ -138,16 +137,16 @@ Mais t’allais pas faire une soirée dans cette tenue quand même !
 <span style="color:rgb(255, 222, 0)">...Maybe?</span>
 
 [[Isaac|ISAAC]]
-~~Oh que~~ <span style="color:rgb(126, 114, 218)">Arrrrgh</span>, tu m’énerves !
-<span style="color:rgb(255, 222, 0)">Auughhh, you get on my nerves!</span>
+<span style="color:rgb(0, 176, 240)">Arrrrgh, tu m’énerves !</span>
+<span style="color:rgb(255, 192, 0)">Auughhh, you get on my nerves!</span>
 
-Je lui traine par le bras à travers la maison dans la salle de bain.
-<span style="color:rgb(255, 222, 0)">I drag him by the arm across the house to the bathroom.</span>
+<span style="color:rgb(0, 176, 240)">Je le traîne par le bras à travers la maison dans la salle de bain.</span>
+<span style="color:rgb(255, 192, 0)">I drag him by the arm across the house to the bathroom.</span>
 
 [[Isaac|ISAAC]]
 Je t’en supplie, prends une douche.
 <bl>Tu peux prendre mes vêtements dans ma chambre. T’en trouveras sûrement qui t’iront. <bl>Je vais nettoyer pendant que tu te douches.
-<span style="color:rgb(255, 222, 0)">I beg you, take a shower.</span><bl><span style="color:rgb(255, 222, 0)">You can take some of my clothes from my bedroom. You can take whatever you want.</span><bl><span style="color:rgb(255, 222, 0)">I'm going to clean while you shower</span>
+<span style="color:rgb(255, 222, 0)">I beg you, take a shower.</span><bl><span style="color:rgb(255, 222, 0)">You can take some of my clothes from my bedroom. ~~You can take whatever you want~~==<span style="color:rgb(126, 114, 218)">You’ll surely find some that fit you</span>==.</span><bl><span style="color:rgb(255, 222, 0)">I'm going to clean while you shower</span>
 
 [[Luke|LUKE]]
 Mais-
