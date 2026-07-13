@@ -101,13 +101,13 @@
             }
           },
           {
-            "id": "04997b29414b4d74",
+            "id": "2cdf1f45805cef40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
-                "mode": "preview",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Transcriptions/Raincoat Man discussion - Shink - Murk.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -121,7 +121,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Styrofoam Castle"
+              "title": "Raincoat Man discussion - Shink - Murk"
             }
           }
         ],
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 525.5
   },
   "right": {
     "id": "39311cd363b301ea",
@@ -395,8 +395,24 @@
       }
     ]
   },
-  "active": "04997b29414b4d74",
+  "active": "bf0b3ee1b6bbdaef",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Transcriptions",
+    "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 124645.png",
+    "Exhibitionist Priest/01 - Zettelkastem/Transcriptions/Raincoat Man discussion - Shink - Murk.md",
+    "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 124600.png",
+    "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 124612.png",
+    "Exhibitionist Priest/01 - Zettelkastem/Transcriptions/Raincoat Man discussion - Shink - Murk.md.edtz",
+    "Raincoat Man discussion - Murk",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
+    "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 125928.png",
+    "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 125908.png",
+    "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 125847.png",
+    "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 125823.png",
+    "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 125804.png",
+    "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 125742.png",
+    "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 125729.png",
+    "7 - Attachments/Telegram Discussions",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
@@ -409,7 +425,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
     "Exhibitionist Priest/08 - Scripts/remove-tags.js",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md",
     "Exhibitionist Priest/05 - Tasks/Current/Transfer GDocs correction on obsidian for Lucas' call.md",
@@ -423,31 +438,17 @@
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Styrofoam Castle.md",
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Incipit.md",
     "Exhibitionist Priest/05 - Tasks/Current/Write why did you quit.md",
-    "Exhibitionist Priest/02 - Attachments/writing_icon.png",
-    "Exhibitionist Priest/05 - Tasks/Current/Write why did you quit.md.edtz",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Before the party.md",
-    "Exhibitionist Priest/02 - Attachments/translate_icon.png",
-    "Exhibitionist Priest/05 - Tasks/Current/Translate Before the party.md.edtz",
     "Translate Before the party.md",
     "5 - Template/Kanban Card Template.md",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
-    "Exhibitionist Priest/06 - Canvas/Character Design.canvas.edtz",
     "5 - Template/Pause.md",
     "Untitled.md",
     "Untitled 2.md",
-    "Exhibitionist Priest/05 - Tasks/Pinned/Is the collective hallucination plot point pertinent to the story.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
     "Exhibitionist Priest/06 - Canvas/Isaac listens to Radio Podcast.canvas",
-    "Exhibitionist Priest/02 - Attachments/Icons/shush.png",
-    "Exhibitionist Priest/02 - Attachments/Icons/question-mark.png",
-    "Exhibitionist Priest/02 - Attachments/Icons/pin.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011224.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011200.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011151.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011135.png",
-    "Exhibitionist Priest/02 - Attachments/Pasted image 20260516011012.png",
     "Exhibitionist Priest/06 - Canvas/Story's locations.canvas",
     "Exhibitionist Priest/06 - Canvas/Story's places.canvas",
     "6 - Zettelkastem/Exhibitionist Priest/Outline of the story.canvas",
