@@ -155,7 +155,7 @@ Mais t’allais pas faire une soirée dans cette tenue quand même !
 Je lui claque la porte au nez avant qu’il puisse en placer une.
 <span style="color:rgb(255, 222, 0)">I close slam the door in his face before he can get a word in edgewise.</span>
 
-Je m’appuie sur la porte, dos au mur, reprenant mon souffle. Après quelques temps j’entends l’eau de la douche couler et m’en vais attraper le balai qui gît au sol et commence à dépoussiérer, le temps qu’il revienne.
+Je m’appuie sur la porte, dos au mur, reprenant mon souffle. Après quelque temps j’entends l’eau de la douche couler et m’en vais attraper le balai qui gît au sol et commence à dépoussiérer, le temps qu’il revienne.
 <span style="color:rgb(255, 222, 0)">I lean against the door, my back to the wall, catching my breath.</span><bl><span style="color:rgb(255, 222, 0)">After a bit, I hear the shower water and go to grab the broom lying on the ground the begin to sweep, while waiting for him to come back.</span>
 
 Quand je le vois comme ça, se plier en quatre, juste pour moi ça m’énerve. Ce n’est pas la première fois et ce ne sera pas la dernière. Ça a toujours été comme ça avec lui. Toujours à débouler, sans rien demander. Je ne veux pas de son aide. Je ne suis pas son enfant sur lequel il doit veiller.
@@ -195,12 +195,12 @@ Il dit, le sourire aux lèvres. Mes yeux ne lâchent pas ses jambes.
 Mets-en un. La maison est sale et tu devrais pas laisser ta… peau toucher la poussière comme ça. 
 
 [[Luke|LUKE]]
-~~Sûrement~~ <span style="color:rgb(126, 114, 218)">Oui</span> mais je trouve rien.
+<span style="color:rgb(126, 114, 218)">Oui</span> mais je trouve rien.
 
 [[Isaac|ISAAC]]
-~~C’est que t~~<span style="color:rgb(126, 114, 218)">T</span>u n’as pas assez cherché. Normalement y a des joggings que tu peux mettre. Tu as regardé dans ma chambre, dans le tiroir en bas de l’armoire ?
+C’est que tu n’as pas assez cherché. Normalement y a des joggings que tu peux mettre. Tu as regardé dans ma chambre, dans le tiroir en bas de l’armoire ?
 
-[[Luke]] lève les yeux au ciel et se dandine sur ses jambes.
+[[Luke]] lève les yeux au ciel et se dandine.
 
 [[Luke|LUKE]]
 Je crois !
@@ -208,7 +208,7 @@ Je crois !
 Mensonges.
 
 [[Isaac|ISAAC]]
-T’as sûrement mal cherché 
+T’as juste pas cherché, hein ? 
 
 [[Luke|LUKE]]
 Roooooh, t’as si peu confiance en moi ?
@@ -224,7 +224,7 @@ Et si je te disais oui ?
 Il dit un sourire au coin de ses lèvres. Je roule des yeux, un petit rire m’échappe.
 
 [[Isaac|ISAAC]]
-Bon [[Luke]], va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café <span style="color:rgb(126, 114, 218)">si tu montes</span>.
+Bon [[Luke]], va chercher d’autres vêtements. Je te ferai manger mes biscuits avec du café si tu montes.
 
 [[Luke|LUKE]]
 Vraiment ???
@@ -241,7 +241,7 @@ Alors je me lève et allume la vieille radio. Un bruit de statiques s’échappe
 …………- et merci pour votre témoignage passionnant ! J’espère que vous trouverez une solution à votre situation et je vous souhaite de passer une bonne fin de soirée !
 
 ???
-Merci beaucoup Martin de m’avoir écouté… Je me sens un peu moins seul. Passez une bonne fin de soirée aussi.
+Merci beaucoup [[Martin]] de m’avoir écouté… Je me sens un peu moins seul. Passez une bonne fin de soirée aussi.
 
 [[Martin|MARTIN]] 
 Eh bien c’est la fin de ce témoignage de notre chère auditrice, Véronique. Martine, qu’est ce que t’en as pensé ? 
