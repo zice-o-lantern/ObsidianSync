@@ -77,6 +77,30 @@
             }
           },
           {
+            "id": "9825622ad8c8ada9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Styrofoam Castle"
+            }
+          },
+          {
             "id": "ab9180f94f260422",
             "type": "leaf",
             "state": {
@@ -99,33 +123,9 @@
               "icon": "lucide-file",
               "title": "Before the Party"
             }
-          },
-          {
-            "id": "2cdf1f45805cef40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Transcriptions/Raincoat Man discussion - Shink - Murk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Raincoat Man discussion - Shink - Murk"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -386,17 +386,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 784,
-        "y": -1176,
+        "x": -652,
+        "y": -1179,
         "width": 930,
-        "height": 818,
+        "height": 819,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "5bb6f436e891c566",
+  "active": "9825622ad8c8ada9",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
+    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Transcriptions",
     "7 - Attachments/Telegram Discussions/Screenshot 2026-07-13 124645.png",
     "Exhibitionist Priest/01 - Zettelkastem/Transcriptions/Raincoat Man discussion - Shink - Murk.md",
@@ -415,16 +418,13 @@
     "7 - Attachments/Telegram Discussions",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
-    "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/manuscript.md",
     "Exhibitionist Priest/08 - Scripts/StartMonitoring.ps1",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/EN/manuscript.md",
     "Exhibitionist Priest/08 - Scripts/remove-tags.js",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md",
     "Exhibitionist Priest/05 - Tasks/Current/Transfer GDocs correction on obsidian for Lucas' call.md",
@@ -433,7 +433,6 @@
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md.edtz",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md.edtz",
-    "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas.edtz",
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Lucas' Call.md",
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Styrofoam Castle.md",
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Incipit.md",
