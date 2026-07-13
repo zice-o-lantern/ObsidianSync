@@ -40,13 +40,13 @@ He opens the door</span>
 
 [[Luke|LUKE]]
 <span style="color:rgb(0, 176, 240)">On devrait se concentrer sur le salon puisque la majorité de la soirée se passera ici. Ça te dérange pas ?</span>
-<span style="color:rgb(126, 114, 218)">We should focus on the living room since most of the evening will be spent here. Is that alright with you?</span>
+<span style="color:rgb(255, 192, 0)">We should focus on the living room since most of the evening will be spent here. Is that alright with you?</span>
 
-Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. <bl>Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. 
-<span style="color:rgb(126, 114, 218)"> He’s still wearing his suit, though his tie is starting to come undone, his shirt soaked in sweat. His shoulders are speckled with leaves, and the bottoms of his pants and his shoes are covered in dirt.</span>
+<span style="color:rgb(0, 176, 240)">Il porte encore son costard quoi que sa cravate commence à se défaire, sa chemise est trempée de sueur. <bl>Ses épaules sont parsemées de feuilles et le bas de son pantalon et ses chaussures sont couverts de terre. </span>
+<span style="color:rgb(255, 192, 0)">He’s still wearing his suit, though his tie is starting to come undone, his shirt soaked in sweat. His shoulders are speckled with leaves, and the bottoms of his pants and his shoes are covered in dirt.</span>
 
 [[Isaac|ISAAC]]
-Tu viens directement du travail ?
+<span style="color:rgb(0, 176, 240)">Tu viens directement du travail ?</span>
 <span style="color:rgb(255, 222, 0)">You came straight from work?</span>
 
 [[Luke|LUKE]]
@@ -54,8 +54,8 @@ Tu viens directement du travail ?
 <span style="color:rgb(255, 222, 0)">...Yeah?</span>
 
 [[Isaac|ISAAC]]
-Pourquoi t’es ~~tout~~ sale comme ça ? 
-<span style="color:rgb(255, 222, 0)">Why are you all dirty like that?</span>
+Pourquoi t’es sale comme ça ? 
+<span style="color:rgb(255, 222, 0)">Why are you dirty like that?</span>
 
 [[Luke]] se gratte la tête.
 <span style="color:rgb(255, 222, 0)">Luke scratches his head.</span>
@@ -145,12 +145,11 @@ Mais t’allais pas faire une soirée dans cette tenue quand même !
 <span style="color:rgb(255, 192, 0)">I drag him by the arm across the house to the bathroom.</span>
 
 [[Isaac|ISAAC]]
-Je t’en supplie, prends une douche.
-<bl>Tu peux prendre mes vêtements dans ma chambre. T’en trouveras sûrement qui t’iront. <bl>Je vais nettoyer pendant que tu te douches.
+<span style="color:rgb(0, 176, 240)">Je t’en supplie, prends une douche.<br><bl>Tu peux prendre mes vêtements dans ma chambre. T’en trouveras sûrement qui t’iront. <bl>Je vais nettoyer pendant que tu te douches.</span>
 <span style="color:rgb(255, 222, 0)">I beg you, take a shower.</span><bl><span style="color:rgb(255, 222, 0)">You can take some of my clothes from my bedroom. ~~You can take whatever you want~~==<span style="color:rgb(126, 114, 218)">You’ll surely find some that fit you</span>==.</span><bl><span style="color:rgb(255, 222, 0)">I'm going to clean while you shower</span>
 
 [[Luke|LUKE]]
-Mais-
+<span style="color:rgb(0, 176, 240)">Mais-</span>
 <span style="color:rgb(255, 222, 0)">But-</span>
 
 Je lui claque la porte au nez avant qu’il puisse en placer une.
