@@ -10,6 +10,8 @@ longform:
     - Styrofoam Castle
     - Lucas’ Call
     - Before the Party
+    - - Stay in the room
+      - Flee
   ignoredFiles:
     - 03 - Before the Party.md
     - 00 - Incipit.md
@@ -48,4 +50,6 @@ longform:
     - 01 - Grandma.md
     - 03 - Before the Party.md
     - Styrofoam Castle.md
+    - 03_B - Flee 1.md
+    - Flee.md
 ---

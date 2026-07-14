@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -73,11 +73,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Before the Party"
+              "title": "03_A - Stay in the room"
+            }
+          },
+          {
+            "id": "57009f4915f07822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Stay in the room.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stay in the room"
+            }
+          },
+          {
+            "id": "87a6214ad88374ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Flee.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Flee"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +188,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -340,21 +389,29 @@
         "direction": "vertical",
         "x": -104,
         "y": -1328,
-        "width": 936,
-        "height": 1022,
+        "width": 938,
+        "height": 1020,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ab9180f94f260422",
+  "active": "87a6214ad88374ef",
   "lastOpenFiles": [
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Stay in the room.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Flee.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/04 - Why did you quit.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_B - Flee.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_B - Flee.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Flee.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md",
+    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/French/03_A - Stay in the room.md.edtz",
+    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
     "Exhibitionist Priest/05 - Tasks/Writing tasks.md",
     "Exhibitionist Priest/05 - Tasks/Current/Transfer GDocs correction on obsidian for Before the party.md",
     "Exhibitionist Priest/05 - Tasks/Coding Tasks.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Styrofoam Castle.md",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Incipit.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Before the Party.md",
     "Exhibitionist Priest/05 - Tasks/Current/Transfer GDocs correction on obsidian for Styrofoam Castle.md",
     "Exhibitionist Priest/06 - Canvas/Outline of the story.canvas",
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/Lucas’ Call.md",
@@ -382,21 +439,12 @@
     "Exhibitionist Priest/01 - Zettelkastem/Styrofoam Castle/FR/renpy.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md",
     "Exhibitionist Priest/05 - Tasks/Archived/Transfer GDocs correction on obsidian for Lucas' call.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Script/English/02 - Lucas’ Call.md.edtz",
     "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md",
-    "Exhibitionist Priest/01 - Zettelkastem/Archives/Drafts/English/02 - Lucas’ Call English - First draft.md.edtz",
     "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Translate Lucas' Call.md.edtz",
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Lucas' Call.md",
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Styrofoam Castle.md",
     "Exhibitionist Priest/05 - Tasks/Current/Rewrite Incipit.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Write why did you quit.md",
-    "Exhibitionist Priest/05 - Tasks/Current/Translate Before the party.md",
-    "Translate Before the party.md",
-    "5 - Template/Kanban Card Template.md",
     "Exhibitionist Priest/06 - Canvas/Character Design.canvas",
-    "5 - Template/Pause.md",
-    "Untitled.md",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Luke is changing.canvas",
     "Exhibitionist Priest/06 - Canvas/Outline of the story0ld.canvas",
     "Exhibitionist Priest/06 - Canvas/Sub plots/Isaac listens to Radio Podcast.canvas",
