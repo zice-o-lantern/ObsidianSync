@@ -1,4 +1,4 @@
 Grâce à mes capacités en Technical Art, je suis compétent dans plusieurs champs, notamment en shader et en materials comme développer un material à-tout-faire comme du local triplanar pour optimiser la compilation sur Unreal Engine et cela utilisable dans une pipeline en groupe. Cela permet de faire des rendus réalistes et de retranscire les détails produits dans l'étape de Surfacing dans Unreal Engine sans tracas. Je développe aussi des scripts en Python et C++ sur Unreal Engine afin d'optimiser les workflows de production.
-Spécialisé en rigging, je peux conceptualiser des pipeline de production pour la autant des bipèdes, des quadrupèdes, créatures et véhicules.
+Spécialisé en rigging, je peux analyser et conceptualiser des pipelines de production pour la autant des bipèdes, des quadrupèdes, créatures et véhicules.
 
 Finalement, j'ai aussi participé au développement de plusieurs serious games comme sur les fonds marins et la culture générale pour des universités et entreprises, de ce fait, j'ai engrangé plusieurs expériences de travaux en groupe en milieu professionnel.
