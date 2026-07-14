@@ -8,6 +8,9 @@ longform:
   scenes:
     - Incipit
     - Styrofoam Castle
+    - Before the Party
+    - - Stay in the room
+      - Flee
   ignoredFiles:
     - 03 - Before the Party.md
     - 00 - Incipit.md
@@ -29,4 +32,23 @@ longform:
     - Lucas’ Call
     - Incipit.md
     - Styrofoam Castle.md
+    - Index.md
+    - Incipit.md
+    - 00 - Incipit.md
+    - 01 - Grandma.md
+    - 03 - Before the Party.md
+    - Before the Party
+    - Lucas’ Call
+    - Incipit
+    - Styrofoam Castle
+    - Styrofoam Castle.md
+    - 
+    - Index.md
+    - Incipit.md
+    - 00 - Incipit.md
+    - 01 - Grandma.md
+    - 03 - Before the Party.md
+    - Styrofoam Castle.md
+    - 03_B - Flee 1.md
+    - Flee.md
 ---
